@@ -1,0 +1,40 @@
+name: NOOPS Daily Briefing
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build-briefing:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate briefing
+        env:
+          SOURCE_NAME: "NOOPS"
+          FEED_URL: "https://noops.au/rss"
+          MAX_ITEMS: "8"
+        run: python scripts/fetch_feed.py
+
+      - name: Commit generated briefing
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/briefing.md
+          git diff --cached --quiet || git commit -m "Update daily briefing"
+          git push
