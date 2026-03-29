@@ -11,9 +11,12 @@ import feedparser
 FEED_URL = os.getenv("FEED_URL", "").strip()
 SOURCE_NAME = os.getenv("SOURCE_NAME", "newsletter").strip()
 MAX_ITEMS = int(os.getenv("MAX_ITEMS", "8"))
+OUTPUT_PATH = os.getenv("OUTPUT_PATH", "output/briefing.md").strip()
 
 if not FEED_URL:
     raise SystemExit("FEED_URL is empty. Please set it in the workflow env.")
+if not OUTPUT_PATH:
+    raise SystemExit("OUTPUT_PATH is empty. Please set it in the workflow env.")
 
 
 def clean_text(text: str) -> str:
@@ -33,10 +36,8 @@ def main() -> None:
     entries = feed.entries[:MAX_ITEMS]
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
-    output_dir = Path("output")
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    md_path = output_dir / "briefing.md"
+    md_path = Path(OUTPUT_PATH)
+    md_path.parent.mkdir(parents=True, exist_ok=True)
 
     lines: list[str] = []
     lines.append(f"# {SOURCE_NAME} Daily Briefing")

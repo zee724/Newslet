@@ -1,4 +1,4 @@
-name: NOOPS Daily Briefing
+name: Daily Briefings
 
 on:
   workflow_dispatch:
@@ -24,17 +24,26 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate briefing
+      - name: Generate NOOPS briefing
         env:
           SOURCE_NAME: "NOOPS"
           FEED_URL: "https://noops.au/rss"
           MAX_ITEMS: "8"
+          OUTPUT_PATH: "output/noops-briefing.md"
+        run: python scripts/fetch_feed.py
+
+      - name: Generate Exponential View briefing
+        env:
+          SOURCE_NAME: "Exponential View"
+          FEED_URL: "https://www.exponentialview.co/feed"
+          MAX_ITEMS: "8"
+          OUTPUT_PATH: "output/exponentialview-briefing.md"
         run: python scripts/fetch_feed.py
 
       - name: Commit generated briefing
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/briefing.md
+          git add output/*.md
           git diff --cached --quiet || git commit -m "Update daily briefing"
           git push
