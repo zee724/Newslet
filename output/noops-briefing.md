@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-03-29 13:37 UTC
+- Generated at: 2026-03-30 03:42 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. NOOPS Daily Signals — 27 March 2026
+## 1. NOOPS Daily Signals — 30 March 2026
 
-- Published: Thu, 26 Mar 2026 22:47:50 GMT
-- Link: https://noops.au/posts/noops-daily-signals-27-march-2026
+- Published: Sun, 29 Mar 2026 22:00:52 GMT
+- Link: https://noops.au/posts/noops-daily-signals-30-march-2026
 
-Seven signals today trace a threshold being crossed — from Linux kernel maintainers confirming AI bug reports are now genuinely useful, to a California lawyer outcompeting professional developers at a hackathon. The pattern: capabilities that were theoretical last quarter are becoming operational th
+The infrastructure arms race enters a new phase as hyperscaler capex doubles, the memory crisis reaches consumer shelves, and design tools confront an existential question about their place in the agentic era.
 
-## 2. [Signal] Linux kernel maintainer confirms AI bug reports have crossed quality threshold
+## 2. [Signal] US senators propose federal monitoring of data centre electricity
 
-- Published: Thu, 26 Mar 2026 21:22:14 GMT
-- Link: https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/
+- Published: Sun, 29 Mar 2026 21:47:44 GMT
+- Link: https://arstechnica.com/tech-policy/2026/03/senators-want-us-energy-information-agency-to-monitor-data-center-electricity-usage/
 
-Greg Kroah-Hartman, one of the most senior Linux kernel maintainers, reports a step-function improvement in AI-generated bug reports: "Something happened a month ago, and the world switched. Now we have real reports." The shift is not confined to Linux. Kroah-Hartman notes that security teams across
+Ars Technica reports that US senators have introduced legislation requiring the Energy Information Agency to monitor data centre electricity usage. The proposal follows growing community resistance to data centre construction, including Google's withdrawal of a $1 billion application in Indianapolis
 
-## 3. [Signal] Data centre construction faces growing political resistance
+## 3. [Signal] The craft illusion: developers were always working class
 
-- Published: Thu, 26 Mar 2026 21:22:12 GMT
-- Link: https://www.nbcnews.com/news/rcna264726
+- Published: Sun, 29 Mar 2026 21:47:42 GMT
+- Link: https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/
 
-Google has withdrawn its application for a $1 billion data centre in Indianapolis after a rezoning vote was expected to fail due to community opposition. NBC News reports the pattern is spreading, with federal sensitivity to the political dynamics of large-scale compute infrastructure deployment inc
+A blog post arguing that AI has not taken developers' craft — that the hard parts of software engineering (understanding systems, debugging, architecture) remain irreducibly human — prompted one of the sharpest responses in recent NOOPS analysis. John Allsopp's critique was sustained and empiricall
 
-## 4. [Signal] Open formats become functional requirement as lock-in becomes lock-out
+## 4. [Signal] Gemini import tool raises the spectre of AI walled gardens
 
-- Published: Thu, 26 Mar 2026 21:22:07 GMT
-- Link: https://plaintextaccounting.org/
+- Published: Sun, 29 Mar 2026 21:47:40 GMT
+- Link: https://www.macrumors.com/2026/03/26/gemini-import-tool/
 
-John Allsopp's observation on plain text accounting (plaintextaccounting.org) crystallises a structural shift in how software lock-in operates in the agent era: "Lock in is now lock out from the agentic users (that is users)." When agents are the primary interface between humans and their data, prop
+Google has launched a data import tool for Gemini, enabling users to bring their documents, conversations, and data into the Gemini ecosystem. The feature reads as a standard onboarding improvement. The strategic implication is more concerning. Mark Pesce identified the pattern immediately: "Is thi
 
-## 5. [Signal] Roleplay consumed more tokens than coding on OpenRouter platform
+## 5. [Signal] "Ramageddon" gives the memory crisis a consumer-facing name
 
-- Published: Thu, 26 Mar 2026 21:22:02 GMT
-- Link: https://adam.holter.com/openrouters-100-trillion-token-study-the-real-state-of-ai-usage-in-2025/
+- Published: Sun, 29 Mar 2026 21:47:38 GMT
+- Link: https://www.theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-2026-phones-laptops
 
-Analysis of OpenRouter's 100 trillion token dataset reveals that roleplay — broadly defined, including but not exclusively erotic content — accounted for more tokens than software development on the platform. The consumer AI market achieved product-market fit for social and companion use cases befor
+The Verge has coined "Ramageddon" to describe the structural RAM shortage now affecting phones, laptops, and consumer devices as AI data centres consume global memory supply. The article documents what infrastructure analysts have been tracking for months: approximately 50 per cent of SK Hynix and S
 
-## 6. [Signal] SalesPeak releases autonomous buyer evaluation agent for SaaS
+## 6. [Signal] OpenAI ad revenue reaches $100M annualised — still a rounding error
 
-- Published: Thu, 26 Mar 2026 21:21:57 GMT
-- Link: https://github.com/salespeak-ai/buyer-eval-skill
+- Published: Sun, 29 Mar 2026 21:47:36 GMT
+- Link: https://www.reuters.com/business/media-telecom/openais-us-ad-pilot-exceeds-100-million-annualized-revenue-six-weeks-2026-03-26/
 
-SalesPeak has published a buyer-eval-skill on GitHub — an AI agent capability for autonomously evaluating software vendors on behalf of the purchasing organisation. The agent assesses vendors against the buyer's requirements without human intervention in the evaluation process. The structural impli
+Reuters reported that OpenAI's US advertising pilot has exceeded $100 million in annualised revenue after six weeks. The number sounds impressive in isolation. In context, it is a signal of structural insufficiency. OpenAI needs to justify a valuation trajectory approaching $125 billion. One hundre
 
-## 7. [Signal] California lawyer builds permit assistant in six days, wins Anthropic hackathon
+## 7. [Signal] Anthropic capacity constraints drive "batch AI" and timezone arbitrage
 
-- Published: Thu, 26 Mar 2026 21:21:51 GMT
-- Link: https://hadleylab.org/blogs/2026-03-22-the-lawyer-who-won/
+- Published: Sun, 29 Mar 2026 21:47:27 GMT
+- Link: https://www.theregister.com/2026/03/26/anthropic_tweaks_usage_limits/?td=rt-3a
 
-Mike Brown, a practising California attorney, built CrossBeam — an AI-powered ADU (Accessory Dwelling Unit) permit assistant — in six days using Claude Code and took first place at Anthropic's hackathon. His friend builds backyard cottages and routinely spends months fighting permit rejections. Brow
+Anthropic has moved to a token allocation regime that gives developers more capacity during off-peak hours and less during peak times. The Register reported the shift as a practical response to demand outstripping supply at still-trivial adoption levels. The strategic implication is immediate: team
 
-## 8. [Signal] Facebook Research releases self-modifying agent framework
+## 8. [Signal] The Case Against Data Centres Reaches Political Mainstream
 
-- Published: Thu, 26 Mar 2026 21:21:49 GMT
-- Link: https://github.com/facebookresearch/hyperagents
+- Published: Sun, 29 Mar 2026 21:47:24 GMT
+- Link: https://www.prospectmagazine.co.uk/world/environment-news/72767/the-case-against-data-centres-is-growing
 
-Meta's research division has open-sourced HyperAgents, a framework in which a task agent and a meta agent are integrated into a single editable program. The meta-level modification procedure is itself editable, enabling what the researchers term metacognitive self-modification — agents that improve
+Prospect Magazine — a general-interest political publication, not a technology outlet — published "The case against data centres is growing," shared by John Allsopp on 29 March. This is a trajectory signal. When data centre opposition moves from local planning disputes (Google's withdrawn $1 billio
