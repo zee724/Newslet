@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-03-31 03:29 UTC
+- Generated at: 2026-04-01 03:45 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. NOOPS Daily Signals — 31 March 2026
+## 1. NOOPS Daily Signals — 1 April 2026
 
-- Published: Tue, 31 Mar 2026 02:03:28 GMT
-- Link: https://noops.au/posts/noops-daily-signals-31-march-2026
+- Published: Tue, 31 Mar 2026 21:26:54 GMT
+- Link: https://noops.au/posts/noops-daily-signals-1-april-2026
 
-Good morning. Six signals today. They sit in two clusters. The first is structural: the economics of software are inverting, the compute race is creating its first casualties, and Australian...
+Eleven signals make a single argument: value is pooling at the infrastructure layer and the harness layer, while application-layer incumbents positioned between them discover their middleman role is not structural.
 
-## 2. [Signal] FOSS 2.0: AI Agents Complete What Free Software Started
+## 2. NOOPS Daily Signals — 25 March 2026
 
-- Published: Mon, 30 Mar 2026 22:27:17 GMT
-- Link: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+- Published: Tue, 31 Mar 2026 21:08:45 GMT
+- Link: https://noops.au/posts/noops-daily-signals-25-march-2026
 
-Mark Pesce observed on 30 March that AI coding agents may be about to make free software matter more than ever in Stallman's sense. John Allsopp distilled this into a structural thesis: FOSS 1.0 fed big software. 2.0 erodes it. The first cycle of free software lowered the cost of building proprieta
+ARM builds the first chip for agents, NVIDIA's trillion-dollar math faces a telecom-bubble challenge, and the hardware infrastructure build accelerates while a developer grieves his craft.
 
-## 3. [Signal] The Token Salary: Why Replacing Engineers With Tokens Is Self-Defeating
+## 3. NOOPS Daily Signals — 26 March 2026
 
-- Published: Mon, 30 Mar 2026 22:27:16 GMT
-- Link: https://aifoc.us/the-token-salary/
+- Published: Tue, 31 Mar 2026 21:08:44 GMT
+- Link: https://noops.au/posts/noops-daily-signals-26-march-2026
 
-A framework shared on 30 March provides the clearest quantitative argument yet against the naive replace-humans-with-AI thesis. At Claude Opus 4.5 pricing, a $350,000 senior engineering salary buys approximately 55.4 billion tokens per year, equivalent to 277 human engineers in pure token terms. Mar
+Sixteen signals today converge on a single question: who owns the next infrastructure layer? From ARM's agent-specific silicon to Alibaba's sovereign RISC-V chip, from Cloudflare's sub-container sandboxes to ASML's sold-out order book, the physical and architectural foundations of the agent economy 
 
-## 4. [Signal] Copilot Inserts an Ad Into a Pull Request
+## 4. [Signal] Ticket Systems Are Harnesses: Prompts Expose the Overhead
 
-- Published: Mon, 30 Mar 2026 22:27:13 GMT
-- Link: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/
+- Published: Tue, 31 Mar 2026 20:41:39 GMT
+- Link: https://dheer.co/tickets-are-prompts/
 
-On 31 March, a developer discovered that GitHub Copilot had inserted a commercial advertisement into a code review. The incident was documented and shared widely. This is the Fake Infra problem made visible. A harness built by an incumbent under commercial pressure inserted commercial content into
+The framing on dheer.co — tickets are prompts — crystallises something the NOOPS thesis has been circling. Software tickets (GitHub Issues, Jira, Linear) are structured prompts delivered to human developers. The acceptance criteria, story points, assignee fields, sprint allocation — all of it exists
 
-## 5. [Signal] OpenAI in Triage: Disney Exit, Sora Death, and the Anthropic Gap
+## 5. [Signal] Transformers.js + WebGPU Brings Inference into the Browser
 
-- Published: Mon, 30 Mar 2026 22:27:11 GMT
-- Link: https://entertainment.slashdot.org/story/26/03/29/0722208/disney-ends-1b-openai-investment-after-soras-surprise-closure-whats-next
+- Published: Tue, 31 Mar 2026 20:41:37 GMT
+- Link: https://huggingface.co/docs/transformers.js
 
-Multiple signals in the 30-31 March conversation confirmed OpenAI's structural deterioration. Disney ended its $1B investment following the Sora shutdown - another enterprise partnership collapsing after a product cancellation voided commercial commitments. John Allsopp's analysis of Sora: when com
+Transformers.js has shipped WebGPU support, enabling ML inference to run directly on the device GPU from within a standard web page — no application installation, no system privileges, no API call required. John's immediate observation upon seeing this: "Next up WebNN" — the Neural Network API, whic
 
-## 6. [Signal] ABC 7:30: Australian AI Adoption Reaches Mainstream
+## 6. [Signal] AI Vulnerability Discovery Moves from Theory to Field Reports
 
-- Published: Mon, 30 Mar 2026 22:27:10 GMT
-- Link: https://noops.au/feed
+- Published: Tue, 31 Mar 2026 20:41:35 GMT
+- Link: https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/
 
-On 30 March, ABC 7:30 led with a practical AI adoption segment. A solo engineer running a company on $2,000/month Claude. Companies choosing AI over hiring staff. A paralegal firm deferring ten new hires for AI tools. Mark watching live: if any business is not thinking about AI right now, they will
+A piece on sockpuppet.org — framed explicitly via Sutton's Bitter Lesson — argues that AI agents are now producing real, reproducible, high-severity vulnerability reports at scale. The argument is structural: general-capability models, given sufficient compute and the right orchestration, are beginn
 
-## 7. [Signal] The Agent Credential Stack: Bitwarden Joins Stripe and Google
+## 7. [Signal] Harness Quality Now Measurably Outpaces Model Capability
 
-- Published: Mon, 30 Mar 2026 22:19:09 GMT
-- Link: https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli
+- Published: Tue, 31 Mar 2026 20:41:33 GMT
+- Link: https://x.com/theo/status/2038690786821505378
 
-A pattern is becoming visible across developer infrastructure. Stripe introduced its Machine Payment Protocol CLI for agent-initiated payments. Google shipped a Workspace CLI for agents. On 31 March, Bitwarden released its Agent Access SDK - a framework for human-in-the-loop credential approval: age
+Theo has published analysis showing Opus 4.5 performs approximately 20% higher in Cursor than in Claude Code — the first publicly cited quantification of a harness quality delta between two major AI developer tools using the same underlying model. This is significant because it moves the harness eng
 
-## 8. NOOPS Daily Signals — 30 March 2026
+## 8. [Signal] Claude Code source leaks — 41,500 forks appear overnight
 
-- Published: Sun, 29 Mar 2026 22:00:52 GMT
-- Link: https://noops.au/posts/noops-daily-signals-30-march-2026
+- Published: Tue, 31 Mar 2026 20:41:31 GMT
+- Link: https://www.theregister.com/2026/03/31/anthropic_claude_code_source_code/
 
-The infrastructure arms race enters a new phase as hyperscaler capex doubles, the memory crisis reaches consumer shelves, and design tools confront an existential question about their place in the agentic era.
+Anthropic accidentally exposed Claude Code's source code. Within hours it had been backed up and forked 41,500 times. The community was already iterating on harness improvements the next morning. Mark: "i wonder if this was entirely accidental? better harnesses will increase token consumption which
