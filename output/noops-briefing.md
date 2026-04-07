@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-04-06 03:40 UTC
+- Generated at: 2026-04-07 03:30 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. NOOPS Daily Signals — 2 April 2026
+## 1. [Signal] Where Does Infrastructure Start? Energy and Raw Materials
 
-- Published: Wed, 01 Apr 2026 23:28:38 GMT
-- Link: https://noops.au/posts/noops-daily-signals-2-april-2026
+- Published: Mon, 06 Apr 2026 23:10:40 GMT
+- Link: https://newsletter.semianalysis.com/p/the-great-gpu-shortage-rental-capacity
 
-Eight signals trace an emerging pattern: the agent layer is transitioning from tools you invoke to infrastructure that runs continuously, and the companies that understand this distinction are pulling ahead of those that don't.
+An exchange on 2 April between John Allsopp and Mark Pesce produced a deceptively simple clarification of the infrastructure thesis. John asked: "Just where does infra start?" Mark's answer: "Energy and raw materials. Primary production." The implication extends the NOOPS infrastructure thesis belo
 
-## 2. [Signal] DMCA Takedowns Spawn Python Rewrite of Claude Code Source
+## 2. [Signal] 1-Bit LLMs Approach Viability — Agents on Every Smartphone
 
-- Published: Wed, 01 Apr 2026 22:18:32 GMT
-- Link: https://bsky.app/profile/gergely.pragmaticengineer.com/post/3mieex2i5cc2e
+- Published: Mon, 06 Apr 2026 23:10:38 GMT
+- Link: https://github.com/OrionsLock/SALOMI
 
-Following the Claude Code source leak covered in yesterday's signals, a new development reported by Gergely Orosz (Pragmatic Engineer) illustrates how the community routes around intellectual property constraints on harness architecture. While Anthropic issued DMCA takedowns targeting repositories t
+The SALOMI project (GitHub) is advancing 1-bit LLM research beyond the theoretical stage, building on Microsoft Research's original BitNet work. The project demonstrates that binary-weight models — where model parameters are literally ones and zeros — can deliver meaningful inference on commodity ha
 
-## 3. [Signal] Claude Code Captures 4.5% of All Public GitHub Commits
+## 3. [Signal] GPU Rental Prices Up 40% as Multi-Agent Workloads Drive Parabolic Demand
 
-- Published: Wed, 01 Apr 2026 22:18:30 GMT
-- Link: https://aifoc.us/damn-claude-thats-a-lot-of-commits/
+- Published: Mon, 06 Apr 2026 23:10:37 GMT
+- Link: https://newsletter.semianalysis.com/p/the-great-gpu-shortage-rental-capacity
 
-New analysis from Paul Kinlan (aifoc.us) provides the first population-level measurement of AI-assisted code production. Claude Code grew from 0.7% to 4.5% of all weekly public GitHub commits between late September 2025 and mid-March 2026 — approximately 21 million commits over the period, compared
+Semi Analysis reports that H100 1-year GPU rental contract pricing has risen almost 40%, from US$1.70/hr/GPU in October 2025 to US$2.35/hr/GPU by March 2026. The prevailing expectation had been that Hopper rental prices would decline as Blackwell deployments ramped. Instead, older hardware appreciat
 
-## 4. [Signal] SpaceX Files for IPO at $1.75 Trillion Valuation
+## 4. [Signal] r/programming Bans All LLM Content — Paradigm Defence Goes Institutional
 
-- Published: Wed, 01 Apr 2026 22:18:29 GMT
-- Link: https://arstechnica.com/space/2026/04/spacex-finally-files-for-ipo-targets-1-75-trillion-valuation/
+- Published: Mon, 06 Apr 2026 23:10:37 GMT
+- Link: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/
 
-SpaceX has filed for an IPO targeting a $1.75 trillion valuation, according to Ars Technica. A significant component of the valuation narrative rests on satellite-based data centre infrastructure — compute capacity deployed in orbit to serve global inference workloads. The filing serves as a useful
+The r/programming subreddit — one of the largest programming communities on Reddit — announced a trial ban on "any and all content relating to LLMs," citing that such posts are "not in line with what we want the subreddit to be." This is paradigm resistance at its most institutionalised. A programm
 
-## 5. [Signal] Agent Observability Emerging as Infrastructure Category
+## 5. [Signal] Cloudflare Rebuilds WordPress from Scratch with AI Agents
 
-- Published: Wed, 01 Apr 2026 22:18:28 GMT
-- Link: https://github.com/simple10/agents-observe
+- Published: Mon, 06 Apr 2026 23:10:36 GMT
+- Link: https://news.slashdot.org/story/26/04/01/164232/ai-can-clone-open-source-software-in-minutes
 
-A new GitHub repository (agents-observe) and growing commercial activity signal that agent observability is formalising as a distinct infrastructure category. Traditional application performance monitoring assumed request-response architectures with human-initiated workflows. Agent observability req
+Cloudflare's internal "em-dash" project has been using AI coding agents to rebuild the WordPress open-source project "from the ground up," according to a Slashdot report on 2 April. WordPress powers roughly 40% of the web. The significance is structural, not competitive. When a well-resourced infra
 
-## 6. [Signal] 1-Bit Model Runs on Virtually Any Hardware
+## 6. [Signal] Cursor 3 launches a unified agent workspace — and faces the absorption problem
 
-- Published: Wed, 01 Apr 2026 22:18:26 GMT
-- Link: https://prismml.com/
+- Published: Mon, 06 Apr 2026 23:10:35 GMT
+- Link: https://cursor.com/blog/cursor-3
 
-PrismML has released Bonsai 8B, a 1-bit quantised language model that fits on nearly any computing device and reportedly performs at a level comparable to earlier frontier models. The model was specifically engineered for robotics, real-time agents, and edge computing — the exact use cases where the
+Cursor announced version 3, rebuilt from scratch as "a unified workspace for building software with agents" — featuring multi-repo layout, seamless handoff between local and cloud agents, and integrations across Slack, GitHub, and Linear. The features are genuinely useful. The ability to see all ru
 
-## 7. [Signal] OpenAI Graveyard Contrasts with $825B Valuation
+## 7. [Signal] Agent runtime security surface crystallises with three incidents in one morning
 
-- Published: Wed, 01 Apr 2026 22:18:25 GMT
-- Link: https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/
+- Published: Mon, 06 Apr 2026 23:10:34 GMT
+- Link: https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/
 
-CNBC reports OpenAI's latest funding round targets an $825 billion valuation. The same week, Forbes published a catalogue of OpenAI's abandoned deals and discontinued products — from Sora to the Disney partnership to Instant Checkout. The juxtaposition frames a strategic contrast that is becoming c
+Three separate security signals converged on 4 April: a Reddit report that OpenClaw installations had been compromised, The Register documenting trojanized Claude Code packages on GitHub, and Ars Technica reporting that Anthropic's DMCA enforcement effort had unintentionally taken down legitimate Gi
 
-## 8. [Signal] Copilot Identity Crisis Documented by Frustrated Developer
+## 8. [Signal] OpenAI buys a talk show while losing the developer tools race
 
-- Published: Wed, 01 Apr 2026 22:18:23 GMT
-- Link: https://idiallo.com/blog/what-is-copilot-exactly
+- Published: Mon, 06 Apr 2026 23:10:33 GMT
+- Link: https://arstechnica.com/ai/2026/04/openai-takes-on-another-side-quest-buys-tech-focused-talk-show-tbpn/
 
-A developer blog post on idiallo.com attempting to understand what Microsoft Copilot actually is has surfaced a telling product-strategy failure. The author, genuinely trying to evaluate the tool for his team, found himself exhausted by the sprawl: "I'm only scratching the surface of what Copilot is
+OpenAI has acquired TBPN, a tech-focused talk show based in Los Angeles, claiming it will remain "editorially independent" under its new ownership. This is the latest in a pattern of strategic scatter that contrasts sharply with Anthropic's discipline. OpenAI has now launched and killed a video gen
