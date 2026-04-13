@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-04-12 03:46 UTC
+- Generated at: 2026-04-13 03:52 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] AI Adoption Surveys Are Missing the Revolution
+## 1. [Signal] Token Fungibility Is Domain-Specific: The Alpha Test
 
-- Published: Thu, 09 Apr 2026 22:29:02 GMT
-- Link: https://epoch.ai/blog/half-of-employed-ai-users-now-use-it-for-work
+- Published: Mon, 13 Apr 2026 00:16:14 GMT
+- Link: https://noops.au/feed
 
-Epoch AI published a survey of 2,000+ Americans on workplace AI use (epoch.ai/blog/half-of-employed-ai-users-now-use-it-for-work), finding that half of employed AI users now use AI at work. John's analysis was methodologically pointed and should be read as a primary signal in itself. On the composi
+The question of whether AI models are interchangeable has been framed as a capability question — benchmark scores, reasoning performance, coding ability. A more useful framing is economic: are tokens from different frontier models fungible for a given task, measured by alpha generation? The answer
 
-## 2. [Signal] The Great Token Shortage of 2026–2034
+## 2. [Signal] Gresham's Law for AI Tokens: Good Enough Will Drive Out Great
 
-- Published: Thu, 09 Apr 2026 22:29:00 GMT
-- Link: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+- Published: Mon, 13 Apr 2026 00:16:12 GMT
+- Link: https://noops.au/feed
 
-Mark labelled a developer blog post about reallocating $100/month Claude Code spend to Zed editor with OpenRouter (braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/) as: "coping strategies for the Great Token Shortage of 2026-2034." The specific case: a developer switching away from Ant
+A new NOOPS analytical note introduces a Gresham's Law framing for the token economy. The argument: tokens are not fungible across domains. In commoditised tasks — programming, data processing, template content — frontier model tokens (Opus 4.6, GPT-5.4) generate equivalent alpha to cheaper adequate
 
-## 3. [Signal] Research-Phase Agents Outperform Code-Only Agents Decisively
+## 3. [Signal] Helium Is Infrastructure — The US Sold Its Strategic Reserve
 
-- Published: Thu, 09 Apr 2026 22:28:59 GMT
-- Link: https://blog.skypilot.co/research-driven-agents/
+- Published: Mon, 13 Apr 2026 00:16:11 GMT
+- Link: https://www.construction-physics.com/p/helium-is-hard-to-replace
 
-SkyPilot published a detailed account of research-driven agent design: coding agents that read arxiv papers, competing forks, and upstream implementations before forming hypotheses produce significantly better outcomes than agents that work from code alone. The concrete result: adding a research pha
+Mark shared a construction-physics.com deep dive on helium supply constraints, noting: "Photons and atoms are the ultimate basis of infra." John added a concerning detail: the US government sold off its strategic helium reserve in 2024. Helium is used in semiconductor fabrication — purging, cooling
 
-## 4. [Signal] Intel's Data Centre Revival: Custom Silicon at $1B Annual Pace
+## 4. [Signal] Dave Griffith: "Why Isn't Everything Different Yet?" — The Adoption Problem Is Human, Not Technical
 
-- Published: Thu, 09 Apr 2026 22:28:58 GMT
-- Link: https://www.theregister.com/2026/04/09/google_intel_ipu/
+- Published: Mon, 13 Apr 2026 00:16:10 GMT
+- Link: https://davegriffith.substack.com/p/why-isnt-everything-different-yet
 
-Google has contracted Intel for another round of custom SmartNICs (Infrastructure Processing Units) for its data centres, with Intel's custom ASIC business now running at a $1B annual pace for this single customer. Mark: "Intel just might make it." The standard infrastructure-winners narrative has
+Mark flagged a Substack post by Dave Griffith as "GOOD" — one of the stronger pieces of 2026 on why AI transformation is slower than the technology would predict. The central argument: for AI to transform any domain, a real, nameable person with other things to do has to figure out specifically what
 
-## 5. [Signal] AWS Builds the Phone Book for Agents
+## 5. [Signal] Microsoft Copilot Retreats from Windows 11 — Brand Becomes Liability
 
-- Published: Thu, 09 Apr 2026 22:28:57 GMT
-- Link: https://www.theregister.com/2026/04/09/aws_ai_agent_registry/
+- Published: Mon, 13 Apr 2026 00:16:09 GMT
+- Link: https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons
 
-AWS has shipped the AI Agent Registry: a central repository for metadata describing agents, tools, MCP servers, agent skills, and associated resources. It supports both the Model Context Protocol and A2A (Agent-to-Agent) standards, and works across AWS Agent Core, other cloud services, and on-premis
+Microsoft is removing Copilot buttons from Windows 11. Mark's response: "Reversing a bad call a year late." John: "So the problem is the brand. At least in Microsoft." The AI features remain; only the branded surface exposure is being reduced. This follows a pattern of quiet Copilot retreat. Micros
 
-## 6. [Signal] Jevons Paradox Arrives for Frontier Models
+## 6. [Signal] Pre-Watershed Analysts Cannot Price the Paradigm Shift
 
-- Published: Thu, 09 Apr 2026 22:28:56 GMT
-- Link: https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs
+- Published: Mon, 13 Apr 2026 00:16:08 GMT
+- Link: https://davegriffith.substack.com/p/why-isnt-everything-different-yet
 
-Mark shared the Guardian's interactive on AI training work and jobs (guardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs). John's immediate gloss: "Jevons paradox but for frontier models." The Jevons paradox describes a well-documented historical pattern: efficiency improvement
+In an extended late-night conversation, Mark and John arrived at a formulation that had been implicit in NOOPS analysis but not stated directly: "99.9% of the economy is pre-Watershed. Possibly more nines than that." John extended it: "And 99.9% of the thinking about the economy is pre-watershed."
 
-## 7. [Signal] Designers Will Take This Harder Than Programmers
+## 7. [Signal] Anthropic Advisor Strategy: Better Results, Lower Cost — The Harness Wins Again
 
-- Published: Wed, 08 Apr 2026 21:20:56 GMT
-- Link: https://pavelsamsonov.com/
+- Published: Mon, 13 Apr 2026 00:16:07 GMT
+- Link: https://www.linkedin.com/posts/claude_were-bringing-the-advisor-strategy-to-the-activity-7448074270909464576-JBHo
 
-A sustained conversation on 8 April between John and Mark produced a precise formulation of what happens to taste, craft, and design as AI iteration costs collapse. Mark's observation: "Designers are going to take this very hard. Harder than the programmers." The reasoning is structural rather than
+Anthropic published benchmark results for an "Advisor Strategy" — using Opus as a strategic routing layer over Sonnet for complex coding tasks. The result: 2.7 percentage points higher on SWE-bench Multilingual than Sonnet alone, with 11.9% lower cost per task. This is not a model improvement. Neit
 
-## 8. [Signal] Anthropic Mythos Model Card: 'We Are Running Out of Road'
+## 8. [Signal] AWS Trainium Capacity Nearly Sold Out — Bubble Narrative Implodes
 
-- Published: Wed, 08 Apr 2026 21:20:53 GMT
-- Link: https://red.anthropic.com/2026/mythos-preview/
+- Published: Mon, 13 Apr 2026 00:16:06 GMT
+- Link: https://www.theregister.com/2026/04/10/amazon_may_sell_homegrown_chips/?td=rt-3a
 
-A detailed review of Anthropic's Mythos Preview system card — filed in the NOOPS analytical vault on 8 April — surfaces eight findings that materially extend the initial capability announcement. The most significant: Anthropic states plainly that it found the model's worst behaviours only late in it
+Amazon CEO Andy Jassy confirmed this week that Trainium3, Amazon's latest AI chip, is "nearly fully-subscribed." Trainium4 — not broadly available for 18 months — has already seen significant advance reservations. Amazon's AI chip business carries a $20 billion annual run rate that Jassy says would

@@ -1,15 +1,15 @@
 # Exponential View Daily Briefing
 
-- Generated at: 2026-04-12 03:46 UTC
+- Generated at: 2026-04-13 03:52 UTC
 - Feed: https://www.exponentialview.co/feed
 - Items: 8
 
-## 1. 🔮 Exponential View #569: What gathers around a powerful model?
+## 1. 🔮 Exponential View #569: When the future is uncertain, what do you teach?
 
 - Published: Sun, 12 Apr 2026 03:17:38 GMT
 - Link: https://www.exponentialview.co/p/ev-569
 
-On Mythos, educating for uncertainty, GLP-1s getting personal++
+On education & AI, Mythos, GLP-1s++
 
 ## 2. 💸 Mythos and the mispricing of everything
 
