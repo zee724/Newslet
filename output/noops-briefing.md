@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-04-14 03:42 UTC
+- Generated at: 2026-04-15 03:40 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Token Fungibility Is Domain-Specific: The Alpha Test
+## 1. [Signal] 𝜶 scales with process, not tokens: Pesce formalises the harness hierarchy
 
-- Published: Mon, 13 Apr 2026 00:16:14 GMT
-- Link: https://noops.au/feed
+- Published: Tue, 14 Apr 2026 23:28:40 GMT
+- Link: https://arxiv.org/pdf/2603.28052
 
-The question of whether AI models are interchangeable has been framed as a capability question — benchmark scores, reasoning performance, coding ability. A more useful framing is economic: are tokens from different frontier models fungible for a given task, measured by alpha generation? The answer
+Mark Pesce has drafted a companion paper to Foundations of Post-Watershed Economics — Alpha and Harnesses — that formalises what every organisation spending tokens now needs to understand. The economy's demand side resolves into a four-tier harness hierarchy: the router (OpenRouter, informational al
 
-## 2. [Signal] Gresham's Law for AI Tokens: Good Enough Will Drive Out Great
+## 2. [Signal] Cybersecurity is proof of work now
 
-- Published: Mon, 13 Apr 2026 00:16:12 GMT
-- Link: https://noops.au/feed
+- Published: Tue, 14 Apr 2026 23:28:40 GMT
+- Link: https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html
 
-A new NOOPS analytical note introduces a Gresham's Law framing for the token economy. The argument: tokens are not fungible across domains. In commoditised tasks — programming, data processing, template content — frontier model tokens (Opus 4.6, GPT-5.4) generate equivalent alpha to cheaper adequate
+Drew Breunig's 14 April essay reframes the post-Mythos security economy in one sentence: to harden a system we need to spend more tokens discovering exploits than attackers spend exploiting them. John Allsopp's extension identifies why the previous day's cost-analysis counter-arguments miss the poin
 
-## 3. [Signal] Helium Is Infrastructure — The US Sold Its Strategic Reserve
+## 3. [Signal] Stanford quantifies the AI insider–outsider gap — and it has political consequences
 
-- Published: Mon, 13 Apr 2026 00:16:11 GMT
-- Link: https://www.construction-physics.com/p/helium-is-hard-to-replace
+- Published: Tue, 14 Apr 2026 23:28:39 GMT
+- Link: https://slashdot.org/story/26/04/14/0038207/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else
 
-Mark shared a construction-physics.com deep dive on helium supply constraints, noting: "Photons and atoms are the ultimate basis of infra." John added a concerning detail: the US government sold off its strategic helium reserve in 2024. Helium is used in semiconductor fabrication — purging, cooling
+A Stanford report surfaced by Slashdot on 14 April crystallises what practitioners have been sensing for months: roughly 85% of domain experts expect AI to have a positive impact in their field, while roughly 85% of non-experts outside that domain expect the opposite. The medical example John Allsop
 
-## 4. [Signal] Dave Griffith: "Why Isn't Everything Different Yet?" — The Adoption Problem Is Human, Not Technical
+## 4. [Signal] The mathematics watershed has crossed
 
-- Published: Mon, 13 Apr 2026 00:16:10 GMT
-- Link: https://davegriffith.substack.com/p/why-isnt-everything-different-yet
+- Published: Tue, 14 Apr 2026 23:28:38 GMT
+- Link: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/
 
-Mark flagged a Substack post by Dave Griffith as "GOOD" — one of the stronger pieces of 2026 on why AI transformation is slower than the technology would predict. The central argument: for AI to transform any domain, a real, nameable person with other things to do has to figure out specifically what
+Three aligned signals on 13–14 April mark mathematics as a confirmed post-Watershed domain. Quanta Magazine published The AI Revolution in Math Has Arrived; Terence Tao appeared in an interview articulating that mathematical practice has changed materially in the last year; and the founders of Harmo
 
-## 5. [Signal] Microsoft Copilot Retreats from Windows 11 — Brand Becomes Liability
+## 5. [Signal] Open-weights models cross the cybersecurity threshold in the wild
 
-- Published: Mon, 13 Apr 2026 00:16:09 GMT
-- Link: https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons
+- Published: Tue, 14 Apr 2026 23:28:38 GMT
+- Link: https://bsky.app/profile/ewindisch.ontological.observer/post/3mjhpr6jrfc27
 
-Microsoft is removing Copilot buttons from Windows 11. Mark's response: "Reversing a bad call a year late." John: "So the problem is the brand. At least in Microsoft." The AI features remain; only the branded surface exposure is being reduced. This follows a pattern of quiet Copilot retreat. Micros
+On 15 April a researcher disclosed a series of critical Linux kernel vulnerabilities discovered using the open-weights GLM-5.1 model combined with open-source Hyprstream tooling. John Allsopp's comment is the structural one: open source vulnerability and exploit automation is here. The frontier labs
 
-## 6. [Signal] Pre-Watershed Analysts Cannot Price the Paradigm Shift
+## 6. [Signal] Thompson turns on OpenAI — and the analyst framework breaks with him
 
-- Published: Mon, 13 Apr 2026 00:16:08 GMT
-- Link: https://davegriffith.substack.com/p/why-isnt-everything-different-yet
+- Published: Tue, 14 Apr 2026 23:28:37 GMT
+- Link: https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/
 
-In an extended late-night conversation, Mark and John arrived at a formulation that had been implicit in NOOPS analysis but not stated directly: "99.9% of the economy is pre-Watershed. Possibly more nines than that." John extended it: "And 99.9% of the thinking about the economy is pre-watershed."
+Ben Thompson's Stratechery reversed course on OpenAI on 14 April. The same analyst who recently called ChatGPT the first great consumer internet product since Facebook now argues OpenAI lacks velocity, direction, discipline and vision. Joan Westenberg ran a parallel demolition in a piece titled Some
 
-## 7. [Signal] Anthropic Advisor Strategy: Better Results, Lower Cost — The Harness Wins Again
+## 7. [Signal] Cloudflare names agents as the primary customer of its APIs
 
-- Published: Mon, 13 Apr 2026 00:16:07 GMT
-- Link: https://www.linkedin.com/posts/claude_were-bringing-the-advisor-strategy-to-the-activity-7448074270909464576-JBHo
+- Published: Tue, 14 Apr 2026 23:28:36 GMT
+- Link: https://blog.cloudflare.com/cf-cli-local-explorer/
 
-Anthropic published benchmark results for an "Advisor Strategy" — using Opus as a strategic routing layer over Sonnet for complex coding tasks. The result: 2.7 percentage points higher on SWE-bench Multilingual than Sonnet alone, with 11.9% lower cost per task. This is not a model improvement. Neit
+Cloudflare published a piece on its CLI local explorer tool this week with a statement that is worth reading carefully: "Increasingly, agents are the primary customer of our APIs. Developers bring their coding agents to build and deploy applications, agents, and platforms to Cloudflare, configure th
 
-## 8. [Signal] AWS Trainium Capacity Nearly Sold Out — Bubble Narrative Implodes
+## 8. [Signal] Agents are being named as primary users across the stack
 
-- Published: Mon, 13 Apr 2026 00:16:06 GMT
-- Link: https://www.theregister.com/2026/04/10/amazon_may_sell_homegrown_chips/?td=rt-3a
+- Published: Tue, 14 Apr 2026 23:28:36 GMT
+- Link: https://code.claude.com/docs/en/routines
 
-Amazon CEO Andy Jassy confirmed this week that Trainium3, Amazon's latest AI chip, is "nearly fully-subscribed." Trainium4 — not broadly available for 18 months — has already seen significant advance reservations. Amazon's AI chip business carries a $20 billion annual run rate that Jassy says would
+Between 13 and 15 April the plumbing for agents-as-primary-users has been publicly laid across four layers simultaneously. Anthropic published Claude Code Routines: scheduled, API-triggered, GitHub-event-reactive execution of Claude Code from Anthropic-managed cloud infrastructure. Adyen joined the
