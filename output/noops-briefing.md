@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-04-16 03:46 UTC
+- Generated at: 2026-04-17 03:45 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] 𝜶 scales with process, not tokens: Pesce formalises the harness hierarchy
+## 1. [Signal] Anthropic tender offer values company at US$800bn pre-IPO
 
-- Published: Tue, 14 Apr 2026 23:28:40 GMT
-- Link: https://arxiv.org/pdf/2603.28052
+- Published: Thu, 16 Apr 2026 22:45:21 GMT
+- Link: https://www.theinformation.com/
 
-Mark Pesce has drafted a companion paper to Foundations of Post-Watershed Economics — Alpha and Harnesses — that formalises what every organisation spending tokens now needs to understand. The economy's demand side resolves into a four-tier harness hierarchy: the router (OpenRouter, informational al
+Reporting circulating overnight places Anthropic at roughly US$800 billion in a new tender offer, up sharply from its most recent primary round. The figure is a private-market mark rather than a clearing price, but it lands while SOX index strength, hyperscaler capex commitments and power-constraine
 
-## 2. [Signal] Cybersecurity is proof of work now
+## 2. [Signal] US follows Australia on data centre power reporting
 
-- Published: Tue, 14 Apr 2026 23:28:40 GMT
-- Link: https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html
+- Published: Thu, 16 Apr 2026 22:45:16 GMT
+- Link: https://www.wired.com/story/the-us-government-to-ask-data-centers-how-much-power-they-use/
 
-Drew Breunig's 14 April essay reframes the post-Mythos security economy in one sentence: to harden a system we need to spend more tokens discovering exploits than attackers spend exploiting them. John Allsopp's extension identifies why the previous day's cost-analysis counter-arguments miss the poin
+Wired reports the US government will ask data centres to disclose their power consumption. Mark Pesce flagged this as "SIGNAL — Australia led the way and now the US is following." Australia's mandatory data centre power reporting established a regulatory precedent that is now globalising. The infra
 
-## 3. [Signal] Stanford quantifies the AI insider–outsider gap — and it has political consequences
+## 3. [Signal] The pull request is going the way of the IDE
 
-- Published: Tue, 14 Apr 2026 23:28:39 GMT
-- Link: https://slashdot.org/story/26/04/14/0038207/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else
+- Published: Thu, 16 Apr 2026 22:45:07 GMT
+- Link: https://www.latent.space/p/ainews-rip-pull-requests-2005-2026
 
-A Stanford report surfaced by Slashdot on 14 April crystallises what practitioners have been sensing for months: roughly 85% of domain experts expect AI to have a positive impact in their field, while roughly 85% of non-experts outside that domain expect the opposite. The medical example John Allsop
+Sean Wang's Latent Space analysis declares the pull request dead — or at least dying. John Allsopp shared it with the observation that "one of the foundational pieces of software engineering, in particular open source software, the pull request, is going the way of the IDE." The structural argument
 
-## 4. [Signal] The mathematics watershed has crossed
+## 4. [Signal] Anthropic Mythos heading to UK financial institutions
 
-- Published: Tue, 14 Apr 2026 23:28:38 GMT
-- Link: https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/
+- Published: Thu, 16 Apr 2026 22:44:59 GMT
+- Link: https://youtu.be/FLmZ6HnOSkE
 
-Three aligned signals on 13–14 April mark mathematics as a confirmed post-Watershed domain. Quanta Magazine published The AI Revolution in Math Has Arrived; Terence Tao appeared in an interview articulating that mathematical practice has changed materially in the last year; and the founders of Harmo
+Bloomberg reports that Anthropic's Mythos model will be released to UK financial institutions next week. Pip White, Anthropic's EMEA North Head, noted that "the engagement from CEOs in the UK has been strong" and described an intentional, controlled expansion. John Allsopp raised the operational qu
 
-## 5. [Signal] Open-weights models cross the cybersecurity threshold in the wild
+## 5. [Signal] ASML controls 83% of global lithography machine sales
 
-- Published: Tue, 14 Apr 2026 23:28:38 GMT
-- Link: https://bsky.app/profile/ewindisch.ontological.observer/post/3mjhpr6jrfc27
+- Published: Thu, 16 Apr 2026 22:44:57 GMT
+- Link: https://noops.au/feed
 
-On 15 April a researcher disclosed a series of critical Linux kernel vulnerabilities discovered using the open-weights GLM-5.1 model combined with open-source Hyprstream tooling. John Allsopp's comment is the structural one: open source vulnerability and exploit automation is here. The frontier labs
+A single company — ASML Holding — controls 83% of worldwide lithography machine sales, with effectively 100% of the extreme ultraviolet (EUV) market that enables advanced semiconductor fabrication. This is the most concentrated bottleneck in the entire AI supply chain. For context, this is more con
 
-## 6. [Signal] Thompson turns on OpenAI — and the analyst framework breaks with him
+## 6. [Signal] Mark Pesce formalises four-tier harness hierarchy
 
-- Published: Tue, 14 Apr 2026 23:28:37 GMT
-- Link: https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/
+- Published: Thu, 16 Apr 2026 22:44:55 GMT
+- Link: https://noops.au/feed
 
-Ben Thompson's Stratechery reversed course on OpenAI on 14 April. The same analyst who recently called ChatGPT the first great consumer internet product since Facebook now argues OpenAI lacks velocity, direction, discipline and vision. Joan Westenberg ran a parallel demolition in a piece titled Some
+Mark Pesce's University of Sydney paper "Alpha and Harnesses" formalises the NOOPS harness thesis into a four-tier hierarchy. The router (OpenRouter) captures informational alpha from data exhaust. The copilot (Claude Code) amplifies human capability, bounded by human attention. The dark factory (Ga
 
-## 7. [Signal] Cloudflare names agents as the primary customer of its APIs
+## 7. [Signal] Snap CEO names 'small squads leveraging AI' in SEC filing
 
-- Published: Tue, 14 Apr 2026 23:28:36 GMT
-- Link: https://blog.cloudflare.com/cf-cli-local-explorer/
+- Published: Thu, 16 Apr 2026 22:44:52 GMT
+- Link: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=snap&type=8-K
 
-Cloudflare published a piece on its CLI local explorer tool this week with a statement that is worth reading carefully: "Increasingly, agents are the primary customer of our APIs. Developers bring their coding agents to build and deploy applications, agents, and platforms to Cloudflare, configure th
+Snap is laying off approximately 1,000 employees — 16% of its workforce — while closing 300 open roles. CEO Evan Spiegel's memo, filed in the company's 8-K, stated that "rapid advancements in artificial intelligence enable our teams to reduce repetitive work, increase velocity" and that "small squad
 
-## 8. [Signal] Agents are being named as primary users across the stack
+## 8. [Signal] Qwen 3.6 approaches frontier on 3B active parameters
 
-- Published: Tue, 14 Apr 2026 23:28:36 GMT
-- Link: https://code.claude.com/docs/en/routines
+- Published: Thu, 16 Apr 2026 22:44:40 GMT
+- Link: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/
 
-Between 13 and 15 April the plumbing for agents-as-primary-users has been publicly laid across four layers simultaneously. Anthropic published Claude Code Routines: scheduled, API-triggered, GitHub-event-reactive execution of Claude Code from Anthropic-managed cloud infrastructure. Adyen joined the
+Alibaba released Qwen3.6-35B-A3B, a Mixture-of-Experts model with only 3 billion active parameters that rivals much larger dense models on agentic coding benchmarks. Simon Willison headlined the analysis "Qwen beats Opus." The architecture matters: 35B total parameters, 3B active, means this model
