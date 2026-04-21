@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-04-20 03:51 UTC
+- Generated at: 2026-04-21 03:45 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. A Measure of Safety
+## 1. [Signal] Opus 4.7 tokeniser increases per-session costs 20-30%
 
-- Published: Sun, 19 Apr 2026 23:49:17 GMT
-- Link: https://noops.au/posts/a-measure-of-safety
+- Published: Mon, 20 Apr 2026 22:07:23 GMT
+- Link: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
 
-Token Quality and the Limits of Harness Defence
+Analysis from Claude Code Camp showed Opus 4.7's new tokeniser packs 20-30% more tokens per session. Mark: "uh oh." The per-token price didn't change, but the per-session cost did because the same session now contains more tokens. John noted Anthropic claims fewer tokens for equivalent performance.
 
-## 2. [Signal] Anthropic tender offer values company at US$800bn pre-IPO
+## 2. [Signal] Amazon signs nine Australian renewable deals to power data centres
 
-- Published: Thu, 16 Apr 2026 22:45:21 GMT
-- Link: https://www.theinformation.com/
+- Published: Mon, 20 Apr 2026 22:07:19 GMT
+- Link: https://www.theguardian.com/technology/2026/apr/15/amazon-enters-agreements-nine-australian-renewable-projects-power-datacentres
 
-Reporting circulating overnight places Anthropic at roughly US$800 billion in a new tender offer, up sharply from its most recent primary round. The figure is a private-market mark rather than a clearing price, but it lands while SOX index strength, hyperscaler capex commitments and power-constraine
+Amazon entered agreements with nine Australian renewable energy projects specifically to power data centres, per The Guardian. John shared the link without commentary — the signal speaks for itself. This is the infrastructure-winners thesis with a direct Australian data point. Global hyperscalers a
 
-## 3. [Signal] US follows Australia on data centre power reporting
+## 3. [Signal] Central banks get Mythos access; Dario briefs the White House
 
-- Published: Thu, 16 Apr 2026 22:45:16 GMT
-- Link: https://www.wired.com/story/the-us-government-to-ask-data-centers-how-much-power-they-use/
+- Published: Mon, 20 Apr 2026 22:07:15 GMT
+- Link: https://www.bbc.com/news/articles/c2ev24yx4rmo
 
-Wired reports the US government will ask data centres to disclose their power consumption. Mark Pesce flagged this as "SIGNAL — Australia led the way and now the US is following." Australia's mandatory data centre power reporting established a regulatory precedent that is now globalising. The infra
+Canada and UK central banks both received access to Anthropic's Mythos model, per BBC reporting. The Canadian Finance Minister's public response signalled concern. Separately, Mark reported Dario Amodei met the White House chief of staff about deploying Mythos in the US government. A Bloomberg comm
 
-## 4. [Signal] The pull request is going the way of the IDE
+## 4. [Signal] The 24/7 employee is here — and John asks: why be an employee at all?
 
-- Published: Thu, 16 Apr 2026 22:45:07 GMT
-- Link: https://www.latent.space/p/ainews-rip-pull-requests-2005-2026
+- Published: Mon, 20 Apr 2026 22:07:12 GMT
+- Link: https://www.timdavis.com/blog/probabilistic-engineering-and-the-24-7-employee
 
-Sean Wang's Latent Space analysis declares the pull request dead — or at least dying. John Allsopp shared it with the observation that "one of the foundational pieces of software engineering, in particular open source software, the pull request, is going the way of the IDE." The structural argument
+Tim Davis published "Probabilistic Engineering and the 24/7 Employee," arguing that agent parallelisation has killed the 9-9-6 work culture: "For the first time in the history of knowledge work, the person who went home did not take the only copy of their brain with them." John's response cut to th
 
-## 5. [Signal] Anthropic Mythos heading to UK financial institutions
+## 5. [Signal] Codex autonomously hacks a Samsung TV via simple agent loop
 
-- Published: Thu, 16 Apr 2026 22:44:59 GMT
-- Link: https://youtu.be/FLmZ6HnOSkE
+- Published: Mon, 20 Apr 2026 22:07:08 GMT
+- Link: https://blog.calif.io/p/codex-hacked-a-samsung-tv
 
-Bloomberg reports that Anthropic's Mythos model will be released to UK financial institutions next week. Pip White, Anthropic's EMEA North Head, noted that "the engagement from CEOs in the UK has been strong" and described an intentional, controlled expansion. John Allsopp raised the operational qu
+A researcher documented OpenAI's Codex agent autonomously compromising a Samsung TV. The operating loop was minimal: inspect source and session logs, send commands through a controller and tmux shell, read results, build helpers, have the TV fetch and execute them via memfd. Mark: "OH MY" and "We ar
 
-## 6. [Signal] ASML controls 83% of global lithography machine sales
+## 6. [Signal] Tom Tunguz quantifies the compute crisis — Mark: 'SIGNAL'
 
-- Published: Thu, 16 Apr 2026 22:44:57 GMT
-- Link: https://noops.au/feed
+- Published: Mon, 20 Apr 2026 22:07:04 GMT
+- Link: https://tomtunguz.com/ai-compute-crisis-2026/
 
-A single company — ASML Holding — controls 83% of worldwide lithography machine sales, with effectively 100% of the extreme ultraviolet (EUV) market that enables advanced semiconductor fabrication. This is the most concentrated bottleneck in the entire AI supply chain. For context, this is more con
+Tom Tunguz published two pieces on the AI compute crisis: GPU rental prices continuing to rise and capacity constraints tightening. Mark flagged the first with "BING BING BING BING SIGNAL" and the second with "we need to be tracking him." John's reaction was immediate: "This torpedoes the bubble ca
 
-## 7. [Signal] Mark Pesce formalises four-tier harness hierarchy
+## 7. [Signal] Anthropic launches Design Studio, quoting Canva on the release page
 
-- Published: Thu, 16 Apr 2026 22:44:55 GMT
-- Link: https://noops.au/feed
+- Published: Mon, 20 Apr 2026 22:06:58 GMT
+- Link: https://www.anthropic.com/news/claude-design-anthropic-labs
 
-Mark Pesce's University of Sydney paper "Alpha and Harnesses" formalises the NOOPS harness thesis into a four-tier hierarchy. The router (OpenRouter) captures informational alpha from data exhaust. The copilot (Claude Code) amplifies human capability, bounded by human attention. The dark factory (Ga
+Anthropic released Claude Design, a native design tool built into the Claude platform. The launch page quoted Canva — a move John described as "cold." The same day, Canva's own PR blitz effectively admitted its existing product is obsolete: "What we have built so far is useless. We have to completel
 
-## 8. [Signal] Snap CEO names 'small squads leveraging AI' in SEC filing
+## 8. [Signal] Apps Must Go Headless for the Agent Era
 
-- Published: Thu, 16 Apr 2026 22:44:52 GMT
-- Link: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=snap&type=8-K
+- Published: Mon, 20 Apr 2026 22:06:50 GMT
+- Link: https://interconnected.org/home/2026/04/18/headless
 
-Snap is laying off approximately 1,000 employees — 16% of its workforce — while closing 300 open roles. CEO Evan Spiegel's memo, filed in the company's 8-K, stated that "rapid advancements in artificial intelligence enable our teams to reduce repetitive work, increase velocity" and that "small squad
+Matt Webb argues on interconnected.org that all apps and services will need to provide headless access — CLI tools and APIs for AI agents, stripped of visual UI. He cites emerging CLI tools for Google Workspace, Obsidian, and Salesforce, plus a "CLI-Anything" project that auto-generates command-line
