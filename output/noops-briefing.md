@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-04-24 03:50 UTC
+- Generated at: 2026-04-25 03:31 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Apple confirms Gemini-powered Siri, ships second emergency iOS patch
+## 1. NOOPS Weekly — Week of 20 April 2026
 
-- Published: Thu, 23 Apr 2026 01:34:33 GMT
-- Link: https://www.macrumors.com/2026/04/22/google-gemini-powered-siri-2026/
+- Published: Fri, 24 Apr 2026 07:29:24 GMT
+- Link: https://noops.au/posts/noops-weekly-week-of-20-april-2026
 
-Two Apple signals on the same morning: MacRumors reported that Google Gemini will power Siri features in 2026, and Apple released iOS 26.4.2 — the second out-of-band update in as many weeks. Mark Pesce attributed the rapid patching to 'probably Glasswing.' Apple outsourcing its flagship AI assistan
+Mark Pesce names the ceiling of the good-enough zone. Mythos leaks through a contractor-adjacent breach and the NYT calls frontier launches weapons tests. OpenAI leads a launch on cost. Agent swarms become the default pattern. And usage and hostility rise together in the cohort entering the labour m
 
-## 2. [Signal] OpenAI repeats Microsoft's Recall privacy mistake with Chronicle
+## 2. [Signal] AI adoption and AI hostility are rising together
 
-- Published: Thu, 23 Apr 2026 01:34:32 GMT
-- Link: https://www.theregister.com/2026/04/22/openai_chronicle_no_privacy_screenshot/
+- Published: Fri, 24 Apr 2026 05:56:48 GMT
+- Link: https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation
 
-OpenAI launched Chronicle, a screenshot-capturing feature, drawing immediate privacy comparisons to Microsoft's ill-fated Recall. The Register noted: 'OpenAI perhaps forgot about Microsoft's reputational flogging, or maybe it believes the needs of the model outweigh the needs of the few who bother w
+The Verge's weekend podcast laid out the polling that should change how the cultural-adoption thesis is priced. NBC News's March 2026 survey placed AI's favourability below ICE and only marginally above the war in Iran and the Democrats. Quinnipiac found more than half of Americans believe AI will d
 
-## 3. [Signal] Martin Fowler identifies the LLM laziness deficit
+## 3. [Signal] TenCent and Alibaba in talks to anchor DeepSeek's first funding round
 
-- Published: Thu, 23 Apr 2026 01:34:31 GMT
-- Link: https://martinfowler.com/fragments/2026-04-14.html
+- Published: Fri, 24 Apr 2026 05:56:42 GMT
+- Link: https://www.msn.com/en-us/money/other/tencent-alibaba-in-talks-to-join-deepseek-s-first-funding-round/ar-AA21txPM
 
-Martin Fowler published an observation that LLMs 'inherently lack the virtue of laziness. Work costs nothing to an LLM. LLMs do not feel a need to optimize for their own (or anyone's) effort.' Mark Pesce shared the piece. John Allsopp pushed back constructively: 'Is this just a now problem? Can't w
+MSN reported that TenCent and Alibaba are in talks to participate in DeepSeek's first external funding round. The structural significance is that DeepSeek — the Chinese open-weights lab that has shipped frontier-adjacent models on an accelerating cadence through 2026 — is being institutionalised at
 
-## 4. [Signal] Google unveils TPU 8t and 8i for the 'agentic era'
+## 4. [Signal] Sixteen straight up-days in semis, SK Hynix breaks ground in Indiana, TSMC declines ASML
 
-- Published: Thu, 23 Apr 2026 01:34:30 GMT
-- Link: https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/
+- Published: Fri, 24 Apr 2026 05:56:34 GMT
+- Link: https://financialpost.com/technology/tsmc-says-asmls-chipmaking-too-pricey
 
-At Google Next, Google unveiled two new TPU generations — TPU 8t and TPU 8i — explicitly designed for agent workloads. Mark Pesce's one-word commentary on the Ars Technica report: 'Nvidia.' Google is the only hyperscaler designing its own AI silicon at scale to compete directly with Nvidia. The pos
+The Philadelphia Semiconductor Index closed Wednesday on its sixteenth consecutive up-day, a historical first. The texture matters more than the level: sustained institutional accumulation without pullback implies steady positioning, not momentum churn. The capital-markets backdrop for AI infrastruc
 
-## 5. [Signal] Google: 75% of code now AI-generated, up from 50% in six months
+## 5. [Signal] Anthropic publishes a postmortem: bugs in cognition are a new thing
 
-- Published: Thu, 23 Apr 2026 01:34:30 GMT
-- Link: https://www.theregister.com/2026/04/22/google_enterprise/
+- Published: Fri, 24 Apr 2026 05:56:15 GMT
+- Link: https://www.anthropic.com/engineering/april-23-postmortem
 
-At Google Next, CEO Sundar Pichai disclosed that 75 per cent of all code at Google is now AI-generated and approved by engineers, up from 50 per cent last northern-hemisphere autumn. This is a 50 per cent increase in AI code share within six months at one of the world's largest engineering organisat
+Anthropic released a postmortem this week covering three separate changes that had degraded Claude Code, the Claude Agent SDK, and Claude Cowork over the past month. The API was unaffected. All three issues have been resolved as of 20 April in v2.1.116, and Anthropic is resetting usage limits for al
 
-## 6. [Signal] Qwen3.6-27B dense model outperforms 397B MoE on coding
+## 6. [Signal] GPT-5.5 leads with cost: the frontier lab repositions on economics
 
-- Published: Thu, 23 Apr 2026 01:34:29 GMT
-- Link: https://qwen.ai/blog?id=qwen3.6-27b
+- Published: Fri, 24 Apr 2026 05:55:55 GMT
+- Link: https://openai.com/index/introducing-gpt-5-5/
 
-Alibaba's Qwen team released Qwen3.6-27B, a dense model that outperforms the much larger Qwen3.5-397B-A17B (397B total parameters, 17B active) on every major coding benchmark. Mark Pesce flagged it immediately: 'a new local Qwen!' This is a significant architectural signal. A 27B dense model beatin
+OpenAI launched GPT-5.5 on Thursday with pricing and framing that tells its own story. The headline claim, from OpenAI's own post: "state-of-the-art intelligence at half the cost of competitive frontier coding models" on Artificial Analysis's Coding Index. API pricing lands at $5 per million input t
 
-## 7. [Signal] Agent swarm convergence: three signals in one morning
+## 7. [Signal] Mythos access leaks to a Discord; NYT files the weapons-test story
 
-- Published: Thu, 23 Apr 2026 01:34:28 GMT
-- Link: https://zed.dev/blog/parallel-agents
+- Published: Fri, 24 Apr 2026 05:55:36 GMT
+- Link: https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html
 
-Zed published parallel agents, OpenAI launched Workspace Agents in ChatGPT, and zknill posted 'All your agents are going async' — all on the same day. Mark Pesce's assessment: 'the signal is huuuuuuge today on this' and 'orchestration moves front and center.' The pattern is unmistakable: multi-agen
+Bloomberg reported this week that a small group of unauthorised users reached Anthropic's restricted Mythos model through a combination of contractor-linked access and online sleuthing, with the specific location of the model inferred from format details disclosed in a recent breach at Mercor, a thi
 
-## 8. [Signal] Scott Galloway's 'Head of AI in a Day' shows the adoption gap widening
+## 8. [Signal] A Measure of Safety: the good-enough zone has a ceiling
 
-- Published: Thu, 23 Apr 2026 01:34:27 GMT
-- Link: https://noops.au/feed
+- Published: Fri, 24 Apr 2026 05:55:27 GMT
+- Link: https://wiki.noops.au/concept/measure-of-safety
 
-A Scott Galloway-affiliated programme is offering 15,000 registrants an afternoon of 'free AI transformation workshops — led by the consultants who are doing this in the enterprise right now.' The same day, Google disclosed that 75 percent of its code is now AI-generated. The juxtaposition is the s
+Mark Pesce released his third post-Watershed paper through the University of Sydney this week. A Measure of Safety: Token Quality and the Limits of Harness Defence completes the arc that Foundations of Post-Watershed Economics and Alpha and Harnesses began. Where those papers described the productiv
