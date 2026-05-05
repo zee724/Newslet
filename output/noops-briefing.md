@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-05-04 04:08 UTC
+- Generated at: 2026-05-05 03:50 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] APRA codifies AI as supervised input for Australian financial services
+## 1. [Signal] Intel adds a third leg to the long-thesis: Z-Angle Memory at 2-3x HBM capacity per energy unit
 
-- Published: Sun, 03 May 2026 22:31:02 GMT
-- Link: https://www.apra.gov.au/apra-letter-to-industry-on-artificial-intelligence-ai
+- Published: Tue, 05 May 2026 00:07:46 GMT
+- Link: https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/
 
-On 1 May 2026, the Australian Prudential Regulation Authority (APRA) published a letter to industry on artificial intelligence. APRA regulates banks, insurers, and superannuation funds in Australia; its letters to industry are the standard form for codifying baseline supervisory expectations. The c
+HPCwire's coverage of Intel's Z-Angle Memory (ZAM) re-surfaced this morning. The technology, like HBM, stacks DRAM along the vertical axis, but the development claim is two-to-three-times the capacity of HBM and higher bandwidths at a fraction of the energy and cost. If ZAM ships at the claimed band
 
-## 2. [Signal] GPT-5.5-Cyber matches Mythos Preview on AISI offensive cyber tests
+## 2. [Signal] Five Eyes formalise agentic-AI guidance — runtime-protection becomes a procurement floor
 
-- Published: Sun, 03 May 2026 22:30:51 GMT
-- Link: https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/
+- Published: Tue, 05 May 2026 00:07:45 GMT
+- Link: https://www.theregister.com/2026/05/04/five_eyes_agentic_ai_recommendations/?td=rt-3a
 
-Ars Technica reported on 2 May 2026 that GPT-5.5 matches Anthropic's Mythos Preview on offensive cyber capabilities. On 'The Last Ones' (TLO), an AISI test range simulating a 32-step data-extraction attack on a corporate network, GPT-5.5 succeeded in 3 of 10 attempts compared to 2 of 10 for Mythos P
+Information-security agencies from the Five Eyes nations published joint guidance on agentic AI deployment this week. The operative passage: "Strong governance, explicit accountability, rigorous monitoring and human oversight are not optional safeguards but essential prerequisites... organisations s
 
-## 3. [Signal] Iranian drone strikes leave three Amazon data centres offline for months
+## 3. [Signal] John names the operative trade: resistance to the watershed creates the arbitrage
 
-- Published: Sun, 03 May 2026 22:30:48 GMT
-- Link: https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/
+- Published: Tue, 05 May 2026 00:07:44 GMT
+- Link: https://blog.quent.in/blog/2026/03/09/one-more-prompt-the-dopamine-trap-of-agentic-coding/
 
-Ars Technica reported on 2 May 2026 that Amazon's cloud customers in the Middle East face several more months of repairs before normal operations can be restored at three war-damaged data centres in the United Arab Emirates and Bahrain. Iranian drone strikes targeted the three Amazon facilities in e
+An anti-LLM amplification cycle is running at trade-press velocity through the same news graph as the operator-class adoption cycle. The same week as DeepClaude shipped, LangAlpha integrated the NOOPS API, and Kepler productised the line-item-citation contract for Anthropic, the social-media graph a
 
-## 4. [Signal] OpenAI's Stargate hits 10GW three years early — 3GW added in last 90 days
+## 4. [Signal] RAMageddon as Microsoft counter-beneficiary — the cycle is differentially bearish, not uniformly bearish
 
-- Published: Sun, 03 May 2026 22:30:45 GMT
-- Link: https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/
+- Published: Tue, 05 May 2026 00:07:43 GMT
+- Link: https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/
 
-OpenAI announced on 1 May 2026 that Stargate has surpassed its January 2025 commitment of 10GW of US AI infrastructure by 2029, with more than 3GW added in the last 90 days alone. The 2029 milestone has been hit in 16 months — three years ahead of schedule. The disclosure lands inside the same week
+Ars Technica framed it: the RAMageddon has bought Microsoft valuable time in the fight against SteamOS. Mark's read on surfacing it: "unexpectedly, RAMageddon is good for hardware makers?" The memory shortage is delaying the cohort of insurgent hardware — Steam Deck successors, SteamOS handhelds, Li
 
-## 5. [Signal] WDC +100% YTD, Sandisk +300% YTD; biggest monthly semi rally since 2000
+## 5. [Signal] Schiff–Rounds AI Literacy Act — the legislative tier of the cultural-adoption gradient
 
-- Published: Sun, 03 May 2026 22:30:28 GMT
-- Link: https://wiki.noops.au/entity/wdc-sandisk-ytd-rally-may-2026
+- Published: Tue, 05 May 2026 00:07:43 GMT
+- Link: https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/
 
-On 1 May 2026 AEST, Mark surfaced two equity-tier datapoints on the memory cycle: Western Digital up roughly 100% year-to-date and Sandisk up roughly 300% year-to-date. The same day's broader print: 'Biggest monthly rally in semiconductors since 2000.' Apple closed up around 3% on its earnings. The
+Senators Adam Schiff and Mike Rounds have introduced the Literacy in Future Technologies — Artificial Intelligence Act, a bipartisan US federal bill on AI literacy and curriculum integration. The bill arrives in the same week that an influential ChatGPT-in-education study has been retracted, the soc
 
-## 6. [Signal] Tim Cook concedes Apple's memory costs will drive an 'increasing impact'
+## 6. [Signal] DeepClaude packages Claude Code's autonomous loop on DeepSeek V4 Pro at one-seventeenth the cost
 
-- Published: Sun, 03 May 2026 22:30:23 GMT
-- Link: https://www.cnbc.com/2026/05/01/apple-ceo-warns-of-memory-crunch-well-look-at-a-range-of-options.html
+- Published: Tue, 05 May 2026 00:07:42 GMT
+- Link: https://github.com/aattaran/deepclaude
 
-On Apple's Q2 FY26 earnings call on 1 May 2026, CEO Tim Cook stated that 'we believe memory costs will drive an increasing impact on our business' and that Apple is 'looking at a range of options' on memory (CNBC). Mark's read overnight: 'Apple is buying all the RAM they can.' The sequence now read
+DeepClaude shipped on GitHub overnight with a strapline that names the operator-class trade in nine words: "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper." The harness contract — Anthropic's tool-call API, AGENTS.m
 
-## 7. [Signal] Qualcomm Q2 FY26 follow-through and CEO architecture tease
+## 7. [Signal] UK NCSC warns AI-fuelled bug hunting will flush years of buried flaws
 
-- Published: Sun, 03 May 2026 22:30:10 GMT
-- Link: https://www.theregister.com/2026/05/01/qualcomm_q2_fy_26/
+- Published: Tue, 05 May 2026 00:07:41 GMT
+- Link: https://www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/
 
-On 1 May 2026, The Register covered Qualcomm's Q2 FY26 earnings. Mark, surfacing: 'More from Qualcomm... The CEO also teased the advent of what he calls [a new AI architecture].' The piece reads as the analyst-class follow-through to the 30 April hyperscaler-win datum: Qualcomm shipping custom AI ch
+On 2 May the UK's National Cyber Security Centre issued a public warning that AI-fuelled bug hunting is about to flush out years of buried flaws, leaving defenders scrambling to keep up. A sovereign cyber agency is now publicly characterising AI-driven vulnerability discovery as a regime-change in d
 
-## 8. [Signal] Spacedino — fire-rehire-at-lower-pay is an operating pattern, not an event
+## 8. [Signal] Anthropic and OpenAI both stand up $10B PE-financed enterprise-AI deployment vehicles in the same week
 
-- Published: Sun, 03 May 2026 22:29:55 GMT
-- Link: https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/
+- Published: Tue, 05 May 2026 00:07:41 GMT
+- Link: https://www.blackstone.com/news/press/anthropic-partners-with-blackstone-hellman-friedman-and-goldman-sachs-to-launch-enterprise-ai-services-firm/
 
-Spacedino published an essay on 1 May 2026 — 'your biggest vulnerability is your shitty compensation.' Mark surfaced. The substantive claim: 'AI is making it faster and easier to brute-force security vulnerabilities at a time when open source is falling apart due to lack of funding and successors. M
+On 4 May, Bloomberg reported OpenAI had finalised a US$10 billion joint venture with private-equity firms to deploy AI inside enterprise customer footprints. On 5 May, Blackstone announced a partnership with Anthropic, Hellman & Friedman, and Goldman Sachs to launch a new enterprise AI services firm
