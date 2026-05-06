@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-05-05 03:50 UTC
+- Generated at: 2026-05-06 04:04 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Intel adds a third leg to the long-thesis: Z-Angle Memory at 2-3x HBM capacity per energy unit
+## 1. [Signal] OpenAI fast-tracks AI phone to 1H27 — MediaTek Dimensity 9600 on TSMC N2P
 
-- Published: Tue, 05 May 2026 00:07:46 GMT
-- Link: https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/
+- Published: Wed, 06 May 2026 00:59:20 GMT
+- Link: https://www.macrumors.com/2026/05/05/openai-fast-tracking-ai-phone-2027/
 
-HPCwire's coverage of Intel's Z-Angle Memory (ZAM) re-surfaced this morning. The technology, like HBM, stacks DRAM along the vertical axis, but the development claim is two-to-three-times the capacity of HBM and higher bandwidths at a fraction of the energy and cost. If ZAM ships at the claimed band
+MacRumors, citing Ming-Chi Kuo, reports that OpenAI has accelerated production of its forthcoming AI hardware product to 1H 2027. Reasons named: OpenAI's planned IPO and intensifying competition in AI agent phones. MediaTek appears "better positioned to become the sole processor supplier," with the
 
-## 2. [Signal] Five Eyes formalise agentic-AI guidance — runtime-protection becomes a procurement floor
+## 2. [Signal] Anthropic ships Finance Agents — earnings reviewer reads filings, flags thesis changes
 
-- Published: Tue, 05 May 2026 00:07:45 GMT
-- Link: https://www.theregister.com/2026/05/04/five_eyes_agentic_ai_recommendations/?td=rt-3a
+- Published: Wed, 06 May 2026 00:59:15 GMT
+- Link: https://www.anthropic.com/news/finance-agents
 
-Information-security agencies from the Five Eyes nations published joint guidance on agentic AI deployment this week. The operative passage: "Strong governance, explicit accountability, rigorous monitoring and human oversight are not optional safeguards but essential prerequisites... organisations s
+Anthropic announced its Finance Agents product, naming a class of finance-research-analyst agents including an earnings reviewer that reads transcripts and filings, updates models, and flags thesis-relevant changes. This is the second pure-frontier-lab announcement in eight days that productises the
 
-## 3. [Signal] John names the operative trade: resistance to the watershed creates the arbitrage
+## 3. [Signal] Apple opens Apple Intelligence to third-party chatbots in iOS 27
 
-- Published: Tue, 05 May 2026 00:07:44 GMT
-- Link: https://blog.quent.in/blog/2026/03/09/one-more-prompt-the-dopamine-trap-of-agentic-coding/
+- Published: Wed, 06 May 2026 00:59:09 GMT
+- Link: https://www.macrumors.com/2026/05/05/ios-27-third-party-chatbots-apple-intelligence/
 
-An anti-LLM amplification cycle is running at trade-press velocity through the same news graph as the operator-class adoption cycle. The same week as DeepClaude shipped, LangAlpha integrated the NOOPS API, and Kepler productised the line-item-citation contract for Anthropic, the social-media graph a
+MacRumors reports that iOS 27 will support third-party chatbots inside Apple Intelligence, making the model layer effectively pluggable. Mark's framing: "multiple choice." Apple's strategic posture has flipped from single-vendor opaque integration to explicitly multi-model, user-selectable. The hou
 
-## 4. [Signal] RAMageddon as Microsoft counter-beneficiary — the cycle is differentially bearish, not uniformly bearish
+## 4. [Signal] RAMageddon hits Google — Pixel 11 specs leak with reduced RAM
 
-- Published: Tue, 05 May 2026 00:07:43 GMT
-- Link: https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/
+- Published: Wed, 06 May 2026 00:59:03 GMT
+- Link: https://www.theverge.com/tech/923252/google-pixel-11-spec-leak-lower-ram
 
-Ars Technica framed it: the RAMageddon has bought Microsoft valuable time in the fight against SteamOS. Mark's read on surfacing it: "unexpectedly, RAMageddon is good for hardware makers?" The memory shortage is delaying the cohort of insurgent hardware — Steam Deck successors, SteamOS handhelds, Li
+The Verge published a Google Pixel 11 spec leak indicating a lower-RAM configuration than the predecessor model. Mark's framing: "RAMageddon hits Google!" This is the second flagship-handset OEM in two trading weeks to publicly express the memory-cost cycle binding through actual product specs. App
 
-## 5. [Signal] Schiff–Rounds AI Literacy Act — the legislative tier of the cultural-adoption gradient
+## 5. [Signal] Gemma 4 ships Multi-Token Prediction drafters — 3x speedup at zero quality cost
 
-- Published: Tue, 05 May 2026 00:07:43 GMT
-- Link: https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/
+- Published: Wed, 06 May 2026 00:58:53 GMT
+- Link: https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/
 
-Senators Adam Schiff and Mike Rounds have introduced the Literacy in Future Technologies — Artificial Intelligence Act, a bipartisan US federal bill on AI literacy and curriculum integration. The bill arrives in the same week that an influential ChatGPT-in-education study has been retracted, the soc
+Google released Multi-Token Prediction (MTP) drafters for the Gemma 4 family. Per Google's blog: a specialised speculative-decoding architecture delivers up to a 3x speedup without any degradation in output quality or reasoning logic. This is a clean inference-tier 3x improvement at zero quality co
 
-## 6. [Signal] DeepClaude packages Claude Code's autonomous loop on DeepSeek V4 Pro at one-seventeenth the cost
+## 6. [Signal] GPT-5.5-Instant — 52.5% fewer hallucinated claims at the latency tier
 
-- Published: Tue, 05 May 2026 00:07:42 GMT
-- Link: https://github.com/aattaran/deepclaude
+- Published: Wed, 06 May 2026 00:58:45 GMT
+- Link: https://openai.com/index/gpt-5-5-instant/
 
-DeepClaude shipped on GitHub overnight with a strapline that names the operator-class trade in nine words: "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper." The harness contract — Anthropic's tool-call API, AGENTS.m
+OpenAI announced GPT-5.5-Instant, the latency-tier model in the GPT-5.5 line. Headline claim: Instant produced 52.5% fewer hallucinated claims than its GPT predecessor. The latency tier — fast, cheap, optimised to run in loop — is the tier where per-call accuracy improvements are quietly being shipp
 
-## 7. [Signal] UK NCSC warns AI-fuelled bug hunting will flush years of buried flaws
+## 7. [Signal] Glaser names the enterprise dual-track AI adoption pattern
 
-- Published: Tue, 05 May 2026 00:07:41 GMT
-- Link: https://www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/
+- Published: Wed, 06 May 2026 00:58:40 GMT
+- Link: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/
 
-On 2 May the UK's National Cyber Security Centre issued a public warning that AI-fuelled bug hunting is about to flush out years of buried flaws, leaving defenders scrambling to keep up. A sovereign cyber agency is now publicly characterising AI-driven vulnerability discovery as a regime-change in d
+Robert Glaser published "When everyone has AI and the company still learns nothing" — naming an enterprise rollout pattern now visible across the operator class. Companies provision GitHub Copilot licences, deploy ChatGPT Enterprise somewhere in the stack, run the Claude / Gemini / Cursor pilots, an
 
-## 8. [Signal] Anthropic and OpenAI both stand up $10B PE-financed enterprise-AI deployment vehicles in the same week
+## 8. [Signal] Addy Osmani names the agent role-tier — junior, no instinct for what matters
 
-- Published: Tue, 05 May 2026 00:07:41 GMT
-- Link: https://www.blackstone.com/news/press/anthropic-partners-with-blackstone-hellman-friedman-and-goldman-sachs-to-launch-enterprise-ai-services-firm/
+- Published: Wed, 06 May 2026 00:58:27 GMT
+- Link: https://addyosmani.com/blog/agent-skills/
 
-On 4 May, Bloomberg reported OpenAI had finalised a US$10 billion joint venture with private-equity firms to deploy AI inside enterprise customer footprints. On 5 May, Blackstone announced a partnership with Anthropic, Hellman & Friedman, and Goldman Sachs to launch a new enterprise AI services firm
+Addy Osmani published "Agent Skills" — naming the operator-class role-mapping at the staffing-economics tier. His framing: AI coding agents are extremely capable junior engineers with no instinct for the parts of the job that don't matter most. The role-mapping crystallises John's era-of-the-IC fra
