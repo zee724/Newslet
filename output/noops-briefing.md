@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-05-06 04:04 UTC
+- Generated at: 2026-05-07 04:05 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] OpenAI fast-tracks AI phone to 1H27 — MediaTek Dimensity 9600 on TSMC N2P
+## 1. [Signal] Intel hires Qualcomm's Katouzian — fifth long-Intel leg
 
-- Published: Wed, 06 May 2026 00:59:20 GMT
-- Link: https://www.macrumors.com/2026/05/05/openai-fast-tracking-ai-phone-2027/
+- Published: Wed, 06 May 2026 23:19:43 GMT
+- Link: https://hothardware.com/news/intel-recruits-senior-qualcomm-exec-katouzian-lead-client-computing
 
-MacRumors, citing Ming-Chi Kuo, reports that OpenAI has accelerated production of its forthcoming AI hardware product to 1H 2027. Reasons named: OpenAI's planned IPO and intensifying competition in AI agent phones. MediaTek appears "better positioned to become the sole processor supplier," with the
+Intel hired senior Qualcomm executive Katouzian to lead Client Computing. Per HotHardware (6 May 2026), Katouzian spent ~24 years at Qualcomm, most recently as EVP and group GM of mobile, compute, XR, and wearable AI — and is identified as one of the architects of Snapdragon's Windows-on-ARM PC push
 
-## 2. [Signal] Anthropic ships Finance Agents — earnings reviewer reads filings, flags thesis changes
+## 2. [Signal] Panthalassa claims the node — floating AI data centres on ocean waves
 
-- Published: Wed, 06 May 2026 00:59:15 GMT
-- Link: https://www.anthropic.com/news/finance-agents
+- Published: Wed, 06 May 2026 23:19:42 GMT
+- Link: https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/
 
-Anthropic announced its Finance Agents product, naming a class of finance-research-analyst agents including an earnings reviewer that reads transcripts and filings, updates models, and flags thesis-relevant changes. This is the second pure-frontier-lab announcement in eight days that productises the
+Ars Technica reported on Silicon Valley's bet on floating AI data centres powered by ocean waves. Panthalassa is named as the company 'claiming the node.' This is the first hardware-moment expression that locates the substrate outside the terrestrial grid entirely. The earlier eleven tiers were all
 
-## 3. [Signal] Apple opens Apple Intelligence to third-party chatbots in iOS 27
+## 3. [Signal] John: "What if the work actually rarely mattered?"
 
-- Published: Wed, 06 May 2026 00:59:09 GMT
-- Link: https://www.macrumors.com/2026/05/05/ios-27-third-party-chatbots-apple-intelligence/
+- Published: Wed, 06 May 2026 23:19:41 GMT
+- Link: https://nooneshappy.com/article/appearing-productive-in-the-workplace/
 
-MacRumors reports that iOS 27 will support third-party chatbots inside Apple Intelligence, making the model layer effectively pluggable. Mark's framing: "multiple choice." Apple's strategic posture has flipped from single-vendor opaque integration to explicitly multi-model, user-selectable. The hou
+Reading from John on 7 May 2026 in response to a No One's Happy article on appearing productive in the workplace: 'What if the work actually rarely mattered? It was compliance theater? It was corporate busywork dressed up as knowledge work?' The frame names the most aggressive form of the labour-di
 
-## 4. [Signal] RAMageddon hits Google — Pixel 11 specs leak with reduced RAM
+## 4. [Signal] Coinbase "AI-native restructuring" lays off ~700 — narrator: not actually because of AI
 
-- Published: Wed, 06 May 2026 00:59:03 GMT
-- Link: https://www.theverge.com/tech/923252/google-pixel-11-spec-leak-lower-ram
+- Published: Wed, 06 May 2026 23:19:40 GMT
+- Link: https://www.engadget.com/2165157/coinbase-lays-off-nearly-700-workers-in-ai-native-restructuring/
 
-The Verge published a Google Pixel 11 spec leak indicating a lower-RAM configuration than the predecessor model. Mark's framing: "RAMageddon hits Google!" This is the second flagship-handset OEM in two trading weeks to publicly express the memory-cost cycle binding through actual product specs. App
+Coinbase announced approximately 700 layoffs framed as an 'AI-native restructuring.' Mark's narrator-aside: '(Narrator: not actually because of AI).' Coinbase is restructuring for crypto-cycle reasons — revenue compression, listing-fee declines, post-IPO expense discipline — and reaching for the AI-
 
-## 5. [Signal] Gemma 4 ships Multi-Token Prediction drafters — 3x speedup at zero quality cost
+## 5. [Signal] Cloudflare and AWS ship agent-identity primitives in the same week
 
-- Published: Wed, 06 May 2026 00:58:53 GMT
-- Link: https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/
+- Published: Wed, 06 May 2026 23:19:39 GMT
+- Link: https://blog.cloudflare.com/agents-stripe-projects/
 
-Google released Multi-Token Prediction (MTP) drafters for the Gemma 4 family. Per Google's blog: a specialised speculative-decoding architecture delivers up to a 3x speedup without any degradation in output quality or reasoning logic. This is a clean inference-tier 3x improvement at zero quality co
+Two of the three commercial-internet platform vendors shipped first-class agent-identity primitives in the same trading week. Cloudflare announced 'Agents, Stripe, and Projects' — coordinated edge-tier features for agent-native applications — which by 6 May was the #1 post on Hacker News. AWS announ
 
-## 6. [Signal] GPT-5.5-Instant — 52.5% fewer hallucinated claims at the latency tier
+## 6. [Signal] Apple withdraws Mac mini 32/64 GB and Mac Studio 256 GB SKUs
 
-- Published: Wed, 06 May 2026 00:58:45 GMT
-- Link: https://openai.com/index/gpt-5-5-instant/
+- Published: Wed, 06 May 2026 23:19:38 GMT
+- Link: https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/
 
-OpenAI announced GPT-5.5-Instant, the latency-tier model in the GPT-5.5 line. Headline claim: Instant produced 52.5% fewer hallucinated claims than its GPT predecessor. The latency tier — fast, cheap, optimised to run in loop — is the tier where per-call accuracy improvements are quietly being shipp
+Apple has removed additional desktop Mac SKUs from its online store as the global memory shortage continues. As of 5–7 May 2026: Mac mini models with 32GB and 64GB of RAM are no longer available for purchase, and the M3 Ultra Mac Studio with 256GB RAM is also withdrawn. The signal is procurement-si
 
-## 7. [Signal] Glaser names the enterprise dual-track AI adoption pattern
+## 7. [Signal] AMD Q1 FY26: +18% open, data centre +57% YoY, ~$681B market cap
 
-- Published: Wed, 06 May 2026 00:58:40 GMT
-- Link: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/
+- Published: Wed, 06 May 2026 23:19:37 GMT
+- Link: https://www.bloomberg.com/news/articles/2026-05-05/amd-q1-fy26-data-center-revenue
 
-Robert Glaser published "When everyone has AI and the company still learns nothing" — naming an enterprise rollout pattern now visible across the operator class. Companies provision GitHub Copilot licences, deploy ChatGPT Enterprise somewhere in the stack, run the Claude / Gemini / Cursor pilots, an
+AMD reported Q1 FY26 on 5 May 2026 (US) and the stock opened up roughly 18% the next morning. Headline data points (per Bloomberg coverage): data centre segment growth +57% YoY; share price ~$418 against ~1.63B shares outstanding implies an intra-day market cap near $681B. The +57% data centre grow
 
-## 8. [Signal] Addy Osmani names the agent role-tier — junior, no instinct for what matters
+## 8. [Signal] Anthropic books all of SpaceX's Colossus 1 — 300 MW, 220k GPUs
 
-- Published: Wed, 06 May 2026 00:58:27 GMT
-- Link: https://addyosmani.com/blog/agent-skills/
+- Published: Wed, 06 May 2026 23:19:36 GMT
+- Link: https://www.anthropic.com/news/higher-limits-spacex
 
-Addy Osmani published "Agent Skills" — naming the operator-class role-mapping at the staffing-economics tier. His framing: AI coding agents are extremely capable junior engineers with no instinct for the parts of the job that don't matter most. The role-mapping crystallises John's era-of-the-IC fra
+Anthropic announced an agreement to use the entire compute capacity of SpaceX's Colossus 1 data centre — over 300 megawatts and more than 220,000 NVIDIA GPUs — coming online within the month. The capacity is earmarked to improve service for Claude Pro and Claude Max subscribers. The supply-side sto
