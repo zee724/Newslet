@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-05-12 04:05 UTC
+- Generated at: 2026-05-13 04:11 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Meta makes harness-fluency a performance metric for 78,000 staff
+## 1. [Signal] UCF AI commencement speaker booed — academic-ceremony friction tier
 
-- Published: Mon, 11 May 2026 01:05:55 GMT
-- Link: https://indianexpress.com/article/technology/artificial-intelligence/metas-embrace-of-ai-is-making-its-employees-miserable-10681907/
+- Published: Tue, 12 May 2026 22:14:58 GMT
+- Link: https://www.404media.co/ucf-ai-commencement-speaker-booed/
 
-Indian Express reports Meta has begun pushing its ~78,000 employees to adopt AI tools and is factoring their use of the technology into performance reviews, with telemetry tracking of approved tool usage. Earlier 2026 prints from Shopify (Lütke), Amazon (Jassy) and Box established the principle at C
+On 12 May, 404 Media reported on a University of Central Florida commencement at which the AI-themed keynote speaker was booed by the assembled audience. The print sits as the academic-ceremony tier of cultural-adoption friction, and lands alongside the Meta HR-mandate *"miserable"* staff framing an
 
-## 2. [Signal] OpenAI $14B / Anthropic $11B 2026 losses meet the GPT-5.5 cash-burn paradox
+## 2. [Signal] Goedecke: 'Software engineering may no longer be a lifetime career'
 
-- Published: Mon, 11 May 2026 01:05:53 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498
+- Published: Tue, 12 May 2026 22:14:57 GMT
+- Link: https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/
 
-The Register's 8 May 2026 piece, 'GPT-5.5 may burn fewer tokens but it always burns more cash', pairs the GPT-5.5 list-rate reset with operator-tier loss prints: OpenAI's own forecast projects a $14 billion 2026 loss; Anthropic is reportedly set to lose $11 billion the same year. The Information's e
+On 11–12 May, Sean Goedecke — Australian engineer, blogger, working operator — published *Software engineering may no longer be a lifetime career*. The post is a candid operator-class statement that the long-stable assumption of software engineering as a four-decade professional trajectory is no lon
 
-## 3. [Signal] Cisco ships an open-source DNA test for AI models
+## 3. [Signal] Interfaze: specialist-architecture for deterministic tasks, not LLM replacement
 
-- Published: Mon, 11 May 2026 01:05:50 GMT
-- Link: https://www.scworld.com/news/cisco-releases-open-source-dna-test-for-ai-models
+- Published: Tue, 12 May 2026 22:14:57 GMT
+- Link: https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale
 
-Cisco has released an open-source tool for testing the provenance and composition of AI models, explicitly motivated by the supply-chain attestation gap on HuggingFace and similar repositories, where models can be uploaded with incomplete or deceptive documentation. The framing extends supply-chain
+On 12 May, Interfaze published *Interfaze: a new model architecture built for high-accuracy at scale*. The framing is paradigm-precise: *"Our goal isn't to replace LLMs. It's to specialize in deterministic tasks. The benchmarks focus on categories like OCR, object detection, and structured output, w
 
-## 4. [Signal] Common Crawl is now buildable directly from the browser
+## 4. [Signal] Big 7 +58% profit / Semi index +66% YTD — equity-tier substrate concentration
 
-- Published: Mon, 11 May 2026 01:05:43 GMT
-- Link: https://commoncrawl.org/blog/you-can-now-build-directly-on-common-crawl-from-the-browser
+- Published: Tue, 12 May 2026 22:14:56 GMT
+- Link: https://www.bloomberg.com/news/articles/2026-05-11/big-tech-profits-jump-58-percent-ai-capex
 
-Common Crawl — the training-data substrate underneath GPT-2 / GPT-3 / LLaMA / Falcon and most of the open-weight cohort's pre-training mix — announced that developers can now build directly on the dataset from the browser, eliminating the historical requirement of an AWS account, Spark cluster, or l
+On 11 May, Bloomberg reported that the Big 7 tech firms are projected to post a 58% jump in profits this quarter — with NVIDIA yet to report. The semi index is up 66% year-to-date and 140% on a one-year basis. Mark's read, watching Bloomberg from a hotel room: *"A modification of capex."* The capex
 
-## 5. [Signal] 'Local AI needs to be the norm' — design-pattern hedge on closed-frontier loss curve
+## 5. [Signal] Tunguz names 'localmaxxing' as inevitable response to tokenmaxxing
 
-- Published: Mon, 11 May 2026 01:05:41 GMT
-- Link: https://unix.foo/posts/local-ai-needs-to-be-norm/
+- Published: Tue, 12 May 2026 22:14:55 GMT
+- Link: https://tomtunguz.com/localmaxxing/
 
-The unix.foo post 'Local AI Needs to Be the Norm' argues that the default architecture for AI features has flipped a UX-tier convenience into a distributed-system commitment, with recurring inference costs, latency, privacy and reliability implications. Mark's gloss: 'Congratulations! You took a UX
+On 12 May, Tom Tunguz (Theory Ventures) published *Localmaxxing* — the cleanest 2026 top-tier VC-blog naming of the home-watershed thesis. Tunguz's framing: *"Localmaxxing, pushing more inference to local models, is an inevitable response to tokenmaxxing. As local models improve & close the gap with
 
-## 6. [Signal] Gowers: GPT-5.5 Pro produced a chapter of PhD-level research in 17 minutes
+## 6. [Signal] Google: AI-powered hacking 'industrial-scale threat' within three months
 
-- Published: Mon, 11 May 2026 01:05:40 GMT
-- Link: https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/
+- Published: Tue, 12 May 2026 22:14:54 GMT
+- Link: https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google
 
-Fields Medalist Timothy Gowers published *A recent experience with ChatGPT 5.5 Pro* on 8 May 2026. He reports that the model, given a problem from Mel Nathanson's *Diversity, Equity and Inclusion for Problems in Additive Number Theory*, thought for 17 minutes 5 seconds and produced the best possible
+On 11 May, The Guardian published Google's threat-intelligence assessment that AI-powered hacking is on track to become an *"industrial-scale threat"* within three months. The framing aligns with the *"high quality chaos"* observation that Daniel Stenberg made about cURL the same day, and lands as t
 
-## 7. [Signal] Internet Archive priced out of HDDs as AI absorbs storage inventory
+## 7. [Signal] OpenAI launches 'The Deployment Company' — vertical capture of the layer above the API
 
-- Published: Mon, 11 May 2026 01:05:39 GMT
-- Link: https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/
+- Published: Tue, 12 May 2026 22:14:53 GMT
+- Link: https://openai.com/index/openai-launches-the-deployment-company/
 
-404 Media reported on 8 May 2026 that the Internet Archive, the Wikimedia Foundation, and academic / hobby archivists are being priced out of large-capacity hard drives as the AI data-centre cycle absorbs storage inventory. The 28–30 TB drives ideal for archival workloads are out of stock or availab
+On 12 May, OpenAI published *OpenAI launches The Deployment Company*. The framing — OpenAI as a *deployment* company rather than a *frontier-model-research* company — is the most explicit corporate-positioning pivot since the GPT-5.5 launch, and lands as the strategic counterpart to the $14B 2026 lo
 
-## 8. [Signal] Vance summit: Mythos triggers White House pivot on AI
+## 8. [Signal] Stratechery names the agentic-inference memory-hierarchy unbundling
 
-- Published: Mon, 11 May 2026 01:05:36 GMT
-- Link: https://www.dailymail.com/news/article-15801429/JD-Vance-holds-chilling-closed-door-summit-Americas-powerful-men-horrifying-global-threat-menacing-hospitals-spirals.html
+- Published: Tue, 12 May 2026 22:14:50 GMT
+- Link: https://stratechery.com/2026/the-inference-shift/
 
-Daily Mail and Washington Post both reported on 8 May 2026 that Vice President JD Vance convened a closed-door April call with senior tech executives — Musk, Altman, Amodei, Pichai, Nadella — after a White House briefing on Mythos, the autonomous cyber-vulnerability discovery system Anthropic withhe
+On 12 May, Ben Thompson published *The Inference Shift* at Stratechery, restating in mainstream-analyst lexicon the memory-hierarchy-unbundling-of-the-GPU framing that has structured the agentic-inference investment case since late 2025. Thompson's core formulation: *"The most important aspect for a
