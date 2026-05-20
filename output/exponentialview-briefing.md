@@ -1,6 +1,6 @@
 # Exponential View Daily Briefing
 
-- Generated at: 2026-05-19 04:33 UTC
+- Generated at: 2026-05-20 04:35 UTC
 - Feed: https://www.exponentialview.co/feed
 - Items: 8
 
@@ -25,7 +25,7 @@ This is the most relevant newsletter I receive in my inbox every week.
 
 Wall St is finally grasping AI inference demand
 
-## 4. 🔮🇨🇳 Inside the Chinese AI labs where America’s AI controls created its toughest competiton
+## 4. 🔮🇨🇳 Inside the Chinese AI labs where America’s AI controls created its toughest competition
 
 - Published: Wed, 13 May 2026 16:47:43 GMT
 - Link: https://www.exponentialview.co/p/inside-chinese-ai-labs-efficiency-moat
