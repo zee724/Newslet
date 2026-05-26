@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-05-25 04:50 UTC
+- Generated at: 2026-05-26 04:33 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Bank moats are real — until the agents arrive
+## 1. [Signal] Australia's meme war and tax as an investment-steering lever
 
-- Published: Sun, 24 May 2026 21:39:42 GMT
-- Link: https://noops.au/feed
+- Published: Mon, 25 May 2026 20:50:53 GMT
+- Link: https://www.smh.com.au/politics/federal/how-a-meme-war-with-tech-bros-derailed-labor-s-budget-narrative-20260520-p5zz2o.html
 
-A former CTO of Westpac recently argued that banks have moats deep enough to keep them safe from AI disruption. The NOOPS view is more divided. The regulated core of a bank — deposit-taking, the payments rails, prudential licensing — genuinely is defended, because the moat there is statutory, and no
+Mark surfaced a Sydney Morning Herald piece on how a meme war with tech bros derailed the Labor government's budget narrative. John's commentary cut both ways: there is, he argued, some validity to the position that certain kinds of investment are more desirable than others, and this is a lever to p
 
-## 2. [Signal] Intuit cuts 3,000 jobs for AI — infrastructure, or a spoon?
+## 2. [Signal] Josh Comeau: AI multiplies skill, it doesn't replace it
 
-- Published: Sun, 24 May 2026 21:39:40 GMT
-- Link: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/
+- Published: Mon, 25 May 2026 20:50:51 GMT
+- Link: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/
 
-Intuit will lay off more than 3,000 employees to 'refocus on AI.' It is a profitable incumbent attributing a substantial cut to an AI strategy rather than a downturn — the now-familiar pattern of displacement booked as investment. The more interesting question is whether Intuit survives the shift a
+Mark surfaced a Josh Comeau essay this week with a pointed claim at its centre: we look at what a skilled developer can do with an LLM and credit the LLM rather than the skilled developer. Comeau's argument is that AI has a multiplying effect on existing technical skill — the more deeply you underst
 
-## 3. [Signal] SpaceX is being priced as a compute company with a space sideline
+## 3. [Signal] AI's public-relations emergency
 
-- Published: Sun, 24 May 2026 21:39:39 GMT
-- Link: https://twitter.com/nottombrown/status/2057194829986300375
+- Published: Mon, 25 May 2026 20:50:50 GMT
+- Link: https://www.bigtechnology.com/p/ais-public-relations-emergency
 
-As SpaceX moves toward an IPO, the framing has sharpened. 'Maybe SpaceX is just a data centre play with a sideline in space,' one widely shared post put it this week. John, reading the S-1, found the documentary basis for it: the company's actual space income is a small fraction of the total address
+Mark surfaced a Big Technology piece this week under the heading AI's public relations emergency, and its thrust is simple: AI's perception problem is not going away. The conversation around it — will this silence the nay-sayers? Probably not — caught the labs' bind. Capability prints, including the
 
-## 4. [Signal] Seagate won't build new memory factories — and that's the real signal
+## 4. [Signal] Nvidia reaches for the CPU crown
 
-- Published: Sun, 24 May 2026 21:39:38 GMT
-- Link: https://www.cnbc.com/2026/05/18/seagate-memory-chip-stocks-ai.html
+- Published: Mon, 25 May 2026 20:50:49 GMT
+- Link: https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868
 
-Seagate's CEO told a JPMorgan conference this week that building new memory factories would 'take too long' — adding capacity, he said, would only 'slow the rate of growth on that technology.' The market read it as a demand warning: Seagate fell more than 6%, dragging Micron, SanDisk and Western Dig
+Nvidia's CFO told an investor audience the company is on track to become the world's leading CPU supplier — a claim Mark passed on with the dry note that apparently you can have it all, and one John confirmed is already underway. Nvidia already owns the AI-accelerator market. A credible path to als
 
-## 5. [Signal] The agent-runtime layer is becoming a product category
+## 5. [Signal] Kanbots: a kanban board where the agents are the workers
 
-- Published: Sun, 24 May 2026 21:39:37 GMT
-- Link: https://www.runtm.com/
+- Published: Mon, 25 May 2026 20:50:47 GMT
+- Link: https://www.kanbots.dev/
 
-Two items this week bracket the state of the agent-runtime layer. The first is Runtime (runtm.com), a Y Combinator-backed, open-source runtime and control plane for agent-built software — sandboxed environments where coding agents build, run and deploy, with company context, integrations, guardrails
+Mark surfaced Kanbots this week — an open-source kanban board that runs Claude Code and Codex agents in parallel, with a paid cloud tier for teams that need to share a board. It is a clean instance of the processes-as-harnesses idea. A kanban board is a process artefact: a way of decomposing work i
 
-## 6. [Signal] Intel's process roadmap is the route around foundry reluctance
+## 6. [Signal] Employees as training data: Zuckerberg's keystrokes and the 'Soylent Green' problem
 
-- Published: Sun, 24 May 2026 21:39:36 GMT
-- Link: https://www.theregister.com/systems/2026/05/20/intels-ceo-reveals-early-hiring-challenges-as-bankruptcy-concerns-deterred-top-talent/5243546
+- Published: Mon, 25 May 2026 20:50:46 GMT
+- Link: https://www.theregister.com/ai-ml/2026/05/22/zuck-defends-monitoring-employees-to-win-ai-race-in-purported-leaked-audio/5245379
 
-Intel's CEO Lip-Bu Tan offered a process-technology update this week: the 18A node is improving yield around 7% a month, and the next-generation 14A is 'ahead of schedule.' Tan put 14A risk production in 2028 and volume production in 2029 — 'about the same time as A14 for TSMC.' The same report note
+A cluster of reporting this week describes a single practice. In leaked audio published by the advocacy group More Perfect Union, Mark Zuckerberg purportedly defended collecting Meta employees' keystrokes, mouse clicks and screenshots as AI training data, arguing it is necessary to win the technolog
 
-## 7. [Signal] Web developers are sleeping with the enemy
+## 7. [Signal] The Camouflage Detection Gap: agent defences fail against disguised attacks
 
-- Published: Sun, 24 May 2026 21:39:35 GMT
-- Link: https://www.theregister.com/devops/2026/05/21/web-devs-sleeping-with-the-enemy-ai-is-doing-their-job-and-they-worry-its-after-their-desk-too/5244132
+- Published: Mon, 25 May 2026 20:50:44 GMT
+- Link: https://arxiv.org/abs/2605.22001
 
-A new 'State of Web Dev AI' survey captures the contradiction of the moment. Nearly half of web developers worry AI will displace their jobs — one called it 'devastating to our sector.' Yet 74% say AI tools are now integral to their workflow, 64% feel more productive because of them, and 88% say too
+A new arXiv paper identifies a systematic blind spot in the defences built to protect LLM agents. Prompt-injection detectors are calibrated on static, template-based payloads that effectively announce themselves as override instructions. When a payload is instead written to mimic the vocabulary and
 
-## 8. [Signal] The 'pennies on the dollar' story about AI labour was always wrong
+## 8. [Signal] AI finds 10,000 critical vulnerabilities in the world's most important software
 
-- Published: Sun, 24 May 2026 21:39:34 GMT
-- Link: https://www.theregister.com/ai-ml/2026/05/21/ai-is-getting-pricey-but-relief-is-coming-but-not-for-you/5244358
+- Published: Mon, 25 May 2026 20:50:43 GMT
+- Link: https://www.anthropic.com/research/glasswing-initial-update
 
-A piece in The Register this week put a useful frame on AI pricing: if Nvidia and AMD are the arms dealers of the AI age, the model developers are the drug dealers — the first hit is free, the next ones are cheap, and dependence follows. Its sharper claim: executives who expected AI to replace a ful
+Anthropic's Glasswing initial update reports that the company and roughly 50 partners have used Claude Mythos Preview to identify more than ten thousand high- or critical-severity vulnerabilities across what it calls the most systemically important software in the world. Anthropic's own framing is t
