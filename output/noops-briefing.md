@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-05-26 04:33 UTC
+- Generated at: 2026-05-27 04:47 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Australia's meme war and tax as an investment-steering lever
+## 1. [Signal] Huawei's chip law looks more like marketing than Moore
 
-- Published: Mon, 25 May 2026 20:50:53 GMT
-- Link: https://www.smh.com.au/politics/federal/how-a-meme-war-with-tech-bros-derailed-labor-s-budget-narrative-20260520-p5zz2o.html
+- Published: Tue, 26 May 2026 23:13:05 GMT
+- Link: https://www.theregister.com/systems/2026/05/26/huaweis-chip-law-looks-less-like-moore-and-more-like-marketing/
 
-Mark surfaced a Sydney Morning Herald piece on how a meme war with tech bros derailed the Labor government's budget narrative. John's commentary cut both ways: there is, he argued, some validity to the position that certain kinds of investment are more desirable than others, and this is a lever to p
+The Register on Huawei's claimed accelerator roadmap: Omdia analyst Manoj Sukumaran poured cold water on the firm's recent statements about a generational-improvement curve positioned as a "chip law" analogous to Moore's. The gap between announced cadence and demonstrable silicon is wide enough, the
 
-## 2. [Signal] Josh Comeau: AI multiplies skill, it doesn't replace it
+## 2. [Signal] The Register engages the SaaS-pocalypse — and the moat that doesn't move quickly
 
-- Published: Mon, 25 May 2026 20:50:51 GMT
-- Link: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/
+- Published: Tue, 26 May 2026 23:12:42 GMT
+- Link: https://www.theregister.com/saas/2026/05/26/the-saas-pocalypse-can-wait-salesforce-still-has-customers-where-it-wants-them/
 
-Mark surfaced a Josh Comeau essay this week with a pointed claim at its centre: we look at what a skilled developer can do with an LLM and credit the LLM rather than the skilled developer. Comeau's argument is that AI has a multiplying effect on existing technical skill — the more deeply you underst
+The Register published "The SaaS-pocalypse can wait: Salesforce still has customers where it wants them" — a headline that lifts the framing this site has tracked under the same name, and a counter-argument worth taking on its terms: "Although software is expensive, and some vendors enjoy eye-wateri
 
-## 3. [Signal] AI's public-relations emergency
+## 3. [Signal] Why task proficiency does not equal autonomy
 
-- Published: Mon, 25 May 2026 20:50:50 GMT
-- Link: https://www.bigtechnology.com/p/ais-public-relations-emergency
+- Published: Tue, 26 May 2026 23:12:39 GMT
+- Link: https://www.signalbloom.ai/posts/why-task-proficiency-doesnt-equal-ai-autonomy/
 
-Mark surfaced a Big Technology piece this week under the heading AI's public relations emergency, and its thrust is simple: AI's perception problem is not going away. The conversation around it — will this silence the nay-sayers? Probably not — caught the labs' bind. Capability prints, including the
+A companion Signal Bloom piece argues that the strong form of the labour-displacement thesis — meaningful replacement of software engineers in the foreseeable future — is not supported by current trajectories: "groundbreaking improvements in each of the following — Confidence Calibration, Evidential
 
-## 4. [Signal] Nvidia reaches for the CPU crown
+## 4. [Signal] Outsourcing plus local AI: the cost stack closes on the frontier API
 
-- Published: Mon, 25 May 2026 20:50:49 GMT
-- Link: https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868
+- Published: Tue, 26 May 2026 23:12:36 GMT
+- Link: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/
 
-Nvidia's CFO told an investor audience the company is on track to become the world's leading CPU supplier — a claim Mark passed on with the dry note that apparently you can have it all, and one John confirmed is already underway. Nvidia already owns the AI-accelerator market. A credible path to als
+A Signal Bloom piece argues that an outsourced-human-review-plus-local-open-weights stack is closing on metered frontier-lab inference faster than the major-lab roadmaps imply. The headline number Mark pulled out — "Anthropic: $1.57 + $1.25 = $2.82" — is the like-for-like cost-stack mathematics rath
 
-## 5. [Signal] Kanbots: a kanban board where the agents are the workers
+## 5. [Signal] Agent gravity and the end of system-of-record moats
 
-- Published: Mon, 25 May 2026 20:50:47 GMT
-- Link: https://www.kanbots.dev/
+- Published: Tue, 26 May 2026 23:12:32 GMT
+- Link: https://tomtunguz.com/agent-gravity/
 
-Mark surfaced Kanbots this week — an open-source kanban board that runs Claude Code and Codex agents in parallel, with a paid cloud tier for teams that need to share a board. It is a clean instance of the processes-as-harnesses idea. A kanban board is a process artefact: a way of decomposing work i
+Tom Tunguz's "Agent Gravity" post makes the structural argument unusually plainly: "If DBX customers can create data pipelines and manipulate their data through agents, then the person building those agents — or the agent itself — will decide where to run the agent (agent gravity) and where to proce
 
-## 6. [Signal] Employees as training data: Zuckerberg's keystrokes and the 'Soylent Green' problem
+## 6. [Signal] Sleep-like consolidation: a structural answer to constraint decay
 
-- Published: Mon, 25 May 2026 20:50:46 GMT
-- Link: https://www.theregister.com/ai-ml/2026/05/22/zuck-defends-monitoring-employees-to-win-ai-race-in-purported-leaked-audio/5245379
+- Published: Tue, 26 May 2026 23:12:24 GMT
+- Link: https://arxiv.org/abs/2605.26099
 
-A cluster of reporting this week describes a single practice. In leaked audio published by the advocacy group More Perfect Union, Mark Zuckerberg purportedly defended collecting Meta employees' keystrokes, mouse clicks and screenshots as AI training data, arguing it is necessary to win the technolog
+A new arXiv preprint (2605.26099) proposes a "sleep-like consolidation mechanism" for long-horizon LLM tasks: the model periodically converts recent context into persistent fast weights in its state-space-model blocks, before clearing the key-value cache. The sleep phase performs N offline recurrent
 
-## 7. [Signal] The Camouflage Detection Gap: agent defences fail against disguised attacks
+## 7. [Signal] Boring languages, dense latent spaces, and the LLM convention premium
 
-- Published: Mon, 25 May 2026 20:50:44 GMT
-- Link: https://arxiv.org/abs/2605.22001
+- Published: Tue, 26 May 2026 23:12:19 GMT
+- Link: https://jry.io/writing/use-boring-languages-with-llms/
 
-A new arXiv paper identifies a systematic blind spot in the defences built to protect LLM agents. Prompt-injection detectors are calibrated on static, template-based payloads that effectively announce themselves as override instructions. When a payload is instead written to mimic the vocabulary and
+The jry.io essay argues that the languages and ecosystems with the strongest conventions produce the best agentic output; the ones with the most fragmentation produce the worst. Convention-density, not language elegance, sets the ceiling. John's reformulation is the cleaner statement of the mechanis
 
-## 8. [Signal] AI finds 10,000 critical vulnerabilities in the world's most important software
+## 8. [Signal] Coding-agent UX and the social-contract gap
 
-- Published: Mon, 25 May 2026 20:50:43 GMT
-- Link: https://www.anthropic.com/research/glasswing-initial-update
+- Published: Tue, 26 May 2026 23:12:13 GMT
+- Link: https://pscanf.com/s/354/
 
-Anthropic's Glasswing initial update reports that the company and roughly 50 partners have used Claude Mythos Preview to identify more than ten thousand high- or critical-severity vulnerabilities across what it calls the most systemically important software in the world. Anthropic's own framing is t
+An essay on pscanf.com argues that coding agents "behave enough like helpful colleagues to trigger our social instincts, but they don't learn, adapt, or take responsibility the way people do, which makes their repeated mistakes feel much more frustrating than they should." John's reply on the thread
