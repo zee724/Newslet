@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-05-28 04:39 UTC
+- Generated at: 2026-05-29 04:42 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Huawei's chip law looks more like marketing than Moore
+## 1. [Signal] MiniMax M2.7 launches with a recursive-self-improvement positioning
 
-- Published: Tue, 26 May 2026 23:13:05 GMT
-- Link: https://www.theregister.com/systems/2026/05/26/huaweis-chip-law-looks-less-like-moore-and-more-like-marketing/
+- Published: Fri, 29 May 2026 02:54:49 GMT
+- Link: https://www.minimax.io
 
-The Register on Huawei's claimed accelerator roadmap: Omdia analyst Manoj Sukumaran poured cold water on the firm's recent statements about a generational-improvement curve positioned as a "chip law" analogous to Moore's. The gap between announced cadence and demonstrable silicon is wide enough, the
+Chinese vendor MiniMax has launched M2.7, framed as a flagship text-and-agentic model and described in early coverage as capable of recursive self-improvement without human intervention. The positioning is a notable departure from the Chinese-vendor playbook of the prior quarter, which had anchored
 
-## 2. [Signal] The Register engages the SaaS-pocalypse — and the moat that doesn't move quickly
+## 2. [Signal] Anthropic Series H — US$65bn at US$965bn, US$47bn run-rate, 15GW committed
 
-- Published: Tue, 26 May 2026 23:12:42 GMT
-- Link: https://www.theregister.com/saas/2026/05/26/the-saas-pocalypse-can-wait-salesforce-still-has-customers-where-it-wants-them/
+- Published: Fri, 29 May 2026 02:54:48 GMT
+- Link: https://www.anthropic.com/news/series-h
 
-The Register published "The SaaS-pocalypse can wait: Salesforce still has customers where it wants them" — a headline that lifts the framing this site has tracked under the same name, and a counter-argument worth taking on its terms: "Although software is expensive, and some vendors enjoy eye-wateri
+Anthropic announced a Series H of US$65bn led by Altimeter, Dragoneer, Greenoaks and Sequoia, at a US$965bn post-money valuation. Run-rate revenue crossed US$47bn earlier this month, against a Series G closed only in February. Announced alongside three compute commitments: 5GW from Amazon, 5GW of ne
 
-## 3. [Signal] Why task proficiency does not equal autonomy
+## 3. [Signal] Canonical and Google certify Ubuntu LTS for TPU VMs — TPU as enterprise-procurable substrate
 
-- Published: Tue, 26 May 2026 23:12:39 GMT
-- Link: https://www.signalbloom.ai/posts/why-task-proficiency-doesnt-equal-ai-autonomy/
+- Published: Fri, 29 May 2026 02:54:46 GMT
+- Link: https://www.theregister.com/off-prem/2026/05/28/google-canonical-team-up-to-certify-ubuntu-images-for-tpu-vms/5248028
 
-A companion Signal Bloom piece argues that the strong form of the labour-displacement thesis — meaningful replacement of software engineers in the foreseeable future — is not supported by current trajectories: "groundbreaking improvements in each of the following — Confidence Calibration, Evidential
+Canonical and Google have jointly certified two Ubuntu LTS builds for TPU VMs, with five years of guaranteed support maintenance and full JAX, PyTorch, TensorFlow, Kubernetes and Snap integration. Before this, the Google-TPU OS tier was largely Google-internal (Container-Optimised OS) or vendor-pres
 
-## 4. [Signal] Outsourcing plus local AI: the cost stack closes on the frontier API
+## 4. [Signal] ktx: a self-improving warehouse-context layer purpose-built for agents
 
-- Published: Tue, 26 May 2026 23:12:36 GMT
-- Link: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/
+- Published: Fri, 29 May 2026 02:54:45 GMT
+- Link: https://github.com/Kaelio/ktx
 
-A Signal Bloom piece argues that an outsourced-human-review-plus-local-open-weights stack is closing on metered frontier-lab inference faster than the major-lab roadmaps imply. The headline number Mark pulled out — "Anthropic: $1.57 + $1.25 = $2.82" — is the like-for-like cost-stack mathematics rath
+A small open-source project — ktx (https://github.com/Kaelio/ktx) — describes itself as "a self-improving context layer that teaches agents how to query your warehouse accurately," maintained from approved metric definitions, joinable columns and business knowledge. The integration surface is the en
 
-## 5. [Signal] Agent gravity and the end of system-of-record moats
+## 5. [Signal] IISc names the LLM blind spot — combinatorial problems frontier models stall on
 
-- Published: Tue, 26 May 2026 23:12:32 GMT
-- Link: https://tomtunguz.com/agent-gravity/
+- Published: Fri, 29 May 2026 02:54:44 GMT
+- Link: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/
 
-Tom Tunguz's "Agent Gravity" post makes the structural argument unusually plainly: "If DBX customers can create data pipelines and manipulate their data through agents, then the person building those agents — or the agent itself — will decide where to run the agent (agent gravity) and where to proce
+Researchers at the Indian Institute of Science describe a nature-inspired "Eureka machine" aimed specifically at the combinatorial-optimisation surface — vehicle routing, microchip placement-and-routing, cryptographic-key search — where current frontier LLMs underperform deterministic heuristics and
 
-## 6. [Signal] Sleep-like consolidation: a structural answer to constraint decay
+## 6. [Signal] Anthropic Series H: US$65bn raised, US$965bn post-money, 15 GW of compute lined up
 
-- Published: Tue, 26 May 2026 23:12:24 GMT
-- Link: https://arxiv.org/abs/2605.26099
+- Published: Fri, 29 May 2026 02:54:42 GMT
+- Link: https://www.anthropic.com/news/series-h
 
-A new arXiv preprint (2605.26099) proposes a "sleep-like consolidation mechanism" for long-horizon LLM tasks: the model periodically converts recent context into persistent fast weights in its state-space-model blocks, before clearing the key-value cache. The sleep phase performs N offline recurrent
+Anthropic disclosed a US$65bn Series H led by Altimeter, Dragoneer, Greenoaks and Sequoia, with co-leads including Capital Group, Coatue, D1, GIC, ICONIQ and XN. Post-money sits at US$965bn. The press release puts run-rate revenue at US$47bn "earlier this month" — a steep revision from the US$10bn-i
 
-## 7. [Signal] Boring languages, dense latent spaces, and the LLM convention premium
+## 7. [Signal] Cognition closes US$1bn at US$26bn — on the same day Anthropic ships Dynamic Workflows
 
-- Published: Tue, 26 May 2026 23:12:19 GMT
-- Link: https://jry.io/writing/use-boring-languages-with-llms/
+- Published: Fri, 29 May 2026 02:54:41 GMT
+- Link: https://www.anthropic.com/news/claude-opus-4-8
 
-The jry.io essay argues that the languages and ecosystems with the strongest conventions produce the best agentic output; the ones with the most fragmentation produce the worst. Convention-density, not language elegance, sets the ceiling. John's reformulation is the cleaner statement of the mechanis
+Cognition — the standalone coding-agent vendor behind Devin and the Windsurf acquisition — closed a US$1bn round at a US$26bn post-money valuation on the same trading day Anthropic shipped Claude Opus 4.8 with Dynamic Workflows. John's one-line read from the thread: "Watch out cognition." The prici
 
-## 8. [Signal] Coding-agent UX and the social-contract gap
+## 8. [Signal] Claude Opus 4.8 ships Dynamic Workflows — parallel sub-agents, codebase-scale migration
 
-- Published: Tue, 26 May 2026 23:12:13 GMT
-- Link: https://pscanf.com/s/354/
+- Published: Fri, 29 May 2026 02:54:39 GMT
+- Link: https://www.anthropic.com/news/claude-opus-4-8
 
-An essay on pscanf.com argues that coding agents "behave enough like helpful colleagues to trigger our social instincts, but they don't learn, adapt, or take responsibility the way people do, which makes their repeated mistakes feel much more frustrating than they should." John's reply on the thread
+Anthropic released Claude Opus 4.8 with Dynamic Workflows, a research-preview feature in which Claude plans the work, runs hundreds of parallel sub-agents in a single session, and verifies its own outputs before reporting back. The worked example given is the strongest single labour-displacement bou
