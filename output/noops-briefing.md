@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-06-01 05:15 UTC
+- Generated at: 2026-06-02 04:59 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] The small-model gap as a measurable curve, not noise
+## 1. [Signal] Apollo's one-person-firm record meets Tunguz's AI-shorts stratification
 
-- Published: Sun, 31 May 2026 22:17:00 GMT
-- Link: https://www.liquid.ai/blog/lfm2-5-8b-a1b
+- Published: Tue, 02 Jun 2026 01:41:09 GMT
+- Link: https://tomtunguz.com/ai-shorts/
 
-Liquid AI's release of LFM2-5-8B-A1B prompted the structural question worth carrying forward: how far behind the frontier are the small models — a year? John Allsopp's framing in response is the analytical artefact: this is closer to Moore's Law and Butter's Law of Photonics than to a noisy capabili
+Apollo Global Management's Chief Economist, on Bloomberg, reported that more one-person firms have been formed in the current window than ever before. Tom Tunguz, writing in his AI Shorts post, drew the analytically clean distinction that 'the skepticism is concentrated in companies whose AI exposur
 
-## 2. [Signal] Mistral builds the full sovereign-AI stack — Voxtral, Robostral, EU procurement
+## 2. [Signal] Risk-side convergence — Florida sues OpenAI, Amnesty calls for prohibition, Meta's bot loses Instagram accounts
 
-- Published: Sun, 31 May 2026 22:16:58 GMT
-- Link: https://koenvangilst.nl/lab/mistral-ai-now-summit
+- Published: Tue, 02 Jun 2026 01:41:08 GMT
+- Link: https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/
 
-Notes from the Mistral AI Now Summit by Koen van Gilst describe Mistral as no longer a model company but a full-stack AI vendor: a 40MW data centre in Paris, a second data centre coming in Sweden, customer-owned weights, on-prem deployment, and specialised small-model verticals. Document AI handles
+Three risk-layer signals from three distinct vectors landed in the same overnight window. The Florida Attorney General filed suit against OpenAI and Sam Altman after multiple ChatGPT-linked deaths and committed to working with other state attorneys general to pursue AI companies. Amnesty Internation
 
-## 3. [Signal] Developer exit and Boykis on deskilling: the soft side of the labour-displacement signal
+## 3. [Signal] Industrial-tier capability step-change — GM at 900x, Intel at lower cost, NVIDIA Cosmos 3 open-sourced
 
-- Published: Sun, 31 May 2026 22:16:56 GMT
-- Link: https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/
+- Published: Tue, 02 Jun 2026 01:41:06 GMT
+- Link: https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/
 
-Two adjacent items this week mark the soft form of a labour-displacement signal that the prompt-injection sabotage story names in its hard form. First, an open-source maintainer published "I am retiring from tech to live offline", citing AI as "the last of the wind out of my Open Source sails". Seco
+Three industrial-tier signals landed in the same overnight window. General Motors reported a 15-hour-to-one-minute development workflow speedup on specific automotive-engineering tasks — roughly 900x — via AI and ML tooling. Intel announced an end-of-year AI chip positioned on cheaper memory and coo
 
-## 4. [Signal] Open-source maintainer weaponises supply chain against AI coding agents
+## 4. [Signal] Knowledge-transmission pulse — the oral tradition, the Stanford CLAUDE.md, and the Amazon leaderboard
 
-- Published: Sun, 31 May 2026 22:16:52 GMT
-- Link: https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/
+- Published: Tue, 02 Jun 2026 01:41:05 GMT
+- Link: https://www.fastcompany.com/91549609/the-oral-tradition-that-built-software-may-not-survive-ai
 
-Ars Technica reports that an open-source developer added hidden data-destroying prompt-injection instructions to a Java testing utility specifically intended to sabotage projects performed by AI coding agents downstream. The attack pattern is novel: rather than exploit a vulnerability, the maintaine
+Three signals from three different cohorts landed in the same window, each describing a different stress on the institutional knowledge-and-evaluation infrastructure of the software industry. Fast Company argued that the oral-tradition transmission of veteran-to-junior institutional knowledge may no
 
-## 5. [Signal] Epoch.ai: open-weight models now lag the frontier by four months
+## 5. [Signal] DNS-AID — the substrate for agent discovery consolidates on existing infrastructure
 
-- Published: Sun, 31 May 2026 22:16:49 GMT
-- Link: https://epoch.ai/data-insights/open-closed-eci-gap
+- Published: Tue, 02 Jun 2026 01:41:03 GMT
+- Link: https://www.infoworld.com/article/4178820/dns-aid-will-make-ai-agents-easier-to-discover-says-linux-foundation.html
 
-Epoch.ai's latest data insight reports that since January 2026, the most capable open-weight models have lagged frontier closed models by an average of four months in the Epoch Capabilities Index, with an average ECI gap of eight points — equivalent to one full point-release at the frontier. The gap
+The Linux Foundation is inviting contributions to DNS-AID, a standard for AI agents to discover, verify, and communicate with one another over DNS as a global, vendor-neutral directory. The mechanism lets agents and MCP servers use existing DNS infrastructure for discovery and identity rather than a
 
-## 6. [Signal] Kog.ai: 3,000 tokens/s on standard GPUs reframes the agent product
+## 6. [Signal] Two open-frontier releases — MiniMax M3's sustained execution and Qwen 3.7-Plus's GUI agent
 
-- Published: Sun, 31 May 2026 22:16:44 GMT
-- Link: https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/
+- Published: Tue, 02 Jun 2026 01:41:01 GMT
+- Link: https://www.minimax.io/models/text/m3
 
-A new technical post from Kog.ai claims that single-request LLM decoding on standard datacentre GPUs can reach 3,000 tokens per second when the architecture, runtime and low-level GPU kernels are co-designed as a single latency-optimised pipeline. The author's structural claim is that single-request
+MiniMax M3 launched with a sustained-execution headline: 24 hours of autonomous operation on complex tasks without degradation. The model card describes an FP8 GEMM kernel optimisation run in which M3 completed 147 benchmark submissions in approximately 24 hours and achieved a 9.4x speedup, while mo
 
-## 7. [Signal] AI-server OEMs rally as cloud capex normalises toward US$1T
+## 7. [Signal] NVIDIA enters the ARM PC business with the RTX Spark — and the market re-rates the field that afternoon
 
-- Published: Sun, 31 May 2026 22:16:39 GMT
-- Link: https://www.anthropic.com/news/series-h
+- Published: Tue, 02 Jun 2026 01:40:59 GMT
+- Link: https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/
 
-Dell rose 40 per cent in a single session on 29 May, with HPE up 18 per cent and SuperMicro up 10 per cent, as Bloomberg analysts characterised the run as the broadest AI-server cohort move of the cycle. Dell had been trading south of US$120 in January and added that distance again in one trading da
+NVIDIA announced the RTX Spark — a consumer-tier rebrand of last year's DGX Spark silicon, positioned as a high-end ARM-Windows processor with a local-AI inference angle. The launch puts NVIDIA directly into the developer-workstation tier alongside Apple silicon and into the broader ARM-PC category
 
-## 8. [Signal] Two principals report upward surprise on Claude 4.8 in real-stakes builds
+## 8. [Signal] Anthropic files a confidential S-1 — the frontier-lab IPO oxygen begins to run
 
-- Published: Sun, 31 May 2026 22:16:32 GMT
-- Link: https://noops.au/feed
+- Published: Tue, 02 Jun 2026 01:40:56 GMT
+- Link: https://www.anthropic.com/news/confidential-draft-s1-sec
 
-A low-N but high-quality ground-truth from this weekend: two independent practitioners reporting upward surprise on Claude 4.8 in current production use. John, running a non-trivial build, reported that the model 'made a very subtle but possibly extremely good architectural decision that hadn't occu
+Anthropic confidentially submitted a draft registration statement to the SEC for a proposed initial public offering. The filing is the standard JOBS-Act confidential pre-review path; pricing and timing remain market-dependent. Two things make this filing structurally interesting. The first is the c
