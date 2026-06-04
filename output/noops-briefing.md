@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-06-03 05:15 UTC
+- Generated at: 2026-06-04 05:03 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Apollo's one-person-firm record meets Tunguz's AI-shorts stratification
+## 1. [Signal] Mark: 'CUDA is not infra'
 
-- Published: Tue, 02 Jun 2026 01:41:09 GMT
-- Link: https://tomtunguz.com/ai-shorts/
+- Published: Wed, 03 Jun 2026 20:09:53 GMT
+- Link: https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/
 
-Apollo Global Management's Chief Economist, on Bloomberg, reported that more one-person firms have been formed in the current window than ever before. Tom Tunguz, writing in his AI Shorts post, drew the analytically clean distinction that 'the skepticism is concentrated in companies whose AI exposur
+Fergus Finn's blog post on running DeepSeek V4 Flash on AMD's MI300X — published quietly on a personal site — supplies the cleanest operating-side data point in the cycle on the CUDA-moat question: 'MI300X rents for roughly half the price of the NVIDIA capacity it competes with, carries more than tw
 
-## 2. [Signal] Risk-side convergence — Florida sues OpenAI, Amnesty calls for prohibition, Meta's bot loses Instagram accounts
+## 2. [Signal] SK Hynix says five years. The cycle says fifty months
 
-- Published: Tue, 02 Jun 2026 01:41:08 GMT
-- Link: https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/
+- Published: Wed, 03 Jun 2026 20:09:51 GMT
+- Link: https://www.reuters.com/world/asia-pacific/sk-hynix-plans-double-wafer-capacity-next-five-years-group-chairman-says-2026-06-02/
 
-Three risk-layer signals from three distinct vectors landed in the same overnight window. The Florida Attorney General filed suit against OpenAI and Sam Altman after multiple ChatGPT-linked deaths and committed to working with other state attorneys general to pursue AI companies. Amnesty Internation
+On 2 June, SK Hynix's group chairman told Bloomberg that the company will double its wafer capacity over the next five years — a major capex commitment, and one that received supportive coverage in Reuters. Mark's terse read: 'Five years. Hmm.' The five-year horizon is materially out of sync with th
 
-## 3. [Signal] Industrial-tier capability step-change — GM at 900x, Intel at lower cost, NVIDIA Cosmos 3 open-sourced
+## 3. [Signal] Substrate-distribution week — OpenAI lands on AWS, Anthropic ships Mythos to Europe
 
-- Published: Tue, 02 Jun 2026 01:41:06 GMT
-- Link: https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/
+- Published: Wed, 03 Jun 2026 20:09:47 GMT
+- Link: https://www.anthropic.com/news/expanding-project-glasswing
 
-Three industrial-tier signals landed in the same overnight window. General Motors reported a 15-hour-to-one-minute development workflow speedup on specific automotive-engineering tasks — roughly 900x — via AI and ML tooling. Intel announced an end-of-year AI chip positioned on cheaper memory and coo
+Three frontier-lab announcements landed within a 48-hour window. OpenAI announced its frontier models and Codex are now available on AWS — the first major substrate-vendor deal that crosses the historically distinct OpenAI/Azure axis. Anthropic shared access to its Mythos model with the EU after the
 
-## 4. [Signal] Knowledge-transmission pulse — the oral tradition, the Stanford CLAUDE.md, and the Amazon leaderboard
+## 4. [Signal] Microsoft three-vector — Intelligent Terminal, MAI-Code-1-Flash, and the Scout addiction documents
 
-- Published: Tue, 02 Jun 2026 01:41:05 GMT
-- Link: https://www.fastcompany.com/91549609/the-oral-tradition-that-built-software-may-not-survive-ai
+- Published: Wed, 03 Jun 2026 20:09:45 GMT
+- Link: https://devblogs.microsoft.com/commandline/announcing-intelligent-terminal-version-0-1/
 
-Three signals from three different cohorts landed in the same window, each describing a different stress on the institutional knowledge-and-evaluation infrastructure of the software industry. Fast Company argued that the oral-tradition transmission of veteran-to-junior institutional knowledge may no
+Three Microsoft announcements landed within 24 hours, and read together they describe a coherent strategy-shift across the developer and consumer surfaces simultaneously. Microsoft DevBlogs announced Intelligent Terminal v0.1, framing the core interaction as 'the agent pane: a context-aware, dedicat
 
-## 5. [Signal] DNS-AID — the substrate for agent discovery consolidates on existing infrastructure
+## 5. [Signal] Per-token prices down 900x — and Copilot users hit the cap in a day
 
-- Published: Tue, 02 Jun 2026 01:41:03 GMT
-- Link: https://www.infoworld.com/article/4178820/dns-aid-will-make-ai-agents-easier-to-discover-says-linux-foundation.html
+- Published: Wed, 03 Jun 2026 20:09:42 GMT
+- Link: https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/
 
-The Linux Foundation is inviting contributions to DNS-AID, a standard for AI agents to discover, verify, and communicate with one another over DNS as a global, vendor-neutral directory. The mechanism lets agents and MCP servers use existing DNS infrastructure for discovery and identity rather than a
+The token-economics layer produced a coherent multi-signal cluster on 2 June. Laurie Voss circulated a headline statistic on LinkedIn: per-token prices have fallen as much as 900x. Big Technology published 'The Token Reckoning is here', framing the operating-side problem as 'token waste in service o
 
-## 6. [Signal] Two open-frontier releases — MiniMax M3's sustained execution and Qwen 3.7-Plus's GUI agent
+## 6. [Signal] The Australian labour data has not yet caught the apocalypse
 
-- Published: Tue, 02 Jun 2026 01:41:01 GMT
-- Link: https://www.minimax.io/models/text/m3
+- Published: Wed, 03 Jun 2026 20:09:37 GMT
+- Link: https://www.smh.com.au/politics/federal/the-ai-jobs-apocalypse-hasn-t-landed-in-australia-yet-20260601-p602mw.html
 
-MiniMax M3 launched with a sustained-execution headline: 24 hours of autonomous operation on complex tasks without degradation. The model card describes an FP8 GEMM kernel optimisation run in which M3 completed 147 benchmark submissions in approximately 24 hours and achieved a 9.4x speedup, while mo
+The Sydney Morning Herald ran a measured-data piece on 1 June: the AI jobs apocalypse has not yet landed in Australia. Businesses have spent a record $21.8 billion on AI and IT over the past twelve months — and yet, in the Bureau of Statistics labour data, 'even for occupations whose deaths have bee
 
-## 7. [Signal] NVIDIA enters the ARM PC business with the RTX Spark — and the market re-rates the field that afternoon
+## 7. [Signal] Perplexity makes search agentic — and Mark asks: is Google a spoon?
 
-- Published: Tue, 02 Jun 2026 01:40:59 GMT
-- Link: https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/
+- Published: Wed, 03 Jun 2026 20:09:34 GMT
+- Link: https://research.perplexity.ai/articles/rethinking-search-as-code-generation
 
-NVIDIA announced the RTX Spark — a consumer-tier rebrand of last year's DGX Spark silicon, positioned as a high-end ARM-Windows processor with a local-AI inference angle. The launch puts NVIDIA directly into the developer-workstation tier alongside Apple silicon and into the broader ARM-PC category
+Perplexity Research published 'Rethinking search as code generation' on 3 June, introducing Search as Code (SaC) as the architectural re-statement: 'search itself must become agentic, with its building blocks accessible directly as SDKs within the agent harness... SaC gives models direct control ove
 
-## 8. [Signal] Anthropic files a confidential S-1 — the frontier-lab IPO oxygen begins to run
+## 8. [Signal] The White House moves to classified-benchmark AI cyber capabilities
 
-- Published: Tue, 02 Jun 2026 01:40:56 GMT
-- Link: https://www.anthropic.com/news/confidential-draft-s1-sec
+- Published: Wed, 03 Jun 2026 20:09:31 GMT
+- Link: https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
 
-Anthropic confidentially submitted a draft registration statement to the SEC for a proposed initial public offering. The filing is the standard JOBS-Act confidential pre-review path; pricing and timing remain market-dependent. Two things make this filing structurally interesting. The first is the c
+The White House issued an Executive Order on 3 June titled 'Promoting Advanced Artificial Intelligence Innovation and Security.' The structurally significant clause directs the development and maintenance of 'a classified benchmarking process to assess the advanced cyber capabilities of AI models an
