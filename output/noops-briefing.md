@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-06-10 04:47 UTC
+- Generated at: 2026-06-11 04:58 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] grep beats vector — and the harness beats both
+## 1. [Signal] SpaceX IPO 4x oversubscribed — a third of a trillion in demand
 
-- Published: Tue, 09 Jun 2026 22:22:36 GMT
-- Link: https://arxiv.org/abs/2605.15184
+- Published: Wed, 10 Jun 2026 23:16:55 GMT
+- Link: https://www.matteast.io/spacex-escape-velocity.html
 
-A new empirical study (arXiv:2605.15184) compares grep and vector retrieval across a memory benchmark, using a custom agent harness and the provider CLIs. grep generally wins on accuracy — but the load-bearing finding is the qualifier: "overall scores still depend strongly on which harness and tool-
+Bloomberg reports the SpaceX IPO is roughly 4x oversubscribed, implying demand closer to a third of a trillion dollars. Mark: "A trillion here, a trillion there." John's mechanical note: the same amount gets sold — subscribers just receive partial allocations. Matt East's visualisation (shared the n
 
-## 2. [Signal] CoreWeave founders sell USD 2.3B — 'they serve at Jensen's pleasure'
+## 2. [Signal] Botsitting: six hours a week — the group-drive problem gets a name
 
-- Published: Tue, 09 Jun 2026 22:22:34 GMT
-- Link: https://www.cnbc.com/quotes/CRWV
+- Published: Wed, 10 Jun 2026 23:16:55 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/06/10/brit-workers-waste-nearly-six-hours-a-week-botsitting/5253483
 
-CoreWeave's founders have sold roughly USD 2.3 billion in stock since the IPO. Mark's question — why would the principals of a supposed hyperscaler sell down at that scale — drew John's one-line answer: "they serve at Jensen's pleasure." The quip is the analysis. CoreWeave's economics depend struct
+The Register coined the word: "botsitting." Almost all UK workers now have to deal with AI, but few firms report big productivity gains — because of the nearly six hours a week lost hand-holding the systems and cleaning up their mistakes. This is the group-drive problem as a time-use survey. It slo
 
-## 3. [Signal] John: agents are already most of web traffic
+## 3. [Signal] Craftsmanship is an indulgence
 
-- Published: Tue, 09 Jun 2026 22:22:31 GMT
-- Link: https://hopper.webdirections.org/share/ab61c3866a2f58f7/substack%3Apost%3A198575235
+- Published: Wed, 10 Jun 2026 23:16:55 GMT
+- Link: https://www.codingwithjesse.com/blog/rockstar-developers/
 
-In passing, while making the saturation argument, John dropped a larger claim worth isolating: "we've already passed, essentially, agents being 50% of the traffic of the web." Alongside it, two observations — "almost no one understands agents," and his own use "just growing and growing," doing thing
+John compressed the paradigm shift into four words. The prompt was the "rockstar developers" post arguing the constraint school's case: lead the engineering yourself, have the LLM generate small snippets, keep the code legible to the whole team. That argument is the old paradigm's value system appli
 
-## 4. [Signal] 'The single wrongest thing Ben Thompson will ever predict'
+## 4. [Signal] AI fatigue is now a sentiment register — and a grading curve
 
-- Published: Tue, 09 Jun 2026 22:22:28 GMT
-- Link: https://stratechery.com/2026/the-iphones-last-stand/
+- Published: Wed, 10 Jun 2026 23:16:55 GMT
+- Link: https://www.theregister.com/devops/2026/06/09/apple-courts-developers-with-privacy-and-context-in-ai-comeback-bid/5252564
 
-Ben Thompson's "The iPhone's Last Stand" drew an unusually sharp response from John, who called it "the single wrongest thing that Ben Thompson will have ever predicted" and framed the disagreement cleanly: "if you want your device to be solely an idiot box that keeps people entertained, doesn't hel
+The Register's WWDC verdict was unexpectedly warm: Apple's AI vision "stands out for its sobriety, responsibility, and plausibility" — from an outlet famously banned from all Apple events. John's first read was reheated promises ("a two-year-old set of promises"). Mark's explanation was sharper: "No
 
-## 5. [Signal] Apple ships a model when the contest has moved to agents
+## 5. [Signal] Fable 5 in production: the bake-off, the rate limit, and the white whale
 
-- Published: Tue, 09 Jun 2026 22:22:20 GMT
-- Link: https://www.macrumors.com/2026/06/09/apples-new-ai-contains-no-gemini/
+- Published: Wed, 10 Jun 2026 23:16:55 GMT
+- Link: https://noops.au/feed
 
-At and after WWDC, Apple offered smaller developers free access to its Foundation Models running in Private Cloud Compute, and detailed an AFM family — two on-device models, three server-side, and notably no Gemini inside. The stock fell again on long-term AI-strategy concerns; EU regulators separat
+Fable 5 went into production harness testing the day after release. John pointed it at the most ambitious task he has attempted — a full rewrite of the Confab codebase — with parallel runs planned across Devin, Codex on GPT-5.5, and Z.AI's GLM (Mark suggested adding MiniMax-M3). Hold the task consta
 
-## 6. [Signal] The sell-off is a source of funds, not a verdict
+## 6. [Signal] Claude can be silently nerfed — and the harness is your only defence
 
-- Published: Tue, 09 Jun 2026 22:22:00 GMT
-- Link: https://www.ft.com/content/13d4845a-f278-489b-ab89-a2e9e6a79ede
+- Published: Wed, 10 Jun 2026 23:16:54 GMT
+- Link: https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html
 
-Richly valued tech names fell sharply this week — Dell, up 161 per cent over three months, dropped 6 per cent on Tuesday — with Société Générale's Manish Kabra offering the consensus line: "the whole market needed a correction, it had got way too hot." Meanwhile Bloomberg reported the SpaceX IPO ove
+Jon Ready reports that Claude Fable 5's terms permit Anthropic to silently degrade the model — including for users it deems competitors — and that Anthropic has decided it won't tell users when this happens. Mark's read: "That creates a real supply chain risk for businesses... But neither of us will
 
-## 7. [Signal] The depreciation inversion: AI compute as an appreciating asset
+## 7. [Signal] Apple quietly ships the local-agent substrate: container, Core AI, MLX
 
-- Published: Tue, 09 Jun 2026 22:21:42 GMT
-- Link: https://hopper.webdirections.org/share/ab61c3866a2f58f7/substack%3Apost%3A198575235
+- Published: Wed, 10 Jun 2026 23:16:54 GMT
+- Link: https://github.com/apple/container/blob/main/docs/container-machine.md
 
-The standard bear case on hyperscaler capex runs through depreciation — Michael Burry's argument that GPUs amortised over five years should be written down faster, flattering reported earnings. John inverts it: in the current demand regime the metal is not depreciating at all, it is appreciating. "T
+Three Apple pieces snapped together on 10 June. The apple/container project provides first-party sandboxed Linux environments on the Mac — "fast, lightweight and persistent," built on standard OCI images. WWDC's new Core AI framework is "a modern, memory-safe Swift API that lets you load, specialize
 
-## 8. [Signal] Fable 5 is priced up, not bundled down
+## 8. [Signal] Pentagon designations sweep in Alibaba — what does that mean for Qwen?
 
-- Published: Tue, 09 Jun 2026 22:21:38 GMT
-- Link: https://www.anthropic.com/news/claude-fable-5-mythos-5
+- Published: Wed, 10 Jun 2026 23:16:54 GMT
+- Link: https://apnews.com/article/china-military-pentagon-alibaba-byd-baidu-unitree-4d664a6f164538b451263eafcceddaa5
 
-Fable 5 is available to API and Enterprise users at USD 10 per million input tokens and USD 50 per million output — by Anthropic's own framing 67 to 100 per cent above the comparable OpenAI tier — and is not, at least initially, part of the consumer subscription. The frontier capability is being de
+AP reports the Pentagon's Chinese military-company list now includes Alibaba, Baidu, BYD and Unitree (10 June). Mark's immediate question is the one that matters: "I wonder what that means for Qwen?" — the most widely deployed open-weight model family in the world, and the backbone of the open-weigh
