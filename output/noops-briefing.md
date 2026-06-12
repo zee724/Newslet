@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-06-11 04:58 UTC
+- Generated at: 2026-06-12 05:02 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] SpaceX IPO 4x oversubscribed — a third of a trillion in demand
+## 1. [Signal] The frontier price war breaks into the open
 
-- Published: Wed, 10 Jun 2026 23:16:55 GMT
-- Link: https://www.matteast.io/spacex-escape-velocity.html
+- Published: Thu, 11 Jun 2026 23:09:21 GMT
+- Link: https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
 
-Bloomberg reports the SpaceX IPO is roughly 4x oversubscribed, implying demand closer to a third of a trillion dollars. Mark: "A trillion here, a trillion there." John's mechanical note: the same amount gets sold — subscribers just receive partial allocations. Matt East's visualisation (shared the n
+On 11 June, CNBC (citing the WSJ) reported OpenAI is mulling slashing prices ahead of competition from Anthropic, explicitly expecting Anthropic to follow. By evening it was Bloomberg's lead story, ahead of Oracle's results. Mark called it live: "SIGNAL! The price war has hit the frontier. For as lo
 
-## 2. [Signal] Botsitting: six hours a week — the group-drive problem gets a name
+## 2. [Signal] Zed DeltaDB: provenance as the durable substrate
 
-- Published: Wed, 10 Jun 2026 23:16:55 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/06/10/brit-workers-waste-nearly-six-hours-a-week-botsitting/5253483
+- Published: Thu, 11 Jun 2026 23:09:21 GMT
+- Link: https://zed.dev/blog/introducing-deltadb
 
-The Register coined the word: "botsitting." Almost all UK workers now have to deal with AI, but few firms report big productivity gains — because of the nearly six hours a week lost hand-holding the systems and cleaning up their mistakes. This is the group-drive problem as a time-use survey. It slo
+Zed introduced DeltaDB on 12 June: "Because every reference is anchored to a delta instead of a line number, it survives as the code moves underneath it. From any line of code, you can find the conversation that produced it and every conversation that has touched it since." This is the code-provena
 
-## 3. [Signal] Craftsmanship is an indulgence
+## 3. [Signal] Datacenter build-out strain: bans, credit risk, capital calls
 
-- Published: Wed, 10 Jun 2026 23:16:55 GMT
-- Link: https://www.codingwithjesse.com/blog/rockstar-developers/
+- Published: Thu, 11 Jun 2026 23:09:21 GMT
+- Link: https://www.theguardian.com/us-news/2026/jun/09/seattle-ai-datacenters-ban
 
-John compressed the paradigm shift into four words. The prompt was the "rockstar developers" post arguing the constraint school's case: lead the engineering yourself, have the LLM generate small snippets, keep the code legible to the whole team. That argument is the old paradigm's value system appli
+Through 9-12 June the strain on the AI build-out showed at its edges. Seattle moved to ban AI data centres (Guardian, 9 June) — from the home of two hyperscalers; Mark: "From the home of two of the hyperscalers, this." The EU's datacenter efficiency scorecard could carry credit consequences for oper
 
-## 4. [Signal] AI fatigue is now a sentiment register — and a grading curve
+## 4. [Signal] Sutton's call to arms: evaluation is the missing agent primitive
 
-- Published: Wed, 10 Jun 2026 23:16:55 GMT
-- Link: https://www.theregister.com/devops/2026/06/09/apple-courts-developers-with-privacy-and-context-in-ai-comeback-bid/5252564
+- Published: Thu, 11 Jun 2026 23:09:21 GMT
+- Link: https://x.com/RichardSSutton/status/2061216087744946656
 
-The Register's WWDC verdict was unexpectedly warm: Apple's AI vision "stands out for its sobriety, responsibility, and plausibility" — from an outlet famously banned from all Apple events. John's first read was reheated promises ("a two-year-old set of promises"). Mark's explanation was sharper: "No
+Richard Sutton (author of The Bitter Lesson) posted a "call to arms" on 11 June: "Discovery requires Evaluation from a person or from an explicit goal, and only in the latter case will we attain full autonomy... If we want the full power of AI scientists, then we should share the goals with them so
 
-## 5. [Signal] Fable 5 in production: the bake-off, the rate limit, and the white whale
+## 5. [Signal] Terry Tao, evangelist for AI in math
 
-- Published: Wed, 10 Jun 2026 23:16:55 GMT
-- Link: https://noops.au/feed
+- Published: Thu, 11 Jun 2026 23:09:21 GMT
+- Link: https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/
 
-Fable 5 went into production harness testing the day after release. John pointed it at the most ambitious task he has attempted — a full rewrite of the Confab codebase — with parallel runs planned across Devin, Codex on GPT-5.5, and Z.AI's GLM (Mark suggested adding MiniMax-M3). Hold the task consta
+Quanta profiled Terence Tao as "an evangelist for AI in math" (8 June, shared 12 June), describing automated proof-checkers that let a problem be "broken up into small chunks, solved bit-by-bit, then reassembled with confidence that every piece is correct." That decompose-verify-reassemble loop is
 
-## 6. [Signal] Claude can be silently nerfed — and the harness is your only defence
+## 6. [Signal] Oracle's hyperscaler pivot and the $1.4T question
 
-- Published: Wed, 10 Jun 2026 23:16:54 GMT
-- Link: https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html
+- Published: Thu, 11 Jun 2026 23:09:20 GMT
+- Link: https://www.cnbc.com/2026/06/10/oracle-orcl-q4-earnings-report-2026.html
 
-Jon Ready reports that Claude Fable 5's terms permit Anthropic to silently degrade the model — including for users it deems competitors — and that Anthropic has decided it won't tell users when this happens. Mark's read: "That creates a real supply chain risk for businesses... But neither of us will
+Oracle's Q4 (10 June) showed cloud revenue +47% to $9.91B and cloud-infrastructure revenue +93% to $5.8B — but the company will raise ~$40B through debt and equity, including a $20B share sale, to fund the build. Mark: "As Oracle pivots into a hyperscaler, their need for cash has gone exponential...
 
-## 7. [Signal] Apple quietly ships the local-agent substrate: container, Core AI, MLX
+## 7. [Signal] Visa lets ChatGPT agents buy anywhere
 
-- Published: Wed, 10 Jun 2026 23:16:54 GMT
-- Link: https://github.com/apple/container/blob/main/docs/container-machine.md
+- Published: Thu, 11 Jun 2026 23:09:20 GMT
+- Link: https://apnews.com/article/visa-chatgpt-openai-shopping-mastercard-d769dec86344cb4977c98789e8ec492f
 
-Three Apple pieces snapped together on 10 June. The apple/container project provides first-party sandboxed Linux environments on the Mac — "fast, lightweight and persistent," built on standard OCI images. WWDC's new Core AI framework is "a modern, memory-safe Swift API that lets you load, specialize
+AP reported on 11 June that Visa will let users link their cards to ChatGPT so agents can complete purchases at potentially any Visa-accepting merchant — a decisive leap past the single-retailer limits of OpenAI's retired Instant Checkout. Mark: "That's rather big news... clearly driven more on the
 
-## 8. [Signal] Pentagon designations sweep in Alibaba — what does that mean for Qwen?
+## 8. [Signal] Stack Overflow for Agents: 'bigger than Wikipedia'
 
-- Published: Wed, 10 Jun 2026 23:16:54 GMT
-- Link: https://apnews.com/article/china-military-pentagon-alibaba-byd-baidu-unitree-4d664a6f164538b451263eafcceddaa5
+- Published: Thu, 11 Jun 2026 23:09:20 GMT
+- Link: https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/
 
-AP reports the Pentagon's Chinese military-company list now includes Alibaba, Baidu, BYD and Unitree (10 June). Mark's immediate question is the one that matters: "I wonder what that means for Qwen?" — the most widely deployed open-weight model family in the world, and the backbone of the open-weigh
+Mark's conviction on Stack Overflow for Agents hardened overnight into the strongest single call of the week: "John I think the new Stack Overflow may be the biggest and most important thing since Wikipedia. Bigger, probably." His reasoning: "AI read it at 5am and it sunk in," "their timing is impec
