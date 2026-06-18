@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-06-17 05:15 UTC
+- Generated at: 2026-06-18 05:01 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] The sovereign kill-switch turns out to be reversible - and that's the bigger story
+## 1. [Signal] Code is cheap; the discipline that returns is a new one
 
-- Published: Tue, 16 Jun 2026 22:13:20 GMT
-- Link: https://thezvi.substack.com/p/the-once-and-future-fable-2
+- Published: Wed, 17 Jun 2026 23:31:17 GMT
+- Link: https://htmx.org/essays/code-is-cheap/
 
-New reporting consolidated over the weekend - including Zvi Mowshowitz's follow-up synthesis - clarifies why the US Department of Commerce forced Anthropic to suspend global access to Fable 5 and Mythos 5 on 12 June. The trigger was a narrow jailbreak surfaced by Amazon researchers and escalated to
+A cluster of essays this week — htmx's 'Code is cheap,' Charity Majors' 'AI demands more engineering discipline,' Greptile's T-Rex work — converge on one point: once generation is effectively free, the scarce activity moves from producing artefacts to verifying and governing them. Majors frames 2026
 
-## 2. [Signal] Meta is destroying its engineering culture — a second-incumbent "lost the plot"
+## 2. [Signal] Databricks widens its lead — the token path at scale
 
-- Published: Tue, 16 Jun 2026 22:13:20 GMT
-- Link: https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering
+- Published: Wed, 17 Jun 2026 23:31:17 GMT
+- Link: https://www.tomtunguz.com/databricks-widens-lead/
 
-The Pragmatic Engineer's analysis is stark: for two decades Meta ran a uniquely high-performance engineering organisation — right up until around April of this year. The piece documents morale hitting an all-time low and an org that had been on track to overtake Google now visibly degrading. Wired's
+Databricks runs at $6.9b ARR growing 80% year on year, versus Snowflake's 34% — a gap of roughly $1.6b and widening. Its AI products are at $1.7b, about a quarter of ARR and growing faster than the company. Tunguz calls the pattern the 'token path,' the same dynamic behind Salesforce's $3.6b Fin acq
 
-## 3. [Signal] "No jailbreak, just a code prompt": the Fable control as policy error
+## 3. [Signal] Open weights take the intelligence lead — and they're Chinese
 
-- Published: Tue, 16 Jun 2026 22:13:20 GMT
-- Link: https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/
+- Published: Wed, 17 Jun 2026 23:31:16 GMT
+- Link: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index
 
-The case that the US export control on Anthropic's Fable and Mythos models was a mistake is now consolidating into a verdict. A group of dozens of cybersecurity veterans published an open letter (freefable.org, covered by TechCrunch) arguing the action "has taken the best models away from defenders"
+GLM-5.2 (Zhipu) has become the top open-weights model on Artificial Analysis' Intelligence Index v4.1 at 51, well clear of MiniMax-M3, DeepSeek V4 Pro and Kimi K2.6, and it landed on Ollama within days. In parallel, Tomasz Tunguz's local-coding data puts Qwen3.6 27B at 77.2% and the 35B-A3B MoE at 7
 
-## 4. [Signal] Nvidia raises $25B in debt — the AI build-out hits the bond market
+## 4. [Signal] Huawei claims a 1.6T training run on domestic silicon
 
-- Published: Tue, 16 Jun 2026 22:13:19 GMT
-- Link: https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/
+- Published: Wed, 17 Jun 2026 23:31:16 GMT
+- Link: https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips
 
-Nvidia is planning to sell roughly $25 billion of investment-grade debt, its first bond sale in five years, described as a test of investor appetite for further exposure to the AI sector. Micron, meanwhile, closed at a record 1,125, another high for the semiconductor index. John caught the dissonan
+A Huawei-led team says it post-trained DeepSeek's 1.6-trillion-parameter model on Ascend 910C chips, working with several Shenzhen research institutes. Inference on Chinese accelerators was already demonstrated; training-class workloads were the part of the pipeline export controls were thought to c
 
-## 5. [Signal] OpenAI's "billions in losses" are mostly capex — and the framing matters
+## 5. [Signal] The one-way door: Washington spares DeepSeek, freezes its own champion
 
-- Published: Tue, 16 Jun 2026 22:13:19 GMT
-- Link: https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/
+- Published: Wed, 17 Jun 2026 23:31:16 GMT
+- Link: https://www.theage.com.au/business/companies/trump-s-war-on-anthropic-threatens-america-s-dominance-of-ai-20260617-p607ht.html
 
-Leaked financial documents showing OpenAI losing billions of dollars a year are circulating, and the coverage leans hard on the word "losses." John's reframe cuts against the grain: "A lot of this is investment, particularly in training models, which is capital expenditure and perhaps should best be
+Two policy moves landed together and point opposite ways. Reuters reports the US held off adding DeepSeek and more than 100 other firms to the entity list despite security concerns. Meanwhile the freeze on Anthropic's latest models — and the question mark over its use of non-US staff — drew warnings
 
-## 6. [Signal] Qwen-Robot Suite and the case for repricing Tesla to a car company
+## 6. [Signal] The harness eats itself: Polypore and the swappable IDE
 
-- Published: Tue, 16 Jun 2026 22:13:19 GMT
-- Link: https://qwen.ai/blog?id=qwen-robotsuite
+- Published: Wed, 17 Jun 2026 23:31:16 GMT
+- Link: https://github.com/evanklem/polypore
 
-Alibaba's Qwen team has released the Qwen-Robot Suite: three embodied-AI foundation models designed to bridge the gap from vision-language understanding to physical control — the central bottleneck for robotics. It lands alongside a fast-maturing Chinese open robotics hardware ecosystem. John's rea
+Polypore is an agentic IDE built on the premise that tooling now moves faster than any IDE release cycle: models, CLIs and orchestration patterns shift too quickly to bake in. Its answer is radical modularity — every surface is a sandboxed panel behind a shared contract, and any piece can be swapped
 
-## 7. [Signal] Subquadratic's SubQ-1.1 attacks the context-cost wall head-on
+## 7. [Signal] OpenAI's AI chemist, and the case for doing the work
 
-- Published: Tue, 16 Jun 2026 22:13:19 GMT
-- Link: https://subq.ai/subq-1-1-small-technical-report
+- Published: Wed, 17 Jun 2026 23:31:16 GMT
+- Link: https://openai.com/index/ai-chemist-improves-reaction/
 
-Subquadratic, a research lab building non-Transformer model architectures, reports its SubQ-1.1 achieves near-perfect needle-in-a-haystack retrieval up to 12 million tokens of context, with up to roughly 1,000x reduction in attention compute. The pitch is explicit: while major labs make incremental
+OpenAI reports a system that contributed to a real chemistry result: it reviewed the literature, proposed an unexpected idea, helped design and analyse experiments, and reached a finding human chemists could evaluate. Early, but concrete. The shape of the contribution is the signal. The model occup
 
-## 8. [Signal] Reviews are now expensive, rewrites are cheap — the verification cost has moved
+## 8. [Signal] The human-connection moat in a less-human web
 
-- Published: Tue, 16 Jun 2026 22:13:19 GMT
-- Link: https://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/
+- Published: Wed, 17 Jun 2026 23:31:16 GMT
+- Link: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/
 
-A widely-shared piece by Ishmeet Bindra names a precise economic shift in AI-assisted development. An LLM "defaults to building when it should be buying" — not from ignorance but because, for the model, writing 200 lines of implementation costs the same as writing two lines of an import. There's no
+Two pieces frame the same counter-position to full automation: as machine-generated content saturates, demonstrable human connection becomes scarce and defensible. Ghost in the Data's 'human connection moat' — which Mark flagged with 'people are starting to get it' — and WP VIP's blunt 'a less human
