@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-06-22 05:29 UTC
+- Generated at: 2026-06-23 04:19 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] US flags concern China may already have a top EUV tool
+## 1. [Signal] Chip-price rollover watch: Nvidia lags the index as traders bet prices fall
 
-- Published: Mon, 22 Jun 2026 02:18:21 GMT
-- Link: https://www.reuters.com/world/china/us-tells-asml-it-is-concerned-china-may-have-top-chip-tool-bloomberg-news-2026-06-19/
+- Published: Mon, 22 Jun 2026 21:48:36 GMT
+- Link: https://www.cnbc.com/2026/06/22/nvidias-stock-struggles-as-kalshi-traders-bet-chip-prices-are-coming-down.html
 
-Reuters, citing Bloomberg, reports the US has told ASML it is concerned China may have obtained a top chip-making tool, namely EUV photolithography. Mark noted that more than half of ASML's revenue comes from either Taiwan or China, adding: "things are leaking everywhere; Mythos, EUV photolithograph
+For most of this cycle the consensus trade was long the picks-and-shovels. This week was the first where the durability of chipmaker capture was priced as an open question. Nvidia has underperformed the VanEck Semiconductor ETF in 2026, with Kalshi traders betting B200 prices are coming down (CNBC).
 
-## 2. [Signal] Anthropic signals frontier-model re-enablement "in coming days"
+## 2. [Signal] "Late 2022 for science": agentic AI moves into scientific research
 
-- Published: Mon, 22 Jun 2026 02:18:21 GMT
-- Link: https://www.koreajoongangdaily.com/business/anthropic-confident-of-reenabling-mythos-fable-5-access-in-coming-days-executive/12727522
+- Published: Mon, 22 Jun 2026 21:48:36 GMT
+- Link: https://www.theregister.com/systems/2026/06/22/nvidia-gets-all-agentic-about-supercomputing-for-scientific-research/5259553
 
-Anthropic's Managing Director of International, Chris Ciauri, told a Seoul press conference the firm is "very confident that in the coming days, the models will become available again," following the White House directive that blocked Mythos and Fable 5 for foreign nationals. The walk-back lands in
+Nvidia is pushing agentic AI co-scientists that call simulators and surrogate models alongside tools and applications, converging planned experiments, code generation, simulation and data analysis into a single workflow (The Register). Watching it, John said the coming compute-hungry scientific revo
 
-## 3. [Signal] Linear A meets Claude Code: agents as a research force-multiplier
+## 3. [Signal] The memory squeeze reaches retro RAM — even DDR2 and DDR3 are going to the moon
 
-- Published: Mon, 22 Jun 2026 02:18:21 GMT
-- Link: https://aiclambake.com/clamtakes/linear-a/
+- Published: Mon, 22 Jun 2026 21:48:36 GMT
+- Link: https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627
 
-AI Clambake reports that the researcher Di Mino used Claude Code to build a suite of Python scripts that query, cross-reference and organise the digitised Linear A corpus, drawn from the GORILA and SigLA databases, enabling systematic hypothesis testing at a scale that would have been impractical to
+The memory crisis has a new twist: buyers are turning to legacy products such as DDR2 and DDR3 to meet demand, with prices on years-old, supposedly-obsolete parts climbing sharply (The Register, citing TrendForce). When buyers reach back to DDR2 and DDR3, it indicates the squeeze has saturated curre
 
-## 4. [Signal] From "automate it if you do it twice" to "automate it if you do it at all"
+## 4. [Signal] Heuristics are not axioms: a discipline for reading the AI transition
 
-- Published: Mon, 22 Jun 2026 02:18:21 GMT
-- Link: https://austinhenley.com/blog/automatingmyjob.html
+- Published: Mon, 22 Jun 2026 21:48:36 GMT
+- Link: https://amppublic.com/
 
-Austin Henley's "Automating my job" offers a rule of thumb: anytime you need to do something more than twice, spend the minimal time possible asking a CLI agent to automate it, without writing a spec, and accept that a cheap failure costs little. John's response moved the threshold further: "I now s
+John surfaced AMP, founded by Anjney Midha, as "a grid for compute rather than energy" — compute delivered as a metered, routable utility rather than provisioned as discrete owned clusters. If that holds, the economics shift from owning capacity to operating and arbitraging a network, an infrastruct
 
-## 5. [Signal] SpaceX post-IPO: the median buyer is already at breakeven
+## 5. [Signal] Trump walks back the Anthropic block — but the variance is the signal
 
-- Published: Mon, 22 Jun 2026 02:18:21 GMT
-- Link: https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html
+- Published: Mon, 22 Jun 2026 21:48:35 GMT
+- Link: https://www.itnews.com.au/news/trump-no-longer-views-anthropic-as-national-security-threat-626804
 
-CNBC reports SpaceX shares fell 3.6% to about US$184.98, with a five-day VWAP of $181.71, meaning the average post-IPO buyer is now roughly breaking even after a two-day slide. John: "this has deflated more quickly than expected, but I did call exactly this: a pop and slow deflation." The context s
+President Trump now says he no longer views Anthropic as a national-security threat (itnews, 22 June), the clearest sign the Mythos and Fable export freeze is being unwound. Mark reads the mechanism as a mix of visible concession from Anthropic's leadership and pressure from G7 allies. The reversal
 
-## 6. [Signal] Hyundai takes full control of Boston Dynamics as SoftBank exits for $325m
+## 6. [Signal] "Weights you can download can't be taken away" — the open-frontier permanence argument
 
-- Published: Mon, 22 Jun 2026 02:18:21 GMT
-- Link: https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/
+- Published: Mon, 22 Jun 2026 21:48:35 GMT
+- Link: https://techstackups.com/comparisons/glm-5.2-vs-opus/
 
-Hyundai has taken full control of Boston Dynamics, with SoftBank exiting for US$325 million. The consolidation of premier Western humanoid and legged-robotics IP under an automaker signals that the robotics race is now an industrial-capital game rather than a lab game. The exit price carries its ow
+GLM-5.2's launch drew an unusually clean statement of the open-weights investment case. A techstackups head-to-head kept Opus as its main model — faster, cleaner output, and able to check its own visual work, which the text-only GLM-5.2 cannot — yet gave GLM a permanent place in the toolkit on one g
 
-## 7. [Signal] The flat curve society: when good-enough becomes the operating assumption
+## 7. [Signal] "Without the risk of export controls" becomes a standard product claim
 
-- Published: Mon, 22 Jun 2026 02:18:20 GMT
-- Link: https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b
+- Published: Mon, 22 Jun 2026 21:48:35 GMT
+- Link: https://sakana.ai/fugu/
 
-Steve Yegge's essay "The Flat Curve Society" makes a claim that Mark flagged as possibly the most important signal NOOPS has encountered: "commodity intelligence will soon stop growing exponentially, or at least, it will appear that way, and we'll all operate as if it's true." Mark calls the pattern
+Two releases this week pushed the open frontier past a single-lab story. Sakana's Fugu, built on its TRINITY and Conductor papers on learned model orchestration, claims to sit "shoulder-to-shoulder with Fable 5 and Mythos Preview" on engineering and reasoning benchmarks — "without the risk of export
 
-## 8. [Signal] The Turing Police: if intelligence commoditises, superintelligence gets policed
+## 8. [Signal] When did the evals start failing? The day ChatGPT shipped
 
-- Published: Mon, 22 Jun 2026 02:18:20 GMT
-- Link: https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b
+- Published: Mon, 22 Jun 2026 21:48:35 GMT
+- Link: https://beyondbenchmarks.ai
 
-Reading off the good-enough plateau, Mark drew a first-order political consequence: "we will have the equivalent of the 'Turing Police' making sure that superintelligence remains strictly controlled, while at the same time orgs (who will be classed as terrorists) will be doing everything to get supe
+Mark sharpened the evaluation problem this week: the failure is neither new nor narrow. "Within a month of ChatGPT coming out there were widespread reports of cheating on homework. Then exams. Then assessments of all kinds. The artificial intelligence made it impossible to assess human intelligence
