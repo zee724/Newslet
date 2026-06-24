@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-06-23 04:19 UTC
+- Generated at: 2026-06-24 04:34 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Chip-price rollover watch: Nvidia lags the index as traders bet prices fall
+## 1. [Signal] The real proof of an open frontier model is how fast it reaches the tooling
 
-- Published: Mon, 22 Jun 2026 21:48:36 GMT
-- Link: https://www.cnbc.com/2026/06/22/nvidias-stock-struggles-as-kalshi-traders-bet-chip-prices-are-coming-down.html
+- Published: Tue, 23 Jun 2026 22:34:18 GMT
+- Link: https://unsloth.ai/docs/models/glm-5.2
 
-For most of this cycle the consensus trade was long the picks-and-shovels. This week was the first where the durability of chipmaker capture was priced as an open question. Nvidia has underperformed the VanEck Semiconductor ETF in 2026, with Kalshi traders betting B200 prices are coming down (CNBC).
+GLM-5.2 landed on AWS Marketplace and in serving platforms such as Baseten within days of release. The argument made here is that distribution velocity, not benchmark parity, is the decisive signal: it makes its way into the tooling immediately, and all the rest is hand-waving. For most of the cycl
 
-## 2. [Signal] "Late 2022 for science": agentic AI moves into scientific research
+## 2. [Signal] AWS reshapes serverless compute around agent-generated code
 
-- Published: Mon, 22 Jun 2026 21:48:36 GMT
-- Link: https://www.theregister.com/systems/2026/06/22/nvidia-gets-all-agentic-about-supercomputing-for-scientific-research/5259553
+- Published: Tue, 23 Jun 2026 22:34:18 GMT
+- Link: https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/
 
-Nvidia is pushing agentic AI co-scientists that call simulators and surrogate models alongside tools and applications, converging planned experiments, code generation, simulation and data analysis into a single workflow (The Register). Watching it, John said the coming compute-hungry scientific revo
+AWS introduced Lambda MicroVMs, a serverless primitive offering VM-level isolation, near-instant launch and resume, and state preservation specifically for executing user- or AI-generated code. The pitch is to give each user or job its own isolated, stateful compute environment without managing virt
 
-## 3. [Signal] The memory squeeze reaches retro RAM — even DDR2 and DDR3 are going to the moon
+## 3. [Signal] China's CXMT becomes the fourth force in DRAM as the memory squeeze deepens
 
-- Published: Mon, 22 Jun 2026 21:48:36 GMT
-- Link: https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627
+- Published: Tue, 23 Jun 2026 22:34:17 GMT
+- Link: https://newsletter.semianalysis.com/p/chinas-cxmt-is-set-to-challenge-dram
 
-The memory crisis has a new twist: buyers are turning to legacy products such as DDR2 and DDR3 to meet demand, with prices on years-old, supposedly-obsolete parts climbing sharply (The Register, citing TrendForce). When buyers reach back to DDR2 and DDR3, it indicates the squeeze has saturated curre
+SemiAnalysis reports China's CXMT is now the fourth-largest DRAM maker globally, with full-year revenue up 156% to about US$8.6bn and its first positive net income near US$1bn. The report stresses that long fab-construction timelines mean no producer can flood the market quickly, preserving what it
 
-## 4. [Signal] Heuristics are not axioms: a discipline for reading the AI transition
+## 4. [Signal] Baseten's US$1.5bn raise and Modal's pitch: own your inference
 
-- Published: Mon, 22 Jun 2026 21:48:36 GMT
-- Link: https://amppublic.com/
+- Published: Tue, 23 Jun 2026 22:34:17 GMT
+- Link: https://modal.com/blog/introducing-auto-endpoints
 
-John surfaced AMP, founded by Anjney Midha, as "a grid for compute rather than energy" — compute delivered as a metered, routable utility rather than provisioned as discrete owned clusters. If that holds, the economics shift from owning capacity to operating and arbitraging a network, an infrastruct
+Baseten raised US$1.5bn to power the next era of AI inference, confirming that inference-serving still draws whale-scale capital even as per-token margins compress. Modal launched auto-endpoints with a pointed framing — if you don't own your inference, you don't own your destiny — citing both silent
 
-## 5. [Signal] Trump walks back the Anthropic block — but the variance is the signal
+## 5. [Signal] Data centres as the energy security of the 21st century
 
-- Published: Mon, 22 Jun 2026 21:48:35 GMT
-- Link: https://www.itnews.com.au/news/trump-no-longer-views-anthropic-as-national-security-threat-626804
+- Published: Tue, 23 Jun 2026 22:34:17 GMT
+- Link: https://www.rnz.co.nz/news/world/616562/best-way-to-combat-ai-cyber-threats-is-with-ai-five-eyes-security-agencies-say
 
-President Trump now says he no longer views Anthropic as a national-security threat (itnews, 22 June), the clearest sign the Mythos and Fable export freeze is being unwound. Mark reads the mechanism as a mix of visible concession from Anthropic's leadership and pressure from G7 allies. The reversal
+The Five Eyes cybersecurity agencies issued a joint warning that the AI cyber threat demands urgent action, arguing the best defence against AI threats is AI. Against that backdrop, the case for domestic compute sharpened: a country wants physical access to the hardware and networks running its work
 
-## 6. [Signal] "Weights you can download can't be taken away" — the open-frontier permanence argument
+## 6. [Signal] Talent leaving Google, and the Workspace CLI that got an engineer fired
 
-- Published: Mon, 22 Jun 2026 21:48:35 GMT
-- Link: https://techstackups.com/comparisons/glm-5.2-vs-opus/
+- Published: Tue, 23 Jun 2026 22:34:17 GMT
+- Link: https://x.com/JPoehnelt/status/2069482265953087602
 
-GLM-5.2's launch drew an unusually clean statement of the open-weights investment case. A techstackups head-to-head kept Opus as its main model — faster, cleaner output, and able to check its own visual work, which the text-only GLM-5.2 cannot — yet gave GLM a permanent place in the toolkit on one g
+A widely-shared account from a former Google engineer describes being fired after building an unofficial agentic CLI — two days after Google Cloud Next announced an official Workspace CLI. His diagnosis: the resistance was not about his tool but a broader fear in what agents meant for Workspace. It
 
-## 7. [Signal] "Without the risk of export controls" becomes a standard product claim
+## 7. [Signal] AI cyber capability runs ahead of the export-control logic
 
-- Published: Mon, 22 Jun 2026 21:48:35 GMT
-- Link: https://sakana.ai/fugu/
+- Published: Tue, 23 Jun 2026 22:34:17 GMT
+- Link: https://www.theregister.com/security/2026/06/23/mythos-discovers-squidbleed-a-memory-leak-thats-gone-undetected-since-clinton-era/5260367
 
-Two releases this week pushed the open frontier past a single-lab story. Sakana's Fugu, built on its TRINITY and Conductor papers on learned model orchestration, claims to sit "shoulder-to-shoulder with Fable 5 and Mythos Preview" on engineering and reasoning benchmarks — "without the risk of export
+OpenAI published Daybreak and claimed state-of-the-art results on CyberGym for a cyber-capable GPT-5.5 variant. In the same window, Anthropic's Mythos discovered SquidBleed, a 29-year-old Heartbleed-style vulnerability in the widely used Squid proxy that had leaked credentials undetected since the 1
 
-## 8. [Signal] When did the evals start failing? The day ChatGPT shipped
+## 8. [Signal] A 3-billion-parameter model claims frontier reasoning
 
-- Published: Mon, 22 Jun 2026 21:48:35 GMT
-- Link: https://beyondbenchmarks.ai
+- Published: Tue, 23 Jun 2026 22:34:16 GMT
+- Link: https://arxiv.org/abs/2606.16140
 
-Mark sharpened the evaluation problem this week: the failure is neither new nor narrow. "Within a month of ChatGPT coming out there were widespread reports of cheating on homework. Then exams. Then assessments of all kinds. The artificial intelligence made it impossible to assess human intelligence
+Weibo AI has released VibeThinker-3B, a 3-billion-parameter open-weights model reporting 94.3 on AIME26 and 80.2 Pass@1 on LiveCodeBench v6 — figures it places alongside models orders of magnitude larger, including DeepSeek V3.2, GLM-5 and Gemini 3 Pro. The accompanying Parametric Compression-Covera
