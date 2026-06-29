@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-06-28 04:49 UTC
+- Generated at: 2026-06-29 04:58 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] A 3-billion-parameter model claims frontier reasoning
+## 1. [Signal] The model router becomes a product
 
-- Published: Thu, 25 Jun 2026 22:01:53 GMT
-- Link: https://arxiv.org/abs/2606.16140
+- Published: Sun, 28 Jun 2026 22:43:44 GMT
+- Link: https://github.com/workweave/router
 
-Weibo AI has released VibeThinker-3B, a 3-billion-parameter open-weights model reporting 94.3 on AIME26 and 80.2 Pass@1 on LiveCodeBench v6 — figures it places alongside models orders of magnitude larger, including DeepSeek V3.2, GLM-5 and Gemini 3 Pro. The accompanying Parametric Compression-Covera
+Mark surfaced workweave/router, which describes itself as a model router for agentic systems that routes every prompt to the right model in under 50 milliseconds and cuts costs 40 to 70 per cent with just an endpoint change. The arbitrage-routing idea that ran through the last fortnight's analysis -
 
-## 2. [Signal] The data-centre build-out is becoming a third wave of inflation
+## 2. [Signal] The case for onshore inference gets stronger
 
-- Published: Thu, 25 Jun 2026 22:01:53 GMT
+- Published: Sun, 28 Jun 2026 22:43:44 GMT
+- Link: https://www.smh.com.au/national/nsw/nsw-residents-score-victory-in-battle-against-data-centre-20260624-p609u5.html
+
+NSW residents claimed a victory against a data-centre development this week, extending a local-opposition pattern already visible in Tasmania. At the same time, the move to have the US government vet GPT-5.6 users - and Mark's expectation that Five Eyes arrangements will become a friction point in t
+
+## 3. [Signal] Google rebuilds its coding team to chase Anthropic
+
+- Published: Sun, 28 Jun 2026 22:43:44 GMT
+- Link: https://www.theinformation.com/articles/google-revamps-new-ai-coding-strike-team-amid-struggle-catch-anthropic
+
+Google is reorganising its AI coding strike team amid a struggle to catch Anthropic, according to The Information. It follows last week's episode in which an engineer was fired over an unofficial agentic CLI days before the official one shipped, and a run of AI-talent departures from Alphabet. Mark'
+
+## 4. [Signal] Washington will vet who gets to use GPT-5.6
+
+- Published: Sun, 28 Jun 2026 22:43:43 GMT
+- Link: https://openai.com/index/previewing-gpt-5-6-sol/
+
+OpenAI previewed GPT-5.6 - a three-tier family (Sol, Terra, Luna) it calls its strongest yet - and the Trump administration asked the company to stagger the release on national-security and cybersecurity grounds. During the initial rollout, access is limited to a small set of trusted partners, with
+
+## 5. [Signal] A frozen frontier is a gift to open weights
+
+- Published: Sun, 28 Jun 2026 22:43:43 GMT
+- Link: https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/
+
+With GPT-5.6's release legally staggered, a widely-shared comment captured the implication: public AI progress has now plateaued - legally, but it is still a plateau. The point is that open models no longer face a moving target. They need to close the gap once. This reframes the open-weights crosso
+
+## 6. [Signal] Frontier-class reasoning at 90 tokens a second, on a laptop
+
+- Published: Sun, 28 Jun 2026 22:43:43 GMT
+- Link: https://huggingface.co/WeiboAI/VibeThinker-3B/tree/main
+
+Mark ran VibeThinker-3B - a three-billion-parameter open-weights model claiming frontier-class reasoning - locally this week. On a consumer RTX 3070Ti it generated above 80 tokens per second, entirely on the GPU. An MLX build on Apple silicon produced around 90 tokens per second. No cloud, no subscr
+
+## 7. [Signal] As intelligence got cheaper, what runs it got dearer
+
+- Published: Sun, 28 Jun 2026 22:43:43 GMT
 - Link: https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw
 
-The Wall Street Journal argues the data-centre boom is sparking a 'third wave of inflation,' and SemiAnalysis puts scale on it: US data-centre build-out rising from about +21GW in 2026 to +84GW by 2030, with the 'delays are overblown' counter-narrative. The mechanism is straightforward — when a capa
+Mark offered the line that makes the current picture cohere: the inversion is that as intelligence got cheaper, the things it runs on got more valuable. Open weights have crossed the frontier, closed-model pricing has gone flat, and a capable model can be routed to for a fraction of last year's cost
 
-## 3. [Signal] The tokenpocalypse: enterprises discover AI spend outruns AI value
+## 8. [Signal] Memory's revenge, and Samsung's answer
 
-- Published: Thu, 25 Jun 2026 22:01:52 GMT
-- Link: https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/
+- Published: Sun, 28 Jun 2026 22:43:43 GMT
+- Link: https://www.macrumors.com/2026/06/26/micron-suggests-apple-helped-cause-memory-crisis/
 
-Accenture is reportedly trying to stop non-technical staff from burning the AI token budget on trivial tasks like turning PDFs into slides, amid industry-wide 'soaring token spend' (404 Media). A parallel Gartner-sourced claim that AI coding token costs are 'on track to rival human payroll' (CIO.com
-
-## 4. [Signal] Micron becomes tech's margin king and locks in five years of high memory prices
-
-- Published: Thu, 25 Jun 2026 22:01:52 GMT
-- Link: https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html
-
-Micron's fiscal-Q3 gross margin jumped to 84.9% from 39% a year earlier — a company record that puts it ahead of Nvidia (~75%) and Meta (~82%) and, in CNBC's words, marks 'a remarkable jump in pricing power for a company long viewed as producing a commodity.' The stock ran roughly 16%. More importan
-
-## 5. [Signal] Inference arbitrage: routing cheap tokens becomes the game, but the substrate stays scarce
-
-- Published: Thu, 25 Jun 2026 22:01:52 GMT
-- Link: https://tomtunguz.com/sail-inference-queue/
-
-Tomasz Tunguz's 'Sail' inference queue distributes requests across open models — DeepSeek, Qwen, Kimi, GLM — and picks the cheapest capable model per task, with GLM-5.1 on Sail costing about six times less per token than Anthropic. His framing: the inference market is segmenting into real-time, near
-
-## 6. [Signal] GLM-5.2 is 'the step change for open' — and the search for a model moat comes up empty
-
-- Published: Thu, 25 Jun 2026 22:01:52 GMT
-- Link: https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open
-
-The praise for GLM-5.2 consolidated into a recognised inflection this week. interconnects.ai called it 'the step change for open'; on ARC-AGI-2, François Chollet flagged its 22.8% as the strongest result to date by an open-source model; and Design Arena had it besting Claude Fable on aesthetics. The
-
-## 7. [Signal] Infosys chair: modernising software will mean building custom, not buying packaged
-
-- Published: Thu, 25 Jun 2026 22:01:52 GMT
-- Link: https://www.theregister.com/channel/2026/06/25/infosys-boss-says-vibe-coding-is-no-threat-because-theres-more-to-writing-software-than-writing-software/5261900
-
-Infosys chairman Nandan Nilekani argued that vibe coding is 'no threat, because there's more to writing software than writing software' (The Register). The consequential half is the forecast that follows: organisations using AI to modernise will prefer to build custom replacements rather than buy pa
-
-## 8. [Signal] Evals everywhere: Ford rehires the quality inspectors AI couldn't replace
-
-- Published: Thu, 25 Jun 2026 22:01:51 GMT
-- Link: https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short
-
-Ford has been rehiring quality inspectors after AI fell short (Bloomberg) — a direct reversal of an automation rollout because the AI inspection could not be trusted. It is a rare, concrete instance of labour displacement running backwards, and it lands precisely where the verification regime was we
+Micron's Sumit Sadana told the Wall Street Journal that today's memory crisis is the bill for the last downturn. The company could not fund capacity expansion during the previous slump because aggressive buyers pushed relentlessly for lower prices and margins turned negative - a lot of industry inve
