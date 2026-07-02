@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-07-01 04:53 UTC
+- Generated at: 2026-07-02 04:20 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] As benchmarks saturate, evaluation becomes the product
+## 1. [Signal] Burry shorts the semis as Microsoft readies another layoff round
 
-- Published: Tue, 30 Jun 2026 23:15:06 GMT
-- Link: https://thewatershed.markpesce.com/evaluating-intelligence/
+- Published: Thu, 02 Jul 2026 00:29:58 GMT
+- Link: https://finance.yahoo.com/markets/stocks/articles/michael-burry-short-nvda-amat-035514726.html
 
-Mark's essay "Evaluating Intelligence" frames a threshold: when evaluating machine intelligence becomes as hard as evaluating human intelligence, something has shifted. Human intelligence testing has been intractable for 150 years; machine testing has become intractable in four — for the same reason
+Michael Burry has shorted the SOXX semiconductor index, with reported positions against names including NVDA and AMAT. The bet lands the same day Microsoft is reported to be planning another round of layoffs, coming off its worst six-month stretch for the stock in some years. Two bearish data point
 
-## 2. [Signal] The memory crisis reaches Apple's own product line
+## 2. [Signal] The AI-for-labour trade reverses: Ford rehires the engineers it cut
 
-- Published: Tue, 30 Jun 2026 23:15:06 GMT
-- Link: https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071
+- Published: Thu, 02 Jul 2026 00:29:58 GMT
+- Link: https://www.cnbc.com/2026/07/01/employers-who-laid-off-workers-for-ai-are-reversing-their-decisions.html
 
-The RAM squeeze has moved from spot prices into flagship SKUs. Microsoft is sunsetting the high-end 2TB Xbox rather than the 512GB base model — the highest-margin configurations are the casualties. Apple's Mac Studio with the M3 Ultra is now sold only at base 96GB: the 256GB and 512GB tiers that cos
+CNBC reports that employers who laid off workers in favour of AI are reversing those decisions. The concrete example: automaker Ford is rehiring hundreds of experienced human engineers to work on quality issues that automated systems could not resolve. This is direct counter-evidence to the simples
 
-## 3. [Signal] Enterprise token consumption hits a budgeting wall
+## 3. [Signal] The sovereign kill-switch moves from theory to policy debate
 
-- Published: Tue, 30 Jun 2026 23:15:06 GMT
-- Link: https://newsletter.semianalysis.com/p/tokenbudgeting-our-conversations
+- Published: Thu, 02 Jul 2026 00:29:58 GMT
+- Link: https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late
 
-SemiAnalysis reports, from conversations with more than 50 customers via Slack, phone and the Databricks AI Summit, that enterprise token consumption is hitting a budgeting wall after "unhinged consumption earlier this year." Mark's read of the implication: the earlier headline "$500m spend" figure
+Euronews argues bluntly that 'America can switch off the world's AI' and that Europe must switch gears before it is too late, prompting the Europeans to at least begin talking seriously about sovereign AI. In Australia, SmartCompany's Neural Notes makes the parallel case that the US 'keeps proving i
 
-## 4. [Signal] The data-centre electricity bill lands on residents
+## 4. [Signal] Export ban resolved: Trump administration restores Mythos and Fable
 
-- Published: Tue, 30 Jun 2026 23:15:06 GMT
-- Link: https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/
+- Published: Thu, 02 Jul 2026 00:29:57 GMT
+- Link: https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/
 
-404 Media reports that Henrico County, Virginia — a major data-centre hub — expects a 25% rise in electricity costs next year, with officials advising staff to close the blinds and turn off their computers to compensate. The voter-backlash thesis now has a concrete household-bill number attached, in
+The Trump administration has dropped its restrictions on Anthropic's Mythos and Fable models. TechCrunch reported the reversal, and by evening Bloomberg's top story was Fable being restored, with Anthropic publishing promotional access terms (up to 50% of weekly subscription limits on Fable 5 at no
 
-## 5. [Signal] Policy tightens on AI offence as the cyber-defence vendors print records
+## 5. [Signal] Memory TAM 4x in twelve months as the cheap PC disappears
 
-- Published: Tue, 30 Jun 2026 23:15:06 GMT
-- Link: https://www.cnbc.com/2026/06/30/palo-alto-crowdstrike-stock-ai-mythos.html
+- Published: Thu, 02 Jul 2026 00:29:57 GMT
+- Link: https://www.theregister.com/personal-tech/2026/07/01/dram_it_cheap_pcs/5265010
 
-CNBC reports the Trump administration is moving on a fresh AI-focused China crackdown, tightening the same export-control lever that produced the Mythos and Fable fencelines. At the same time, the defensive side of the AI-cyber collision is showing up in earnings: both CrowdStrike and Palo Alto Netw
+Morgan Stanley now puts the global memory total addressable market at $890bn this year, up from $220bn last year — a 4x expansion in twelve months from a quarter-trillion-dollar starting point. That is not a rounding error in a niche component; it is a structural repricing of the substrate that AI i
 
-## 6. [Signal] Sonnet 5 reprices last cycle's flagship into the mid-tier
+## 6. [Signal] Data centres hit record-low vacancy as Republican backlash spreads
 
-- Published: Tue, 30 Jun 2026 23:15:05 GMT
-- Link: https://www.anthropic.com/news/claude-sonnet-5
+- Published: Thu, 02 Jul 2026 00:29:57 GMT
+- Link: https://www.cbre.com/insights/reports/global-data-center-trends-2026
 
-Anthropic launched Claude Sonnet 5, claiming performance "close to that of Opus 4.8" at materially lower prices: introductory rates of $2 per million input tokens and $10 per million output through 31 August, stepping up to $3/$15 thereafter. ArtificialAnalysis rates it among the leading models on i
+CBRE's Global Data Centre Trends 2026 finds that despite substantial new supply, demand from AI startups, neoclouds and hyperscalers has driven vacancy to record lows in key markets — Northern Virginia at 0.3% and Atlanta around 1%. The physical constraint is real and getting tighter, not looser, ev
 
-## 7. [Signal] A near-frontier open model, trained entirely off the Nvidia stack
+## 7. [Signal] Stranded gigawatts: reframing the grid panic as a measurement problem
 
-- Published: Tue, 30 Jun 2026 23:15:05 GMT
-- Link: https://longcat.chat/blog/longcat-2.0/
+- Published: Thu, 02 Jul 2026 00:29:57 GMT
+- Link: https://climatedrift.substack.com/p/the-next-ai-infrastructure-opportunity
 
-Meituan's LongCat 2.0 / Owl Alpha is an open-weights model (~1.6T total / ~48B active, 35T training tokens, 1M context) that scores close to Opus 4.6. The notable detail is the substrate: pre-training and deployment were built entirely on domestic AI ASIC superpods — tens of thousands of Chinese acc
+A ClimateDrift piece that Mark flagged for its 'key insights' argues that much of the anxiety about AI eating the grid is really a measurement problem. The AI buildout is the biggest new load hitting the grid, and how much of it gets served by fresh gas versus capacity we already own shapes the emis
 
-## 8. [Signal] The harness starts designing itself
+## 8. [Signal] OpenAI claims a way to halve inference costs via chip co-design
 
-- Published: Tue, 30 Jun 2026 23:15:05 GMT
-- Link: https://deep-reinforce.com/ornith_1_0.html
+- Published: Thu, 02 Jul 2026 00:29:57 GMT
+- Link: https://www.theinformation.com/newsletters/ai-agenda/openai-discovers-new-way-cut-inference-costs-half
 
-deep-reinforce's Ornith-1.0 is built on a self-improving training framework: rather than relying on a fixed, human-designed harness, it learns to generate both the solution rollouts and the task-specific harnesses that guide them, treating the scaffold as "a learnable object that co-evolves with the
+The Information reports OpenAI has discovered a new way to cut inference costs roughly in half — apparently doubling matmul throughput or the equivalent — through a new architecture designed hand-in-hand with its chip. The framing is co-design: architecture decisions made jointly with leading AI com
