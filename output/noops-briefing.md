@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-07-02 04:20 UTC
+- Generated at: 2026-07-03 04:07 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Burry shorts the semis as Microsoft readies another layoff round
+## 1. NOOPS Weekly — Week of 27 June 2026
 
-- Published: Thu, 02 Jul 2026 00:29:58 GMT
-- Link: https://finance.yahoo.com/markets/stocks/articles/michael-burry-short-nvda-amat-035514726.html
+- Published: Thu, 02 Jul 2026 23:49:31 GMT
+- Link: https://noops.au/posts/noops-weekly-week-of-27-june-2026
 
-Michael Burry has shorted the SOXX semiconductor index, with reported positions against names including NVDA and AMAT. The bet lands the same day Microsoft is reported to be planning another round of layoffs, coming off its worst six-month stretch for the stock in some years. Two bearish data point
+The clearest way to read this week is as an inversion finally becoming visible in the price of everything. Intelligence got cheap enough to run on an iPad; the things it runs on — memory, power,...
 
-## 2. [Signal] The AI-for-labour trade reverses: Ford rehires the engineers it cut
+## 2. [Signal] Spain blacklists Palantir as Europe presses on autonomy
 
-- Published: Thu, 02 Jul 2026 00:29:58 GMT
-- Link: https://www.cnbc.com/2026/07/01/employers-who-laid-off-workers-for-ai-are-reversing-their-decisions.html
+- Published: Thu, 02 Jul 2026 23:13:02 GMT
+- Link: https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv
 
-CNBC reports that employers who laid off workers in favour of AI are reversing those decisions. The concrete example: automaker Ford is rehiring hundreds of experienced human engineers to work on quality issues that automated systems could not resolve. This is direct counter-evidence to the simples
+Spain has blacklisted Palantir from public and private state-controlled companies, citing concerns about the potential misuse of classified national-security information. It is a European state moving from rhetoric to procurement exclusion of a US data-analytics vendor — a hard enforcement data poin
 
-## 3. [Signal] The sovereign kill-switch moves from theory to policy debate
+## 3. [Signal] SAP's penny drops, three years after Salesforce
 
-- Published: Thu, 02 Jul 2026 00:29:58 GMT
-- Link: https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late
+- Published: Thu, 02 Jul 2026 23:13:01 GMT
+- Link: https://www.msn.com/en-us/money/other/sap-restricts-hiring-travel-to-fund-significant-ai-push/ar-AA272MOV
 
-Euronews argues bluntly that 'America can switch off the world's AI' and that Europe must switch gears before it is too late, prompting the Europeans to at least begin talking seriously about sovereign AI. In Australia, SmartCompany's Neural Notes makes the parallel case that the US 'keeps proving i
+SAP said it will restrict hiring and travel to redirect spending into a significant AI push. It is a modest-sounding operational note that carries a large concession: a core-ERP incumbent is constraining headcount growth to fund the transition, rather than treating AI as an add-on to seat-based lice
 
-## 4. [Signal] Export ban resolved: Trump administration restores Mythos and Fable
+## 4. [Signal] Microsoft builds a services arm — and so does everyone else
 
-- Published: Thu, 02 Jul 2026 00:29:57 GMT
-- Link: https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/
+- Published: Thu, 02 Jul 2026 23:13:01 GMT
+- Link: https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html
 
-The Trump administration has dropped its restrictions on Anthropic's Mythos and Fable models. TechCrunch reported the reversal, and by evening Bloomberg's top story was Fable being restored, with Anthropic publishing promotional access terms (up to 50% of weekly subscription limits on Fable 5 at no
+Microsoft is committing US$2.5bn and moving around 6,000 engineers and salespeople into a new subsidiary, Microsoft Frontier Co., to work directly with clients on AI implementation. John's read: "their own KPMG-style org, like OpenAI and Anthropic have." It follows AWS standing up a US$1bn Forward D
 
-## 5. [Signal] Memory TAM 4x in twelve months as the cheap PC disappears
+## 5. [Signal] OpenAI offers the state a seat on the cap table
 
-- Published: Thu, 02 Jul 2026 00:29:57 GMT
-- Link: https://www.theregister.com/personal-tech/2026/07/01/dram_it_cheap_pcs/5265010
+- Published: Thu, 02 Jul 2026 23:13:01 GMT
+- Link: https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
 
-Morgan Stanley now puts the global memory total addressable market at $890bn this year, up from $220bn last year — a 4x expansion in twelve months from a quarter-trillion-dollar starting point. That is not a rounding error in a niche component; it is a structural repricing of the substrate that AI i
+OpenAI has proposed handing the US government a 5% equity stake to address political blow-back, per an FT report. As one commentator put it, "the playbook has shifted from grant-maker to shareholder with breathtaking speed." It arrives the same week a UN report warned that AI is outpacing government
 
-## 6. [Signal] Data centres hit record-low vacancy as Republican backlash spreads
+## 6. [Signal] Nvidia starts pricing compute in equity
 
-- Published: Thu, 02 Jul 2026 00:29:57 GMT
-- Link: https://www.cbre.com/insights/reports/global-data-center-trends-2026
+- Published: Thu, 02 Jul 2026 23:13:01 GMT
+- Link: https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html
 
-CBRE's Global Data Centre Trends 2026 finds that despite substantial new supply, demand from AI startups, neoclouds and hyperscalers has driven vacancy to record lows in key markets — Northern Virginia at 0.3% and Atlanta around 1%. The physical constraint is real and getting tighter, not looser, ev
+Nvidia says it will offer fast-growing start-ups access to compute in exchange for a slice of their future profits — swapping GPU capacity for participation rather than cash. It lets capacity-constrained companies pay in upside instead of scarce cash, and gives Nvidia a claim on the value its silico
 
-## 7. [Signal] Stranded gigawatts: reframing the grid panic as a measurement problem
+## 7. [Signal] The browser becomes an agent surface: Safari ships an MCP server
 
-- Published: Thu, 02 Jul 2026 00:29:57 GMT
-- Link: https://climatedrift.substack.com/p/the-next-ai-infrastructure-opportunity
+- Published: Thu, 02 Jul 2026 23:13:01 GMT
+- Link: https://www.macrumors.com/2026/07/01/apple-releases-safari-technology-preview-247/
 
-A ClimateDrift piece that Mark flagged for its 'key insights' argues that much of the anxiety about AI eating the grid is really a measurement problem. The AI buildout is the biggest new load hitting the grid, and how much of it gets served by fresh gas versus capacity we already own shapes the emis
+Apple's Safari Technology Preview 247 introduces a Safari MCP server, exposing the browser as a Model Context Protocol surface that agents can drive directly. A mainstream platform vendor shipping MCP natively normalises the protocol as connective tissue between agents and applications — no longer a
 
-## 8. [Signal] OpenAI claims a way to halve inference costs via chip co-design
+## 8. [Signal] An open-weights lab is now a $100bn public equity
 
-- Published: Thu, 02 Jul 2026 00:29:57 GMT
-- Link: https://www.theinformation.com/newsletters/ai-agenda/openai-discovers-new-way-cut-inference-costs-half
+- Published: Thu, 02 Jul 2026 23:13:00 GMT
+- Link: https://cursor.com/evals
 
-The Information reports OpenAI has discovered a new way to cut inference costs roughly in half — apparently doubling matmul throughput or the equivalent — through a new architecture designed hand-in-hand with its chip. The framing is co-design: architecture decisions made jointly with leading AI com
+The listed vehicle associated with the GLM line (HKEX: 2513, Knowledge Atlas / Z.ai) has re-rated to a market capitalisation cited around US$96bn-US$116bn, with shares roughly doubling since the release of GLM-5.2. The model itself is MIT-licensed and free; the equity capitalises the brand, the rele
