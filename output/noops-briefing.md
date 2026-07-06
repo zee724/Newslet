@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-07-05 04:19 UTC
+- Generated at: 2026-07-06 04:38 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. NOOPS Weekly — Week of 27 June 2026
+## 1. [Signal] Alibaba bans Claude Code — the decoupling now runs both ways
 
-- Published: Thu, 02 Jul 2026 23:49:31 GMT
-- Link: https://noops.au/posts/noops-weekly-week-of-27-june-2026
+- Published: Sun, 05 Jul 2026 23:53:28 GMT
+- Link: https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/
 
-The clearest way to read this week is as an inversion finally becoming visible in the price of everything. Intelligence got cheap enough to run on an iPad; the things it runs on — memory, power,...
+Reuters reports Alibaba has banned Claude Code in the workplace over alleged backdoor risks. Days earlier, Anthropic was reported to be removing covert competitor-detection code from its models. Whatever the merit of the specific allegation, the structure is a mirror image of the US export-control r
 
-## 2. [Signal] Spain blacklists Palantir as Europe presses on autonomy
+## 2. [Signal] Anthropic talks custom silicon with Samsung
 
-- Published: Thu, 02 Jul 2026 23:13:02 GMT
-- Link: https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv
+- Published: Sun, 05 Jul 2026 23:53:28 GMT
+- Link: https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/
 
-Spain has blacklisted Palantir from public and private state-controlled companies, citing concerns about the potential misuse of classified national-security information. It is a European state moving from rhetoric to procurement exclusion of a US data-analytics vendor — a hard enforcement data poin
+The Information reports Anthropic is in contact with Samsung to explore collaboration on a custom AI chip. Nothing is signed, but the direction matters: this extends the lab-designed-silicon pattern from one frontier lab to two, after OpenAI's co-designed architecture reportedly halved its inference
 
-## 3. [Signal] SAP's penny drops, three years after Salesforce
+## 3. [Signal] The AI buildout is roughly washing its face — no better
 
-- Published: Thu, 02 Jul 2026 23:13:01 GMT
-- Link: https://www.msn.com/en-us/money/other/sap-restricts-hiring-travel-to-fund-significant-ai-push/ar-AA272MOV
+- Published: Sun, 05 Jul 2026 23:53:27 GMT
+- Link: https://www.exponentialview.co/p/the-state-of-the-ai-economy
 
-SAP said it will restrict hiring and travel to redirect spending into a significant AI push. It is a modest-sounding operational note that carries a large concession: a core-ERP incumbent is constraining headcount growth to fund the transition, rather than treating AI as an add-on to seat-based lice
+Exponential View's State of the AI Economy is the most data-rich treatment yet of the question that decides everything else: does the revenue clear the depreciation? Its modelling says hyperscaler-attributable revenues "just about clear the depreciation expense" — the buildout is solvent on current
 
-## 4. [Signal] Microsoft builds a services arm — and so does everyone else
+## 4. [Signal] AI-discovered vulnerabilities are compounding, not accreting
 
-- Published: Thu, 02 Jul 2026 23:13:01 GMT
-- Link: https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html
+- Published: Sun, 05 Jul 2026 23:53:27 GMT
+- Link: https://epoch.ai/data/cve
 
-Microsoft is committing US$2.5bn and moving around 6,000 engineers and salespeople into a new subsidiary, Microsoft Frontier Co., to work directly with clients on AI implementation. John's read: "their own KPMG-style org, like OpenAI and Anthropic have." It follows AWS standing up a US$1bn Forward D
+Epoch AI has published a dataset tracking AI-model performance at discovering CVEs — real software vulnerabilities — and the curve is the story: growth in AI-discovered vulnerabilities looks non-linear. This is the strongest quantitative support yet for a pattern we have been tracking from both end
 
-## 5. [Signal] OpenAI offers the state a seat on the cap table
+## 5. [Signal] Meta in final talks with Anthropic for private Claude instances
 
-- Published: Thu, 02 Jul 2026 23:13:01 GMT
-- Link: https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+- Published: Sun, 05 Jul 2026 23:53:26 GMT
+- Link: https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be
 
-OpenAI has proposed handing the US government a 5% equity stake to address political blow-back, per an FT report. As one commentator put it, "the playbook has shifted from grant-maker to shareholder with breathtaking speed." It arrives the same week a UN report warned that AI is outpacing government
+SemiAnalysis reports Meta is in final talks with Anthropic for access to private instances of Claude — a Bedrock/Foundry/Vertex-style arrangement — initially for internal use, with a path to what SemiAnalysis calls "the premier Sales & Marketing SaaS powered by Frontier AI Agents" and, over time, a
 
-## 6. [Signal] Nvidia starts pricing compute in equity
+## 6. [Signal] Washington makes data centres the grid's flex resource of last resort
 
-- Published: Thu, 02 Jul 2026 23:13:01 GMT
-- Link: https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html
+- Published: Sun, 05 Jul 2026 23:53:26 GMT
+- Link: https://gizmodo.com/energy-department-wants-data-centers-to-stop-draining-the-grid-during-brutal-heat-wave-2000780886
 
-Nvidia says it will offer fast-growing start-ups access to compute in exchange for a slice of their future profits — swapping GPU capacity for participation rather than cash. It lets capacity-constrained companies pay in upside instead of scarce cash, and gives Nvidia a claim on the value its silico
+The US Energy Department has issued emergency order 202-26-33, allowing PJM — the grid operator for 13 states and Washington DC — to require data centres and other large customers to switch to their own backup power during a severe heat wave. The precedent is the signal. Data centres are now formal
 
-## 7. [Signal] The browser becomes an agent surface: Safari ships an MCP server
+## 7. [Signal] The local-inference payback maths now fits inside a hardware cycle
 
-- Published: Thu, 02 Jul 2026 23:13:01 GMT
-- Link: https://www.macrumors.com/2026/07/01/apple-releases-safari-technology-preview-247/
+- Published: Sun, 05 Jul 2026 23:53:26 GMT
+- Link: https://github.com/jamesob/local-llm
 
-Apple's Safari Technology Preview 247 introduces a Safari MCP server, exposing the browser as a Model Context Protocol surface that agents can drive directly. A mainstream platform vendor shipping MCP natively normalises the protocol as connective tissue between agents and applications — no longer a
+A widely shared build guide — jamesob's local-llm — pitches near-frontier open-weights intelligence on roughly US$2,000 of consumer hardware. The interesting part is not the recipe but the arithmetic it invites: for a heavy user spending US$2,000 a month on hosted inference, even a US$40,000 local r
 
-## 8. [Signal] An open-weights lab is now a $100bn public equity
+## 8. [Signal] The one-person company gets a serious rebuttal
 
-- Published: Thu, 02 Jul 2026 23:13:00 GMT
-- Link: https://cursor.com/evals
+- Published: Sun, 05 Jul 2026 23:53:26 GMT
+- Link: https://www.minid.net/2026/7/3/the-one-person-company-fantasy
 
-The listed vehicle associated with the GLM line (HKEX: 2513, Knowledge Atlas / Z.ai) has re-rated to a market capitalisation cited around US$96bn-US$116bn, with shares roughly doubling since the release of GLM-5.2. The model itself is MIT-licensed and free; the equity capitalises the brand, the rele
+A considered essay making the rounds — "The one-person company fantasy" — pushes back on the strongest form of the tiny-teams narrative: "AI does not think for a human. It follows instructions... the human still has to know what to ask, what to accept, what to reject, and what trade-offs are being m
