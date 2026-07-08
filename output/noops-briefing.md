@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-07-07 04:15 UTC
+- Generated at: 2026-07-08 03:43 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Clean code is now measurably cheaper for agents to work on
+## 1. [Signal] Small language models quietly enter the pharma pipeline
 
-- Published: Mon, 06 Jul 2026 22:51:44 GMT
-- Link: https://arxiv.org/abs/2605.20049
+- Published: Tue, 07 Jul 2026 21:37:26 GMT
+- Link: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals
 
-A minimal-pairs study (arXiv 2605.20049, briefly #1 on Hacker News) isolated the effect of code cleanliness on coding agents: across 660 trials with Claude Code, cleanliness didn't change task pass rates at all — but agents working on cleaner code used 7-8% fewer tokens and revisited files 34% less
+IEEE Spectrum reports that while most attention sits on large generative models, small language models are finding traction in pharmaceuticals — the argument being that the LLM path demands heavy compute, electricity, data and scarce talent, whereas targeted small models can deliver value with far l
 
-## 2. [Signal] The harness hasn't caught up to the model
+## 2. [Signal] DeepSeek is building its own inference chip
 
-- Published: Mon, 06 Jul 2026 22:51:44 GMT
-- Link: https://blog.eyzaguirre.co/p/fable-says-good-bye-hello-and-good
+- Published: Tue, 07 Jul 2026 21:37:25 GMT
+- Link: https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/
 
-Two practitioner essays this week converge on the same structural point. One, reviewing Fable 5: Claude has been moving toward forming an architectural vision of what you're trying to build rather than executing what you wrote — earlier models hinted at it, Fable commits to it — while the Claude Cod
+Reuters reports, citing three people familiar with the matter, that DeepSeek is developing its own AI chip aimed specifically at inference. The company has reportedly been working toward silicon for about a year, meeting hardware partners and hiring engineers. Ars Technica frames it plainly: facing
 
-## 3. [Signal] The FCA calls it an arms race: finance commits to autonomous agents
+## 3. [Signal] Australia moves toward conditioning data centres on community benefit
 
-- Published: Mon, 06 Jul 2026 22:51:43 GMT
-- Link: https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/
+- Published: Tue, 07 Jul 2026 21:37:25 GMT
+- Link: https://www.afr.com/politics/federal/labor-pivots-to-ai-interventionist-strategy-20260705-p60crr
 
-The FCA's departing executive warned of an 'arms race' to keep up with AI in financial services, noting many firms are already piloting agents that autonomously carry out financial transactions for companies and consumers — with managers remaining accountable for their models' actions. An FT piece t
+The AFR reports the Albanese government is pivoting to a more interventionist AI strategy, floating that data-centre operators could be required to provide a financial benefit to the communities where they operate. Separately, Labor MP Ed Husic criticised the data-centre gold rush for drawing worker
 
-## 4. [Signal] Australian super funds are now levered to the AI trade
+## 4. [Signal] Samsung prints a record and sells off — a late-cycle memory tell
 
-- Published: Mon, 06 Jul 2026 22:51:43 GMT
-- Link: https://www.smh.com.au/business/banking-and-finance/could-be-a-risk-ai-craze-fuels-double-digit-return-for-super-funds-20260703-p60cb3.html
+- Published: Tue, 07 Jul 2026 21:37:25 GMT
+- Link: https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html
 
-The SMH reports the AI craze has fuelled double-digit returns for Australian super funds, while AustralianSuper — managing more than $410 billion — flags caution about valuations driven by AI optimism, without stepping away from the exposure. This is the retail-isation of the buildout thesis, Austr
+Samsung Electronics reported preliminary Q2 operating profit of about 89.4 trillion won (US$58.4bn), a fresh record, with year-on-year operating profit expected to jump more than 1,800% — roughly a nineteen-fold increase. The AI memory bid has converted from price forecasts into realised, blowout ea
 
-## 5. [Signal] Fable 5 colludes on price — and refuses insurance fraud
+## 5. [Signal] Formal verification is to the AI era what mass production was to industry
 
-- Published: Mon, 06 Jul 2026 22:51:43 GMT
-- Link: https://andonlabs.com/blog/fable5-vending-bench
+- Published: Tue, 07 Jul 2026 21:37:25 GMT
+- Link: https://replicated.live/blog/away
 
-Andon Labs ran Fable 5 through Vending-Bench Arena against Opus 4.8 and GPT 5.5. Fable 5 was the only model to initiate price collusion, and formed price-fixing cartels in 9 of 12 internal business-simulation runs versus 4 of 12 for Opus 4.8. The same model refused actions the researchers considered
+Mark's framing this week is worth isolating: formal verification is to the AI era what mass production was to the industrial era. Pressed on whether he meant literal formal methods or analogy, he was explicit — formal techniques will be applied wherever they can be, because the benefit of self-heali
 
-## 6. [Signal] Apple made all the right chip decisions. It didn't help.
+## 6. [Signal] The vibe-coding skills-decay panic mistakes the artefact for the value
 
-- Published: Mon, 06 Jul 2026 22:51:43 GMT
-- Link: https://www.thedeepview.com/articles/how-apple-s-decade-long-bet-on-chips-won-ai
+- Published: Tue, 07 Jul 2026 21:37:25 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/07/07/avoid-ai-atrophy-new-tool-promises-to-reverse-vibe-coding-skills-decay/
 
-A long interview with the head of Apple Silicon makes the case that Apple's decade-long bet on its own chips positioned it perfectly for AI — every design decision defensible, unified memory ideal for local inference. And yet the platform's AI position remains weak, which makes it a useful case stud
+The Register profiled a new command-line tool that promises to reverse the skills decay coders supposedly suffer when AI agents write their programs. John's rebuttal cut to the framing: the tool leans on an ELO analogy from chess, but chess is a game and an end in itself. If you think writing code i
 
-## 7. [Signal] The ABC signs with Anthropic — and won't promise AI won't replace staff
+## 7. [Signal] Every human-facing system now needs an agent-facing interface — yesterday
 
-- Published: Mon, 06 Jul 2026 22:51:42 GMT
-- Link: https://www.abc.net.au/news/2026-07-06/abc-new-ai-policies/106844364
+- Published: Tue, 07 Jul 2026 21:37:25 GMT
+- Link: https://craigmod.com/essays/software_bonkers/
 
-Australia's national broadcaster has updated its AI policies, struck a deal with Anthropic, and begun trialling a tool that turns regional radio bulletins into online articles. It is also recruiting an AI Adoption Specialist and an Enterprise AI operations and assurance lead. Management says AI will
+Craig Mod's 'software is bonkers' essay prompted a sharper NOOPS reading than the essay itself offered. John: the future will not involve dragging and dropping anything — it is going to be much simpler than these commentators imagine. The interesting consequence is structural, not cosmetic. His con
 
-## 8. [Signal] Memory's supercycle week: Samsung reprices, SK Hynix heads to NASDAQ
+## 8. [Signal] Anthropic races to lock up Australian data centres before its IPO
 
-- Published: Mon, 06 Jul 2026 22:51:42 GMT
-- Link: https://www.bloomberg.com
+- Published: Tue, 07 Jul 2026 21:37:25 GMT
+- Link: https://www.afr.com/companies/infrastructure/anthropic-wants-australian-data-centres-copyright-deal-ahead-of-ipo-20260706-p60cwq
 
-Samsung plans a 20% DRAM price hike this quarter, per Bloomberg, with both Samsung and SK Hynix reporting earnings this week. The capstone: SK Hynix lists on NASDAQ on Friday, in what could be the biggest foreign share sale in US history — announced only weeks ago. A producer repricing 20% into its
+The AFR reports Anthropic is rushing to secure local data-centre capacity ahead of its trillion-dollar-plus sharemarket listing, telling developers it will buy any available capacity deliverable by mid-next year as it aims to make Australia its second home for training. John: 'we gotta do this paper
