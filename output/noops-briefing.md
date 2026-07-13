@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-07-12 03:56 UTC
+- Generated at: 2026-07-13 03:58 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Grok 4.5 aims to be the Wal-Mart of AI
+## 1. [Signal] ChatGPT Work: OpenAI ships the SaaS apocalypse as a mainstream product
 
-- Published: Thu, 09 Jul 2026 22:22:40 GMT
-- Link: https://artificialanalysis.ai/articles/grok-4-5-brings-spacexai-to-the-the-intelligence-frontier
+- Published: Sun, 12 Jul 2026 22:58:19 GMT
+- Link: https://openai.com/index/chatgpt-for-your-most-ambitious-work/
 
-SpaceXAI's Grok 4.5 debuted fourth on the Artificial Analysis Intelligence Index while pricing itself as one of the cheapest near-frontier models to run: about US$0.31 per task on the intelligence index and US$2.59 per task on the coding-agent index. An independent launch-day build-off found it went
+OpenAI's ChatGPT Work launch — merging the Codex app into ChatGPT, adding local file and browser access, external-system plugins, and a Sites builder for generating interactive dashboards and web apps — makes the agent, rather than a fixed application, the primary interface for getting work done. M
 
-## 2. [Signal] The codebase — and its toolchain — gets rebuilt for agents
+## 2. [Signal] Ben Bernanke joins Anthropic's oversight trust
 
-- Published: Thu, 09 Jul 2026 22:22:40 GMT
-- Link: https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom
+- Published: Sun, 12 Jul 2026 22:58:19 GMT
+- Link: https://www.anthropic.com/news/ben-bernanke
 
-A cluster of signals points at the development substrate itself being re-architected around agents as the primary operator. One argument holds that a rewrite is less a stack-modernisation than a chance to rebuild a codebase around clear, consistent patterns that play to a model's strengths rather th
+Anthropic's Long-Term Benefit Trust — the independent body that advises the company and appoints its board — has appointed Ben Bernanke, former US Federal Reserve Chair and 2022 Nobel laureate in Economic Sciences, as its newest member. His stated remit is to advise on Anthropic's economic research,
 
-## 3. [Signal] Meta and xAI move for the US good-enough tier
+## 3. [Signal] OpenAI retires ChatGPT Atlas and consolidates products under Brockman
 
-- Published: Thu, 09 Jul 2026 22:22:39 GMT
-- Link: https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html
+- Published: Sun, 12 Jul 2026 22:58:19 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/07/10/openais-atlas-browser-doesnt-make-it-to-its-first-birthday/5269818
 
-Meta shipped Muse Spark 1.1 with a public API starting at US$1.25 in / US$4.25 out per million tokens and entered the AI coding market to chase Anthropic and OpenAI. SemiAnalysis argues Meta is the only hyperscaler plausibly on track to be world-class across all three of data, talent and compute. Ma
+OpenAI has shut down ChatGPT Atlas, its standalone AI browser, less than a year after launch, folding its browser-based agent features into ChatGPT and Codex. The retirement lands alongside a broader consolidation: President Greg Brockman now controls AI infrastructure and all three major product li
 
-## 4. [Signal] The barbell hardens — a blanket over the top five, a hollow middle
+## 4. [Signal] Meta's in-house Iris AI chip enters production in September
 
-- Published: Thu, 09 Jul 2026 22:22:39 GMT
-- Link: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off
+- Published: Sun, 12 Jul 2026 22:58:19 GMT
+- Link: https://finance.yahoo.com/technology/ai/articles/meta-start-production-iris-ai-122141801.html
 
-The week's launches sharpened a core NOOPS framing. Mark: the model market is barbell-shaped — a frontier tier and a good-enough tier, with a squeezed middle, and GLM-5.2 sits squarely in that middle. The middle is defined not by capability but by price-to-capability ratio; a model that is neither c
+Meta's first custom AI processor, code-named Iris, is scheduled for mass production in September, designed with Broadcom and fabricated on TSMC process nodes, backed by multi-year supply agreements for memory (Samsung), flash storage (SanDisk) and fibre-optic equipment (Sumitomo Electric). It is the
 
-## 5. [Signal] GLM-5.2 files a UK VAT return for $2.73
+## 5. [Signal] GPT-5.6 benchmarks confirm: the bottleneck is orchestration, not the model
 
-- Published: Thu, 09 Jul 2026 22:22:39 GMT
-- Link: https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark
+- Published: Sun, 12 Jul 2026 22:58:19 GMT
+- Link: https://artificialanalysis.ai/articles/gpt-5-6-has-landed
 
-An independent benchmark reports GLM-5.2 preparing a nearly perfect quarterly VAT return for a UK small business — processing 59 transactions in 68 minutes at a raw token cost of US$2.73 — by driving the accounting software directly through a command-line tool. Scored across six correctness criteria
+Artificial Analysis's full GPT-5.6 evaluation shows Sol placing a close second to Claude Fable 5 on its Intelligence Index at roughly a third of the cost, while the smaller Terra and Luna models match or beat Fable 5 and Opus 4.8 respectively at a fraction of the time, tokens and cost. Technical obs
 
-## 6. [Signal] AI is bottlenecked by the grid — and the grid is the slow layer
+## 6. [Signal] Tencent joins the open-weights race with an unrestricted 295B model
 
-- Published: Thu, 09 Jul 2026 22:22:39 GMT
-- Link: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid
+- Published: Sun, 12 Jul 2026 22:58:19 GMT
+- Link: https://technode.com/2026/07/07/tencent-launches-hunyuan-hy3-integrates-model-across-multiple-products/
 
-A Works in Progress analysis argues the primary bottleneck to AI's continued growth is not chips but electricity. Placed on the pace-layers model, this is the crux: compute and models move at the fast layers, while power and grid sit near the slow bottom — and the speed of that slow layer varies sha
+Tencent released the full Hunyuan Hy3 model on 6 July — a 295-billion-parameter mixture-of-experts model with 21 billion active parameters, under an unrestricted Apache 2.0 licence that drops the geographic carve-outs of its April preview. Reported benchmarks put it ahead of DeepSeek-V3 and GLM-4.5
 
-## 7. [Signal] The bubble-in-expectations debate sharpens
+## 7. [Signal] Apple sues OpenAI over alleged theft of hardware trade secrets
 
-- Published: Thu, 09 Jul 2026 22:22:39 GMT
-- Link: https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing
+- Published: Sun, 12 Jul 2026 22:58:18 GMT
+- Link: https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html
 
-Mark relays an Elliott line that future AI income growth is being squeezed from every side, requiring revenue growth around 100 per cent a year compounded over several years — something that has never happened in history — which makes the implied outcome largely implausible. His own counter is that
+Apple filed suit against OpenAI on 10 July in the Northern District of California, alleging a former Apple hardware engineer kept access to Apple's cloud storage after joining OpenAI and downloaded confidential files on unreleased products, with the pattern allegedly directed by OpenAI's Chief Hardw
 
-## 8. [Signal] GPT-5.6 ships a three-tier price ladder
+## 8. [Signal] SK Hynix's $26.5bn Nasdaq IPO is the largest foreign listing in US history
 
-- Published: Thu, 09 Jul 2026 22:22:38 GMT
-- Link: https://openai.com/index/gpt-5-6/
+- Published: Sun, 12 Jul 2026 22:58:18 GMT
+- Link: https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html
 
-OpenAI launched GPT-5.6 in three sizes on a clear price ladder: Sol at US$5 in / US$30 out, Terra at US$2.50 / US$15, and Luna at US$1 / US$6 per million tokens. Pre-launch safety work ran to roughly 700,000 GPU-hours of automated red-teaming. On the Artificial Analysis intelligence index, the top-t
+SK Hynix priced its Nasdaq debut on 10 July at $149 per depositary share, raising US$26.5bn — the largest-ever US listing by a foreign company, ahead of Alibaba's 2014 record, on a book that was oversubscribed more than seven times. Shares rose as much as 13% on debut. A memory maker choosing to li
