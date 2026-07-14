@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-07-13 03:58 UTC
+- Generated at: 2026-07-14 03:32 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] ChatGPT Work: OpenAI ships the SaaS apocalypse as a mainstream product
+## 1. [Signal] Nadella turns hostile on frontier AI labs, tells enterprises to guard their IP
 
-- Published: Sun, 12 Jul 2026 22:58:19 GMT
-- Link: https://openai.com/index/chatgpt-for-your-most-ambitious-work/
+- Published: Mon, 13 Jul 2026 22:36:27 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/07/13/microsoft-chief-turns-hostile-on-frontier-ai-labs-warns-companies-to-guard-their-ip/5270628
 
-OpenAI's ChatGPT Work launch — merging the Codex app into ChatGPT, adding local file and browser access, external-system plugins, and a Sites builder for generating interactive dashboards and web apps — makes the agent, rather than a fixed application, the primary interface for getting work done. M
+Microsoft CEO Satya Nadella has publicly warned enterprise customers to guard their intellectual property against frontier AI labs, arguing that the organisational intelligence generated through AI interactions should belong to the companies that create it. Microsoft is now arguing that agent harnes
 
-## 2. [Signal] Ben Bernanke joins Anthropic's oversight trust
+## 2. [Signal] Apple's trade-secrets suit is already reshaping OpenAI's hiring, before any verdict
 
-- Published: Sun, 12 Jul 2026 22:58:19 GMT
-- Link: https://www.anthropic.com/news/ben-bernanke
+- Published: Mon, 13 Jul 2026 22:36:27 GMT
+- Link: https://www.macrumors.com/2026/07/13/openai-lawsuit-threatens-plans/
 
-Anthropic's Long-Term Benefit Trust — the independent body that advises the company and appoints its board — has appointed Ben Bernanke, former US Federal Reserve Chair and 2022 Nobel laureate in Economic Sciences, as its newest member. His stated remit is to advise on Anthropic's economic research,
+MacRumors reports Apple's trade-secrets lawsuit against OpenAI is already reshaping OpenAI's hiring pipeline, independent of how the case is eventually decided. Apple employees weighing a move to OpenAI may now think twice given the added legal scrutiny, and even interviewing there could draw attent
 
-## 3. [Signal] OpenAI retires ChatGPT Atlas and consolidates products under Brockman
+## 3. [Signal] OpenAI's Head of Safety departs amid Brockman consolidation and Atlas shutdown
 
-- Published: Sun, 12 Jul 2026 22:58:19 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/07/10/openais-atlas-browser-doesnt-make-it-to-its-first-birthday/5269818
+- Published: Mon, 13 Jul 2026 22:36:27 GMT
+- Link: https://x.com/jachiam0/status/2074605703281693175
 
-OpenAI has shut down ChatGPT Atlas, its standalone AI browser, less than a year after launch, folding its browser-based agent features into ChatGPT and Codex. The retirement lands alongside a broader consolidation: President Greg Brockman now controls AI infrastructure and all three major product li
+Johannes Heidecke, OpenAI's Head of Safety, is leaving the company. The departure lands in the same week as Greg Brockman's consolidation of product control over ChatGPT, Codex and the developer APIs, the shutdown of the standalone Atlas browser, and Apple's trade-secrets suit against OpenAI. Three
 
-## 4. [Signal] Meta's in-house Iris AI chip enters production in September
+## 4. [Signal] Goldman Sachs names Zhipu, DeepSeek and ByteDance its top Chinese AI picks — on cost
 
-- Published: Sun, 12 Jul 2026 22:58:19 GMT
-- Link: https://finance.yahoo.com/technology/ai/articles/meta-start-production-iris-ai-122141801.html
+- Published: Mon, 13 Jul 2026 22:36:27 GMT
+- Link: https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html
 
-Meta's first custom AI processor, code-named Iris, is scheduled for mass production in September, designed with Broadcom and fabricated on TSMC process nodes, backed by multi-year supply agreements for memory (Samsung), flash storage (SanDisk) and fibre-optic equipment (Sumitomo Electric). It is the
+Goldman Sachs has selected Zhipu (maker of GLM), DeepSeek and ByteDance as its top Chinese AI models, citing the massive cost advantages Chinese AI companies offer relative to Western frontier labs. An investment bank naming Zhipu/GLM a top pick on cost grounds is institutional corroboration of a p
 
-## 5. [Signal] GPT-5.6 benchmarks confirm: the bottleneck is orchestration, not the model
+## 5. [Signal] Apple's on-device SpeechAnalyzer beats every Whisper model, and the API it replaced
 
-- Published: Sun, 12 Jul 2026 22:58:19 GMT
-- Link: https://artificialanalysis.ai/articles/gpt-5-6-has-landed
+- Published: Mon, 13 Jul 2026 22:36:27 GMT
+- Link: https://get-inscribe.com/blog/apple-speech-api-benchmark.html
 
-Artificial Analysis's full GPT-5.6 evaluation shows Sol placing a close second to Claude Fable 5 on its Intelligence Index at roughly a third of the cost, while the smaller Terra and Luna models match or beat Fable 5 and Opus 4.8 respectively at a fraction of the time, tokens and cost. Technical obs
+An independent benchmark finds Apple's new SpeechAnalyzer is the most accurate on-device speech engine tested, beating every Whisper model shipped — including Whisper Small — on both clean and noisy speech, while running roughly three times faster. The API it replaces, SFSpeechRecognizer, came last
 
-## 6. [Signal] Tencent joins the open-weights race with an unrestricted 295B model
+## 6. [Signal] Security researchers weaponise prompt injection as a defence against AI hacking agents
 
-- Published: Sun, 12 Jul 2026 22:58:19 GMT
-- Link: https://technode.com/2026/07/07/tencent-launches-hunyuan-hy3-integrates-model-across-multiple-products/
+- Published: Mon, 13 Jul 2026 22:36:27 GMT
+- Link: https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/
 
-Tencent released the full Hunyuan Hy3 model on 6 July — a 295-billion-parameter mixture-of-experts model with 21 billion active parameters, under an unrestricted Apache 2.0 licence that drops the geographic carve-outs of its April preview. Reported benchmarks put it ahead of DeepSeek-V3 and GLM-4.5
+Researchers from Tracebit found that placing prompt injections alongside passwords and cryptographic keys stored on AWS was often enough to shut down attacks from AI hacking agents. The injected prompts direct the attacking model to perform an action forbidden by its own safety guardrails; the model
 
-## 7. [Signal] Apple sues OpenAI over alleged theft of hardware trade secrets
+## 7. [Signal] Ireland's grid hits 23% datacentre load; Meta pays $50bn to buy consent in Louisiana
 
-- Published: Sun, 12 Jul 2026 22:58:18 GMT
-- Link: https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html
+- Published: Mon, 13 Jul 2026 22:36:26 GMT
+- Link: https://hothardware.com/news/meta-louisiana-ai-data-center-50-billion
 
-Apple filed suit against OpenAI on 10 July in the Northern District of California, alleging a former Apple hardware engineer kept access to Apple's cloud storage after joining OpenAI and downloaded confidential files on unreleased products, with the pattern allegedly directed by OpenAI's Chief Hardw
+Datacentres now consume 23% of Ireland's electricity, up sharply during 2025 despite an effective moratorium on new Dublin-area grid connections. Meanwhile Meta's Richland Parish, Louisiana campus is growing to 5 gigawatts on $50bn of investment, with Meta funding seven new gas plants, three grid ba
 
-## 8. [Signal] SK Hynix's $26.5bn Nasdaq IPO is the largest foreign listing in US history
+## 8. [Signal] SK Hynix CEO: memory shortage may not peak until 2027, could outlast the decade
 
-- Published: Sun, 12 Jul 2026 22:58:18 GMT
-- Link: https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html
+- Published: Mon, 13 Jul 2026 22:36:26 GMT
+- Link: https://wccftech.com/sk-hynix-ceo-warns-2027-memory-worst-year-ever-shortages-set-to-outlast-the-decade/
 
-SK Hynix priced its Nasdaq debut on 10 July at $149 per depositary share, raising US$26.5bn — the largest-ever US listing by a foreign company, ahead of Alibaba's 2014 record, on a book that was oversubscribed more than seven times. Shares rose as much as 13% on debut. A memory maker choosing to li
+SK Hynix's chief executive told Reuters the current memory shortage may worsen into 2027 and could persist beyond 2030 — direct guidance from inside the supply chain, not an outside forecast. SK Hynix shares nonetheless fell 16% in a single day on the news, and Ars Technica separately reports Apple
