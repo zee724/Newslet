@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-07-15 03:33 UTC
+- Generated at: 2026-07-16 03:35 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Hassabis calls for a US-led AI standards body
+## 1. [Signal] Australia stands up an Office of AI, and sets the terms of the buildout
 
-- Published: Tue, 14 Jul 2026 22:24:19 GMT
-- Link: https://www.cnbc.com/2026/07/14/google-deepmind-demis-hassabis-us-led-ai-standards-body.html
+- Published: Wed, 15 Jul 2026 22:25:52 GMT
+- Link: https://www.abc.net.au/news/2026-07-14/albanese-maps-out-ai-future-introducing-national-framework/106915094
 
-Google DeepMind CEO Demis Hassabis has proposed a US-led public-private partnership, overseen by the federal government, to tackle AI's escalating risks. A frontier-lab chief asking for federal oversight is itself the signal: the labs increasingly want a rules-of-the-road institution to point to, bo
+Prime Minister Albanese used a University of Sydney speech to announce Australia's national AI framework, centred on a new Office of AI inside the Department of the Prime Minister and Cabinet to coordinate "Australian standards" across data centres, copyright and jobs. The data-centre plank is the m
 
-## 2. [Signal] Richard Sutton founds Oak Labs
+## 2. [Signal] Albanese hardens Australia's AI-copyright line: "anything less is theft"
 
-- Published: Tue, 14 Jul 2026 22:24:19 GMT
-- Link: https://x.com/RichardSSutton/status/2076663628301058329
+- Published: Wed, 15 Jul 2026 22:25:52 GMT
+- Link: https://www.smh.com.au/politics/federal/albanese-flags-crackdown-on-power-hungry-data-centres-and-ai-copyright-theft-20260715-p60fhm.html
 
-Richard Sutton, author of The Bitter Lesson, is founding Oak Labs. Last month his call to arms framed evaluation and shared goals as the missing primitive for autonomous discovery; now he is putting an institution behind the thesis. It lands on the loop-as-mechanism thread. A dedicated lab from the
+The copyright plank of Australia's AI framework was the sharpest edge. Albanese: no company should use Australian books, music, art or news to train AI without the artist's control — "including the artist's control of the price and value of their work. Anything less is theft." The standoff with Anth
 
-## 3. [Signal] Latent space as a new medium: Shakespeare is not in the model
+## 3. [Signal] The home watershed, on the table: a frontier-adjacent model in 3.8GB
 
-- Published: Tue, 14 Jul 2026 22:24:19 GMT
-- Link: https://kevinkelly.substack.com/p/latent-space-as-a-new-medium
+- Published: Wed, 15 Jul 2026 22:25:52 GMT
+- Link: https://prismml.com/news/bonsai-27b
 
-Kevin Kelly's essay Latent space as a new medium drew a strong recommendation from Mark and a sharp exchange. As John put it, nowhere in the model are the actual texts of Shakespeare; as Mark completed it, it is not possible via the medium of storage to hold them as anything humanly recognisable as
+For the first time, Mark judged NOOPS's home-watershed thesis callable: "I do think we might be able to call the home watershed today." The trigger was pulling a 1-bit-quantised PrismML/Qwen model — 3.8GB — and running it locally via Ollama with a working search tool, then across an M4 MacBook Air,
 
-## 4. [Signal] Publishers sue Google as Australia turns copyright into AI leverage
+## 4. [Signal] Thinking Machines ships Inkling — a 975B open-weights multimodal model
 
-- Published: Tue, 14 Jul 2026 22:24:18 GMT
-- Link: https://www.abc.net.au/news/2026-07-14/copyright-law-battleground-in-australia-ai-boom/106891890
+- Published: Wed, 15 Jul 2026 22:25:52 GMT
+- Link: https://thinkingmachines.ai/news/introducing-inkling/
 
-The AI-training copyright front widened on two continents. In the US, major publishers and authors filed a class action against Google over AI training; on quantum, the read is that Google can afford a settlement in the billion-and-a-half range, sizing it against the Anthropic precedent. In Australi
+Thinking Machines released its first model, Inkling, and shipped it as open weights, already on HuggingFace. It is a Mixture-of-Experts transformer — 975B total, 41B active parameters, a 1M-token context window, pretrained on 45 trillion tokens of text, images, audio and video. A lighter Inkling-Sma
 
-## 5. [Signal] The economics of recursive self-improvement meets verification design
+## 5. [Signal] OpenAI's consumer-hardware push: a screenless speaker and a branded keyboard
 
-- Published: Tue, 14 Jul 2026 22:24:18 GMT
-- Link: https://elasticity.institute/rsi-paper.pdf
+- Published: Wed, 15 Jul 2026 22:25:51 GMT
+- Link: https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/
 
-A new paper, The Economics of Recursive Self-Improvement from the Elasticity Institute, argues the constraint on RSI is economic rather than merely technical. Even where a system can improve itself, the cost of each cycle, compute, verification, evaluation, bounds how far and how fast it runs. The
+OpenAI's move into physical devices came into sharper focus. Bloomberg reports a screen-free, portable smart speaker meant to act as a "personalised home computer and humanlike AI companion" — controlling smart-home appliances, playing media, handling messages and tapping ChatGPT — expected to be un
 
-## 6. [Signal] The AI whalefall and the zero-cost fallacy of open source
+## 6. [Signal] Anthropic schedules investor meetings ahead of a possible IPO
 
-- Published: Tue, 14 Jul 2026 22:24:18 GMT
-- Link: https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/
+- Published: Wed, 15 Jul 2026 22:25:51 GMT
+- Link: https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html
 
-Two essays sharpen a single point about who is really paying for the current abundance of AI. The whalefall framing: frontier labs are subsidising usage, and the ecosystem of open-source projects and downstream tools is feeding on the carcass of that subsidy, a whalefall of cheap intelligence rainin
+CNBC reports Anthropic is scheduling investor meetings ahead of a possible IPO, an early, concrete step toward a public listing. It follows the addition of Ben Bernanke to Anthropic's Long-Term Benefit Trust and reporting that the company is running toward more than $1 billion in quarterly profit.
 
-## 7. [Signal] PrismML's Bonsai 27B runs a flagship on a phone, and Apple is evaluating the compression
+## 7. [Signal] The agent attack surface widens into memory, as Microsoft patches a record 570 flaws
 
-- Published: Tue, 14 Jul 2026 22:24:18 GMT
-- Link: https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html
+- Published: Wed, 15 Jul 2026 22:25:51 GMT
+- Link: https://www.ayush.digital/blog/the-memory-heist
 
-PrismML has announced Bonsai 27B, built on Alibaba's Qwen 3.6 27B and described as the first model of its capability class to run on a phone, reaching up to 163 tokens per second in 1-bit and 134 in ternary on an RTX 5090, and 87 and 58 respectively on an M5 Max. Separately, CNBC reports Apple is ev
+The security bill for agentic tooling kept coming due. A new write-up, "The Memory Heist," targets persistent agent memory as an exfiltration and poisoning vector in Claude — what an agent remembers across sessions becomes a trust boundary distinct from the repo or the prompt. Separately, Microsoft
 
-## 8. [Signal] Vibecoding's tower of Babel: architecture erodes when nobody needs to communicate
+## 8. [Signal] Star Fleet: twenty agentic harnesses attack open maths, checked by Lean 4
 
-- Published: Tue, 14 Jul 2026 22:24:18 GMT
-- Link: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/
+- Published: Wed, 15 Jul 2026 22:25:51 GMT
+- Link: https://www.starfleetmath.com/
 
-Armin Ronacher's sharpening critique of vibecoded software gets to the heart of it: scaled-up vibecoded codebases become Babel not because nobody can communicate, but because nobody needs to. Every developer has a tireless translator that can explain a corner of the tower and make local alterations
+Star Fleet is a Mac desktop app that controls up to twenty custom agentic harnesses to attack the world's hardest open mathematics problems, with every candidate proof machine-checked by the Lean 4 proof assistant. It is a running application, not a lab demo, and it arrived the same week as small on
