@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-07-16 03:35 UTC
+- Generated at: 2026-07-17 03:36 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Australia stands up an Office of AI, and sets the terms of the buildout
+## 1. [Signal] A harness clears 99% on ARC-AGI — with a training-set caveat
 
-- Published: Wed, 15 Jul 2026 22:25:52 GMT
-- Link: https://www.abc.net.au/news/2026-07-14/albanese-maps-out-ai-future-introducing-national-framework/106915094
+- Published: Thu, 16 Jul 2026 21:47:23 GMT
+- Link: https://schema-harness.github.io/
 
-Prime Minister Albanese used a University of Sydney speech to announce Australia's national AI framework, centred on a new Office of AI inside the Department of the Prime Minister and Cabinet to coordinate "Australian standards" across data centres, copyright and jobs. The data-centre plank is the m
+Schema, a newly introduced harness that has frontier models 'play like physicists' by writing each task's rules, reports reaching 99% on ARC-AGI. The claim is explicitly about method: the same models, wrapped in a structured reasoning scaffold, clear a benchmark that long resisted them. Separately,
 
-## 2. [Signal] Albanese hardens Australia's AI-copyright line: "anything less is theft"
+## 2. [Signal] The edge-inference moment: 50-cent chips and 'Apple as the new IBM'
 
-- Published: Wed, 15 Jul 2026 22:25:52 GMT
-- Link: https://www.smh.com.au/politics/federal/albanese-flags-crackdown-on-power-hungry-data-centres-and-ai-copyright-theft-20260715-p60fhm.html
+- Published: Thu, 16 Jul 2026 21:47:23 GMT
+- Link: https://petewarden.com/2026/07/14/launching-moonshine-micro/
 
-The copyright plank of Australia's AI framework was the sharpest edge. Albanese: no company should use Australian books, music, art or news to train AI without the artist's control — "including the artist's control of the price and value of their work. Anything less is theft." The standoff with Anth
+Pete Warden shipped Moonshine Micro toward a long-held goal: a full speech-recognition and text-to-speech system on a 50-cent chip that runs on a coin battery for a year. In parallel, Nvidia introduced Cosmos 3 Edge and expanded its Japan physical-AI ecosystem — the accelerator incumbent building ex
 
-## 3. [Signal] The home watershed, on the table: a frontier-adjacent model in 3.8GB
+## 3. [Signal] Apple, caught flat-footed, licenses Qwen for China and eyes a fab
 
-- Published: Wed, 15 Jul 2026 22:25:52 GMT
-- Link: https://prismml.com/news/bonsai-27b
+- Published: Thu, 16 Jul 2026 21:47:23 GMT
+- Link: https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners
 
-For the first time, Mark judged NOOPS's home-watershed thesis callable: "I do think we might be able to call the home watershed today." The trigger was pulling a 1-bit-quantised PrismML/Qwen model — 3.8GB — and running it locally via Ollama with a working search tool, then across an M4 MacBook Air,
+China approved Apple Intelligence phones, with Alibaba's Qwen and Baidu emerging as the in-country model partners — Apple sourcing local capability to satisfy Chinese requirements, distinct from the Gemini arrangement it uses elsewhere. Its own Baltra server silicon has slipped, leaving it renting N
 
-## 4. [Signal] Thinking Machines ships Inkling — a 975B open-weights multimodal model
+## 4. [Signal] Energy IPOs and climate VC are both really AI-datacentre trades
 
-- Published: Wed, 15 Jul 2026 22:25:52 GMT
-- Link: https://thinkingmachines.ai/news/introducing-inkling/
+- Published: Thu, 16 Jul 2026 21:47:23 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/07/16/ai-power-binge-delivers-best-half-since-2022-for-climate-tech-venture-funding/5272401
 
-Thinking Machines released its first model, Inkling, and shipped it as open weights, already on HuggingFace. It is a Mixture-of-Experts transformer — 975B total, 41B active parameters, a 1M-token context window, pretrained on 45 trillion tokens of text, images, audio and video. A lighter Inkling-Sma
+Two capital-markets prints show investors treating power and datacentre infrastructure as the way to play AI. Energy companies are raising money at IPO at their fastest pace this century, hunting AI exposure through the power layer. The pivot is sharper in venture. Climate-tech funding had its best
 
-## 5. [Signal] OpenAI's consumer-hardware push: a screenless speaker and a branded keyboard
+## 5. [Signal] The big three line up behind Australia's AI announcement
 
-- Published: Wed, 15 Jul 2026 22:25:51 GMT
-- Link: https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/
+- Published: Thu, 16 Jul 2026 21:47:23 GMT
+- Link: https://www.forbes.com.au/news/innovation/anthropic-openai-google-respond-to-albaneses-ai-announcement/
 
-OpenAI's move into physical devices came into sharper focus. Bloomberg reports a screen-free, portable smart speaker meant to act as a "personalised home computer and humanlike AI companion" — controlling smart-home appliances, playing media, handling messages and tapping ChatGPT — expected to be un
+Anthropic, OpenAI and Google have all responded to the Albanese government's AI announcement, positioning early around Australia's emerging framework. Coming days after data showing Australia leading the world in Claude usage and the first official read on AI's effect on Australian software employme
 
-## 6. [Signal] Anthropic schedules investor meetings ahead of a possible IPO
+## 6. [Signal] The token-demand debate: a 20x floor, or near zero if the law intervenes
 
-- Published: Wed, 15 Jul 2026 22:25:51 GMT
-- Link: https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html
+- Published: Thu, 16 Jul 2026 21:47:22 GMT
+- Link: https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing
 
-CNBC reports Anthropic is scheduling investor meetings ahead of a possible IPO, an early, concrete step toward a public listing. It follows the addition of Ben Bernanke to Anthropic's Long-Term Benefit Trust and reporting that the company is running toward more than $1 billion in quarterly profit.
+Ben Evans' essay on token pricing framed the window's sharpest exchange. Evans leans on the mobile analogy and asks how many will pay to sit at the frontier; the counter-view holds that resemblance to mobile proves nothing about the outcome, and that his framing understates induced demand. The bull
 
-## 7. [Signal] The agent attack surface widens into memory, as Microsoft patches a record 570 flaws
+## 7. [Signal] Fireworks serves 40 trillion tokens a day — more than Google or OpenAI's dev platforms
 
-- Published: Wed, 15 Jul 2026 22:25:51 GMT
-- Link: https://www.ayush.digital/blog/the-memory-heist
+- Published: Thu, 16 Jul 2026 21:47:22 GMT
+- Link: https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html
 
-The security bill for agentic tooling kept coming due. A new write-up, "The Memory Heist," targets persistent agent memory as an exfiltration and poisoning vector in Claude — what an agent remembers across sessions becomes a trust boundary distinct from the repo or the prompt. Separately, Microsoft
+Fireworks, a cloud service that runs open-source models for developers, raised US$1.5bn at a US$17.5bn valuation and disclosed it now handles about 40 trillion tokens per day. For scale: Google's disclosed developer rate implies roughly 27 trillion a day, OpenAI's about 22 trillion. A pure open-mod
 
-## 8. [Signal] Star Fleet: twenty agentic harnesses attack open maths, checked by Lean 4
+## 8. [Signal] Kimi K3 is the first open model at 2.8 trillion parameters
 
-- Published: Wed, 15 Jul 2026 22:25:51 GMT
-- Link: https://www.starfleetmath.com/
+- Published: Thu, 16 Jul 2026 21:47:22 GMT
+- Link: https://www.kimi.com/blog/kimi-k3
 
-Star Fleet is a Mac desktop app that controls up to twenty custom agentic harnesses to attack the world's hardest open mathematics problems, with every candidate proof machine-checked by the Lean 4 proof assistant. It is a running application, not a lab demo, and it arrived the same week as small on
+Moonshot released Kimi K3, which it says is the first open model to reach 2.8 trillion parameters, with full weights due by 27 July. Kimi positions it as frontier-level but still trailing the top proprietary models — naming Claude Fable 5 and GPT-5.6 Sol — while consistently outperforming other open
