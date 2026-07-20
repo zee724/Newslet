@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-07-19 03:53 UTC
+- Generated at: 2026-07-20 04:03 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] A harness clears 99% on ARC-AGI — with a training-set caveat
+## 1. [Signal] Australia's AI jobs fight goes public as PM and union leader align ahead of Labor conference
 
-- Published: Thu, 16 Jul 2026 21:47:23 GMT
-- Link: https://schema-harness.github.io/
+- Published: Sun, 19 Jul 2026 22:21:39 GMT
+- Link: https://www.abc.net.au/news/2026-07-17/ai-jobs-fight-looms-over-labor-conference/106925288
 
-Schema, a newly introduced harness that has frontier models 'play like physicists' by writing each task's rules, reports reaching 99% on ARC-AGI. The claim is explicitly about method: the same models, wrapped in a structured reasoning scaffold, clear a benchmark that long resisted them. Separately,
+Prime Minister Anthony Albanese's push on AI policy was publicly backed by ACTU secretary Sally McManus, who argued it is on employers and tech companies to 'demonstrate the benefits of AI at the moment,' ahead of the federal Labor conference (ABC, 17 July). It follows the government's national AI f
 
-## 2. [Signal] The edge-inference moment: 50-cent chips and 'Apple as the new IBM'
+## 2. [Signal] Anthropic in early talks to lease $10bn of compute from Meta
 
-- Published: Thu, 16 Jul 2026 21:47:23 GMT
-- Link: https://petewarden.com/2026/07/14/launching-moonshine-micro/
+- Published: Sun, 19 Jul 2026 22:21:38 GMT
+- Link: https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html
 
-Pete Warden shipped Moonshine Micro toward a long-held goal: a full speech-recognition and text-to-speech system on a 50-cent chip that runs on a coin battery for a year. In parallel, Nvidia introduced Cosmos 3 Edge and expanded its Japan physical-AI ecosystem — the accelerator incumbent building ex
+Anthropic is reportedly in early, non-binding talks to lease as much as $10 billion of compute from Meta over two years, paid monthly, per CNBC and the New York Times (17 July). Anthropic proposed the arrangement in June. It follows Anthropic's existing $45 billion, three-year deal for SpaceX's Colo
 
-## 3. [Signal] Apple, caught flat-footed, licenses Qwen for China and eyes a fab
+## 3. [Signal] A researcher backdoored an open-weight model for under $100. The bigger the model, the easier it was
 
-- Published: Thu, 16 Jul 2026 21:47:23 GMT
-- Link: https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners
+- Published: Sun, 19 Jul 2026 22:21:38 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/07/16/researcher-poisons-open-weight-ai-model-for-under-100/5273880
 
-China approved Apple Intelligence phones, with Alibaba's Qwen and Baidu emerging as the in-country model partners — Apple sourcing local capability to satisfy Chinese requirements, distinct from the Gemini arrangement it uses elsewhere. Its own Baltra server silicon has slipped, leaving it renting N
+Katie Paxton-Fear (Manchester Metropolitan University / Semgrep) demonstrated that an open-weight model can be reliably backdoored for under $100 in about an hour, using just ten poisoned training examples, with the effect getting easier as model size increased. Her team's conclusion, quoted directl
 
-## 4. [Signal] Energy IPOs and climate VC are both really AI-datacentre trades
+## 4. [Signal] Apple widens its OpenAI trade-secrets fight to roughly 40 former employees
 
-- Published: Thu, 16 Jul 2026 21:47:23 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/07/16/ai-power-binge-delivers-best-half-since-2022-for-climate-tech-venture-funding/5272401
+- Published: Sun, 19 Jul 2026 22:21:38 GMT
+- Link: https://www.macrumors.com/2026/07/17/apple-sends-legal-letters-openai/
 
-Two capital-markets prints show investors treating power and datacentre infrastructure as the way to play AI. Energy companies are raising money at IPO at their fastest pace this century, hunting AI exposure through the power layer. The pivot is sharper in venture. Climate-tech funding had its best
+Apple has sent legal preservation letters to about 40 former employees now working at OpenAI, per the Financial Times (17 July), acting on a belief that alleged misappropriation of confidential information extends beyond the individuals named in its original trade-secrets complaint. Recipients are f
 
-## 5. [Signal] The big three line up behind Australia's AI announcement
+## 5. [Signal] Nadella tells his own engineers Anthropic's Fable guardrails 'don't make sense'
 
-- Published: Thu, 16 Jul 2026 21:47:23 GMT
-- Link: https://www.forbes.com.au/news/innovation/anthropic-openai-google-respond-to-albaneses-ai-announcement/
+- Published: Sun, 19 Jul 2026 22:21:38 GMT
+- Link: https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html
 
-Anthropic, OpenAI and Google have all responded to the Albanese government's AI announcement, positioning early around Australia's emerging framework. Coming days after data showing Australia leading the world in Claude usage and the first official read on AI's effect on Australian software employme
+In an internal meeting reported by CNBC (16 July), Microsoft CEO Satya Nadella criticised the request limits Anthropic places on its Fable model, asking engineers: 'when was the last time you had a creation tool that was so editorially controlled?' Mark's assessment: 'Satya has stopped making sense.
 
-## 6. [Signal] The token-demand debate: a 20x floor, or near zero if the law intervenes
+## 6. [Signal] Kimi K3 prices near GPT-5.6, and spent 48 hours designing its own chip
 
-- Published: Thu, 16 Jul 2026 21:47:22 GMT
-- Link: https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing
+- Published: Sun, 19 Jul 2026 22:21:38 GMT
+- Link: https://simonwillison.net/2026/Jul/16/kimi-k3/
 
-Ben Evans' essay on token pricing framed the window's sharpest exchange. Evans leans on the mobile analogy and asks how many will pay to sit at the frontier; the counter-view holds that resemblance to mobile proves nothing about the outcome, and that his framing understates induced demand. The bull
+Independent benchmarking from Simon Willison puts Kimi K3's cost per task at $0.94, comparable to GPT-5.6 Sol's $1.04 and about half of Opus 4.8's $1.80, though still above open-weights peers. Separately, Moonshot AI demonstrated Kimi K3 working unsupervised for 48 hours to design and verify a small
 
-## 7. [Signal] Fireworks serves 40 trillion tokens a day — more than Google or OpenAI's dev platforms
+## 7. [Signal] The 'blank slate' business model: Slate Auto's $24,950 truck and Thinking Machines' Inkling share a playbook
 
-- Published: Thu, 16 Jul 2026 21:47:22 GMT
-- Link: https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html
+- Published: Sun, 19 Jul 2026 22:21:38 GMT
+- Link: https://tomtunguz.com/the-blank-slate-ai-strategy/
 
-Fireworks, a cloud service that runs open-source models for developers, raised US$1.5bn at a US$17.5bn valuation and disclosed it now handles about 40 trillion tokens per day. For scale: Google's disclosed developer rate implies roughly 27 trillion a day, OpenAI's about 22 trillion. A pure open-mod
+Tom Tunguz draws a direct parallel between Slate Auto's customisable $24,950 pickup and Thinking Machines' Apache-2.0 Inkling model: both ship a deliberately unremarkable, general-purpose base cheap, and let customers build value through customisation. Thinking Machines monetises the customisation l
 
-## 8. [Signal] Kimi K3 is the first open model at 2.8 trillion parameters
+## 8. [Signal] Mozilla data: GPT-4-class inference has fallen 50x in three years
 
-- Published: Thu, 16 Jul 2026 21:47:22 GMT
-- Link: https://www.kimi.com/blog/kimi-k3
+- Published: Sun, 19 Jul 2026 22:21:37 GMT
+- Link: https://stateofopensource.ai/
 
-Moonshot released Kimi K3, which it says is the first open model to reach 2.8 trillion parameters, with full weights due by 27 July. Kimi positions it as frontier-level but still trailing the top proprietary models — naming Claude Fable 5 and GPT-5.6 Sol — while consistently outperforming other open
+Mozilla's inaugural State of Open Source AI report (July 2026) puts a hard number on a trend this desk has tracked for a year: GPT-4-class inference cost per million tokens has fallen roughly 50-fold in 36 months, from about $20 to about $0.40. On OpenRouter, closed models still capture roughly 96 p
