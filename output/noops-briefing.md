@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-07-20 04:03 UTC
+- Generated at: 2026-07-21 03:43 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Australia's AI jobs fight goes public as PM and union leader align ahead of Labor conference
+## 1. [Signal] Near-frontier intelligence just got 2-3x cheaper in eight days
 
-- Published: Sun, 19 Jul 2026 22:21:39 GMT
-- Link: https://www.abc.net.au/news/2026-07-17/ai-jobs-fight-looms-over-labor-conference/106925288
+- Published: Mon, 20 Jul 2026 22:00:13 GMT
+- Link: https://artificialanalysis.ai/articles/four-frontier-launches-in-eight-days-six-labs-now-field-a-model-above-50-on-the-artificial-analysis-intelligence-index
 
-Prime Minister Anthony Albanese's push on AI policy was publicly backed by ACTU secretary Sally McManus, who argued it is on employers and tech companies to 'demonstrate the benefits of AI at the moment,' ahead of the federal Labor conference (ABC, 17 July). It follows the government's national AI f
+Artificial Analysis counted four frontier launches in eight days, with six labs now fielding a model above 50 on its Intelligence Index — a frontier that went from two labs to six in six weeks. The more consequential number is price: near-frontier intelligence became 2-3x cheaper over the same eight
 
-## 2. [Signal] Anthropic in early talks to lease $10bn of compute from Meta
+## 2. [Signal] Power, not chips, is becoming the binding constraint on the buildout
 
-- Published: Sun, 19 Jul 2026 22:21:38 GMT
-- Link: https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html
+- Published: Mon, 20 Jul 2026 22:00:13 GMT
+- Link: https://www.bloomberg.com/news/articles/2026-07-16/new-mexico-denies-gas-pipeline-permit-for-oracle-data-center
 
-Anthropic is reportedly in early, non-binding talks to lease as much as $10 billion of compute from Meta over two years, paid monthly, per CNBC and the New York Times (17 July). Anthropic proposed the arrangement in June. It follows Anthropic's existing $45 billion, three-year deal for SpaceX's Colo
+Two data points this week point at energy — not silicon or capital — as the scarce input. Anthropic listed a Data Center Energy Lead for Australia, tasked with securing multi-hundred-megawatt power capacity at the speed and scale frontier AI development demands: a lab moving to lock up power directl
 
-## 3. [Signal] A researcher backdoored an open-weight model for under $100. The bigger the model, the easier it was
+## 3. [Signal] Cursor's useful metaphor: agent swarms are probabilistic compilers
 
-- Published: Sun, 19 Jul 2026 22:21:38 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/07/16/researcher-poisons-open-weight-ai-model-for-under-100/5273880
+- Published: Mon, 20 Jul 2026 22:00:13 GMT
+- Link: https://cursor.com/blog/agent-swarm-model-economics
 
-Katie Paxton-Fear (Manchester Metropolitan University / Semgrep) demonstrated that an open-weight model can be reliably backdoored for under $100 in about an hour, using just ten poisoned training examples, with the effect getting easier as model size increased. Her team's conclusion, quoted directl
+Cursor frames each jump in AI capability as raising the level of abstraction at which an engineer works, and offers a sharp analogy for multi-agent orchestration: a swarm resembles a compiler. A compiler lowers source code to machine code through intermediate steps; a swarm lowers intent — planners
 
-## 4. [Signal] Apple widens its OpenAI trade-secrets fight to roughly 40 former employees
+## 4. [Signal] As models commoditise, the private eval becomes the moat
 
-- Published: Sun, 19 Jul 2026 22:21:38 GMT
-- Link: https://www.macrumors.com/2026/07/17/apple-sends-legal-letters-openai/
+- Published: Mon, 20 Jul 2026 22:00:13 GMT
+- Link: https://www.emergingtrajectories.com/lh/frontier-lab-economics/
 
-Apple has sent legal preservation letters to about 40 former employees now working at OpenAI, per the Financial Times (17 July), acting on a belief that alleged misappropriation of confidential information extends beyond the individuals named in its original trade-secrets complaint. Recipients are f
+Two threads this week converge on evals as the durable asset. OpenAI's Noam Brown, on why traditional benchmarks fail modern models: the only way to find out whether an agent can do a task is to give the agent the task. Capability is no longer legible from static scores, only from execution against
 
-## 5. [Signal] Nadella tells his own engineers Anthropic's Fable guardrails 'don't make sense'
+## 5. [Signal] Xiaomi attacks robotics' data bottleneck with embodiment-free pre-training
 
-- Published: Sun, 19 Jul 2026 22:21:38 GMT
-- Link: https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html
+- Published: Mon, 20 Jul 2026 22:00:13 GMT
+- Link: https://robotics.xiaomi.com/xiaomi-robotics-1.html
 
-In an internal meeting reported by CNBC (16 July), Microsoft CEO Satya Nadella criticised the request limits Anthropic places on its Fable model, asking engineers: 'when was the last time you had a creation tool that was so editorially controlled?' Mark's assessment: 'Satya has stopped making sense.
+Xiaomi Robotics released work — quickly #1 on Hacker News — under the banner 'breaking the data barrier: scaling robot policy models with embodiment-free pre-training.' The methodological claim is the interesting part: pre-training robot policy models without requiring embodiment-specific, teleopera
 
-## 6. [Signal] Kimi K3 prices near GPT-5.6, and spent 48 hours designing its own chip
+## 6. [Signal] Anthropic bundles its flagship into Max, meters it for everyone else
 
-- Published: Sun, 19 Jul 2026 22:21:38 GMT
-- Link: https://simonwillison.net/2026/Jul/16/kimi-k3/
+- Published: Mon, 20 Jul 2026 22:00:13 GMT
+- Link: https://support.claude.com/en/articles/15424964-claude-fable-5-on-your-plan
 
-Independent benchmarking from Simon Willison puts Kimi K3's cost per task at $0.94, comparable to GPT-5.6 Sol's $1.04 and about half of Opus 4.8's $1.80, though still above open-weights peers. Separately, Moonshot AI demonstrated Kimi K3 working unsupervised for 48 hours to design and verify a small
+From this week, Anthropic includes Claude Fable 5 — its flagship — as a standard part of Max plans and premium Team seats (initially at 50% of limits), while Pro plans and standard seats get it only on pay-as-you-go usage credits. The move tiers frontier access sharply: top-tier subscribers get the
 
-## 7. [Signal] The 'blank slate' business model: Slate Auto's $24,950 truck and Thinking Machines' Inkling share a playbook
+## 7. [Signal] An 80-year math problem falls, with an Anthropic researcher and a model in the loop
 
-- Published: Sun, 19 Jul 2026 22:21:38 GMT
-- Link: https://tomtunguz.com/the-blank-slate-ai-strategy/
+- Published: Mon, 20 Jul 2026 22:00:12 GMT
+- Link: https://xcancel.com/__alpoge__/status/2079028340955197566
 
-Tom Tunguz draws a direct parallel between Slate Auto's customisable $24,950 pickup and Thinking Machines' Apache-2.0 Inkling model: both ship a deliberately unremarkable, general-purpose base cheap, and let customers build value through customisation. Thinking Machines monetises the customisation l
+A claimed resolution of the Jacobian Conjecture — an ~80-year problem notorious enough that failed proofs have been called career-killers — reached the top of Hacker News, posted by Levent Alpoge, a mathematician of unusually strong pedigree who now works as a researcher at Anthropic. Reporting attr
 
-## 8. [Signal] Mozilla data: GPT-4-class inference has fallen 50x in three years
+## 8. [Signal] 'All software is now legacy software'
 
-- Published: Sun, 19 Jul 2026 22:21:37 GMT
-- Link: https://stateofopensource.ai/
+- Published: Mon, 20 Jul 2026 22:00:12 GMT
+- Link: https://onecompiler.com/cobol
 
-Mozilla's inaugural State of Open Source AI report (July 2026) puts a hard number on a trend this desk has tracked for a year: GPT-4-class inference cost per million tokens has fallen roughly 50-fold in 36 months, from about $20 to about $0.40. On OpenRouter, closed models still capture roughly 96 p
+John's compact thesis this week: all software is now legacy software, and has been since Opus 4.5 shipped. The argument is that essentially any software worth keeping will be rewritten under the new economics, and existing code is destined to become what COBOL is to banking — retained only where it
