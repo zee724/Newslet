@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-07-28 03:33 UTC
+- Generated at: 2026-07-29 03:37 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. The weights landed on schedule; the hard problems are money and oversight
+## 1. [Signal] Beyond Zero: shrinking the trust boundary from the application to the individual action
 
-- Published: Tue, 28 Jul 2026 02:38:45 GMT
-- Link: https://noops.au/posts/daily-2026-07-28
+- Published: Tue, 28 Jul 2026 23:35:47 GMT
+- Link: https://spawn-queue.acm.org/doi/10.1145/3819083
 
-Tuesday 28 July 2026 · the board, the read, and today's 19 signals
+Google researchers published Beyond Zero in Communications of the ACM, described as a new security paradigm designed for the AI era. The architecture "performs per-resource access decisions for humans and agents at machine speed. By shrinking the trust boundary from the application level to individu
 
-## 2. [Signal] AMD and Cerebras pair up on inference -- and the market reads it two ways
+## 2. [Signal] OpenAI's scientific-computing field report finds the stewardship problem, not the capability one
 
-- Published: Mon, 27 Jul 2026 00:03:15 GMT
-- Link: https://www.cnbc.com/2026/07/23/cerebras-stock-gains-on-amd-partnership.html
+- Published: Tue, 28 Jul 2026 23:35:47 GMT
+- Link: https://openai.com/index/scientific-computing-agentic-ai/
 
-AMD and Cerebras announced a technical partnership this week combining AMD's Helios rackscale systems with Cerebras's Wafer-Scale Engine into a disaggregated inference architecture -- Helios providing high-throughput scalable compute, Cerebras's chip providing ultra-low-latency decode -- claimed to
+OpenAI published an exploratory field report on eight agent-assisted scientific computing projects, primarily in the life sciences — five using Codex alone, three using a combination of Codex and Claude Code. The projects range from "routine maintenance and targeted optimization to large-scale langu
 
-## 3. [Signal] Crypto rails price a Chinese memory maker at $425bn ahead of its Shanghai debut
+## 3. [Signal] The EPA says data-centre power can sidestep pollution law, as the grid becomes the binding constraint
 
-- Published: Mon, 27 Jul 2026 00:03:15 GMT
-- Link: https://www.cnbc.com/2026/07/23/chip-firm-priced-as-most-valuable-china-firm-pre-ipo-on-crypto-site.html
+- Published: Tue, 28 Jul 2026 23:35:46 GMT
+- Link: https://www.reuters.com/legal/litigation/epa-says-power-data-centers-can-sidestep-pollution-laws-2026-07-27/
 
-Crypto traders are pricing ChangXin Memory Technologies, a Chinese DRAM maker, at close to half a trillion dollars ahead of its record Shanghai listing -- the current implied price puts its market capitalisation at roughly $425bn (about 2.9 trillion yuan), which would make it more valuable than Indu
+Reuters reported on 27 July that the US Environmental Protection Agency has determined that power generation serving data centres can sidestep certain pollution rules. Mark's response was to note he had written the day before that the USA is an example of what not to do. He also set out the underlyi
 
-## 4. [Signal] Chinese open-weight models: 200 US startups petition against a ban that's already partly in force
+## 4. [Signal] Customer service and Visa: displacement stops being a forecast
 
-- Published: Mon, 27 Jul 2026 00:03:15 GMT
-- Link: https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992
+- Published: Tue, 28 Jul 2026 23:35:46 GMT
+- Link: https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba
 
-Almost 200 Silicon Valley companies -- including Proton and Y Combinator -- wrote to the Trump administration this week urging it not to cut off access to Chinese open-weight AI models, warning that doing so risks crippling the next generation of US AI startups built on them. The Commerce Department
+Two reports on 28 July moved the labour-displacement evidence from forecast to disclosed corporate practice, in two distinct job families. Bloomberg reported that automated chat and phone systems have already eliminated thousands of workers across named companies: Commonwealth Bank of Australia shed
 
-## 5. [Signal] Zig refused an LLM-assisted fix -- and lost Bun to a Rust rewrite over it
+## 5. [Signal] Agentic trading arrives with a tenfold volume claim attached
 
-- Published: Mon, 27 Jul 2026 00:03:15 GMT
-- Link: https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy
+- Published: Tue, 28 Jul 2026 23:35:46 GMT
+- Link: https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html
 
-Zig's code of conduct bans LLM involvement categorically: no LLM-generated code or prose, no LLM-assisted editing, no LLM translation, no sharing LLM-assisted brainstorming, no using LLMs to find bugs, and no discussing chatbot use at all. After Anthropic acquired Bun -- a JavaScript runtime histori
+CNBC reported that brokerages, startups and retail investors are building AI agents to oversee portfolios and automate investing tasks previously handled by humans. The number in the piece is the part worth keeping: one executive estimated agentic finance could increase transaction volumes by at lea
 
-## 6. [Signal] Cisco's tiny open-weight models beat frontier models at one job: finding bugs locally
+## 6. [Signal] Claude Mythos halves a post-quantum signature scheme's security in sixty hours
 
-- Published: Mon, 27 Jul 2026 00:03:15 GMT
-- Link: https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization
+- Published: Tue, 28 Jul 2026 23:35:46 GMT
+- Link: https://www.anthropic.com/research/discovering-cryptographic-weaknesses
 
-Cisco released Antares-350M and Antares-1B this week as open-weight models purpose-built for vulnerability localisation in code. Cisco's benchmark claim: these sub-1-billion-parameter models "outperform many powerful closed- and open-weight models" at this specific security task, at a fraction of th
+Anthropic published research on 29 July reporting that Claude Mythos Preview helped its researchers discover two novel cryptanalytic results. Against HAWK, a post-quantum digital signature candidate, the model improved the best-known attack on HAWK-256, cutting expected attack cost from 2^64 to 2^38
 
-## 7. [Signal] Substack fights AI impersonation with detection, not a ban
+## 7. [Signal] Kimi K3 ships the whole recipe, not just the weights
 
-- Published: Mon, 27 Jul 2026 00:03:15 GMT
-- Link: https://post.substack.com/p/against-claudefishing
+- Published: Tue, 28 Jul 2026 23:35:45 GMT
+- Link: https://www.linkedin.com/posts/open-weights-intelligence-advanced-today-share-7487693117979058176-pn_B/
 
-Substack CEO Chris Best announced a new AI-transparency feature this week, built with detector Pangram: readers can scan any post, note, reply or comment longer than 100 words for an estimate of how much a human wrote versus how much came from AI assistance, and creators get a new, optional field to
+Mark's read of the Kimi K3 release after a closer look at the companion material: "The companion posts also open-source FlashKDA (their Kimi Delta Attention kernels), MoonEP (MoE communication library), and AgentENV (distributed agent environment infra)... This is more than a model drop; it is a fai
 
-## 8. [Signal] Tesla's Optimus reality check: zero units, record capex, a 14.5% drop
+## 8. [Signal] Distillation becomes a Google product and a Chinese counter-accusation in the same week
 
-- Published: Mon, 27 Jul 2026 00:03:15 GMT
-- Link: https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html
+- Published: Tue, 28 Jul 2026 23:35:45 GMT
+- Link: https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation
 
-Tesla's Q2 2026 results beat on revenue -- $28.24bn, up 26% year-on-year against $26.32bn consensus -- but missed badly on profit: adjusted EPS of $0.33 against $0.50 expected. The stock fell 14.5% to $319.69, an 11-month low. Capital expenditure hit a Q2 record of $5.79bn, up 142% year-on-year. On
+Within days of Anthropic proposing a crackdown on "industrial-scale distillation" as a pillar of US AI policy, two developments changed the technique's status. Google published documentation for distillation on the Gemini Enterprise Agent Platform — a managed tuning workflow productised as Distillat
