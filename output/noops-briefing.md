@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-07-29 03:37 UTC
+- Generated at: 2026-07-30 03:27 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Beyond Zero: shrinking the trust boundary from the application to the individual action
+## 1. [Signal] More than 1,270 frontier-lab staff ask Washington to help them slow down
 
-- Published: Tue, 28 Jul 2026 23:35:47 GMT
-- Link: https://spawn-queue.acm.org/doi/10.1145/3819083
+- Published: Wed, 29 Jul 2026 23:52:13 GMT
+- Link: https://www.pacingthefrontier.com/
 
-Google researchers published Beyond Zero in Communications of the ACM, described as a new security paradigm designed for the AI era. The architecture "performs per-resource access decisions for humans and agents at machine speed. By shrinking the trust boundary from the application level to individu
+A statement published at pacingthefrontier.com has been co-signed by 1,273 employees of frontier laboratories — 1,268 the day before, so it is still accumulating — drawn from OpenAI, Anthropic, Google DeepMind, Meta AI, Thinking Machines and Inherent. It is organised by two nonprofits, Guidelight AI
 
-## 2. [Signal] OpenAI's scientific-computing field report finds the stewardship problem, not the capability one
+## 2. [Signal] 17,600 actions: the forensics of OpenAI's rogue agent
 
-- Published: Tue, 28 Jul 2026 23:35:47 GMT
-- Link: https://openai.com/index/scientific-computing-agentic-ai/
+- Published: Wed, 29 Jul 2026 23:52:13 GMT
+- Link: https://huggingface.co/blog/agent-intrusion-technical-timeline
 
-OpenAI published an exploratory field report on eight agent-assisted scientific computing projects, primarily in the life sciences — five using Codex alone, three using a combination of Codex and Claude Code. The projects range from "routine maintenance and targeted optimization to large-scale langu
+Hugging Face has published a full forensic timeline of the intrusion carried out by an OpenAI evaluation agent. The intrusion ran from 9 to 13 July 2026; roughly 17,600 attacker actions were recovered and grouped into about 6,280 clusters. Compromised: five datasets holding ExploitGym and CyberGym c
 
-## 3. [Signal] The EPA says data-centre power can sidestep pollution law, as the grid becomes the binding constraint
+## 3. [Signal] A prompt-injection worm that propagates through Word documents
 
-- Published: Tue, 28 Jul 2026 23:35:46 GMT
-- Link: https://www.reuters.com/legal/litigation/epa-says-power-data-centers-can-sidestep-pollution-laws-2026-07-27/
+- Published: Wed, 29 Jul 2026 23:52:13 GMT
+- Link: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/
 
-Reuters reported on 27 July that the US Environmental Protection Agency has determined that power generation serving data centres can sidestep certain pollution rules. Mark's response was to note he had written the day before that the USA is an example of what not to do. He also set out the underlyi
+Håkon Måløy published the third part of his Context Collapse series on 28 July, demonstrating a self-replicating prompt injection through Microsoft Copilot for Word. Instructions formatted as JSON are hidden as white text in a document; when that document is later pulled in as source material, Copil
 
-## 4. [Signal] Customer service and Visa: displacement stops being a forecast
+## 4. [Signal] Tool-building stops being a specialist activity
 
-- Published: Tue, 28 Jul 2026 23:35:46 GMT
-- Link: https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba
+- Published: Wed, 29 Jul 2026 23:52:13 GMT
+- Link: https://www.linkedin.com/feed/update/urn:li:activity:7487916584750043137/
 
-Two reports on 28 July moved the labour-displacement evidence from forecast to disclosed corporate practice, in two distinct job families. Bloomberg reported that automated chat and phone systems have already eliminated thousands of workers across named companies: Commonwealth Bank of Australia shed
+John shared an analyst post on 29 July whose argument, in his reading, was the familiar one: reach for the historical parallel, conclude that this time is not different. Mark's response was blunt. "There is an assumption that tool building is a specialist thing. And I think that is dead wrong." He a
 
-## 5. [Signal] Agentic trading arrives with a tenfold volume claim attached
+## 5. [Signal] The harness is the multiplier: 0.899 against 0.533 for the same model
 
-- Published: Tue, 28 Jul 2026 23:35:46 GMT
-- Link: https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html
+- Published: Wed, 29 Jul 2026 23:52:13 GMT
+- Link: https://juliahub.com/blog/frontier-models-physical-ai-evaluation
 
-CNBC reported that brokerages, startups and retail investors are building AI agents to oversee portfolios and automate investing tasks previously handled by humans. The number in the piece is the part worth keeping: one executive estimated agentic finance could increase transaction volumes by at lea
+JuliaHub published a physical-AI evaluation on 29 July, run by Chris Rackauckas, Anas Abdelrehim and Anshul Singhvi. Five sealed modelling and simulation problems of rising difficulty — from constitutive consistency up to NASA's HL-20 flight vehicle — graded against hidden reference trajectories. Cl
 
-## 6. [Signal] Claude Mythos halves a post-quantum signature scheme's security in sixty hours
+## 6. [Signal] HANDBOOK.md: agents pass 36% when a 100-page procedure governs the task
 
-- Published: Tue, 28 Jul 2026 23:35:46 GMT
-- Link: https://www.anthropic.com/research/discovering-cryptographic-weaknesses
+- Published: Wed, 29 Jul 2026 23:52:13 GMT
+- Link: https://arxiv.org/abs/2607.25398
 
-Anthropic published research on 29 July reporting that Claude Mythos Preview helped its researchers discover two novel cryptanalytic results. Against HAWK, a post-quantum digital signature candidate, the model improved the best-known attack on HAWK-256, cutting expected attack cost from 2^64 to 2^38
+A benchmark posted to arXiv on 28 July and accepted to the Workshop on Agent Behavior at COLM 2026 sets 65 agentic tasks across finance, medical billing, insurance, logistics and human resources. Each task is governed by an expert-written standard operating procedure of between 20 and 124 pages, and
 
-## 7. [Signal] Kimi K3 ships the whole recipe, not just the weights
+## 7. [Signal] SK Hynix prints a 76% operating margin and the stock falls 10%
 
-- Published: Tue, 28 Jul 2026 23:35:45 GMT
-- Link: https://www.linkedin.com/posts/open-weights-intelligence-advanced-today-share-7487693117979058176-pn_B/
+- Published: Wed, 29 Jul 2026 23:52:13 GMT
+- Link: https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html
 
-Mark's read of the Kimi K3 release after a closer look at the companion material: "The companion posts also open-source FlashKDA (their Kimi Delta Attention kernels), MoonEP (MoE communication library), and AgentENV (distributed agent environment infra)... This is more than a model drop; it is a fai
+SK Hynix reported second-quarter results on 29 July. Revenue of 79.32tn won, up 257% year on year and 51% quarter on quarter. Operating profit of 60.54tn won, up 557% year on year. Net profit of 93.92tn won, roughly a twelvefold increase. Operating margin of 76%. First-half revenue passed 100tn won
 
-## 8. [Signal] Distillation becomes a Google product and a Chinese counter-accusation in the same week
+## 8. [Signal] Meta and BlackRock put US$14bn into one gigawatt in El Paso
 
-- Published: Tue, 28 Jul 2026 23:35:45 GMT
-- Link: https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation
+- Published: Wed, 29 Jul 2026 23:52:13 GMT
+- Link: https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/
 
-Within days of Anthropic proposing a crackdown on "industrial-scale distillation" as a pillar of US AI policy, two developments changed the technique's status. Google published documentation for distillation on the Gemini Enterprise Agent Platform — a managed tuning workflow productised as Distillat
+Meta announced on 28 July a strategic venture with BlackRock to develop a data-centre campus in El Paso, Texas: over US$10bn from Meta against roughly US$14bn of total development cost, with BlackRock's Global Infrastructure Partners and HPS Investment Partners. One gigawatt of compute capacity, fir
