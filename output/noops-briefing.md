@@ -1,6 +1,6 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-08-01 03:48 UTC
+- Generated at: 2026-08-02 03:51 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
