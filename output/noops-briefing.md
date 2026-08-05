@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-08-04 03:35 UTC
+- Generated at: 2026-08-05 03:31 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Qwen open-weights a Max-class model; is Opus 4.8 is now the low-end comparison?
+## 1. [Signal] Canva's AI bill forces a revenue downgrade, and AI 2.0 goes on hold
 
-- Published: Tue, 04 Aug 2026 00:44:08 GMT
-- Link: https://qwen.ai/blog?id=qwen3.8
+- Published: Tue, 04 Aug 2026 22:50:52 GMT
+- Link: https://www.afr.com/technology/canva-s-ai-bill-shock-causes-rare-revenue-downgrade-20260803-p60kzm
 
-Alibaba released Qwen 3.8-Max on 3 August, describing it as the most capable model in the Qwen family to date and, more consequentially, the first time it will open-source the weights of a Qwen-Max-class model. Mark, who had spent the weekend building a distributed home inference rig, worked out wit
+The Australian Financial Review reported on 3 August that Canva's AI bill has caused a rare revenue downgrade, and that the company temporarily halted the rollout of Canva AI 2.0 because of unexpectedly high costs of running its new AI tools on frontier models "from the likes of OpenAI". Canva is pr
 
-## 2. [Signal] SemiAnalysis publishes on Kimi K3 -- but has Qwen has already overtaken it?
+## 2. [Signal] MirrorCode: agents reimplement whole programs, and the top score is 56%
 
-- Published: Tue, 04 Aug 2026 00:44:08 GMT
-- Link: https://www.semianalysis.com/p/kimi-k3-the-manos-the-mythos-the
+- Published: Tue, 04 Aug 2026 22:50:52 GMT
+- Link: https://epoch.ai/MirrorCode
 
-John shared SemiAnalysis's long-form treatment of Kimi K3 on 4 August and made the observation that matters more than the piece itself: by the time the definitive analysis of a Chinese open-weights release lands, the next one has already shipped and is likely swamping its capabilities. Qwen 3.8-Max
+Epoch AI, with METR, released MirrorCode, a long-horizon coding benchmark. Twenty-five target programs span Unix utilities, data serialisation and query tools, bioinformatics, interpreters, static analysis, cryptography and compression. The task is to reimplement an entire program end-to-end without
 
-## 3. [Signal] There are no spoons: 20 tokens a second across three home GPUs
+## 3. [Signal] Half of AI benchmarks are saturated, and curation is what saves them
 
-- Published: Tue, 04 Aug 2026 00:44:08 GMT
-- Link: https://github.com/mpesce/netferencer
+- Published: Tue, 04 Aug 2026 22:50:52 GMT
+- Link: https://arxiv.org/abs/2602.16763
 
-Mark spent the weekend building and then publishing netferencer, which runs a single GGUF model across NVIDIA GPUs sitting in separate Windows PCs using llama.cpp's RPC backend over a private Ethernet segment. One machine acts as coordinator and distributes model layers and KV cache across the avail
+A new paper defines benchmark saturation formally and analyses it across 60 language-model benchmarks against 14 properties related to saturation. It finds nearly half of them saturated, with saturation rates rising with age, and — the load-bearing result — that resilience to saturation is driven by
 
-## 4. [Signal] The data-centre water argument moves upstream to the power plant
+## 4. [Signal] Qwen3.8 Max lands at 53 on Artificial Analysis, and the frontier holds
 
-- Published: Tue, 04 Aug 2026 00:44:08 GMT
-- Link: https://www.linkedin.com/posts/alex-de-vries-gao-a5b51349_ai-data-centers-use-far-more-water-than-most-share-7480994696224407552-fIiC
+- Published: Tue, 04 Aug 2026 22:50:52 GMT
+- Link: https://artificialanalysis.ai/models/qwen3-8-max
 
-John flagged Alex de Vries-Gao's analysis, circulating on LinkedIn and picked up by the Wall Street Journal, arguing that AI data centres consume far more water than the standard accounts allow — because the water that matters is not only what runs through the cooling loop but what thermoelectric ge
+Artificial Analysis published its evaluation of Alibaba's Qwen3.8 Max at an intelligence index of 53. Mark's immediate read: "Ok so the Americans dodged another bullet." John's reading of the detail was less kind again: it comes in at Grok 4.5 levels, trails Kimi and only nudges ahead of GPT-5.2, wh
 
-## 5. [Signal] Fifteen hundred data centres meet the county zoning board
+## 5. [Signal] OpenAI answers Apple's injunction bid in public, and calls it careless
 
-- Published: Tue, 04 Aug 2026 00:44:08 GMT
-- Link: https://www.politico.com/news/2026/08/01/data-centers-have-a-politics-problem-and-industry-knows-it-01020412
+- Published: Tue, 04 Aug 2026 22:50:52 GMT
+- Link: https://openai.com/index/apple-is-getting-this-wrong/
 
-John shared Politico's 1 August piece on the industry's politics problem, quoting its central passage: fears that the server-packed hubs will drive up electricity prices, deplete water supplies and consume farmland have prompted people across the United States to pack meetings of zoning boards and c
+OpenAI published a post titled "Apple is getting this wrong" on 4 August, responding to Apple's motion for a preliminary injunction in the trade-secrets case Apple filed on 10 July against OpenAI and two former Apple employees — Tang Yew Tan, formerly vice-president of product design for iPhone and
 
-## 6. [Signal] Albanese moves AI oversight inside his own department
+## 6. [Signal] Washington's answer to agentic breaches: voluntary, and classified
 
-- Published: Tue, 04 Aug 2026 00:44:08 GMT
-- Link: https://theconversation.com/view-from-the-hill-albanese-takes-oversight-of-governments-response-to-ai-under-his-own-wing-287494
+- Published: Tue, 04 Aug 2026 22:50:52 GMT
+- Link: https://thehill.com/policy/technology/6006457-openai-security-breach-gop-attorneys-general/
 
-John shared The Conversation's report that Anthony Albanese has established an Office of AI inside the Department of the Prime Minister and Cabinet, taking direct carriage of the government's response to AI. The office has commenced operations already and will be announced in a major speech on Wedne
+The White House has invited OpenAI, Anthropic, Meta and Google to review a finished framework for voluntary cybersecurity testing of frontier models, with the four labs meeting on Tuesday to review the framework, its classified benchmark, and implementation. Designed under the 2 June executive order
 
-## 7. [Signal] A deterministic oracle for agent code: 91.9% branch coverage on COBOL
+## 7. [Signal] A fourth Thinking Machines co-founder leaves, for self-improving AI
 
-- Published: Tue, 04 Aug 2026 00:44:08 GMT
-- Link: https://arxiv.org/abs/2607.28271
+- Published: Tue, 04 Aug 2026 22:50:52 GMT
+- Link: https://www.axios.com/2026/08/03/ai-talent-wars-openai-google-meta-anthropic
 
-Mark posted arXiv 2607.28271, which describes the "Locksmith Loop", an agentic test-synthesis method for validating COBOL-to-Java migrations. Both the COBOL source and the generated Java target are instrumented with mocks and executed off-mainframe on commodity hardware. An iterative agentic loop th
+Axios reports that Lilian Weng, co-founder of Mira Murati's Thinking Machines Lab, announced her departure last week, saying she wanted a more focused position. Days later The Information reported she is rejoining OpenAI to work on recursive self-improvement — the idea that AI systems play a growing
 
-## 8. [Signal] Fifteen days into a single prompt, and it is still running
+## 8. [Signal] US drafts a ban on Chinese data-centre gear, down to the transceivers
 
-- Published: Tue, 04 Aug 2026 00:44:08 GMT
-- Link: https://daringfireball.net/linked/2026/08/02/cherny-claude-swift
+- Published: Tue, 04 Aug 2026 22:50:52 GMT
+- Link: https://www.reuters.com/world/trump-administration-drafting-ban-chinese-data-center-devices-sources-say-2026-08-04/
 
-Mark shared Daring Fireball's link to Boris Cherny, who put the current state of the craft plainly: the skill now is less about prompt engineering and more about figuring out how to give Claude a hard task that seems a little bit too hard, and then how to make it possible for Claude to verify its wo
+Reuters reported on 4 August that the Trump administration is drafting a ban on Chinese-made data-centre devices. According to sources familiar with the draft, the measure would be issued through the Federal Communications Commission or the Commerce Department later this year and targets networking
