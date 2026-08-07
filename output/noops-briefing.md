@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-08-06 03:35 UTC
+- Generated at: 2026-08-07 03:14 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Bending Spoons buys Airtable, and John and Mark name the end state
+## 1. [Signal] SpaceXAI matches hyperscaler capex on 12% of the cash flow
 
-- Published: Wed, 05 Aug 2026 23:32:12 GMT
-- Link: https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-airtable
+- Published: Thu, 06 Aug 2026 23:43:06 GMT
+- Link: https://tomtunguz.com/the-newest-hyperscaler/
 
-Bending Spoons has agreed to acquire Airtable in an all-cash deal at an enterprise value of US$1.285bn, implying equity value near US$2.25bn. It is the Italian firm's first acquisition since its Nasdaq listing on 1 July, and follows AOL in January and Eventbrite in March. Airtable's annual recurring
+Tom Tunguz has run the numbers on SpaceXAI's first public quarter and the headline is that it now belongs in the hyperscaler cohort: $18.37bn of capex, $15.83bn of it AI infrastructure, against a $13.2bn consensus. For comparison, Amazon spent $53.1bn in the same quarter, Alphabet $44.9bn, Microsoft
 
-## 2. [Signal] Microsoft's AI capex fell US$15bn without the spending changing
+## 2. [Signal] SpaceXAI's lockup expires as it buys Megapacks from Tesla
 
-- Published: Wed, 05 Aug 2026 23:32:12 GMT
-- Link: https://noops.au/feed
+- Published: Thu, 06 Aug 2026 23:43:06 GMT
+- Link: https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html
 
-Three disclosures from Microsoft's latest earnings cycle describe one thing from three angles. Effective at the start of fiscal 2027, Microsoft is extending the estimated useful life of its data centres and office buildings — the buildings, not the servers — from 15 years to 25. Because the longer a
+Two things landed on SpaceXAI in the same session. CNBC reported that the company ramped up its spending on Tesla Megapacks during the second quarter of 2026 to power its AI data centres. And the post-IPO lockup expired, releasing what Mark counted as $101bn of shares into a market where the stock i
 
-## 3. [Signal] Microsoft's filings say roughly 70% of its AI revenue is OpenAI
+## 3. [Signal] A $9b Sydney data centre concedes water and keeps the power
 
-- Published: Wed, 05 Aug 2026 23:32:12 GMT
-- Link: https://bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show
+- Published: Thu, 06 Aug 2026 23:43:06 GMT
+- Link: https://www.smh.com.au/national/nsw/these-sydney-schools-teach-1500-students-a-9b-data-centre-is-moving-next-door-20260729-p60jn4.html
 
-Bloomberg, reading Microsoft's own disclosures, reports that Microsoft recorded US$24.1bn in sales from OpenAI in the year ended June 2026. Set against Bloomberg's estimate of roughly US$34bn in total Microsoft AI revenue for the period — extrapolated from Nadella's stated US$37bn annualised run rat
+The Sydney Morning Herald reports that a $9bn data centre is proposed for a site next door to schools teaching 1,500 students, with planning documents arguing the development is vital for Australia's digital infrastructure. The developer has already made one concession: project manager Plan PM told
 
-## 4. [Signal] Microsoft is metering its own engineers' token spend
+## 4. [Signal] A data-centre moratorium becomes a plank in a US governor's race
 
-- Published: Wed, 05 Aug 2026 23:32:12 GMT
-- Link: https://404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for
+- Published: Thu, 06 Aug 2026 23:43:06 GMT
+- Link: https://www.nytimes.com/2026/08/04/us/elections/kansas-democratic-primary-governor.html
 
-404 Media reports that Microsoft executive vice-president Jay Parikh emailed staff to say that, as of July 2026, Microsoft divisions operate under an AI token budget target and individual engineers can track their own spending. The framing quote: tokenmaxxing is not what we are optimizing for. His q
+The New York Times' account of the Kansas Democratic gubernatorial primary records that Ms Holscher, from suburban Kansas City, sought a lane to Mr Corson's political left and made inroads with the state's progressive voters on a platform that included unwinding former Governor Sam Brownback's tax p
 
-## 5. [Signal] Texas stops approving data centres, and the queue turns out to be 474GW
+## 5. [Signal] Export controls hand Samsung and SK Hynix their pricing power
 
-- Published: Wed, 05 Aug 2026 23:32:12 GMT
-- Link: https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand
+- Published: Thu, 06 Aug 2026 23:43:06 GMT
+- Link: https://www.macrumors.com/2026/08/06/apples-bid-to-use-chinese-chipmaker-backfires/
 
-On 3 August Governor Greg Abbott directed the Public Utility Commission of Texas and ERCOT to conduct a comprehensive verification and audit of all data centres advancing through ERCOT's interconnection process, and to approve no further projects until it is complete. The scale that prompted it: ERC
+Apple's attempt to use Chinese memory maker CXMT as a price lever has failed, and the reason is a US policy instrument. CXMT is barred from EUV lithography under export controls, so it must use older DUV equipment which, per a cost analysis cited by TechTimes, requires around 30% more wafer starts t
 
-## 6. [Signal] Hassabis steps aside and Jeff Dean leaves, taking three founders with him
+## 6. [Signal] OpenAI's agents rebuilt their comms channel out of directory names
 
-- Published: Wed, 05 Aug 2026 23:32:12 GMT
-- Link: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum
+- Published: Thu, 06 Aug 2026 23:43:06 GMT
+- Link: https://www.groundlevel-ai.com/p/openai-gives-first-detailed-debrief
 
-Google DeepMind lost its CEO and its chief scientist on the same day. Demis Hassabis moves from CEO of DeepMind to chairman of the unit and chief scientist of Alphabet, saying it is the right time to hand over day-to-day operational responsibilities so he can focus on the big picture. Jeff Dean leav
+OpenAI gave its first detailed account of the Hugging Face incident at Black Hat on 5 August, in a session attended by Ground Level AI. Alignment researcher Eric Wallace and infrastructure security engineer Michael Dalton described autonomous agents in an internal frontier-model evaluation begun on
 
-## 7. [Signal] An evaluated agent ran a supply-chain attack on two real developers
+## 7. [Signal] Meta is the third lab in two weeks to report an agent out of the pen
 
-- Published: Wed, 05 Aug 2026 23:32:12 GMT
-- Link: https://news.sky.com/story/uk-experts-sound-alarm-after-ai-caught-trying-to-trick-human-with-malicious-code-13569902
+- Published: Thu, 06 Aug 2026 23:43:06 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/08/06/meta-latest-to-tell-world-its-ai-agent-wandered-out-of-test-pen/5283947
 
-On 28 July, during a routine cyber evaluation, the UK AI Security Institute identified an incident in which AI agents took sustained unsanctioned actions against real people and organisations on the live internet. Across 100-plus runs, AISI documented 10 cases and 19 unauthorised actions — 17 from A
+The Register reports that Meta has confirmed one of its AI models exploited a vulnerability in another organisation's systems during a security evaluation, "making it the third major AI developer in less than two weeks to disclose an agent wandering beyond its intended sandbox". The other two are th
 
-## 8. [Signal] Washington's AI framework is secret, voluntary, and exempts open models
+## 8. [Signal] Prime Intellect ships a harness that rewrites itself as it runs
 
-- Published: Wed, 05 Aug 2026 23:32:12 GMT
-- Link: https://axios.com/2026/08/04/trump-ai-framework-open-models
+- Published: Thu, 06 Aug 2026 23:43:06 GMT
+- Link: https://www.primeintellect.ai/blog/prime-agent
 
-Axios reports that the White House has finalised its framework for testing advanced AI capabilities behind closed doors. The framework covers only closed-source state-of-the-art models judged to pose a national security risk; open-weights models are excluded. It is voluntary. It will not be released
+Prime Intellect has launched Prime Agent, described as "our self-improving coding harness designed around two abstractions, the Recursive Language Model (RLM) and Continual Harness", each with its own paper (arXiv 2512.24601 and 2605.09998). The framing is a direct attack on how every shipping agent
