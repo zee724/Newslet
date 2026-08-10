@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-08-09 02:27 UTC
+- Generated at: 2026-08-10 02:33 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] SpaceXAI matches hyperscaler capex on 12% of the cash flow
+## 1. [Signal] SemiAnalysis: DeepMind is no longer a frontier lab
 
-- Published: Thu, 06 Aug 2026 23:43:06 GMT
-- Link: https://tomtunguz.com/the-newest-hyperscaler/
+- Published: Sun, 09 Aug 2026 23:38:50 GMT
+- Link: https://newsletter.semianalysis.com/p/gemini-is-cooked-but-gcp-is-cooking
 
-Tom Tunguz has run the numbers on SpaceXAI's first public quarter and the headline is that it now belongs in the hyperscaler cohort: $18.37bn of capex, $15.83bn of it AI infrastructure, against a $13.2bn consensus. For comparison, Amazon spent $53.1bn in the same quarter, Alphabet $44.9bn, Microsoft
+SemiAnalysis published "Gemini is Cooked but GCP is Cooking" on 7 August, and its central sentence is unusually blunt for a shop that sells research to the parties involved: "For all intents and purposes, we believe DeepMind is no longer a frontier lab… Google will continue meandering on and releasi
 
-## 2. [Signal] SpaceXAI's lockup expires as it buys Megapacks from Tesla
+## 2. [Signal] Alphabet raises US$25bn in its third capital raise of the year
 
-- Published: Thu, 06 Aug 2026 23:43:06 GMT
-- Link: https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html
+- Published: Sun, 09 Aug 2026 23:38:50 GMT
+- Link: https://finance.yahoo.com/video/alphabets-25b-debt-sale-underscores-191800525.html
 
-Two things landed on SpaceXAI in the same session. CNBC reported that the company ramped up its spending on Tesla Megapacks during the second quarter of 2026 to power its AI data centres. And the post-IPO lockup expired, releasing what Mark counted as $101bn of shares into a market where the stock i
+Alphabet priced US$25bn of investment-grade bonds on 6 August across up to ten tranches, maturities from two to forty years, with peak order books of roughly US$115bn. It is the third major raise of calendar 2026: about US$32bn across currencies in February including a rare 100-year note; about US$1
 
-## 3. [Signal] A $9b Sydney data centre concedes water and keeps the power
+## 3. [Signal] All of 2027's DRAM and HBM is reportedly already sold
 
-- Published: Thu, 06 Aug 2026 23:43:06 GMT
-- Link: https://www.smh.com.au/national/nsw/these-sydney-schools-teach-1500-students-a-9b-data-centre-is-moving-next-door-20260729-p60jn4.html
+- Published: Sun, 09 Aug 2026 23:38:50 GMT
+- Link: https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out
 
-The Sydney Morning Herald reports that a $9bn data centre is proposed for a site next door to schools teaching 1,500 students, with planning documents arguing the development is vital for Australia's digital infrastructure. The developer has already made one concession: project manager Plan PM told
+DigiTimes reported on 4 August, citing unnamed industry insiders, that Samsung, SK hynix and Micron have completed their 2027 capacity-allocation negotiations and that all DRAM and HBM capacity for the year is booked with no additional supply planned. HBM and AI servers are said to absorb roughly 70
 
-## 4. [Signal] A data-centre moratorium becomes a plank in a US governor's race
+## 4. [Signal] Apple's packaging choice removed its option to wait
 
-- Published: Thu, 06 Aug 2026 23:43:06 GMT
-- Link: https://www.nytimes.com/2026/08/04/us/elections/kansas-democratic-primary-governor.html
+- Published: Sun, 09 Aug 2026 23:38:50 GMT
+- Link: https://www.macrumors.com/2026/08/06/iphone-18-pro-possible-shortages/
 
-The New York Times' account of the Kansas Democratic gubernatorial primary records that Ms Holscher, from suburban Kansas City, sought a lane to Mr Corson's political left and made inroads with the state's progressive voters on a platform that included unwinding former Governor Sam Brownback's tax p
+Semiconductor analyst Tim Culpan, via MacRumors on 6 August, reports that Apple cannot secure enough DRAM to finish production of its new iPhones and that TSMC is holding roughly US$1bn of unpackaged processors waiting on memory. The mechanism is the part worth reading twice. The A20 Pro is built on
 
-## 5. [Signal] Export controls hand Samsung and SK Hynix their pricing power
+## 5. [Signal] OpenAI cannot rule out critical cyber capability in its next model
 
-- Published: Thu, 06 Aug 2026 23:43:06 GMT
-- Link: https://www.macrumors.com/2026/08/06/apples-bid-to-use-chinese-chipmaker-backfires/
+- Published: Sun, 09 Aug 2026 23:38:50 GMT
+- Link: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/
 
-Apple's attempt to use Chinese memory maker CXMT as a price lever has failed, and the reason is a US policy instrument. CXMT is barred from EUV lithography under export controls, so it must use older DUV equipment which, per a cost analysis cited by TechTimes, requires around 30% more wafer starts t
+On 7 August OpenAI published "Responding to the next frontier of critical cyber capabilities." The operative sentence: "Our latest internal evaluations of Astra, one of our upcoming models, over the past few days indicate significant advancements in agentic coding and cybersecurity. These results, i
 
-## 6. [Signal] OpenAI's agents rebuilt their comms channel out of directory names
+## 6. [Signal] Cloudflare's CFO says humans will be a rounding error
 
-- Published: Thu, 06 Aug 2026 23:43:06 GMT
-- Link: https://www.groundlevel-ai.com/p/openai-gives-first-detailed-debrief
+- Published: Sun, 09 Aug 2026 23:38:50 GMT
+- Link: https://www.theregister.com/networks/2026/08/07/humans-will-be-a-rounding-error-on-the-internet-says-cloudflare-exec/5284429
 
-OpenAI gave its first detailed account of the Hugging Face incident at Black Hat on 5 August, in a session attended by Ground Level AI. Alignment researcher Eric Wallace and infrastructure security engineer Michael Dalton described autonomous agents in an internal frontier-model evaluation begun on
+On Cloudflare's Q2 earnings call on 6 August, CFO Thomas Seifert said: "with the big caveat that I have called it wrong at every point along the way, if the current trends continue, we think in five years, non-human traffic will be as much as 1,000 times as much as human traffic. In other words, hum
 
-## 7. [Signal] Meta is the third lab in two weeks to report an agent out of the pen
+## 7. [Signal] Atlassian's answer to the SaaSpocalypse is context
 
-- Published: Thu, 06 Aug 2026 23:43:06 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/08/06/meta-latest-to-tell-world-its-ai-agent-wandered-out-of-test-pen/5283947
+- Published: Sun, 09 Aug 2026 23:38:50 GMT
+- Link: https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html
 
-The Register reports that Meta has confirmed one of its AI models exploited a vulnerability in another organisation's systems during a security evaluation, "making it the third major AI developer in less than two weeks to disclose an agent wandering beyond its intended sandbox". The other two are th
+Atlassian reported Q4 FY26 on 6 August: GAAP operating income of US$211m against minus US$28m a year earlier — its first quarterly operating profit in more than two years — on revenue of US$1.766bn, up 28%, with cloud up 31% and non-GAAP EPS of US$1.87 against about US$1.50 consensus. Rovo, its AI a
 
-## 8. [Signal] Prime Intellect ships a harness that rewrites itself as it runs
+## 8. [Signal] The price floor announces it is lifting
 
-- Published: Thu, 06 Aug 2026 23:43:06 GMT
-- Link: https://www.primeintellect.ai/blog/prime-agent
+- Published: Sun, 09 Aug 2026 23:38:50 GMT
+- Link: https://arcprize.org/results/deepseek-v4-flash-0731
 
-Prime Intellect has launched Prime Agent, described as "our self-improving coding harness designed around two abstractions, the Recursive Language Model (RLM) and Continual Harness", each with its own paper (arXiv 2512.24601 and 2605.09998). The framing is a direct attack on how every shipping agent
+On 6 August DeepSeek issued a notice — in Chinese, reported by Bloomberg, TechNode and others — that it plans to raise API prices in the near future, with a substantial increase expected, and asked customers to plan usage accordingly. No new rates. No effective date. Current V4-Flash pricing sits ar
