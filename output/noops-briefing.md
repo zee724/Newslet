@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-08-10 02:33 UTC
+- Generated at: 2026-08-11 02:26 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] SemiAnalysis: DeepMind is no longer a frontier lab
+## 1. Does the Home Watershed Arrive Tomorrow?
 
-- Published: Sun, 09 Aug 2026 23:38:50 GMT
-- Link: https://newsletter.semianalysis.com/p/gemini-is-cooked-but-gcp-is-cooking
+- Published: Mon, 10 Aug 2026 22:45:39 GMT
+- Link: https://noops.au/posts/does-the-home-watershed-arrive-tomorrow
 
-SemiAnalysis published "Gemini is Cooked but GCP is Cooking" on 7 August, and its central sentence is unusually blunt for a shop that sells research to the parties involved: "For all intents and purposes, we believe DeepMind is no longer a frontier lab… Google will continue meandering on and releasi
+Qwen3.8-27B could put frontier-adjacent capability on the PCs and Macs people already own — the home watershed, weeks after the business one.
 
-## 2. [Signal] Alphabet raises US$25bn in its third capital raise of the year
+## 2. [Signal] Google may be betting on diffusion rather than the frontier
 
-- Published: Sun, 09 Aug 2026 23:38:50 GMT
-- Link: https://finance.yahoo.com/video/alphabets-25b-debt-sale-underscores-191800525.html
+- Published: Mon, 10 Aug 2026 21:35:07 GMT
+- Link: https://asimovaddendum.substack.com/p/googles-westinghouse-bet
 
-Alphabet priced US$25bn of investment-grade bonds on 6 August across up to ten tranches, maturities from two to forty years, with peak order books of roughly US$115bn. It is the third major raise of calendar 2026: about US$32bn across currencies in February including a rare 100-year note; about US$1
+Tim O'Reilly, writing in the Asimov Addendum, reads Google's 5 August restructuring — Demis Hassabis stepping back, Jeff Dean leaving to start Discovery Loop — not as a stumble in the frontier race but as a deliberate turn towards infrastructure. His analogy is Westinghouse against Edison: Edison he
 
-## 3. [Signal] All of 2027's DRAM and HBM is reportedly already sold
+## 3. [Signal] South Australia calls a royal commission into AI
 
-- Published: Sun, 09 Aug 2026 23:38:50 GMT
-- Link: https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out
+- Published: Mon, 10 Aug 2026 21:35:07 GMT
+- Link: https://www.abc.net.au/news/2026-08-10/artificial-intelligence-royal-commission-announced-in-sa/107017502
 
-DigiTimes reported on 4 August, citing unnamed industry insiders, that Samsung, SK hynix and Micron have completed their 2027 capacity-allocation negotiations and that all DRAM and HBM capacity for the year is booked with no additional supply planned. HBM and AI servers are said to absorb roughly 70
+The South Australian government has announced a royal commission into artificial intelligence, reported by the ABC on 10 August. Premier Peter Malinauskas said the commission would follow his recent trip to the United States, where he met representatives from OpenAI, Anthropic and Apple. Royal commi
 
-## 4. [Signal] Apple's packaging choice removed its option to wait
+## 4. [Signal] Data-centre opposition in Australia is now an organised campaign
 
-- Published: Sun, 09 Aug 2026 23:38:50 GMT
-- Link: https://www.macrumors.com/2026/08/06/iphone-18-pro-possible-shortages/
+- Published: Mon, 10 Aug 2026 21:35:07 GMT
+- Link: https://www.getup.org.au/campaigns/big-tech/data-centres-webinar-4-aug-26/data-centre-boom-we-pay-they-profit
 
-Semiconductor analyst Tim Culpan, via MacRumors on 6 August, reports that Apple cannot secure enough DRAM to finish production of its new iPhones and that TSMC is holding roughly US$1bn of unpackaged processors waiting on memory. The mechanism is the part worth reading twice. The A20 Pro is built on
+GetUp has opened a national campaign against the Australian data-centre buildout, with a webinar held on 4 August and campaign material under the heading that we pay while they profit. The stated case is specific rather than atmospheric: that data centres consume water and electricity at scale, that
 
-## 5. [Signal] OpenAI cannot rule out critical cyber capability in its next model
+## 5. [Signal] TSMC July revenue up 44.7%, well ahead of its own full-year guide
 
-- Published: Sun, 09 Aug 2026 23:38:50 GMT
-- Link: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/
+- Published: Mon, 10 Aug 2026 21:35:07 GMT
+- Link: https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html
 
-On 7 August OpenAI published "Responding to the next frontier of critical cyber capabilities." The operative sentence: "Our latest internal evaluations of Astra, one of our upcoming models, over the past few days indicate significant advancements in agentic coding and cybersecurity. These results, i
+TSMC reported July revenue of NT$467.58bn, about US$14.5bn, up 44.7% year-on-year, per CNBC on 10 August. The company is guiding to roughly 40% revenue growth for the full year, so a single month running near 45% is above the run-rate the guide implies, and Mark's reaction — that July is therefore a
 
-## 6. [Signal] Cloudflare's CFO says humans will be a rounding error
+## 6. [Signal] Apple is reported to be qualifying Chinese DRAM as it trims 2026 shipments
 
-- Published: Sun, 09 Aug 2026 23:38:50 GMT
-- Link: https://www.theregister.com/networks/2026/08/07/humans-will-be-a-rounding-error-on-the-internet-says-cloudflare-exec/5284429
+- Published: Mon, 10 Aug 2026 21:35:07 GMT
+- Link: https://www.macrumors.com/2026/08/10/apple-testing-chinese-memory-iphones-macs/
 
-On Cloudflare's Q2 earnings call on 6 August, CFO Thomas Seifert said: "with the big caveat that I have called it wrong at every point along the way, if the current trends continue, we think in five years, non-human traffic will be as much as 1,000 times as much as human traffic. In other words, hum
+MacRumors reported on 10 August that Apple is testing memory chips from CXMT for iPhones and Macs. The reporting places earlier, more general claims inside specific product categories for the first time: the Financial Times reported last month that Apple had begun qualifying CXMT's DRAM, and Apple h
 
-## 7. [Signal] Atlassian's answer to the SaaSpocalypse is context
+## 7. [Signal] Apple briefly published, then pulled, a guide for wiring Siri to Qwen
 
-- Published: Sun, 09 Aug 2026 23:38:50 GMT
-- Link: https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html
+- Published: Mon, 10 Aug 2026 21:35:07 GMT
+- Link: https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/
 
-Atlassian reported Q4 FY26 on 6 August: GAAP operating income of US$211m against minus US$28m a year earlier — its first quarterly operating profit in more than two years — on revenue of US$1.766bn, up 28%, with cloud up 31% and non-GAAP EPS of US$1.87 against about US$1.50 consensus. Rovo, its AI a
+MacRumors reported on 10 August that Apple had posted a Chinese-language support document explaining how eligible Mac users in mainland China could connect Alibaba's Qwen to Siri and to Writing Tools, then removed it. On the account given, the guide required macOS 26.6 or later and a user's own Qwen
 
-## 8. [Signal] The price floor announces it is lifting
+## 8. [Signal] Apollo: the profitable 41% of the AI chain depends on the loss-making 59%
 
-- Published: Sun, 09 Aug 2026 23:38:50 GMT
-- Link: https://arcprize.org/results/deepseek-v4-flash-0731
+- Published: Mon, 10 Aug 2026 21:35:07 GMT
+- Link: https://www.apollo.com/wealth/insights-news/insights/daily-spark/in-ai-the-41-percent-depends-on-the-59-percent
 
-On 6 August DeepSeek issued a notice — in Chinese, reported by Bloomberg, TechNode and others — that it plans to raise API prices in the near future, with a substantial increase expected, and asked customers to plan usage accordingly. No new rates. No effective date. Current V4-Flash pricing sits ar
+Torsten Slok, chief economist at Apollo, published an analysis on 11 August splitting the AI value chain by profit margin. The layers furthest from the end customer — energy and grid (Constellation, Vistra, NextEra, Vertiv, Eaton, Arista), silicon and equipment (Nvidia, AMD, Broadcom, Marvell, TSMC,
