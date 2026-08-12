@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-08-11 02:26 UTC
+- Generated at: 2026-08-12 02:42 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. Does the Home Watershed Arrive Tomorrow?
+## 1. [Signal] Muse Glimmer rates 35 yet gave the most faithful recitation so far
 
-- Published: Mon, 10 Aug 2026 22:45:39 GMT
-- Link: https://noops.au/posts/does-the-home-watershed-arrive-tomorrow
+- Published: Tue, 11 Aug 2026 22:02:43 GMT
+- Link: https://artificialanalysis.ai/models/muse-glimmer
 
-Qwen3.8-27B could put frontier-adjacent capability on the PCs and Macs people already own — the home watershed, weeks after the business one.
+Mark ran Meta's Muse Glimmer locally through 11 August — first on a PC, then on an M2 Max at a self-reported 25 tokens per second — and it appeared on Ollama the same day. Artificial Analysis rates the model 35, which he noted puts it behind Qwen3.6-27B and, on his expectation, behind whatever lands
 
-## 2. [Signal] Google may be betting on diffusion rather than the frontier
+## 2. [Signal] About US$315bn of AI infrastructure is built but not yet in service
 
-- Published: Mon, 10 Aug 2026 21:35:07 GMT
-- Link: https://asimovaddendum.substack.com/p/googles-westinghouse-bet
+- Published: Tue, 11 Aug 2026 22:02:43 GMT
+- Link: https://www.exponentialview.co/p/ai-capex-deployment-gap
 
-Tim O'Reilly, writing in the Asimov Addendum, reads Google's 5 August restructuring — Demis Hassabis stepping back, Jeff Dean leaving to start Discovery Loop — not as a stumble in the frontier race but as a deliberate turn towards infrastructure. His analogy is Westinghouse against Edison: Edison he
+Exponential View's 10 August analysis, by Hannah Petrovic, William Gildea and Marija Gavrilov, puts 2026 capital expenditure by the seven largest AI-infrastructure builders at US$863bn — 88 per cent above last year, with roughly two-thirds of it AI-related. The figure underneath is the more useful o
 
-## 3. [Signal] South Australia calls a royal commission into AI
+## 3. [Signal] OpenAI closes a US$7bn secondary as another senior executive departs
 
-- Published: Mon, 10 Aug 2026 21:35:07 GMT
-- Link: https://www.abc.net.au/news/2026-08-10/artificial-intelligence-royal-commission-announced-in-sa/107017502
+- Published: Tue, 11 Aug 2026 22:02:43 GMT
+- Link: https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html
 
-The South Australian government has announced a royal commission into artificial intelligence, reported by the ABC on 10 August. Premier Peter Malinauskas said the commission would follow his recent trip to the United States, where he met representatives from OpenAI, Anthropic and Apple. Royal commi
+CNBC confirmed on 10 August that OpenAI has completed a secondary share sale totalling roughly US$7bn, reported in the context of a potential public listing. The following day CNBC reported that Brad Lightcap, a longtime OpenAI executive, is leaving as the shake-up at the lab continues; the excerpt
 
-## 4. [Signal] Data-centre opposition in Australia is now an organised campaign
+## 4. [Signal] The argument about local models is really about what counts as local
 
-- Published: Mon, 10 Aug 2026 21:35:07 GMT
-- Link: https://www.getup.org.au/campaigns/big-tech/data-centres-webinar-4-aug-26/data-centre-boom-we-pay-they-profit
+- Published: Tue, 11 Aug 2026 22:02:43 GMT
+- Link: https://www.seangoedecke.com/local-models-will-not-win/
 
-GetUp has opened a national campaign against the Australian data-centre buildout, with a webinar held on 4 August and campaign material under the heading that we pay while they profit. The stated case is specific rather than atmospheric: that data centres consume water and electricity at scale, that
+John shared Sean Goedecke's 11 August post arguing that local models will not win. The case is economic: a datacentre B200 has about three times the flops and just under four times the memory bandwidth of consumer silicon, and batching inference across hundreds of simultaneous users makes hosted ser
 
-## 5. [Signal] TSMC July revenue up 44.7%, well ahead of its own full-year guide
+## 5. [Signal] Zuckerberg's superintelligence manifesto and the history it skips
 
-- Published: Mon, 10 Aug 2026 21:35:07 GMT
-- Link: https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html
+- Published: Tue, 11 Aug 2026 22:02:43 GMT
+- Link: https://www.meta.com/thefutureisforeveryone/
 
-TSMC reported July revenue of NT$467.58bn, about US$14.5bn, up 44.7% year-on-year, per CNBC on 10 August. The company is guiding to roughly 40% revenue growth for the full year, so a single month running near 45% is above the run-rate the guide implies, and Mark's reaction — that July is therefore a
+Meta published a manifesto titled "The future is for everyone", proposing "a philosophy based on individual empowerment as the source of prosperity, invention as the primary purpose of superintelligence, and balance of power as the foundation of safety". Its historical claim is the one that drew the
 
-## 6. [Signal] Apple is reported to be qualifying Chinese DRAM as it trims 2026 shipments
+## 6. [Signal] Meta reboots its AI strategy again and unwinds the Manus acquisition
 
-- Published: Mon, 10 Aug 2026 21:35:07 GMT
-- Link: https://www.macrumors.com/2026/08/10/apple-testing-chinese-memory-iphones-macs/
+- Published: Tue, 11 Aug 2026 22:02:43 GMT
+- Link: https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/
 
-MacRumors reported on 10 August that Apple is testing memory chips from CXMT for iPhones and Macs. The reporting places earlier, more general claims inside specific product categories for the first time: the Financial Times reported last month that Apple had begun qualifying CXMT's DRAM, and Apple h
+Ars Technica characterised Meta's new open models as another reboot of a struggling AI strategy, adding that in a sense Meta seems to be positioning itself as a US alternative to Alibaba, Moonshot or DeepSeek. Separately, Manus told its users it "will soon return to operating as an independent compa
 
-## 7. [Signal] Apple briefly published, then pulled, a guide for wiring Siri to Qwen
+## 7. [Signal] Open question: is the near-frontier price war between the frontier labs?
 
-- Published: Mon, 10 Aug 2026 21:35:07 GMT
-- Link: https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/
+- Published: Tue, 11 Aug 2026 22:02:43 GMT
+- Link: https://noops.au/feed
 
-MacRumors reported on 10 August that Apple had posted a Chinese-language support document explaining how eligible Mac users in mainland China could connect Alibaba's Qwen to Siri and to Writing Tools, then removed it. On the account given, the guide required macOS 26.6 or later and a user's own Qwen
+Mark noted pricing pressure appearing in an Anthropic announcement concerning Claude Sonnet 5. The line pasted into the archive is truncated, so the terms of that announcement cannot be recovered from the exchange and are not asserted here. What is on the record is his conclusion — that there is a p
 
-## 8. [Signal] Apollo: the profitable 41% of the AI chain depends on the loss-making 59%
+## 8. [Signal] Apple reportedly lifts its display supply buffer from four weeks to six
 
-- Published: Mon, 10 Aug 2026 21:35:07 GMT
-- Link: https://www.apollo.com/wealth/insights-news/insights/daily-spark/in-ai-the-41-percent-depends-on-the-59-percent
+- Published: Tue, 11 Aug 2026 22:02:43 GMT
+- Link: https://www.macrumors.com/2026/08/11/apple-now-stockpiling-more-components/
 
-Torsten Slok, chief economist at Apollo, published an analysis on 11 August splitting the AI value chain by profit margin. The layers furthest from the end customer — energy and grid (Constellation, Vistra, NextEra, Vertiv, Eaton, Arista), silicon and equipment (Nvidia, AMD, Broadcom, Marvell, TSMC,
+MacRumors reported on 11 August that Apple apparently moved from a four-week display supply buffer to six weeks starting in the second quarter of 2026. The hedge is the source's own — Apple does not comment on inventory policy and no company statement is cited — so this is a second-hand supply-chain
