@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-08-12 02:42 UTC
+- Generated at: 2026-08-13 02:46 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Muse Glimmer rates 35 yet gave the most faithful recitation so far
+## 1. [Signal] CoreWeave says older GPUs still renting well as Q2 losses widen
 
-- Published: Tue, 11 Aug 2026 22:02:43 GMT
-- Link: https://artificialanalysis.ai/models/muse-glimmer
+- Published: Wed, 12 Aug 2026 22:29:08 GMT
+- Link: https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html
 
-Mark ran Meta's Muse Glimmer locally through 11 August — first on a PC, then on an M2 Max at a self-reported 25 tokens per second — and it appeared on Ollama the same day. Artificial Analysis rates the model 35, which he noted puts it behind Qwen3.6-27B and, on his expectation, behind whatever lands
+CoreWeave beat on both lines in the second quarter, with revenue up 112% year on year and a 2026 revenue forecast ahead of consensus, while the net loss widened to US$626m from US$290m a year earlier (CNBC, 11 August, citing the company's release). On the call, chief executive Michael Intrator said
 
-## 2. [Signal] About US$315bn of AI infrastructure is built but not yet in service
+## 2. [Signal] O'Reilly reads Google's reshuffle as a bet on diffusion over frontier
 
-- Published: Tue, 11 Aug 2026 22:02:43 GMT
-- Link: https://www.exponentialview.co/p/ai-capex-deployment-gap
+- Published: Wed, 12 Aug 2026 22:29:08 GMT
+- Link: https://asimovaddendum.substack.com/p/googles-westinghouse-bet
 
-Exponential View's 10 August analysis, by Hannah Petrovic, William Gildea and Marija Gavrilov, puts 2026 capital expenditure by the seven largest AI-infrastructure builders at US$863bn — 88 per cent above last year, with roughly two-thirds of it AI-related. The figure underneath is the more useful o
+Tim O'Reilly, writing in the Asimov Addendum, argues that Google's August reorganisation — Demis Hassabis stepping back from DeepMind operations, Jeff Dean leaving to start Discovery Loop — may not be a retreat but a decision to dominate AI diffusion rather than frontier model development. He anchor
 
-## 3. [Signal] OpenAI closes a US$7bn secondary as another senior executive departs
+## 3. [Signal] Congress presses OpenAI over the agent that breached Hugging Face
 
-- Published: Tue, 11 Aug 2026 22:02:43 GMT
-- Link: https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html
+- Published: Wed, 12 Aug 2026 22:29:08 GMT
+- Link: https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/oversight-letter-to-openai-openai-hugging-face-incident-1.pdf
 
-CNBC confirmed on 10 August that OpenAI has completed a secondary share sale totalling roughly US$7bn, reported in the context of a potential public listing. The following day CNBC reported that Brad Lightcap, a longtime OpenAI executive, is leaving as the shake-up at the lab continues; the excerpt
+Representative Greg Casar has written to Sam Altman demanding congressional oversight of what is now being called the OpenAI–Hugging Face incident, and Mark circulated the letter as published on casar.house.gov. The underlying sequence, from contemporaneous reporting and OpenAI's own disclosure: Hug
 
-## 4. [Signal] The argument about local models is really about what counts as local
+## 4. [Signal] Grok 4.6 scores 61 on Artificial Analysis, raising a threshold question
 
-- Published: Tue, 11 Aug 2026 22:02:43 GMT
-- Link: https://www.seangoedecke.com/local-models-will-not-win/
+- Published: Wed, 12 Aug 2026 22:29:08 GMT
+- Link: https://artificialanalysis.ai/models/grok-4-6
 
-John shared Sean Goedecke's 11 August post arguing that local models will not win. The case is economic: a datacentre B200 has about three times the flops and just under four times the memory bandwidth of consumer silicon, and batching inference across hundreds of simultaneous users makes hosted ser
+Artificial Analysis lists Grok 4.6 (high) at 61 on its Intelligence Index, ranking it sixth of 183 models against a median of 34. It is priced at US$2 per million input tokens and US$6 output, with a 500k context window, output speed of 77.6 tokens per second, and an unusually long 42-second time to
 
-## 5. [Signal] Zuckerberg's superintelligence manifesto and the history it skips
+## 5. [Signal] llama.cpp launches llama.app, a consumer front door for local models
 
-- Published: Tue, 11 Aug 2026 22:02:43 GMT
-- Link: https://www.meta.com/thefutureisforeveryone/
+- Published: Wed, 12 Aug 2026 22:29:08 GMT
+- Link: https://llama.app/
 
-Meta published a manifesto titled "The future is for everyone", proposing "a philosophy based on individual empowerment as the source of prosperity, invention as the primary purpose of superintelligence, and balance of power as the foundation of safety". Its historical claim is the one that drew the
+llama.cpp, the ggml-org project that underpins most consumer local inference, has launched a polished consumer site at llama.app: "AI that lives on your computer. Open-source, private & always local", promising "no API keys, no telemetry, no limits" and "Own your models and conversation data", acros
 
-## 6. [Signal] Meta reboots its AI strategy again and unwinds the Manus acquisition
+## 6. [Signal] AI stratifies engineering pay rather than deleting it, argues Herrengt
 
-- Published: Tue, 11 Aug 2026 22:02:43 GMT
-- Link: https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/
+- Published: Wed, 12 Aug 2026 22:29:08 GMT
+- Link: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html
 
-Ars Technica characterised Meta's new open models as another reboot of a struggling AI strategy, adding that in a sense Meta seems to be positioning itself as a US alternative to Alibaba, Moonshot or DeepSeek. Separately, Manus told its users it "will soon return to operating as an independent compa
+Florian Herrengt's argument is that AI will not hollow out software engineering employment so much as pull its pay distribution apart. His formulation: "My bet is that AI pushes salaries further apart. To be employable, there's a bar you have to clear and that bar is whatever the current best model
 
-## 7. [Signal] Open question: is the near-frontier price war between the frontier labs?
+## 7. [Signal] Fitzgerald argues for constrained agent use: the human is the loop
 
-- Published: Tue, 11 Aug 2026 22:02:43 GMT
-- Link: https://noops.au/feed
+- Published: Wed, 12 Aug 2026 22:29:08 GMT
+- Link: https://brentfitzgerald.com/posts/the-human-is-the-loop/
 
-Mark noted pricing pressure appearing in an Anthropic announcement concerning Claude Sonnet 5. The line pasted into the archive is truncated, so the terms of that announcement cannot be recovered from the exchange and are not asserted here. What is on the record is his conclusion — that there is a p
+Brent Fitzgerald's essay is worth reading precisely because it declines the argument it is usually summarised as making. His hunch, in the passage Mark quoted, is that "agent usage is (thankfully) not intrinsically neurochemically addictive in the same way as, say, endless algo feed scrolling" — but
 
-## 8. [Signal] Apple reportedly lifts its display supply buffer from four weeks to six
+## 8. [Signal] When testing an idea costs nothing, the scarce input becomes pruning
 
-- Published: Tue, 11 Aug 2026 22:02:43 GMT
-- Link: https://www.macrumors.com/2026/08/11/apple-now-stockpiling-more-components/
+- Published: Wed, 12 Aug 2026 22:29:08 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/08/12/agents-made-my-retro-tech-safe-to-use-again-and-showed-their-real-value-as-testers-of-ideas/5286632
 
-MacRumors reported on 11 August that Apple apparently moved from a four-week display supply buffer to six weeks starting in the second quarter of 2026. The hedge is the source's own — Apple does not comment on inventory policy and no company statement is cited — so this is a second-hand supply-chain
+A Register piece Mark circulated on 12 August, ostensibly about using agents to make old hardware usable again, makes its sharper claim in passing. The author: "Now that it's trivially easy to feed the parameters for any brainwave into an agent, I've gone full mad scientist, burning through ideas pr
