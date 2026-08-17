@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-08-16 01:56 UTC
+- Generated at: 2026-08-17 01:53 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Grok 4.6 rejoins the frontier at a third of frontier pricing
+## 1. [Signal] Z.ai announces GLM-5.3, claiming open-weights coding SOTA
 
-- Published: Thu, 13 Aug 2026 21:51:09 GMT
-- Link: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis
+- Published: Mon, 17 Aug 2026 01:15:30 GMT
+- Link: https://z.ai/blog/glm-5.3
 
-Artificial Analysis published its Grok 4.6 analysis on 12 August: the model scores 61 on the AA Intelligence Index, in line with GPT-5.6 Sol (max), behind Claude Opus 5 (max, 63) and Claude Fable 5 (62), and just ahead of Kimi K3. That is five points on Grok 4.5 barely a month after that release, an
+Z.ai announced GLM-5.3 on 14 August, describing it as the most capable open-weights model for coding: a claimed 50% improvement over GLM-5.2 on its in-house Code Bench and open-source state of the art on public benchmarks including Terminal Bench 3.0 and Agents' Last Exam. The weights themselves are
 
-## 2. [Signal] DeepSeek V4 Pro lands at 53 — one point above its own Flash
+## 2. [Signal] Qwen3.8-27B ships with day-one FP8 — near-frontier claims at local scale
 
-- Published: Thu, 13 Aug 2026 21:51:09 GMT
-- Link: https://artificialanalysis.ai/models/deepseek-v4-pro
+- Published: Mon, 17 Aug 2026 01:15:30 GMT
+- Link: https://huggingface.co/Qwen/Qwen3.8-27B
 
-DeepSeek released V4 Pro overnight on 13 August with no published numbers, and the conversation ran ahead of the data. John expected it to be "significantly better" than V4 Flash and called it "the moment"; on the assumption it landed near 60 he described a fourth frontier lab arriving at a fraction
+Alibaba released Qwen3.8-27B late on 14 August, publishing an FP8 quantised build within hours of the base repository. The published benchmarks startled even close watchers — "by the benchmarks it's nearly Opus 4.6 class" was Mark's read — and r/LocalLLaMA's overnight reaction ran to being "blown aw
 
-## 3. [Signal] Gemini 3.7 Flash arrives three weeks after 3.6, at half the price
+## 3. [Signal] Gemini 3.7 Flash scores 56 — and that puts Google seventh
 
-- Published: Thu, 13 Aug 2026 21:51:09 GMT
-- Link: https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release
+- Published: Mon, 17 Aug 2026 01:15:30 GMT
+- Link: https://artificialanalysis.ai/articles/gemini-3-7-time-frontier
 
-Google announced Gemini 3.7 Flash on 13 August, replacing 3.6 Flash, which had itself shipped only three weeks earlier. Google's own figures, cited by Ars Technica from Senior Director Tulsee Doshi, show FrontierCode 1.1 Main rising from 34.4 to 43.6 per cent, DeepSWE v1.1 from 49 to 65.3 per cent,
+Artificial Analysis benchmarked Gemini 3.7 Flash across all three reasoning levels ahead of release. At high reasoning it scores 56 — a four-point improvement over 3.6 Flash — with an average Time per Task of 1.7, 40% faster than GPT-5.6 Terra (max), placing it on the Intelligence versus Time per Ta
 
-## 4. [Signal] Open weights reach the big end of town, and shrink by 91 per cent
+## 4. [Signal] DeepSeek prices inference like electricity — and reveals where demand lives
 
-- Published: Thu, 13 Aug 2026 21:51:09 GMT
-- Link: https://wsj.com/cio-journal/why-at-t-is-betting-big-on-open-weight-ai-a0ea03b1
+- Published: Mon, 17 Aug 2026 01:15:30 GMT
+- Link: https://noops.au/feed
 
-Two open-weights items landed together. The Wall Street Journal's CIO Journal published "Why AT&T is betting big on open-weight AI" — we have the headline and framing rather than the full piece, so the detail of AT&T's deployment is not established here. John's one-line read was "business watershed"
+DeepSeek now charges double for peak versus off-peak inference, with peak hours set at 01:00–04:00 and 06:00–10:00 UTC. As Mark noted, those windows map squarely onto the Chinese working day: DeepSeek's binding demand is domestic. (For Australian users the pricing is awkward — though an 8am–11am AES
 
-## 5. [Signal] Depreciation is the premise of equipment finance, not an argument against it
+## 5. [Signal] OpenAI's own data: 17 million messages show how enterprises actually use AI
 
-- Published: Thu, 13 Aug 2026 21:51:09 GMT
-- Link: https://smh.com.au/business/banking-and-finance/wall-street-is-about-to-sell-ai-bonds-what-could-go-wrong-20260813-p60nwx.html
+- Published: Mon, 17 Aug 2026 01:15:30 GMT
+- Link: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
 
-The Sydney Morning Herald ran "Wall Street is about to sell AI bonds — what could go wrong", and it prompted the most developed argument of the window. The article's case, as quoted in the exchange, is that GPU collateral is unlike the mortgages and infrastructure assets behind conventional securiti
+OpenAI released a working paper linking ChatGPT Enterprise account records to usage, worker roles, task classifications and public-company financials through March 2026 — over 1,500 organisations and 17 million messages at the six-month adoption horizon. Four findings: usage is growing through both
 
-## 6. [Signal] A Chinese maker breaks into the global top three in NAND
+## 6. [Signal] OpenAI pre-IPO: $40B run rate, enterprise overtakes consumer, C-suite churn
 
-- Published: Thu, 13 Aug 2026 21:51:09 GMT
-- Link: https://cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html
+- Published: Mon, 17 Aug 2026 01:15:30 GMT
+- Link: https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html
 
-CNBC reported on 13 August that a Chinese company has moved past Micron and Kioxia in NAND memory shipments to take third place globally, with AI adoption driving demand across the memory segment. The report as quoted does not name the firm, and the shipment ranking is a volume measure rather than a
+A dense week of OpenAI pre-IPO disclosures. Greg Brockman told employees run-rate revenue grew more than 20% month over month in July, including 32% for business customers, per an internal Slack message obtained by CNBC; Mark's summary of the reporting is that the run rate will be $40B before the IP
 
-## 7. [Signal] Eisman sees the boom resting on two companies as Anthropic tests IPO water
+## 7. [Signal] Taiwan lifts 2026 GDP growth forecast to 11.05%
 
-- Published: Thu, 13 Aug 2026 21:51:09 GMT
-- Link: https://cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html
+- Published: Mon, 17 Aug 2026 01:15:30 GMT
+- Link: https://www.reuters.com/world/asia-pacific/taiwan-raises-2026-gdp-growth-projection-1105-2026-08-14/
 
-Two CNBC items from 13 August sit together. In the first, Steve Eisman — of Big Short reputation — warns that the AI boom has become increasingly dependent on the fortunes of just two companies, OpenAI and Anthropic. In the second, Anthropic's CFO is reported to have held early IPO meetings; CNBC re
+Taiwan raised its 2026 GDP growth projection to 11.05%, per Reuters, on the strength of its tech exports — a remarkable figure for a developed economy, and one that would have read as a misprint two years ago. As Mark noted, Taiwan is the single most AI-exposed economy on earth: TSMC's leading-edge
 
-## 8. [Signal] A materials benchmark where seven models found 500 compounds and one recipe
+## 8. [Signal] A verifier finds 39.5% of 'correct' AI-generated GPU kernels are broken
 
-- Published: Thu, 13 Aug 2026 21:51:09 GMT
-- Link: https://discoveredmaterials.com/research
+- Published: Mon, 17 Aug 2026 01:15:30 GMT
+- Link: https://arxiv.org/abs/2608.12700
 
-Mark flagged Material Discovery Bench, a long-horizon, open-ended research benchmark measuring frontier model progress in discovering new semiconductor materials — "an eval I can get behind". The task is specific: 3D chip packaging stacks memory directly on logic to cut the energy cost of moving dat
+A new paper (arXiv 2608.12700) builds a contract-grade verifier for machine-generated GPU kernels — twelve adversarial gates, several tolerance-free — and turns it on 2,638 kernels that a public generation system's own harness had already accepted as correct. It finds 39.5% broken beyond any toleran
