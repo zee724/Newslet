@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-08-17 01:53 UTC
+- Generated at: 2026-08-18 01:49 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Z.ai announces GLM-5.3, claiming open-weights coding SOTA
+## 1. [Signal] Qwen3.8-27B scores 52 on Artificial Analysis, in a 17GB local file
 
-- Published: Mon, 17 Aug 2026 01:15:30 GMT
-- Link: https://z.ai/blog/glm-5.3
+- Published: Mon, 17 Aug 2026 21:55:28 GMT
+- Link: https://simonwillison.net/2026/Aug/16/qwen-38-27b/
 
-Z.ai announced GLM-5.3 on 14 August, describing it as the most capable open-weights model for coding: a claimed 50% improvement over GLM-5.2 on its in-house Code Bench and open-source state of the art on public benchmarks including Terminal Bench 3.0 and Agents' Last Exam. The weights themselves are
+Alibaba released Qwen3.8-27B on Friday under an Apache 2.0 licence: 27B total parameters, text and image input, a 256k-token context window, and — on Artificial Analysis's independent index published overnight — a score of 52, which the site describes as well above the median of 9 for comparable mod
 
-## 2. [Signal] Qwen3.8-27B ships with day-one FP8 — near-frontier claims at local scale
+## 2. [Signal] Local inference is speed-bound, not quality-bound
 
-- Published: Mon, 17 Aug 2026 01:15:30 GMT
-- Link: https://huggingface.co/Qwen/Qwen3.8-27B
+- Published: Mon, 17 Aug 2026 21:55:28 GMT
+- Link: https://www.basecompute.co/
 
-Alibaba released Qwen3.8-27B late on 14 August, publishing an FP8 quantised build within hours of the base repository. The published benchmarks startled even close watchers — "by the benchmarks it's nearly Opus 4.6 class" was Mark's read — and r/LocalLLaMA's overnight reaction ran to being "blown aw
+The constraint on running frontier-adjacent models at home is now throughput, not capability. Mark reports 15-30 tokens per second from LM Studio running Qwen3.8-27B, against Artificial Analysis's tracked figures of 74 tokens/second for GPT-5.6 Sol and 184 for 5.6 Luna. His diagnosis from watching l
 
-## 3. [Signal] Gemini 3.7 Flash scores 56 — and that puts Google seventh
+## 3. [Signal] Stripe reportedly to acquire OpenRouter for more than US$7bn
 
-- Published: Mon, 17 Aug 2026 01:15:30 GMT
-- Link: https://artificialanalysis.ai/articles/gemini-3-7-time-frontier
+- Published: Mon, 17 Aug 2026 21:55:28 GMT
+- Link: https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/
 
-Artificial Analysis benchmarked Gemini 3.7 Flash across all three reasoning levels ahead of release. At high reasoning it scores 56 — a four-point improvement over 3.6 Flash — with an average Time per Task of 1.7, 40% faster than GPT-5.6 Terra (max), placing it on the Intelligence versus Time per Ta
+Bloomberg reports, via TechCrunch, that Stripe has finalised a deal to acquire OpenRouter at a price of more than US$7bn. OpenRouter is a model gateway: a single API in front of what the company claims is more than 400 models, with roughly 8 million users. It raised a US$113m Series B in May at a re
 
-## 4. [Signal] DeepSeek prices inference like electricity — and reveals where demand lives
+## 4. [Signal] Alphabet mandates banks for a first Australian dollar bond, per Reuters
 
-- Published: Mon, 17 Aug 2026 01:15:30 GMT
-- Link: https://noops.au/feed
+- Published: Mon, 17 Aug 2026 21:55:28 GMT
+- Link: https://www.reuters.com/business/finance/alphabet-eyes-inaugural-australian-dollar-bond-bookrunners-message-says-2026-08-17/
 
-DeepSeek now charges double for peak versus off-peak inference, with peak hours set at 01:00–04:00 and 06:00–10:00 UTC. As Mark noted, those windows map squarely onto the Chinese working day: DeepSeek's binding demand is domestic. (For Australian users the pricing is awkward — though an 8am–11am AES
+Alphabet has mandated investment banks for its inaugural Australian dollar bond issue, according to a message from one of the bookrunners reported by Reuters, with Bloomberg reporting the same mandate. No size, tenor or pricing has been disclosed in the reporting we have seen. Mark flagged it immedi
 
-## 5. [Signal] OpenAI's own data: 17 million messages show how enterprises actually use AI
+## 5. [Signal] Nvidia to fund up to US$105bn for an OpenAI data centre in Ohio
 
-- Published: Mon, 17 Aug 2026 01:15:30 GMT
-- Link: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
+- Published: Mon, 17 Aug 2026 21:55:28 GMT
+- Link: https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html
 
-OpenAI released a working paper linking ChatGPT Enterprise account records to usage, worker roles, task classifications and public-company financials through March 2026 — over 1,500 organisations and 17 million messages at the six-month adoption horizon. Four findings: usage is growing through both
+CNBC reports Nvidia will provide up to US$105bn in credit and compute for an OpenAI data centre in Ohio. In a second piece the same day, CNBC reports the financing initiative follows SEC staff guidance issued in July that confirmed looser restrictions for data-centre securitisations — guidance the o
 
-## 6. [Signal] OpenAI pre-IPO: $40B run rate, enterprise overtakes consumer, C-suite churn
+## 6. [Signal] Brockman plays down OpenAI executive turnover; John reads it the other way
 
-- Published: Mon, 17 Aug 2026 01:15:30 GMT
-- Link: https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html
+- Published: Mon, 17 Aug 2026 21:55:28 GMT
+- Link: https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html
 
-A dense week of OpenAI pre-IPO disclosures. Greg Brockman told employees run-rate revenue grew more than 20% month over month in July, including 32% for business customers, per an internal Slack message obtained by CNBC; Mark's summary of the reporting is that the run rate will be $40B before the IP
+OpenAI president Greg Brockman told CNBC he is not concerned about executive turnover at the company, brushing off questions about the pace of leadership changes. That is the whole of the disclosed fact: a public reassurance from the company's president in response to departures, with no accompanyin
 
-## 7. [Signal] Taiwan lifts 2026 GDP growth forecast to 11.05%
+## 7. [Signal] Synchrony to let shoppers use store-branded cards inside ChatGPT
 
-- Published: Mon, 17 Aug 2026 01:15:30 GMT
-- Link: https://www.reuters.com/world/asia-pacific/taiwan-raises-2026-gdp-growth-projection-1105-2026-08-14/
+- Published: Mon, 17 Aug 2026 21:55:28 GMT
+- Link: https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html
 
-Taiwan raised its 2026 GDP growth projection to 11.05%, per Reuters, on the strength of its tech exports — a remarkable figure for a developed economy, and one that would have read as a misprint two years ago. As Mark noted, Taiwan is the single most AI-exposed economy on earth: TSMC's leading-edge
+Synchrony Financial is partnering with OpenAI to let shoppers buy products directly inside ChatGPT using store-branded cards, according to CNBC. Synchrony is one of the largest issuers of private-label and co-branded retail credit in the United States — the cards consumers hold for a specific retail
 
-## 8. [Signal] A verifier finds 39.5% of 'correct' AI-generated GPU kernels are broken
+## 8. [Signal] Memory up 500% in twelve months, with producers guiding to shortage into 2030
 
-- Published: Mon, 17 Aug 2026 01:15:30 GMT
-- Link: https://arxiv.org/abs/2608.12700
+- Published: Mon, 17 Aug 2026 21:55:28 GMT
+- Link: https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399
 
-A new paper (arXiv 2608.12700) builds a contract-grade verifier for machine-generated GPU kernels — twelve adversarial gates, several tolerance-free — and turns it on 2,638 kernels that a public generation system's own harness had already accepted as correct. It finds 39.5% broken beyond any toleran
+Tom's Hardware reports DRAM pricing up 500% over twelve months, with 128GB of DDR5 now at US$3,399 — up to ten times the lowest prices the site has tracked. The supply-side commentary is starker than the prices. Micron's chief executive has said the company can meet only half to two-thirds of demand
