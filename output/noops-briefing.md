@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-08-19 01:52 UTC
+- Generated at: 2026-08-20 01:50 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Qwen3.8-27B: half a million downloads reported within three days
+## 1. [Signal] Stripe-OpenRouter is confirmed, and an investor argues it was a security buy
 
-- Published: Tue, 18 Aug 2026 21:30:14 GMT
-- Link: https://noops.au/feed
+- Published: Wed, 19 Aug 2026 23:24:42 GMT
+- Link: https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/
 
-Mark reported on 18 August that Qwen3.8-27B's Hugging Face download count had doubled in the previous 24 hours and passed half a million, three days after release. Writing the same day, Tomasz Tunguz put the model at 52 on Artificial Analysis's Intelligence Index, which he characterised as first of
+OpenRouter announced on 19 August that it is joining Stripe, making official a deal first reported in July on sourcing that was never confirmed at the time. The announcement carries the first hard operating figures the company has published: 10+ trillion tokens per day across 400+ AI models for "ove
 
-## 2. [Signal] Tunguz: measure time to answer, not tokens per second
+## 2. [Signal] Etched ships its first rack, to the investor that led its US$700m round
 
-- Published: Tue, 18 Aug 2026 21:30:14 GMT
-- Link: https://www.tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai/
+- Published: Wed, 19 Aug 2026 23:24:42 GMT
+- Link: https://www.etched.com/progress/from-zero-to-one
 
-Tomasz Tunguz published a benchmark on 18 August with an unfashionable conclusion: measure time to answer, not token speed. Running 25 venture-capital tasks — startup research, article summarisation, podcast transcription — scored by a judge model, he recorded deepseek-v4-flash at 137.3 tokens per s
+Etched published a post dated 18 August announcing that it has shipped its first rack to Jane Street, and that it has raised US$700m at a US$21bn valuation in a round led by Jane Street "after testing our hardware". Jane Street's quoted words are careful: "We tested the chip and are pleased with the
 
-## 3. [Signal] OpenRouter's reported margins, and the denominator underneath them
+## 3. [Signal] GLM-5.3 scores 60 on Artificial Analysis, and pays for it in tokens
 
-- Published: Tue, 18 Aug 2026 21:30:14 GMT
-- Link: https://www.theinformation.com/articles/openrouter-financials-suggest-steep-price-possible-acquirer-stripe
+- Published: Wed, 19 Aug 2026 23:24:42 GMT
+- Link: https://artificialanalysis.ai/models/glm-5-3
 
-The Information reported figures for OpenRouter that John pasted on 18 August: costs to serve its model-routing product of about US$40 million on an annualised basis, or 28.5% of revenue, producing roughly US$100 million of annualised gross profit at about a 70% gross margin — implying annualised re
+Artificial Analysis has published its evaluation of Z.ai's GLM-5.3 (max), released August 2026. It scores 60 on the Artificial Analysis Intelligence Index, ranking 8th of 182 models in its comparison class against a class median of 35. Listed API pricing is US$1.40 per million input tokens and US$4.
 
-## 4. [Signal] GPT-5.6 Sol listed at half price; Anthropic extends raised Claude limits
+## 4. [Signal] Alibaba runs a 27B model on a RISC-V CPU, at edge speeds not API speeds
 
-- Published: Tue, 18 Aug 2026 21:30:14 GMT
-- Link: https://openrouter.ai/openai/gpt-5.6-sol
+- Published: Wed, 19 Aug 2026 23:24:42 GMT
+- Link: https://wccftech.com/alibabas-tsmc-built-5nm-risc-v-chip-xuantie-c950-now-runs-qwen-3-8-27b-model-natively-unlocking-massive-vertical-integration-tailwinds/
 
-OpenRouter's model page for GPT-5.6 Sol carries a 50% off flag against a list price of US$2.50 per million input tokens and US$15 per million output, on a model released on 9 July with a one-million-token context window. Mark's read on seeing it: shots fired. Separately, Anthropic told subscribers i
+Alibaba's T-Head team has announced day-zero support for its Qwen-3.8 27B open-weight model on the XuanTie C950, its own RISC-V processor, reported by Wccftech on 18 August. The C950 is a 64-core, 64-bit RISC-V server-grade CPU clocked up to 3.20GHz with matrix and vector acceleration engines embedd
 
-## 5. [Signal] Anthropic's annualised run rate reported at US$65bn for July
+## 5. [Signal] Goldman finds AI job pressure real, narrow, and worst for entry level
 
-- Published: Tue, 18 Aug 2026 21:30:14 GMT
-- Link: https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html
+- Published: Wed, 19 Aug 2026 23:24:42 GMT
+- Link: https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html
 
-CNBC reported on 17 August that Anthropic's annualised revenue run rate climbed to US$65 billion in July. The excerpt Mark shared carries the comparison points: in May, Anthropic said its run rate topped US$47 billion, against roughly US$10 billion of revenue for all of 2025; and CNBC reported the p
+Goldman Sachs published research on 19 August measuring where AI is showing up in developed-market labour data. Its findings, as reported by CNBC: industries with greater exposure to AI automation have generally seen slower job-openings growth since the second half of 2022, with the relationship mos
 
-## 6. [Signal] Micron and SK hynix add memory capacity, but the dates land in 2028
+## 6. [Signal] Linear's own data: agents now author just under half of issues created
 
-- Published: Tue, 18 Aug 2026 21:30:14 GMT
-- Link: https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028
+- Published: Wed, 19 Aug 2026 23:24:42 GMT
+- Link: https://linear.app/data
 
-StorageReview reported on 17 August that two of the three big memory makers are investing in US capacity at opposite ends of the production chain, and that almost nothing arrives before 2028. Micron has committed up to US$3 billion to domestic supply-chain investment, anchored by US$500 million of s
+Linear has published a data report drawn from its own instrumentation, which Mark flagged as containing "important data". Between January and June 2026 the share of users active on Linear's AI features more than doubled in every job function: engineering 12% to 30%, product 12% to 34%, design 6% to
 
-## 7. [Signal] A tool that fits a model to the memory you actually have
+## 7. [Signal] Two ICML papers argue the reasoning trace is not the evidence of alignment
 
-- Published: Tue, 18 Aug 2026 21:30:14 GMT
-- Link: https://notactuallytreyanastasio.github.io/shoehorn/
+- Published: Wed, 19 Aug 2026 23:24:42 GMT
+- Link: https://arxiv.org/abs/2503.08679
 
-A tool called shoehorn takes a different approach to running models locally: rather than picking a preset quantisation and hoping it fits, it starts from the memory available, subtracts what inference itself requires, and solves a per-tensor mixed-precision assignment against the remainder. The proj
+Mark posted two ICML 2026 papers in quick succession. Arcuschin et al., "Chain-of-Thought Reasoning In The Wild Is Not Always Faithful", shows unfaithful chain-of-thought on naturally worded, non-adversarial prompts with no injected bias: asked separately "Is X bigger than Y?" and "Is Y bigger than
 
-## 8. [Signal] Data centres are measured in megawatts, which gives no prize for efficiency
+## 8. [Signal] OpenAI CFO tells staff 2027 for an IPO; the run-rate comparison is shaky
 
-- Published: Tue, 18 Aug 2026 21:30:14 GMT
-- Link: https://www.reuters.com/business/energy/pjm-proposes-plan-buy-more-power-data-centers-2026-08-13/
+- Published: Wed, 19 Aug 2026 23:24:42 GMT
+- Link: https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html
 
-The argument started as an arithmetic question — how many data centres does US$100 billion buy — and ended somewhere more useful. Mark's objection: "we're measuring these things by energy input rather than compute output. That's the wrong way to do it because it gives no prizes for efficiency." John
+CNBC reports that OpenAI CFO Sarah Friar told an all-hands on 19 August that the company "will be a public company in 2027", possibly sooner if "our business continues to inflect", adding: "The IPO is not a finish line, it is a milestone, another fundraise. We raised $122 billion in March, and that
