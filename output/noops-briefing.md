@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-08-24 01:56 UTC
+- Generated at: 2026-08-25 01:51 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Nvidia takes Poolside's model factory in a reported US$12bn reverse acquihire
+## 1. [Signal] Qwen3.8-27B's 30-day download counter jumps to 2.36 million
 
-- Published: Sun, 23 Aug 2026 21:50:14 GMT
-- Link: https://open.substack.com/pub/swyx/p/ainews-poolside-gets-12b-reverse
+- Published: Mon, 24 Aug 2026 22:16:50 GMT
+- Link: https://noops.au/feed
 
-Nvidia has acquired the model-training operation of Poolside in a transaction reported at US$12bn, described by AI News as a reverse acquihire: the researchers and engineers move to Nvidia while the founders stay with what remains. The founders' letter is unusually specific about why. At the end of
+Mark reported on Monday morning that Qwen3.8-27B was showing 2,358,347 downloads on its rolling 30-day counter, up from 1.37 million when he last checked on Friday — an increase of roughly a million in three days. His reaction was unambiguous: "THAT'S WHAT A WATERSHED LOOKS LIKE." The number needs
 
-## 2. [Signal] Poolside's exit letter splits intelligence-bound from experiment-bound work
+## 2. [Signal] Cited figures put Anthropic's costliest tier at 11.4% of spend
 
-- Published: Sun, 23 Aug 2026 21:50:14 GMT
-- Link: https://open.substack.com/pub/swyx/p/ainews-poolside-gets-12b-reverse
+- Published: Mon, 24 Aug 2026 22:16:50 GMT
+- Link: https://noops.au/feed
 
-Buried in the same Poolside letter is a framing worth separating from the transaction. "The world has two types of economically valuable problems, those that are intelligence bound, and those that are experiment bound," the founders write. The first — "building software, doing accounting, solving a
+Mark pasted two data points on Monday from a report on enterprise model spending, whose publisher is not identified in our record. First: two months after launch, Fable 5 accounts for 11.4% of total customer spend on Anthropic models and 6% of token volume. Second: Claude Opus 5, released in late Ju
 
-## 3. [Signal] Pew: most US under-30s are now more concerned than excited about AI
+## 3. [Signal] Fingerprinting points Ox Alpha at GLM-5.3 on six of nine probes
 
-- Published: Sun, 23 Aug 2026 21:50:14 GMT
-- Link: https://pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs
+- Published: Mon, 24 Aug 2026 22:16:50 GMT
+- Link: https://siliconangle.com/2026/08/23/nobody-knows-who-built-ai-coding-model-ox-alpha-or-where-the-code-goes/
 
-For the first time, 55% of US adults under 30 say increased AI use in daily life makes them more concerned than excited, according to Pew Research Center's survey of 3,488 adults conducted 22-28 June 2026. Only 11% are more excited than concerned. The trajectory is the story: in 2022 the under-30 co
+SiliconANGLE reported that nobody has established who built the anonymous coding model Ox Alpha or where the code submitted to it goes. The most rigorous work on attribution has come from outside the labs: a developer known as unclecode, author of the Crawl4AI open-source crawler, built a browser to
 
-## 4. [Signal] US data centre backlash moves from public comment to recall ballots
+## 4. [Signal] Ox Alpha's reported 80% was a DeepSWE subset; full run put at 63%
 
-- Published: Sun, 23 Aug 2026 21:50:14 GMT
-- Link: https://nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html?smid=url-share&unlocked_article_code=1.7FA.V5f2.vYuyak_KLbBE
+- Published: Mon, 24 Aug 2026 22:16:50 GMT
+- Link: https://noops.au/feed
 
-Residents in more than a dozen American cities and towns are no longer waiting for the next election cycle. The New York Times reports that critics of a data centre project in Festus, Missouri gathered enough signatures in May to force a vote removing the mayor and councillors who approved a US$6bn
+Mark relayed a correction on Monday evening that is more instructive than the original claim. Ox Alpha made headlines on Friday after scoring 80% on a subset of DeepSWE; on full testing the figure was reported at 63%, which the same summary placed near Fable 5 while using far fewer tokens per task.
 
-## 5. [Signal] Australia's major parties move to take data centres off the electoral board
+## 5. [Signal] Single-rollout async RL paper claims stability gains over GRPO
 
-- Published: Sun, 23 Aug 2026 21:50:14 GMT
-- Link: https://smh.com.au/politics/federal/labor-and-coalition-unite-to-ringfence-ai-from-one-nation-backlash-20260821-p60qal.html
+- Published: Mon, 24 Aug 2026 22:16:50 GMT
+- Link: https://arxiv.org/abs/2607.07508
 
-Labor and the Coalition are nearing bipartisan consensus on AI ahead of Wednesday's national cabinet meeting in Sydney, explicitly to avoid a US-style backlash against data centres, the Sydney Morning Herald reports. Opposition home affairs spokesman Jonno Duniam has extended what the paper calls an
+A paper Mark posted on Monday evening — arXiv 2607.07508, Single-rollout Asynchronous Optimization — attacks a bottleneck that matters more as training targets shift from chat to long-horizon agentic work. The authors argue that synchronous, batch-interleaved reinforcement learning pipelines are ine
 
-## 6. [Signal] Anthropic expects to match or beat SpaceX's record IPO size
+## 6. [Signal] Hugging Face reported to be fielding interest at US$13bn or more
 
-- Published: Sun, 23 Aug 2026 21:50:14 GMT
-- Link: https://finance.yahoo.com/technology/ai/articles/anthropic-expects-match-spacex-record-175602035.html
+- Published: Mon, 24 Aug 2026 22:16:50 GMT
+- Link: https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8
 
-Anthropic expects to match or beat the size of SpaceX's record initial public offering and could file publicly as soon as the end of August, Bloomberg reports, citing people familiar with the preparations. SpaceX raised US$75bn at listing, rising to US$86.2bn with the overallotment exercised — the l
+Business Insider reported that Hugging Face has been exploring a sale that could value it at US$13bn or more, and has engaged a bank to evaluate bidders' interest. No deal has been reached, and no bidder is named. For context the piece supplies: the company was last valued at US$4.5bn in 2023 per Pi
 
-## 7. [Signal] Broadcom in talks for US$70-80bn of debt to finance AI silicon
+## 7. [Signal] Alibaba prices HK$80bn share placement earmarked for AI build-out
 
-- Published: Sun, 23 Aug 2026 21:50:14 GMT
-- Link: https://cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html
+- Published: Mon, 24 Aug 2026 22:16:50 GMT
+- Link: https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html
 
-Broadcom is in talks to raise US$70bn to US$80bn in debt for a chip financing deal, CNBC's David Faber confirmed on 21 August, enlarging an initial Bloomberg report of "more than US$60bn" a day earlier. CNBC states the capital would support artificial intelligence companies including Anthropic, and
+Alibaba priced a HK$80bn (about US$10.2bn) placement of newly issued shares to non-US investors on Monday — 710 million new shares — with the company saying all net proceeds will go to its full-stack AI capabilities, including expanding and enhancing AI infrastructure. CNBC reports the placement was
 
-## 8. [Signal] Micron commits US$10bn and calls memory strategic infrastructure
+## 8. [Signal] Chinese survey optimism sits alongside AI-attributed layoffs
 
-- Published: Sun, 23 Aug 2026 21:50:14 GMT
-- Link: https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx
+- Published: Mon, 24 Aug 2026 22:16:50 GMT
+- Link: https://apnews.com/article/china-ai-jobs-unemployment-youth-a44bfac3488adba00d641a3ce0fab702
 
-Micron unveiled Micron Research Labs on 21 August, a Boise-headquartered research institution backed by a planned US$10bn over the next decade and described as the first dedicated memory research hub of its kind in the United States. Its stated focus areas are critical memory technologies, advanced
+John put two pieces side by side on Monday. The first, from the South China Morning Post in May, reports a University College London survey conducted with the consultancy Public First: fewer than 10% of more than 1,000 Chinese respondents, polled online in late April, worried that AI would make it h
