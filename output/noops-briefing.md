@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-08-25 01:51 UTC
+- Generated at: 2026-08-26 01:57 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Qwen3.8-27B's 30-day download counter jumps to 2.36 million
+## 1. [Signal] Apple's new desktops court local inference; the mini caps at 32GB
 
-- Published: Mon, 24 Aug 2026 22:16:50 GMT
-- Link: https://noops.au/feed
+- Published: Tue, 25 Aug 2026 20:14:50 GMT
+- Link: https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/
 
-Mark reported on Monday morning that Qwen3.8-27B was showing 2,358,347 downloads on its rolling 30-day counter, up from 1.37 million when he last checked on Friday — an increase of roughly a million in three days. His reaction was unambiguous: "THAT'S WHAT A WATERSHED LOOKS LIKE." The number needs
+Apple refreshed the Mac mini and Mac Studio on Tuesday alongside two new chips: the M6, its first part on a 2nm process, and the M5 Ultra. On Apple's own specifications as reported by MacRumors, the M6 carries a 12-core CPU (two "super" cores, four performance, six efficiency), a 12-core GPU with a
 
-## 2. [Signal] Cited figures put Anthropic's costliest tier at 11.4% of spend
+## 2. [Signal] Amazon lifts device prices up to 60%, citing memory costs
 
-- Published: Mon, 24 Aug 2026 22:16:50 GMT
-- Link: https://noops.au/feed
+- Published: Tue, 25 Aug 2026 20:14:50 GMT
+- Link: https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/
 
-Mark pasted two data points on Monday from a report on enterprise model spending, whose publisher is not identified in our record. First: two months after launch, Fable 5 accounts for 11.4% of total customer spend on Anthropic models and 6% of token volume. Second: Claude Opus 5, released in late Ju
+Amazon raised list prices across its hardware range over the weekend by as much as 60%, TechCrunch reports, affecting Fire TV, Echo, Kindle and Eero lines. The cited example is the Echo Dot, which moved from US$49.99 to US$79.99. Amazon's statement to TechCrunch is the only source for the cause: "Th
 
-## 3. [Signal] Fingerprinting points Ox Alpha at GLM-5.3 on six of nine probes
+## 3. [Signal] Stanford: entry-level jobs in AI-exposed fields 19% behind peers
 
-- Published: Mon, 24 Aug 2026 22:16:50 GMT
-- Link: https://siliconangle.com/2026/08/23/nobody-knows-who-built-ai-coding-model-ox-alpha-or-where-the-code-goes/
+- Published: Tue, 25 Aug 2026 20:14:50 GMT
+- Link: https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/
 
-SiliconANGLE reported that nobody has established who built the anonymous coding model Ox Alpha or where the code submitted to it goes. The most rigorous work on attribution has come from outside the labs: a developer known as unclecode, author of the Crawl4AI open-source crawler, built a browser to
+The August 2026 revision of the Stanford paper "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence" reports that employment for workers aged 22 to 25 in the most AI-exposed occupations now sits 19% below that of peers in less exposed fields, up from a
 
-## 4. [Signal] Ox Alpha's reported 80% was a DeepSWE subset; full run put at 63%
+## 4. [Signal] Radiology's AI decade: more radiologists, a rewired job
 
-- Published: Mon, 24 Aug 2026 22:16:50 GMT
-- Link: https://noops.au/feed
+- Published: Tue, 25 Aug 2026 20:14:50 GMT
+- Link: https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/
 
-Mark relayed a correction on Monday evening that is more instructive than the original claim. Ox Alpha made headlines on Friday after scoring 80% on a subset of DeepSWE; on full testing the figure was reported at 63%, which the same summary placed near Fable 5 while using far fewer tokens per task.
+Ten years after Geoffrey Hinton predicted radiologists would be replaced by computers within five years, Ars Technica reports the opposite outcome on headcount and a more interesting one on the work. Radiology's ranks are growing, with practitioner numbers projected to expand by 26% or more over the
 
-## 5. [Signal] Single-rollout async RL paper claims stability gains over GRPO
+## 5. [Signal] Data centres become the killer app for solid-state transformers
 
-- Published: Mon, 24 Aug 2026 22:16:50 GMT
-- Link: https://arxiv.org/abs/2607.07508
+- Published: Tue, 25 Aug 2026 20:14:50 GMT
+- Link: https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/
 
-A paper Mark posted on Monday evening — arXiv 2607.07508, Single-rollout Asynchronous Optimization — attacks a bottleneck that matters more as training targets shift from chat to long-horizon agentic work. The authors argue that synchronous, batch-interleaved reinforcement learning pipelines are ine
+Ars Technica reports that AI data centres have become the "killer application" for solid-state transformers, a replacement for grid hardware whose fundamental design dates to the 1880s. Conventional large power transformers are hand-wound copper on steel cores, custom-built per substation and not ma
 
-## 6. [Signal] Hugging Face reported to be fielding interest at US$13bn or more
+## 6. [Signal] Nvidia's hyperscaler concentration meets its earnings test
 
-- Published: Mon, 24 Aug 2026 22:16:50 GMT
-- Link: https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8
+- Published: Tue, 25 Aug 2026 20:14:50 GMT
+- Link: https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html
 
-Business Insider reported that Hugging Face has been exploring a sale that could value it at US$13bn or more, and has engaged a bank to evaluate bidders' interest. No deal has been reached, and no bidder is named. For context the piece supplies: the company was last valued at US$4.5bn in 2023 per Pi
+Ahead of Nvidia's fiscal second-quarter results, CNBC sets out the customer concentration question in the company's own disclosed numbers. Since May, Nvidia splits its reporting between hyperscalers and everyone else, grouped as AI clouds, industrial and enterprise (ACIE). In the first quarter the t
 
-## 7. [Signal] Alibaba prices HK$80bn share placement earmarked for AI build-out
+## 7. [Signal] AEMO sees data-centre power up seven-fold as Canberra drafts rules
 
-- Published: Mon, 24 Aug 2026 22:16:50 GMT
-- Link: https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html
+- Published: Tue, 25 Aug 2026 20:14:50 GMT
+- Link: https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right
 
-Alibaba priced a HK$80bn (about US$10.2bn) placement of newly issued shares to non-US investors on Monday — 710 million new shares — with the company saying all net proceeds will go to its full-stack AI capabilities, including expanding and enhancing AI infrastructure. CNBC reports the placement was
+Anthony Albanese took a data-centre package to Wednesday's national cabinet, the Guardian reports, promising major legislation next year to set copyright rules for AI businesses plus standards for security, safety and skills, and nationally consistent minimum obligations on data centres: not pushing
 
-## 8. [Signal] Chinese survey optimism sits alongside AI-attributed layoffs
+## 8. [Signal] Scotland inches towards a data-centre moratorium
 
-- Published: Mon, 24 Aug 2026 22:16:50 GMT
-- Link: https://apnews.com/article/china-ai-jobs-unemployment-youth-a44bfac3488adba00d641a3ce0fab702
+- Published: Tue, 25 Aug 2026 20:14:50 GMT
+- Link: https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom
 
-John put two pieces side by side on Monday. The first, from the South China Morning Post in May, reports a University College London survey conducted with the consultancy Public First: fewer than 10% of more than 1,000 Chinese respondents, polled online in late April, worried that AI would make it h
+A 600MW data centre proposed for Auchtertool in Fife — 35 metres high, covering more ground than 100 football pitches, and billed as the second-largest in the world — has drawn 1,600 objections, the Guardian reports. David Torrance, the constituency MSP, says he has "never seen this level of objecti
