@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-08-26 01:57 UTC
+- Generated at: 2026-08-27 09:47 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Apple's new desktops court local inference; the mini caps at 32GB
+## 1. [Signal] OpenAI's first ASIC reportedly beats Rubin on tokens per megawatt
 
-- Published: Tue, 25 Aug 2026 20:14:50 GMT
-- Link: https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/
+- Published: Wed, 26 Aug 2026 20:47:13 GMT
+- Link: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
 
-Apple refreshed the Mac mini and Mac Studio on Tuesday alongside two new chips: the M6, its first part on a 2nm process, and the M5 Ultra. On Apple's own specifications as reported by MacRumors, the M6 carries a 12-core CPU (two "super" cores, four performance, six efficiency), a 12-core GPU with a
+SemiAnalysis was invited into OpenAI's labs to benchmark Jalapeño, the Broadcom-partnered inference ASIC unveiled at Hot Chips 2026, and published its findings on 25 August. The headline: Jalapeño's single-token-prediction output throughput per megawatt surpasses the Vera Rubin multi-token-predictio
 
-## 2. [Signal] Amazon lifts device prices up to 60%, citing memory costs
+## 2. [Signal] A 16-month ASIC cycle, and kernels the kernel team didn't write
 
-- Published: Tue, 25 Aug 2026 20:14:50 GMT
-- Link: https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/
+- Published: Wed, 26 Aug 2026 20:47:13 GMT
+- Link: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
 
-Amazon raised list prices across its hardware range over the weekend by as much as 60%, TechCrunch reports, affecting Fire TV, Echo, Kindle and Eero lines. The cited example is the Echo Dot, which moved from US$49.99 to US$79.99. Amazon's statement to TechCrunch is the only source for the cause: "Th
+The Jalapeño programme went from initial team hiring to manufacturing tape-out in roughly sixteen months, with CoWoS tape-out in November 2025 and third-party benchmarks running on A0 silicon nine months later — after only three months of bring-up, starting from zero on the software stack. OpenAI at
 
-## 3. [Signal] Stanford: entry-level jobs in AI-exposed fields 19% behind peers
+## 3. [Signal] Throughput per watt is revenue: power, not capital, sets the ceiling
 
-- Published: Tue, 25 Aug 2026 20:14:50 GMT
-- Link: https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/
+- Published: Wed, 26 Aug 2026 20:47:13 GMT
+- Link: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
 
-The August 2026 revision of the Stanford paper "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence" reports that employment for workers aged 22 to 25 in the most AI-exposed occupations now sits 19% below that of peers in less exposed fields, up from a
+The design objective behind Jalapeño is stated plainly in SemiAnalysis's write-up: "OpenAI is currently limited by datacenter power, not by budget or floorspace, and thus tokens per MW is paramount." Nvidia says the same thing from the other side of the trade. Jensen Huang at Computex 2026 named per
 
-## 4. [Signal] Radiology's AI decade: more radiologists, a rewired job
+## 4. [Signal] OpenAI declines to split its inference fleet, and says why
 
-- Published: Tue, 25 Aug 2026 20:14:50 GMT
-- Link: https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/
+- Published: Wed, 26 Aug 2026 20:47:13 GMT
+- Link: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
 
-Ten years after Geoffrey Hinton predicted radiologists would be replaced by computers within five years, Ars Technica reports the opposite outcome on headcount and a more interesting one on the work. Radiology's ranks are growing, with practitioner numbers projected to expand by 26% or more over the
+Jalapeño does not use prefill-decode disaggregation. The draft model and the main model share the same chips and the same fabric, despite PDD materially improving throughput on Nvidia and AMD hardware even where the silicon is homogeneous — which SemiAnalysis says surprised it. OpenAI's stated reaso
 
-## 5. [Signal] Data centres become the killer app for solid-state transformers
+## 5. [Signal] Harnesses in TypeScript, models in Python: a split worth watching
 
-- Published: Tue, 25 Aug 2026 20:14:50 GMT
-- Link: https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/
+- Published: Wed, 26 Aug 2026 20:47:13 GMT
+- Link: https://noops.au/feed
 
-Ars Technica reports that AI data centres have become the "killer application" for solid-state transformers, a replacement for grid hardware whose fundamental design dates to the 1880s. Conventional large power transformers are hand-wound copper on steel cores, custom-built per substation and not ma
+Over about five minutes on 26 August, Mark Pesce and John Allsopp worked through where AI development actually happens now. Mark's formulation was flat: "Harnesses use typescript. Models use python." John's reply — "Models use what the harnesses ask for" — was the sharper version, and Mark conceded
 
-## 6. [Signal] Nvidia's hyperscaler concentration meets its earnings test
+## 6. [Signal] Mark's gut call: CUDA's moat could thin faster than the chip cycle
 
-- Published: Tue, 25 Aug 2026 20:14:50 GMT
-- Link: https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html
+- Published: Wed, 26 Aug 2026 20:47:13 GMT
+- Link: https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html
 
-Ahead of Nvidia's fiscal second-quarter results, CNBC sets out the customer concentration question in the company's own disclosed numbers. Since May, Nvidia splits its reporting between hyperscalers and everyone else, grouped as AI clouds, industrial and enterprise (ACIE). In the first quarter the t
+On the morning of 26 August, Mark Pesce put a date on something he has circled for months. "It all comes down to Cuda now," he wrote, "because matmuls are matmuls are matmuls" — and "my gut is telling me that a little auto research and Cuda is going to evaporate. Maybe by the end of this year?" He w
 
-## 7. [Signal] AEMO sees data-centre power up seven-fold as Canberra drafts rules
+## 7. [Signal] Nvidia as guarantor: the WSJ on backstops, residuals and equity stakes
 
-- Published: Tue, 25 Aug 2026 20:14:50 GMT
-- Link: https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right
+- Published: Wed, 26 Aug 2026 20:47:13 GMT
+- Link: https://www.wsj.com/tech/ai/nvidia-has-become-a-banker-to-the-ai-boom-putting-it-on-dangerous-ground-94c03545
 
-Anthony Albanese took a data-centre package to Wednesday's national cabinet, the Guardian reports, promising major legislation next year to set copyright rules for AI businesses plus standards for security, safety and skills, and nationally consistent minimum obligations on data centres: not pushing
+Mark Pesce shared a Wall Street Journal piece on 26 August arguing that Nvidia has taken on a financing role alongside its chip business. Per the excerpt he posted, Nvidia described its arrangements with two Australian cloud-computing companies as a "new business model", which the WSJ reads as a sig
 
-## 8. [Signal] Scotland inches towards a data-centre moratorium
+## 8. [Signal] A credit read on the $500bn platform: risk re-domiciled, not removed
 
-- Published: Tue, 25 Aug 2026 20:14:50 GMT
-- Link: https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom
+- Published: Wed, 26 Aug 2026 20:47:13 GMT
+- Link: https://www.sascha-steffen.de/updates/nvidia-500bn-ai-financing-credit-risk
 
-A 600MW data centre proposed for Auchtertool in Fife — 35 metres high, covering more ground than 100 football pitches, and billed as the second-largest in the world — has drawn 1,600 objections, the Guardian reports. David Torrance, the constituency MSP, says he has "never seen this level of objecti
+Mark Pesce shared an analysis by finance academic Sascha Steffen of the $500 billion AI financing platform, and the passage he quoted is the clearest statement of the mechanism we have seen. The platform, Steffen writes, "converts short-lived hardware into long-dated investment-grade paper by borrow
