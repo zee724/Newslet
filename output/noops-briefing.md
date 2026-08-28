@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-08-27 09:47 UTC
+- Generated at: 2026-08-28 11:22 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] OpenAI's first ASIC reportedly beats Rubin on tokens per megawatt
+## 1. [Signal] Nvidia guides to 70% FY28 revenue growth, and says supply is the cap
 
-- Published: Wed, 26 Aug 2026 20:47:13 GMT
-- Link: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
+- Published: Thu, 27 Aug 2026 21:24:12 GMT
+- Link: https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html
 
-SemiAnalysis was invited into OpenAI's labs to benchmark Jalapeño, the Broadcom-partnered inference ASIC unveiled at Hot Chips 2026, and published its findings on 25 August. The headline: Jalapeño's single-token-prediction output throughput per megawatt surpasses the Vera Rubin multi-token-predictio
+On Nvidia's second-quarter earnings call, reported by CNBC on 27 August, CFO Colette Kress told analysts the company expects fiscal-2028 revenue growth of 70%, against an analyst consensus of 44%. Kress said customer forecasts "point to our growth doubling next year", but that the guidance itself re
 
-## 2. [Signal] A 16-month ASIC cycle, and kernels the kernel team didn't write
+## 2. [Signal] Nvidia and Hugging Face: US$13bn reported, at roughly 80x ARR
 
-- Published: Wed, 26 Aug 2026 20:47:13 GMT
-- Link: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
+- Published: Thu, 27 Aug 2026 21:24:12 GMT
+- Link: https://www.latent.space/p/ainews-nvidia-buys-huggingface-for
 
-The Jalapeño programme went from initial team hiring to manufacturing tape-out in roughly sixteen months, with CoWoS tape-out in November 2025 and third-party benchmarks running on A0 silicon nine months later — after only three months of bring-up, starting from zero on the software stack. OpenAI at
+Two accounts of the same deal landed hours apart. Business Insider, in a piece Mark shared at 16:21 AEST, reported that Nvidia and Hugging Face had held acquisition conversations in recent weeks valuing Hugging Face at more than US$13bn, adding that "the companies have not yet reached a deal, and th
 
-## 3. [Signal] Throughput per watt is revenue: power, not capital, sets the ceiling
+## 3. [Signal] A near-frontier model on tap locally: Mark calls the watershed passed
 
-- Published: Wed, 26 Aug 2026 20:47:13 GMT
-- Link: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
-
-The design objective behind Jalapeño is stated plainly in SemiAnalysis's write-up: "OpenAI is currently limited by datacenter power, not by budget or floorspace, and thus tokens per MW is paramount." Nvidia says the same thing from the other side of the trade. Jensen Huang at Computex 2026 named per
-
-## 4. [Signal] OpenAI declines to split its inference fleet, and says why
-
-- Published: Wed, 26 Aug 2026 20:47:13 GMT
-- Link: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
-
-Jalapeño does not use prefill-decode disaggregation. The draft model and the main model share the same chips and the same fabric, despite PDD materially improving throughput on Nvidia and AMD hardware even where the silicon is homogeneous — which SemiAnalysis says surprised it. OpenAI's stated reaso
-
-## 5. [Signal] Harnesses in TypeScript, models in Python: a split worth watching
-
-- Published: Wed, 26 Aug 2026 20:47:13 GMT
+- Published: Thu, 27 Aug 2026 21:24:12 GMT
 - Link: https://noops.au/feed
 
-Over about five minutes on 26 August, Mark Pesce and John Allsopp worked through where AI development actually happens now. Mark's formulation was flat: "Harnesses use typescript. Models use python." John's reply — "Models use what the harnesses ask for" — was the sharper version, and Mark conceded
+Mark spent Thursday morning installing GLM-5.3-Flash into Ollama and reported the result in real time: "I now have an _on tap_ near frontier model." His arithmetic for why that matters: on Artificial Analysis's Intelligence Index the frontier tier — Opus, Fable, Sol, Grok, Kimi, GLM — now sits at 60
 
-## 6. [Signal] Mark's gut call: CUDA's moat could thin faster than the chip cycle
+## 4. [Signal] Z.ai says 100,000 China-made chips serve all GLM-5.3-Flash traffic
 
-- Published: Wed, 26 Aug 2026 20:47:13 GMT
-- Link: https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html
+- Published: Thu, 27 Aug 2026 21:24:12 GMT
+- Link: https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html
 
-On the morning of 26 August, Mark Pesce put a date on something he has circled for months. "It all comes down to Cuda now," he wrote, "because matmuls are matmuls are matmuls" — and "my gut is telling me that a little auto research and Cuda is going to evaporate. Maybe by the end of this year?" He w
+Z.ai told CNBC it used 100,000 China-made chips to handle all online requests for GLM-5.3-Flash, including from its release on 20 August under the code name "Ox Alpha", and that the model ranked first by usage on OpenRouter over the past week. CNBC's own caveats are load-bearing and should travel wi
 
-## 7. [Signal] Nvidia as guarantor: the WSJ on backstops, residuals and equity stakes
+## 5. [Signal] Nvidia optimises for DeepSeek and Qwen while warning Washington may stop it
 
-- Published: Wed, 26 Aug 2026 20:47:13 GMT
-- Link: https://www.wsj.com/tech/ai/nvidia-has-become-a-banker-to-the-ai-boom-putting-it-on-dangerous-ground-94c03545
+- Published: Thu, 27 Aug 2026 21:24:12 GMT
+- Link: https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html
 
-Mark Pesce shared a Wall Street Journal piece on 26 August arguing that Nvidia has taken on a financing role alongside its chip business. Per the excerpt he posted, Nvidia described its arrangements with two Australian cloud-computing companies as a "new business model", which the WSJ reads as a sig
+Nvidia disclosed a "local AI initiative with optimizations for top open models", naming DeepSeek's V4 Flash and Alibaba's Qwen 3.8 alongside Google's and its own systems. In an SEC filing tied to its second-quarter results the company simultaneously warned that the US is weighing restrictions limiti
 
-## 8. [Signal] A credit read on the $500bn platform: risk re-domiciled, not removed
+## 6. [Signal] AI money arrives in US primaries: an Nvidia PAC and US$500k for Markey
 
-- Published: Wed, 26 Aug 2026 20:47:13 GMT
-- Link: https://www.sascha-steffen.de/updates/nvidia-500bn-ai-financing-credit-risk
+- Published: Thu, 27 Aug 2026 21:24:12 GMT
+- Link: https://www.cnbc.com/2026/08/27/ai-massachusetts-democratic-senate-primary-markey-moulton.html
 
-Mark Pesce shared an analysis by finance academic Sascha Steffen of the $500 billion AI financing platform, and the passage he quoted is the clearest statement of the mechanism we have seen. The platform, Steffen writes, "converts short-lived hardware into long-dated investment-grade paper by borrow
+Two disclosures on 27 August show the AI industry buying electoral position directly. Bloomberg Government reported Nvidia launched a political action committee — the NVIDIA Corporation Employees Federal Political Action Committee, funded by voluntary contributions from eligible employees — to make
+
+## 7. [Signal] Chip tariffs may reach servers and consoles, at the worst possible moment
+
+- Published: Thu, 27 Aug 2026 21:24:12 GMT
+- Link: https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/
+
+Politico reported on 27 August, via eight people granted anonymity, that the Trump administration is weighing semiconductor tariffs that could arrive within "weeks or months" and, under one approach still being finalised, could "dramatically expand the number of tech products subject to the duties,
+
+## 8. [Signal] Memory is the constraint: SK Hynix breaks ground, Android gets a RAM diet
+
+- Published: Thu, 27 Aug 2026 21:24:12 GMT
+- Link: https://www.cnbc.com/2026/08/27/sk-hynix-ceo-says-indiana-will-be-key-memory-production-base-by-2030.html
+
+Three items from one day describe the same bottleneck. Nvidia's CFO said fiscal-2028 guidance of 70% growth, rather than the doubling customers forecast, reflects supply constraints; Mark's gloss was "they don't have enough RAM or fab". SK Hynix held a groundbreaking in West Lafayette, Indiana for a
