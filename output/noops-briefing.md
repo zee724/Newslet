@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-09-03 04:32 UTC
+- Generated at: 2026-09-04 04:31 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] SemiAnalysis: sovereign pretraining is becoming a nation-state calculation
+## 1. [Signal] OpenAI starts phased Astra rollout, cyber programme members first
 
-- Published: Wed, 02 Sep 2026 21:40:06 GMT
-- Link: https://newsletter.semianalysis.com/p/koreas-trillion-dollar-sovereign
+- Published: Thu, 03 Sep 2026 22:38:21 GMT
+- Link: https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html
 
-SemiAnalysis published a deep dive on South Korea's sovereign AI programme on 1 September, and the framing is broader than the country study. Its argument: access to frontier models now sits at the discretion of Anthropic, OpenAI and the US government. The authors note that Fable 5 was temporarily b
+OpenAI began rolling out GPT-6 Astra on 3 September, CNBC reported, and it is doing so in stages. A limited group of companies in its application-based cybersecurity programme, Daybreak, gets access first; the model then reaches ChatGPT Plus, Pro, Business and Enterprise plans, the OpenAI API and Am
 
-## 2. [Signal] Mark's fork: run 100 model instances, or token prices rise on compute
+## 2. [Signal] Harness choice moves Astra's ARC-AGI-3 score by 36 points at max reasoning
 
-- Published: Wed, 02 Sep 2026 21:40:06 GMT
-- Link: https://noops.au/feed
+- Published: Thu, 03 Sep 2026 22:38:21 GMT
+- Link: https://arcprize.org/results/openai-gpt-6-astra
 
-Mark spent Wednesday morning working through the Dwarkesh Patel episode that, in his words, "broke my brain", and arrived at a question he put plainly: is compute truly the limited resource, and if it is, why would you not run a hundred instances of a model instead of one? His conclusion was a fork.
+ARC Prize published verified GPT-6 Astra results across twelve harness configurations, and the harness matters more than the reasoning budget. On the ARC-AGI-3 Semi-Private set, Astra's best observed result with the Standard harness — which lets the model carry forward notes it chooses to keep — was
 
-## 3. [Signal] The stack checklist for judging how close China actually is
+## 3. [Signal] Astra debuts at 61 on Artificial Analysis, at US$10/US$50 per million
 
-- Published: Wed, 02 Sep 2026 21:40:06 GMT
-- Link: https://noops.au/feed
+- Published: Thu, 03 Sep 2026 22:38:21 GMT
+- Link: https://artificialanalysis.ai/models/gpt-6-astra
 
-Mark set out what he actually wants to establish about China: "the only reason to go to China right now is to figure out exactly how close they are to having the whole stack. The ram. The GPUs. The data centres. The models. The harnesses. The applications." He excluded fabs on the grounds that a vis
+Artificial Analysis published its GPT-6 Astra (max) evaluation within hours of the launch, and the number is lower than the launch framing implied. Astra scores 61 on the Artificial Analysis Intelligence Index v4.1.1 — a nine-evaluation composite spanning GDPval-AA v2, Terminal-Bench v2.1, Humanity'
 
-## 4. [Signal] Vals.ai says Fable 5.1 solved a 370-year-old cipher in 44 minutes unaided
+## 4. [Signal] Nvidia agrees to buy Hugging Face for US$13bn, closing targeted 2027
 
-- Published: Wed, 02 Sep 2026 21:40:06 GMT
-- Link: https://www.vals.ai/blogs/fable-solves-cyphral-distich
+- Published: Thu, 03 Sep 2026 22:38:21 GMT
+- Link: https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/
 
-Vals.ai published an account on 31 August of giving Claude Fable 5.1 an open task: solve Sir Thomas Urquhart's Cyphral Distich, a 64-number cryptogram printed at the end of Logopandecteision and listed among Klaus Schmeh's Top 50 unsolved encrypted messages. The cipher was posed as an open problem i
+Nvidia has agreed to acquire Hugging Face for US$13bn, the Financial Times reported via Ars Technica — the largest outright acquisition in the company's history, eclipsing the US$6.9bn Mellanox purchase in 2020 that took it from chips into full data-centre infrastructure. Hugging Face hosts about 3
 
-## 5. [Signal] Gemini 3.8 Flash: third Flash in six weeks, at an introductory price again
+## 5. [Signal] Four major AI services suffered overlapping interruptions in one morning
 
-- Published: Wed, 02 Sep 2026 21:40:06 GMT
-- Link: https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/
+- Published: Thu, 03 Sep 2026 22:38:21 GMT
+- Link: https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/
 
-Google released Gemini 3.8 Flash on 2 September — its third Flash model in six weeks, following 3.7 Flash three weeks earlier — in standard and Cyber variants. Ars Technica reports API access at an "introductory rate" through the end of the year of US$0.75 per million input tokens and US$3.75 per mi
+Cloud-hosted models from OpenAI, Anthropic, xAI and Google all suffered service interruptions across a few hours on Thursday morning US Eastern time, Ars Technica reported. Anthropic logged a partial outage at 9:23am with elevated errors on Claude Mythos 5.1, Claude Fable 5.1 and Claude Opus 5, iden
 
-## 6. [Signal] OpenAI says Astra is its first model to cross its 'Critical' cyber threshold
+## 6. [Signal] Meta ships Muse Spark 1.3, holding max reasoning for safety testing
 
-- Published: Wed, 02 Sep 2026 21:40:06 GMT
-- Link: https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html
+- Published: Thu, 03 Sep 2026 22:38:21 GMT
+- Link: https://research.meta.ai/blog/introducing-muse-spark-1-3
 
-OpenAI said on 1 September that its forthcoming model Astra is the first to exceed the "Critical" cybersecurity capability threshold in its Preparedness Framework — the category reserved for capabilities that introduce "unprecedented new pathways" to severe harm, above the "High" tier for capabiliti
+Meta released Muse Spark 1.3 on 2 September, its fourth Muse Spark release since April. The blog post claims better long-horizon agentic work: the model generates its own context across messy sources, asks clarifying questions when prompts are ambiguous, invokes help when stuck, confirms before cons
 
-## 7. [Signal] AISLE claims parity with Anthropic's Mythos on public zero-day CVE credits
+## 7. [Signal] Zuckerberg promises open-weights Muse Spark release 'soon'
 
-- Published: Wed, 02 Sep 2026 21:40:06 GMT
-- Link: https://aisle.com/blog/mythos-at-home-and-its-called-aisle
+- Published: Thu, 03 Sep 2026 22:38:21 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/09/02/zucks-muse-to-spark-joy-with-open-weights-release-soon/5294093
 
-Mark surfaced AISLE's head-to-head write-up, the latest in a series the European security startup is running under a "System over Model" thesis: that specialised AI systems can match or beat frontier-lab systems at real-world zero-day discovery. The claims rest on public artefacts rather than self-r
+Mark Zuckerberg said on X on Wednesday that Meta will release an open-weights version of Muse Spark "soon", The Register reported, and Meta's own 1.3 post lists "the Muse Spark open weights release" on its forward roadmap alongside bigger models. No date, no size, no licence terms. The Register also
 
-## 8. [Signal] Unit 42 reports an agent-executed ransomware breach in under 10 hours
+## 8. [Signal] Snowflake lifts full-year guidance; CoCo agent reaches 9,100 accounts
 
-- Published: Wed, 02 Sep 2026 21:40:06 GMT
-- Link: https://www.theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009
+- Published: Thu, 03 Sep 2026 22:38:21 GMT
+- Link: https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html
 
-Palo Alto Networks' Unit 42 documented an intrusion in which a human ransomware operator used frontier models and agentic attack frameworks to breach an enterprise network in less than ten hours — work the team says would normally take human operators around two weeks. The attacker told negotiators
+Snowflake reported fiscal Q2 revenue of US$1.55bn against a US$1.48bn consensus, up 35% year on year, with adjusted earnings of 62 cents a share versus 45 cents expected and a net loss of US$191.7m, narrowed from US$297.9m a year earlier. The company raised its full-year product revenue forecast to
