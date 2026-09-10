@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-09-09 04:40 UTC
+- Generated at: 2026-09-10 04:41 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Intelligence Index v4.3: Claude Fable 5.1 and GPT-6 Astra tie at 53
+## 1. [Signal] The Chinese Founder Atlas maps China's tech founders by generation and clan
 
-- Published: Tue, 08 Sep 2026 21:09:27 GMT
-- Link: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-3
+- Published: Wed, 09 Sep 2026 21:40:02 GMT
+- Link: https://afraw.substack.com/p/the-chinese-founder-atlas
 
-Artificial Analysis published Intelligence Index v4.3 on 7 September — three days after v4.2 — upgrading Terminal-Bench to v4.0 and adding AutomationBench-AA, an agentic workflow-automation benchmark with a private test set, as part of the staged rollout toward Index v5. At the top, Claude Fable 5.1
+Afra Wang published *The Chinese Founder Atlas* on 3 September on her newsletter *Concurrent*, mapping Chinese technology founders across four axes: generation, geography, clan, and proximity to the state. The generational frame borrows the numbering Chinese cinema uses for its directors. Ren Zhengf
 
-## 2. [Signal] SemiAnalysis: TPUv7 Ironwood up to 50% better per dollar than B200/B300
+## 2. [Signal] A writer vibe-coded a founder dataset in 20 hours and shipped it as an artifact
 
-- Published: Tue, 08 Sep 2026 21:09:27 GMT
-- Link: https://open.substack.com/pub/semianalysis/p/tpu-inferencex-full-steam
+- Published: Wed, 09 Sep 2026 21:40:02 GMT
+- Link: https://afraw.substack.com/p/the-chinese-founder-atlas
 
-SemiAnalysis published the first third-party inference results for Google's TPUv7 Ironwood on its InferenceX benchmark (Official Preview, 7 September). In what the firm describes as apples-to-apples comparisons against Nvidia's B200/B300, Ironwood delivers up to 50% better performance per dollar, wi
+The Atlas is also a data point about how it was made. Wang is a writer, not an engineer. She states she vibe-coded the thing with Claude in roughly 15 to 20 hours, plus feedback rounds, and that it "still lives in a Claude artifact for now" — there is no deployment step, no host, no domain. Her othe
 
-## 3. [Signal] Mistral raises €3bn at €21bn+ valuation in Samsung-led Series D
+## 3. [Signal] Small-scale study: data drove 12x of pretraining gains, model tweaks 3.7x
 
-- Published: Tue, 08 Sep 2026 21:09:27 GMT
-- Link: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/
+- Published: Wed, 09 Sep 2026 21:40:02 GMT
+- Link: https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data
 
-Mistral announced a €3 billion (US$3.5 billion) Series D at a post-money valuation above €21 billion — by its own description the largest equity round ever completed by a European technology company, three years after founding. Samsung Electronics led, with co-leads Scaleup Europe Fund (the EU-backe
+Dwarkesh Patel and Jerry Han have published an experiment decomposing six years of pretraining progress into its two ingredients. They trained combinations of year-representative open model recipes (2019's GPT-2 through 2025's OLMo-2) against year-representative open data corpuses (OpenWebText's ~9b
 
-## 4. [Signal] 'A year to fix security': the open-weight offensive-capability clock
+## 4. [Signal] Mercury 2.5 claims frontier-lite quality at 1,107 tokens per second
 
-- Published: Tue, 08 Sep 2026 21:09:27 GMT
-- Link: https://jyn.dev/a-year-to-fix-security/
+- Published: Wed, 09 Sep 2026 21:40:02 GMT
+- Link: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5
 
-A widely shared essay by systems programmer jyn (4 September) argues the industry has roughly a year to fix its accumulated security debt. The trigger: Z.ai's GLM 5.3-flash, released in early September — an open-weight model the author places close to frontier ability (Artificial Analysis scores it
+Inception Labs has released Mercury 2.5, which it describes as the most capable diffusion language model on the market and, to its knowledge, the largest ever trained. The company claims a 40 per cent intelligence increase over Mercury 2, quality comparable to cost-optimised frontier models (it name
 
-## 5. [Signal] OpenAI claims Lean-certified Navier–Stokes proof; priority dispute erupts
+## 5. [Signal] Cognition raises over US$2bn at US$48bn on a near-US$900m run-rate
 
-- Published: Tue, 08 Sep 2026 21:09:27 GMT
-- Link: https://www.scientificamerican.com/article/openai-claims-blockbuster-math-breakthrough-amid-swirl-of-controversy/
+- Published: Wed, 09 Sep 2026 21:40:02 GMT
+- Link: https://cognition.com/blog/series-e
 
-OpenAI announced on 8 September (US time) that its internal model has resolved the Navier–Stokes problem — one of the seven US$1 million Clay Millennium Prize Problems, and only the second ever solved. The proof is a negative resolution: it shows the equations "blow up", dictating physically impossi
+Cognition, maker of the Devin software-engineering agent, has raised over US$2bn in a Series E at a US$48bn valuation, led by new investors Andreessen Horowitz and Accel alongside Founders Fund, General Catalyst and Avenir — plus an investor list running to some forty further names. The disclosed op
 
-## 6. [Signal] Mathematicians contest what AI proof wins mean for the purpose of maths
+## 6. [Signal] Copperhead pitches 'Cursor for circuit boards' with verified KiCad edits
 
-- Published: Tue, 08 Sep 2026 21:09:27 GMT
-- Link: https://bsky.app/profile/gro-tsen.bsky.social/post/3mr3gj6ry622d
+- Published: Wed, 09 Sep 2026 21:40:02 GMT
+- Link: https://copperhead.sh/
 
-The mathematics community's unease with AI labs predates this week's Navier–Stokes claim. In August, Scientific American reported that OpenAI's release of ten Astra-generated results — resolving or advancing "long-standing open problems" at a stated total token cost of US$2,000, in a nearly 250-page
+Copperhead is an open-source AI engineering platform for circuit-board design that describes itself as "Cursor for circuit boards" — an agent harness that helps hardware teams design, verify and ship PCBs. It is early-stage by any measure: 205 GitHub stars, around 513 installs a month, npm-installab
 
-## 7. [Signal] AlphaGenome Atlas pre-computes predicted impact of all 9bn DNA variants
+## 7. [Signal] Thoughtworks agents co-ordinated through an accidental repo blackboard
 
-- Published: Tue, 08 Sep 2026 21:09:27 GMT
-- Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/
+- Published: Wed, 09 Sep 2026 21:40:02 GMT
+- Link: https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html
 
-Google DeepMind released AlphaGenome Atlas on 8 September: a queryable database of the predicted regulatory effect of every possible single-nucleotide variant in the human genome — all 9 billion single-letter changes across the 3-billion-base-pair genome, pre-calculated with the AlphaGenome model in
+Two publications this window converge on the same architectural idea: agents work better when their procedural knowledge lives in an explicit, shared, updatable structure rather than in a growing chat history. On martinfowler.com, Thoughtworks' Giles Edwards-Alexander describes a four-day exercise i
 
-## 8. [Signal] Thesys OUI-1 writes UIs on a consumer GPU — 71.7% on its own benchmark
+## 8. [Signal] NSA, CISA and FBI accuse Chinese AI firms of industrial-scale distillation
 
-- Published: Tue, 08 Sep 2026 21:09:27 GMT
-- Link: https://www.openui.com/blog/oui-1
+- Published: Wed, 09 Sep 2026 21:40:02 GMT
+- Link: https://cyberscoop.com/us-accuses-chinese-ai-companies-distillation/
 
-Thesys released OUI-1 on 8 September, describing it as the first model purpose-built for generative UI. It is a fine-tune of Google's DiffusionGemma that writes interfaces in openui-lang, the company's open UI description language; a 26B-parameter model with 4B active that runs on a consumer GPU (RT
+A joint cybersecurity advisory from the NSA, CISA and the FBI accuses China-based AI companies of "systematic extraction" of US frontier models' capabilities through industrial-scale knowledge distillation that forms, in the agencies' words, the core — not merely a supplement — of their development
