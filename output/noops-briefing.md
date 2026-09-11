@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-09-10 04:41 UTC
+- Generated at: 2026-09-11 04:39 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] The Chinese Founder Atlas maps China's tech founders by generation and clan
+## 1. [Signal] DeepSeek releases V4.1-Flash: 552B MoE, 1M context, MIT-licensed weights
 
-- Published: Wed, 09 Sep 2026 21:40:02 GMT
-- Link: https://afraw.substack.com/p/the-chinese-founder-atlas
+- Published: Thu, 10 Sep 2026 21:21:23 GMT
+- Link: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash
 
-Afra Wang published *The Chinese Founder Atlas* on 3 September on her newsletter *Concurrent*, mapping Chinese technology founders across four axes: generation, geography, clan, and proximity to the state. The generational frame borrows the numbering Chinese cinema uses for its directors. Ren Zhengf
+DeepSeek released DeepSeek-V4.1-Flash on 10 September, publishing weights on Hugging Face under an MIT licence. Verified against the model card: a multimodal mixture-of-experts model with 552B backbone parameters, a one-million-token context window, and a Causal Encoder-Decoder architecture — a 40-l
 
-## 2. [Signal] A writer vibe-coded a founder dataset in 20 hours and shipped it as an artifact
+## 2. [Signal] DeepSeek reroutes Pro traffic to V4.1-Flash and doubles prices at peak hours
 
-- Published: Wed, 09 Sep 2026 21:40:02 GMT
-- Link: https://afraw.substack.com/p/the-chinese-founder-atlas
+- Published: Thu, 10 Sep 2026 21:21:23 GMT
+- Link: https://news.ycombinator.com/item?id=49624603
 
-The Atlas is also a data point about how it was made. Wang is a writer, not an engineer. She states she vibe-coded the thing with Claude in roughly 15 to 20 hours, plus feedback rounds, and that it "still lives in a Claude artifact for now" — there is no deployment step, no host, no domain. Her othe
+Two pricing decisions accompanied the V4.1-Flash launch, per DeepSeek's pre-release notice (as posted to Hacker News; the announcement matches what Mark saw on DeepSeek's own channels). First: from launch until V4.1-Pro ships, all requests to the Pro model are routed to V4.1-Flash and billed at Flas
 
-## 3. [Signal] Small-scale study: data drove 12x of pretraining gains, model tweaks 3.7x
+## 3. [Signal] Ant International signs Visa and Mastercard onto an AI-agent payment standard
 
-- Published: Wed, 09 Sep 2026 21:40:02 GMT
-- Link: https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data
+- Published: Thu, 10 Sep 2026 21:21:23 GMT
+- Link: https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html
 
-Dwarkesh Patel and Jerry Han have published an experiment decomposing six years of pretraining progress into its two ingredients. They trained combinations of year-representative open model recipes (2019's GPT-2 through 2025's OLMo-2) against year-representative open data corpuses (OpenWebText's ~9b
+Chinese fintech Ant International announced it has signed Visa and Mastercard to collaborate on a common standard for payments made by AI agents, CNBC reports. The companies cite McKinsey projections that AI agents will handle US$3 trillion to US$5 trillion in global consumer commerce by 2030. The c
 
-## 4. [Signal] Mercury 2.5 claims frontier-lite quality at 1,107 tokens per second
+## 4. [Signal] Automattic board puts Mullenweg on paid leave; CFO Davies named interim CEO
 
-- Published: Wed, 09 Sep 2026 21:40:02 GMT
-- Link: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5
+- Published: Thu, 10 Sep 2026 21:21:23 GMT
+- Link: https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/
 
-Inception Labs has released Mercury 2.5, which it describes as the most capable diffusion language model on the market and, to its knowledge, the largest ever trained. The company claims a 40 per cent intelligence increase over Mercury 2, quality comparable to cost-optimised frontier models (it name
+Automattic's board has placed CEO and co-founder Matt Mullenweg on a paid leave of absence, 404 Media reports. Mullenweg announced it himself in a company-wide Slack message, writing that CFO Mark Davies "conspired" with board members Ann Dunwoody, Toni Schneider and Sue Decker "behind my back and t
 
-## 5. [Signal] Cognition raises over US$2bn at US$48bn on a near-US$900m run-rate
+## 5. [Signal] Ornn paper argues open-weight demand extends the earning life of older GPUs
 
-- Published: Wed, 09 Sep 2026 21:40:02 GMT
-- Link: https://cognition.com/blog/series-e
+- Published: Thu, 10 Sep 2026 21:21:23 GMT
+- Link: https://data.ornn.com/the-economics-of-open-weight-inference.pdf
 
-Cognition, maker of the Devin software-engineering agent, has raised over US$2bn in a Series E at a US$48bn valuation, led by new investors Andreessen Horowitz and Accel alongside Founders Fund, General Catalyst and Avenir — plus an investor list running to some forty further names. The disclosed op
+Ornn Data published "The Economics of Open-Weight Inference" (7 September), a paper John flagged for its direct attack on a load-bearing assumption: that each new Nvidia generation renders the previous one economically obsolete, the premise under most GPU depreciation schedules. Verified from the pa
 
-## 6. [Signal] Copperhead pitches 'Cursor for circuit boards' with verified KiCad edits
+## 6. [Signal] Bloomberg: Indian firm orders 9,000 Vera Rubin systems, aiming to export tokens
 
-- Published: Wed, 09 Sep 2026 21:40:02 GMT
-- Link: https://copperhead.sh/
+- Published: Thu, 10 Sep 2026 21:21:23 GMT
+- Link: https://www.bloomberg.com/news/articles/2026-08-25/india-ai-data-center-firm-orders-9-000-nvidia-vera-rubin-systems
 
-Copperhead is an open-source AI engineering platform for circuit-board design that describes itself as "Cursor for circuit boards" — an agent harness that helps hardware teams design, verify and ship PCBs. It is early-stage by any measure: 205 GitHub stars, around 513 installs a month, npm-installab
+Bloomberg reports that an Indian AI data-centre company has ordered 9,000 Nvidia Vera Rubin systems, with the company stating an ambition to be "among the leading AI token exporters globally". Provenance caveat up front: Bloomberg is paywalled beyond our reach, so we are working from the headline an
 
-## 7. [Signal] Thoughtworks agents co-ordinated through an accidental repo blackboard
+## 7. [Signal] iPhone Duo week two: NZ$4,000 entry, 12GB of RAM, and a quiet room — our read
 
-- Published: Wed, 09 Sep 2026 21:40:02 GMT
-- Link: https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html
+- Published: Thu, 10 Sep 2026 21:21:23 GMT
+- Link: https://noops.au/feed
 
-Two publications this window converge on the same architectural idea: agents work better when their procedural knowledge lives in an explicit, shared, updatable structure rather than in a growing chat history. On martinfowler.com, Thoughtworks' Giles Edwards-Alexander describes a four-day exercise i
+Second-week observations on the iPhone Duo, following our launch-week signal on the A$3,499 Australian pricing. New Zealand pricing extends the pattern: roughly NZ$4,000 for the 512GB entry configuration, NZ$5,900 for the 2TB unit — Mark's reaction, verbatim, was "Are. They. Nuts." The spec detail t
 
-## 8. [Signal] NSA, CISA and FBI accuse Chinese AI firms of industrial-scale distillation
+## 8. [Signal] CXMT says LPDDR6 is in mass production, debuting in Xiaomi's 18 Fold
 
-- Published: Wed, 09 Sep 2026 21:40:02 GMT
-- Link: https://cyberscoop.com/us-accuses-chinese-ai-companies-distillation/
+- Published: Thu, 10 Sep 2026 21:21:23 GMT
+- Link: https://www.cxmt.com/en/news/info_21.html
 
-A joint cybersecurity advisory from the NSA, CISA and the FBI accuses China-based AI companies of "systematic extraction" of US frontier models' capabilities through industrial-scale knowledge distillation that forms, in the agencies' words, the core — not merely a supplement — of their development
+ChangXin Memory Technologies (CXMT) announced on 7 September that its LPDDR6 has entered mass production, debuting in Xiaomi's new flagship 18 Fold — which CXMT calls the world's first commercial deployment of LPDDR6 in a flagship smartphone. Verified from the company's announcement: a 16GB package
