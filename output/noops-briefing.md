@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-09-14 04:54 UTC
+- Generated at: 2026-09-15 04:53 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Stratechery calls app primacy Apple's biggest AI blindspot on the Duo
+## 1. [Signal] Trump rejects pacing: the only guardrail AI needs is a 'High IQ' president
 
-- Published: Sun, 13 Sep 2026 23:21:57 GMT
-- Link: https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence
+- Published: Mon, 14 Sep 2026 22:57:32 GMT
+- Link: https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html
 
-Ben Thompson's Stratechery Update of Thursday 10 September assessed the iPhone Duo, and the piece's own public summary line is unambiguous about where he lands: Apple once again demonstrated the power of integrating hardware and software, but its biggest AI blindspot may be "its belief in the primac
+President Trump rejected the weekend's call from Dario Amodei, Sam Altman and Elon Musk to slow frontier development. In a run of Truth Social posts on Monday (US time) he wrote that "the only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT", called the concerns a "h
 
-## 2. [Signal] Oracle's co-CEO tells investors AI will save packaged apps, not end them
+## 2. [Signal] Cohere's Gomez calls the pacing plan 'a cartel by any other name'
 
-- Published: Sun, 13 Sep 2026 23:21:57 GMT
-- Link: https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736
+- Published: Mon, 14 Sep 2026 22:57:32 GMT
+- Link: https://cohere.com/blog/who-gets-to-define-the-rules-for-ai
 
-Oracle co-CEO Mike Sicilia used his first remarks on the company's Q1 FY2027 earnings call to defend the applications business directly. "The introduction of AI is an accelerator, not a replacement for packaged applications," he argued, pointing out that suites had already proven their effectiveness
+Aidan Gomez, Cohere's co-founder and a co-author of the transformer paper, published "AI Needs Evidenced Standards, Not A Cartel" on 14 September. His objection to Amodei's roadmap is procedural: it asks governments for an antitrust waiver so a handful of labs can agree limits, then asks them to req
 
-## 3. [Signal] Oracle says four-year-old GPUs renewed at a 20% premium to prior contracts
+## 3. [Signal] Engineers contest the swarm forecast: the finding is ten weeks undetected
 
-- Published: Sun, 13 Sep 2026 23:21:57 GMT
-- Link: https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736
+- Published: Mon, 14 Sep 2026 22:57:32 GMT
+- Link: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/
 
-Buried in the same Oracle earnings call was a number with more analytical weight than the applications argument. Co-CEO Clay Magouyrk told investors: "Of all the GPUs that came up for renewal in Q1, that capacity was renewed or resold at a 20 percent premium to prior contracts." He added that "the m
+Two engineers published, in different registers, the same objection to last week's extinction odds. Bryan Cantrill (Oxide, DTrace) opens "The contagion of fear" with a confession: as a first-year student he falsely announced a virus in a crowded lab and watched people yank cables and lose their term
 
-## 4. [Signal] Anthropic quantifies distillation: 151m Claude exchanges, 3,500 fake accounts
+## 4. [Signal] Amodei pitches a slowdown mid-roadshow; analysts split on 'ladder pull'
 
-- Published: Sun, 13 Sep 2026 23:21:57 GMT
-- Link: https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html
+- Published: Mon, 14 Sep 2026 22:57:32 GMT
+- Link: https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html
 
-Anthropic's September threat intelligence report, covering December 2025 to August 2026, converts a months-old grievance into a specific accusation. Operators affiliated with Alibaba are said to have used Claude outputs to help train Qwen models in what Anthropic calls the largest distillation campa
+CNBC reports that Anthropic, valued at US$965bn earlier this year, confidentially filed its prospectus in June, has picked the Nasdaq, is widely expected to list as soon as next month and could seek US$2tn, all while its CEO is meeting prospective investors and asking the industry to slow down. The
 
-## 5. [Signal] Y Combinator's Garry Tan on distillation: “I would do nothing”
+## 5. [Signal] Bartholomeusz: the labs may be pacing because the capital is running out
 
-- Published: Sun, 13 Sep 2026 23:21:57 GMT
-- Link: https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html
+- Published: Mon, 14 Sep 2026 22:57:32 GMT
+- Link: https://www.smh.com.au/technology/these-three-kings-of-ai-have-a-plan-it-could-blow-everything-up-20260914-p60x1i.html
 
-Asked at Y Combinator's Demo Day what regulators should do about Chinese labs distilling American frontier models, chief executive Garry Tan gave the shortest possible answer: "I would do nothing." He went further — "we could argue that there should be an American distillation regime" — and redirect
+Stephen Bartholomeusz argues in the SMH that the industry "might be damned if it did" slow down. Anthropic, OpenAI and SpaceX lack the legacy cashflows of the hyperscalers and depend on raising equity at ever-higher valuations, increasingly supplemented by debt. He notes that AI-related companies no
 
-## 6. [Signal] DeepSeek moves knowledge out of GPU memory and into lookup tables
+## 6. [Signal] Report alleges Anthropic is building predictive surveillance of AI activists
 
-- Published: Sun, 13 Sep 2026 23:21:57 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/09/11/deepseeks-new-model-sets-a-template-for-powerful-llms-that-run-lean/5295715
+- Published: Mon, 14 Sep 2026 22:57:32 GMT
+- Link: https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/
 
-The Register's technical read of DeepSeek V4.1 Flash establishes what the model card only implied, and its framing is the point: "just because you build a bigger model doesn't mean you need more GPUs to serve it." The model carries 763 billion total parameters — more than 2.5 times its predecessor a
+The American Prospect (Daniel Boguslaw, 9 September) alleges, on the basis of job postings and a vendor podcast, that Anthropic is building a predictive monitoring programme aimed at people who oppose rapid AI development. In the podcast, Anthropic's global security operations centre manager Keon El
 
-## 7. [Signal] Shopify abandons React Native because agents now absorb the two-platform cost
+## 7. [Signal] Two safety researchers leave for METR: lab transparency is 'entirely voluntary'
 
-- Published: Sun, 13 Sep 2026 23:21:57 GMT
-- Link: https://simonwillison.net/2026/Sep/10/shopify-react-native/
+- Published: Mon, 14 Sep 2026 22:57:32 GMT
+- Link: https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086
 
-Shopify is moving its mobile applications from React Native back to separate Swift and Kotlin codebases, six years after making the opposite decision. The company's own post is unusually precise about why. It restates the 2020 rationale — stop building the same features twice, let developers work ac
+Joe Benton, who led a safety research team at Anthropic working on how humans and weaker models can supervise stronger ones, and Josh Engels, formerly on safety research at Google DeepMind, told NBC News in their first interviews since leaving that both are joining METR to investigate incidents in w
 
-## 8. [Signal] Best frontier model ships 35% of real feature tickets in Rails benchmark
+## 8. [Signal] Khan: no AI exemption from existing law, and a 1934 precedent covers the race
 
-- Published: Sun, 13 Sep 2026 23:21:57 GMT
-- Link: https://rubyonrails.org/2026/9/9/agents-on-rails-stage-2
+- Published: Mon, 14 Sep 2026 22:57:32 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325
 
-The Agents on Rails benchmark has published Stage 2, which moves from atomic tasks to feature delivery: 20 tickets written against Fizzy, 37signals' kanban application, phrased the way a product manager writes to a developer — "Let's add Japanese to the app, ASAP" — with requirements and APIs delibe
+Lina Khan, FTC chair until 2025, argued on X on Sunday that the pacing debate is a distraction from enforcement: "We shouldn't let discussions about new legal regimes distract from the fact that there's no AI exemption from laws already on the books." Enforcers, she says, "already have authority to
