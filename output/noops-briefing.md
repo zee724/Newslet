@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-09-16 04:48 UTC
+- Generated at: 2026-09-17 04:51 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] SemiAnalysis: Rubin is 67x GB300 per dollar at one point, 1.4-3x in practice
+## 1. [Signal] SemiAnalysis: 300+ moratoriums touch 20 GW but delay 2.3 GW; 2027 adds 38 GW
 
-- Published: Tue, 15 Sep 2026 21:58:09 GMT
-- Link: https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference
+- Published: Wed, 16 Sep 2026 21:53:01 GMT
+- Link: https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums
 
-SemiAnalysis has published what it calls the first verified agentic-inference results for Nvidia's Vera Rubin NVL72, run on its AgentX benchmark with pre-release TensorRT-LLM software. The headline figure is that at 170 tokens per second of P90 interactivity, on an apples-to-apples NVFP4 dense compa
+SemiAnalysis (Barkin, Knuhtsen, Eliahou Ontiveros and Patel, 15 September, paid) has audited the US data-centre moratorium wave against its own project-level pipeline and concludes the restrictions are not, yet, slowing the buildout. Four states have acted within two months: New York stopped issuing
 
-## 2. [Signal] OpenAI's ultimatum: no Australian training centre unless copyright loosens
+## 2. [Signal] Enclave: DeepSeek V4.1 Flash takes 11 of 11 hacking targets for US$4.65
 
-- Published: Tue, 15 Sep 2026 21:58:09 GMT
-- Link: https://archive.li/2026.09.14-120045/https://www.theaustralian.com.au/nation/politics/openais-ultimatum-dilute-creatives-rights-or-we-wont-discuss-renewables/news-story/c1569f7e661bbdff205daef38f677ff5?amp
+- Published: Wed, 16 Sep 2026 21:53:01 GMT
+- Link: https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model
 
-The Australian reports that OpenAI's senior vice-president Ann O'Leary, in Canberra, has told the government the company "will not be able to build a training centre here if the copyright law is as it exists", and that it is not ready to discuss the Prime Minister's condition that data centres be "n
+Enclave (Yanir Tsarimi, 16 September) reports that DeepSeek V4.1 Flash gained code execution on all 11 vulnerable targets in its private hacking benchmark — isolated copies of Grafana, Jenkins and Nextcloud — while all four patched controls held. The accepted runs cost US$4.65; failed attempts and r
 
-## 3. [Signal] Euclyd raises US$230m from Samsung for a non-GPU inference system due in 2028
+## 3. [Signal] Cantrill: the '>10% in a decade' extinction claim is contagion, not evidence
 
-- Published: Tue, 15 Sep 2026 21:58:09 GMT
-- Link: https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html
+- Published: Wed, 16 Sep 2026 21:53:01 GMT
+- Link: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/
 
-Dutch startup Euclyd has closed a 200-million-euro Series A, reported by CNBC as US$230-231m, co-led by Samsung, Somerset Capital Partners, EQT's Scaleup Europe Fund and Innovation Industries. Founded in 2024, the company is designing an inference system with an architecture that is not a GPU, cover
+Bryan Cantrill (Oxide co-founder, 13 September) opens with a confession — a university prank that convinced a lab of humanities students a virus was loose, and the panic that followed — to argue that ex-Anthropic researcher Jacob Coxon's claim that AI will "kill all humans" with probability ">10% in
 
-## 4. [Signal] Broadcom's Tan: pacing changes nothing; Anthropic to be top custom-chip buyer
+## 4. [Signal] UNSW and Sydney sign ChatGPT Edu deals days apart as NTEU strikes over AI
 
-- Published: Tue, 15 Sep 2026 21:58:09 GMT
-- Link: https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html
+- Published: Wed, 16 Sep 2026 21:53:01 GMT
+- Link: https://www.smh.com.au/national/despicable-garbage-students-alarmed-as-sydney-universities-roll-out-chatgpt-edu-20260913-p60wyz.html
 
-Broadcom CEO Hock Tan told CNBC's Mad Money on Monday that nothing in the slowdown debate has caused him to revisit the company's fiscal 2027 and 2028 AI semiconductor forecasts: "No, not in the least." On the 2 September earnings call he had guided AI semiconductor revenue to US$115bn in fiscal 202
+The Sydney Morning Herald (Sally Rawsthorne, 16 September) reports that the University of NSW and the University of Sydney signed multi-year agreements with OpenAI to deploy ChatGPT Edu within five days of each other. UNSW called its deal a "strategic partnership" and "one of the largest AI educatio
 
-## 5. [Signal] Trump to Huang on speakerphone: data-centre opposition a 'hoax'; 65% oppose
+## 5. [Signal] Altman: 'no qualifier' on safety; Hugging Face fell back on Chinese open models
 
-- Published: Tue, 15 Sep 2026 21:58:09 GMT
-- Link: https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html
+- Published: Wed, 16 Sep 2026 21:53:01 GMT
+- Link: https://www.smh.com.au/technology/the-world-should-trust-us-silicon-valley-billionaire-s-plea-as-fight-escalates-20260915-p60xbo.html
 
-President Trump phoned Nvidia CEO Jensen Huang while Huang was on stage at the All-In Summit in Los Angeles on Monday; Huang put him on speaker. According to attendee video reported by CNBC, Trump said "it's all a hoax. The data centers are great, and they make people wealthy, and they make states w
+David Swan's SMH report from Dreamforce (16 September; Swan travelled as Salesforce's guest) has Sam Altman objecting not to Amodei's slowdown but to how it was put: "The world should trust that we are going to do the right thing because it's the right thing... There should be no qualifier on that."
 
-## 6. [Signal] ASD chief wants an AI 'early warning system'; agencies already ran Mythos
+## 6. [Signal] Huang and Zuckerberg stake out the market camp: liability, not law, paces AI
 
-- Published: Tue, 15 Sep 2026 21:58:09 GMT
-- Link: https://www.abc.net.au/news/2026-09-15/australia-needs-ai-warning-system-cyber-security-chief-says/107151268
+- Published: Wed, 16 Sep 2026 21:53:01 GMT
+- Link: https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html
 
-Australian Signals Directorate director-general Abigail Bradshaw told the ASPI Sydney Dialogue AI Masterclass on Monday that Australia needs a formal AI "early warning system" of the kind that already exists for cyber incidents: "What we are missing at the moment, which we have in a cyber context bu
+CNBC (15–16 September) records the other side of the Dreamforce week. Jensen Huang told Marc Benioff that "market forces are already there", that new laws and regulations are "just completely unnecessary" — "we have plenty of laws... that govern the reliability and the functionality of products" — a
 
-## 7. [Signal] Hinton backs pacing and says a pause 'may decrease the value' of Anthropic
+## 7. [Signal] MIT TR: the Hugging Face swarm was a faulty product, not a caged beast
 
-- Published: Tue, 15 Sep 2026 21:58:09 GMT
-- Link: https://www.abc.net.au/news/2026-09-14/godfather-of-ai-geoffrey-hinton-backs-ai-slow-down/107150010
+- Published: Wed, 16 Sep 2026 21:53:01 GMT
+- Link: https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/
 
-Geoffrey Hinton told ABC Radio National Breakfast that Dario Amodei's call to pace the frontier is "very sensible", that most experts believe superintelligent AI will arrive within a decade, and that "until we've solved that problem, it would be foolish to develop them". On probabilities he was blun
+Will Douglas Heaven's read in MIT Technology Review's The Algorithm (14 September) takes the labs' "doomer turn" seriously and then reframes the incident that underpins it. He notes the surreal alignment — Musk, Altman, Hassabis and Amodei in agreement months after Musk and Altman fought in court ov
 
-## 8. [Signal] Litt: 'a beginning for mathematics' means defending a PhD, not submitting one
+## 8. [Signal] Pentagon CTO: no stakes, no pre-regulation; Blumenthal wants FDA-style review
 
-- Published: Tue, 15 Sep 2026 21:58:09 GMT
-- Link: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/
+- Published: Wed, 16 Sep 2026 21:53:01 GMT
+- Link: https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html
 
-Daniel Litt, whose talk "The End of Mathematics" we noted last month, has published the positive half of the argument. His premise is that robustly superhuman mathematical AI is arriving soon, but he says his proposals need only the weaker claim that "the production of mathematical text is becoming
+Two CNBC interviews on 16 September mark out the Washington positions after the labs' slowdown call. Emil Michael, the Pentagon's chief technology officer, said the administration should not nationalise or take stakes in AI companies — "I hope not... we don't want government to get in the middle" —
