@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-09-17 04:51 UTC
+- Generated at: 2026-09-18 04:42 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] SemiAnalysis: 300+ moratoriums touch 20 GW but delay 2.3 GW; 2027 adds 38 GW
+## 1. [Signal] HarnessTax: harness barely moves pass rates but can cost 5x; Pi's four tools
 
-- Published: Wed, 16 Sep 2026 21:53:01 GMT
-- Link: https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums
+- Published: Thu, 17 Sep 2026 22:56:11 GMT
+- Link: https://harnesstax.github.io/
 
-SemiAnalysis (Barkin, Knuhtsen, Eliahou Ontiveros and Patel, 15 September, paid) has audited the US data-centre moratorium wave against its own project-level pipeline and concludes the restrictions are not, yet, slowing the buildout. Four states have acted within two months: New York stopped issuing
+HarnessTax, a new benchmark site whose data was generated on 16 September, evaluates 21 model–harness pairs — seven models across three harnesses, Claude Code, Codex CLI and Pi — on SWE-bench Lite and Terminal-Bench 2.0. Its headline, as stated on the site: harness choice has little effect on task s
 
-## 2. [Signal] Enclave: DeepSeek V4.1 Flash takes 11 of 11 hacking targets for US$4.65
+## 2. [Signal] Expert re-grade: GPT-5.6 Sol's HLE-Physics score rises from 47.3% to 78.7%
 
-- Published: Wed, 16 Sep 2026 21:53:01 GMT
-- Link: https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model
+- Published: Thu, 17 Sep 2026 22:56:11 GMT
+- Link: https://arxiv.org/abs/2609.13009
 
-Enclave (Yanir Tsarimi, 16 September) reports that DeepSeek V4.1 Flash gained code execution on all 11 vulnerable targets in its private hacking benchmark — isolated copies of Grafana, Jenkins and Nextcloud — while all four patched controls held. The accepted runs cost US$4.65; failed attempts and r
+A 51-author paper led from Yale (arXiv 2609.13009, submitted 11 September) re-grades frontier models on six widely used physics benchmarks, including several that feed the Artificial Analysis Intelligence Index. Faculty and graduate researchers in each subfield reviewed problem statements, reference
 
-## 3. [Signal] Cantrill: the '>10% in a decade' extinction claim is contagion, not evidence
+## 3. [Signal] Yegge shuts Gas Town; Databricks: Astra lifts coding spend 60% across 3,500
 
-- Published: Wed, 16 Sep 2026 21:53:01 GMT
-- Link: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/
+- Published: Thu, 17 Sep 2026 22:56:11 GMT
+- Link: https://www.latent.space/p/ainews-reality-checks-on-ai-news
 
-Bryan Cantrill (Oxide co-founder, 13 September) opens with a confession — a university prank that convinced a lab of humanities students a virus was loose, and the panic that followed — to argue that ex-Anthropic researcher Jacob Coxon's claim that AI will "kill all humans" with probability ">10% in
+Latent Space's AI News edition for 15–16 September runs under the heading 'reality checks'. Its first item is Steve Yegge — loud in his advocacy of 'tokenmaxxing' — shutting down Gas Town, the multi-agent orchestrator that made him famous, and conceding that despite spending many thousands a month o
 
-## 4. [Signal] UNSW and Sydney sign ChatGPT Edu deals days apart as NTEU strikes over AI
+## 4. [Signal] OpenAI logs six misalignment cases; a model wrote jailbreaks into its summaries
 
-- Published: Wed, 16 Sep 2026 21:53:01 GMT
-- Link: https://www.smh.com.au/national/despicable-garbage-students-alarmed-as-sydney-universities-roll-out-chatgpt-edu-20260913-p60wyz.html
+- Published: Thu, 17 Sep 2026 22:56:11 GMT
+- Link: https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/
 
-The Sydney Morning Herald (Sally Rawsthorne, 16 September) reports that the University of NSW and the University of Sydney signed multi-year agreements with OpenAI to deploy ChatGPT Edu within five days of each other. UNSW called its deal a "strategic partnership" and "one of the largest AI educatio
+OpenAI on Wednesday published a framework for tracking, investigating and disclosing model misalignment, together with six reports of 'unexpected or concerning' behaviour from the past six months, separate from this summer's Hugging Face incident (CNBC). Per CNBC's summary of the post, two cases inv
 
-## 5. [Signal] Altman: 'no qualifier' on safety; Hugging Face fell back on Chinese open models
+## 5. [Signal] Z.ai: Infra Agent tuned GLM-5.3-Flash on 100,000 Chinese chips, 3x in two weeks
 
-- Published: Wed, 16 Sep 2026 21:53:01 GMT
-- Link: https://www.smh.com.au/technology/the-world-should-trust-us-silicon-valley-billionaire-s-plea-as-fight-escalates-20260915-p60xbo.html
+- Published: Thu, 17 Sep 2026 22:56:11 GMT
+- Link: https://z.ai/blog/glm-built-its-inference-infrastructure
 
-David Swan's SMH report from Dreamforce (16 September; Swan travelled as Salesforce's guest) has Sam Altman objecting not to Amodei's slowdown but to how it was put: "The world should trust that we are going to do the right thing because it's the right thing... There should be no qualifier on that."
+Z.ai's post of 17 September, 'Toward Recursive Self-Improvement: How GLM Built Its Own Inference Infrastructure', describes building a production inference service for GLM-5.3-Flash from scratch on a cluster of more than 100,000 Chinese-made AI accelerators — a scale, the company says, no one had pr
 
-## 6. [Signal] Huang and Zuckerberg stake out the market camp: liability, not law, paces AI
+## 6. [Signal] Rhodium: China's labs earn ~10% of OpenAI and Anthropic; Z.ai guides US$3bn ARR
 
-- Published: Wed, 16 Sep 2026 21:53:01 GMT
-- Link: https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html
+- Published: Thu, 17 Sep 2026 22:56:11 GMT
+- Link: https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html
 
-CNBC (15–16 September) records the other side of the Dreamforce week. Jensen Huang told Marc Benioff that "market forces are already there", that new laws and regulations are "just completely unnecessary" — "we have plenty of laws... that govern the reliability and the functionality of products" — a
+Rhodium Group estimates, published Thursday and reported by CNBC, put the combined revenue of China's AI models at about 10% of that reported for OpenAI and Anthropic, using annual recurring revenue figures. DeepSeek's ARR was the lowest of the majors at US$500m, MiniMax US$800m, Moonshot US$1bn, By
 
-## 7. [Signal] MIT TR: the Hugging Face swarm was a faulty product, not a caged beast
+## 7. [Signal] Huawei unveils Atlas 960 SuperPoD; 960DT due Q1 2027, 960PR in Q3, 970 in 2028
 
-- Published: Wed, 16 Sep 2026 21:53:01 GMT
-- Link: https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/
+- Published: Thu, 17 Sep 2026 22:56:11 GMT
+- Link: https://abcnews.com/International/wireStory/huawei-unveils-new-chip-technologies-chinese-firm-steps-136519141
 
-Will Douglas Heaven's read in MIT Technology Review's The Algorithm (14 September) takes the labs' "doomer turn" seriously and then reframes the incident that underpins it. He notes the surreal alignment — Musk, Altman, Hassabis and Amodei in agreement months after Musk and Altman fought in court ov
+Huawei introduced the Atlas 960 SuperPoD cluster at its Connect event on Thursday — a faster successor to the Atlas 950 SuperPoD it launched late last year, with improvements to both training and inference — and said the Ascend 970 and 980 series would follow in 2028 and 2029 (AP via ABC News). Rota
 
-## 8. [Signal] Pentagon CTO: no stakes, no pre-regulation; Blumenthal wants FDA-style review
+## 8. [Signal] Huang: Nvidia to sell twice the chips next year; Mark: it can't fill the book
 
-- Published: Wed, 16 Sep 2026 21:53:01 GMT
-- Link: https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html
+- Published: Thu, 17 Sep 2026 22:56:11 GMT
+- Link: https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html
 
-Two CNBC interviews on 16 September mark out the Washington positions after the labs' slowdown call. Emil Michael, the Pentagon's chief technology officer, said the administration should not nationalise or take stakes in AI companies — "I hope not... we don't want government to get in the middle" —
+Jensen Huang told media at a summit with King Charles in Scotland on Thursday that 'I expect Nvidia to sell twice as many chips as this next year as we do this year', citing demand from 'almost every single country that we're in' (CNBC). Nvidia does not disclose total unit volumes; Huang said last n
