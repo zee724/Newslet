@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-09-20 04:53 UTC
+- Generated at: 2026-09-21 04:54 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] HarnessTax: harness barely moves pass rates but can cost 5x; Pi's four tools
+## 1. [Signal] Microsoft puts Jensen Huang on the Windows stage to sell local AI
 
-- Published: Thu, 17 Sep 2026 22:56:11 GMT
-- Link: https://harnesstax.github.io/
+- Published: Sun, 20 Sep 2026 20:46:35 GMT
+- Link: https://hothardware.com/news/microsoft-calls-in-nvidia-ceo-jensen-huang-for-its-biggest-windows-event-in-years
 
-HarnessTax, a new benchmark site whose data was generated on 16 September, evaluates 21 model–harness pairs — seven models across three harnesses, Claude Code, Codex CLI and Pi — on SWE-bench Lite and Terminal-Bench 2.0. Its headline, as stated on the site: harness choice has little effect on task s
+Microsoft has scheduled its first dedicated Windows event in more than two years — San Francisco, 7 October — and the keynote line-up is Satya Nadella, Windows and Surface chief Pavan Davuluri, and Nvidia's Jensen Huang. The stated theme is "how local AI will shape the next chapter of the PC". The c
 
-## 2. [Signal] Expert re-grade: GPT-5.6 Sol's HLE-Physics score rises from 47.3% to 78.7%
+## 2. [Signal] Anthropic and OpenAI go shopping for 20-30MW sites in the UK and Nordics
 
-- Published: Thu, 17 Sep 2026 22:56:11 GMT
-- Link: https://arxiv.org/abs/2609.13009
+- Published: Sun, 20 Sep 2026 20:46:35 GMT
+- Link: https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html
 
-A 51-author paper led from Yale (arXiv 2609.13009, submitted 11 September) re-grades frontier models on six widely used physics benchmarks, including several that feed the Artificial Analysis Intelligence Index. Faculty and graduate researchers in each subfield reviewed problem statements, reference
+Anthropic and OpenAI are both sounding out data centre deals at 20-30MW, a fraction of the multi-hundred-megawatt and gigawatt facilities they have been announcing all year, according to four people who spoke to CNBC. Anthropic has explored agreements in that range across the United Kingdom and the
 
-## 3. [Signal] Yegge shuts Gas Town; Databricks: Astra lifts coding spend 60% across 3,500
+## 3. [Signal] Virginia bans datacentre NDAs and limits permitting by executive order
 
-- Published: Thu, 17 Sep 2026 22:56:11 GMT
-- Link: https://www.latent.space/p/ainews-reality-checks-on-ai-news
+- Published: Sun, 20 Sep 2026 20:46:35 GMT
+- Link: https://www.theregister.com/systems/2026/09/18/virginia-governor-wakes-up-to-fact-datacenters-have-become-political-cancer/5297561
 
-Latent Space's AI News edition for 15–16 September runs under the heading 'reality checks'. Its first item is Steve Yegge — loud in his advocacy of 'tokenmaxxing' — shutting down Gas Town, the multi-agent orchestrator that made him famous, and conceding that despite spending many thousands a month o
+Governor Abigail Spanberger signed an executive order on Friday establishing a datacentre accountability framework for Virginia, the jurisdiction that hosts more datacentre capacity than anywhere else on earth. The order bans non-disclosure agreements between developers and localities, limits permit
 
-## 4. [Signal] OpenAI logs six misalignment cases; a model wrote jailbreaks into its summaries
+## 4. [Signal] Newsom orders work on a frontier-model kill switch and onsite verifiers
 
-- Published: Thu, 17 Sep 2026 22:56:11 GMT
-- Link: https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/
+- Published: Sun, 20 Sep 2026 20:46:35 GMT
+- Link: https://deadline.com/2026/09/gavin-newsom-ai-executive-order-1237107446/
 
-OpenAI on Wednesday published a framework for tracking, investigating and disclosing model misalignment, together with six reports of 'unexpected or concerning' behaviour from the past six months, separate from this summer's Hugging Face incident (CNBC). Per CNBC's summary of the post, two cases inv
+California Governor Gavin Newsom signed an executive order on Friday directing the Government Operations Agency to accelerate implementation of SB 813 and AB 1405 and, in consultation with the Office of Emergency Services, to convene national experts within 60 days. The recommendations sought are sp
 
-## 5. [Signal] Z.ai: Infra Agent tuned GLM-5.3-Flash on 100,000 Chinese chips, 3x in two weeks
+## 5. [Signal] Census Bureau: AI-exposed graduates take a recession-sized earnings hit
 
-- Published: Thu, 17 Sep 2026 22:56:11 GMT
-- Link: https://z.ai/blog/glm-built-its-inference-infrastructure
+- Published: Sun, 20 Sep 2026 20:46:35 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537
 
-Z.ai's post of 17 September, 'Toward Recursive Self-Improvement: How GLM Built Its Own Inference Infrastructure', describes building a production inference service for GLM-5.3-Flash from scratch on a cluster of more than 100,000 Chinese-made AI accelerators — a scale, the company says, no one had pr
+Three US Census Bureau economists have put a number on the graduate labour market. In a new working paper, the most AI-exposed decile of college majors saw the likelihood of initial employment fall by five percentage points, and full-quarter initial earnings decline by 13 per cent, since late 2022.
 
-## 6. [Signal] Rhodium: China's labs earn ~10% of OpenAI and Anthropic; Z.ai guides US$3bn ARR
+## 6. [Signal] RAND: AI harms do not fit neatly into any existing insurance line
 
-- Published: Thu, 17 Sep 2026 22:56:11 GMT
-- Link: https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html
+- Published: Sun, 20 Sep 2026 20:46:35 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/09/18/ai-risks-make-some-insurers-wary-of-corporate-liability/5297347
 
-Rhodium Group estimates, published Thursday and reported by CNBC, put the combined revenue of China's AI models at about 10% of that reported for OpenAI and Anthropic, using annual recurring revenue figures. DeepSeek's ARR was the lowest of the majors at US$500m, MiniMax US$800m, Moonshot US$1bn, By
+RAND has published a report finding that insurers are growing wary of underwriting corporate AI liability. "AI-related harms are already emerging, including incorrect or misleading outputs, deepfakes, privacy violations, intellectual property disputes, fraud, product defects, and discriminatory deci
 
-## 7. [Signal] Huawei unveils Atlas 960 SuperPoD; 960DT due Q1 2027, 960PR in Q3, 970 in 2028
+## 7. [Signal] Harness components measured: context management is worth most when budgets bite
 
-- Published: Thu, 17 Sep 2026 22:56:11 GMT
-- Link: https://abcnews.com/International/wireStory/huawei-unveils-new-chip-technologies-chinese-firm-steps-136519141
+- Published: Sun, 20 Sep 2026 20:46:35 GMT
+- Link: https://arxiv.org/abs/2609.20804
 
-Huawei introduced the Atlas 960 SuperPoD cluster at its Connect event on Thursday — a faster successor to the Atlas 950 SuperPoD it launched late last year, with improvements to both training and inference — and said the Ascend 970 and 980 series would follow in 2028 and 2029 (AP via ABC News). Rota
+A new paper from Run-Ze Fan and eight co-authors takes apart the coding harness and measures the pieces. Holding the execution loop fixed and varying three components — planning, action space, and context management — across four models on SWE-Bench Verified and Terminal-Bench 2.1, the authors evalu
 
-## 8. [Signal] Huang: Nvidia to sell twice the chips next year; Mark: it can't fill the book
+## 8. [Signal] Mickens: security that reads a model's words can never be sound
 
-- Published: Thu, 17 Sep 2026 22:56:11 GMT
-- Link: https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html
+- Published: Sun, 20 Sep 2026 20:46:35 GMT
+- Link: https://arxiv.org/abs/2609.02852
 
-Jensen Huang told media at a summit with King Charles in Scotland on Thursday that 'I expect Nvidia to sell twice as many chips as this next year as we do this year', citing demand from 'almost every single country that we're in' (CNBC). Nvidia does not disclose total unit volumes; Huang said last n
+James Mickens has published a paper arguing that chain-of-thought monitoring, constitutional self-critique and activation probing are all structurally incapable of being complete security mechanisms. He gives the problem a name — "linguistic illegibility" — for the case where an LLM's externalised o
