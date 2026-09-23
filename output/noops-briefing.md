@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-09-22 04:54 UTC
+- Generated at: 2026-09-23 04:44 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Amazon blocks Meta's Muse agent as Shopify opens the door
+## 1. [Signal] Claude Opus 5.5 takes the AA index lead at 58, priced 20% below Opus 5
 
-- Published: Tue, 22 Sep 2026 04:05:09 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777
+- Published: Tue, 22 Sep 2026 20:10:09 GMT
+- Link: https://www.anthropic.com/claude-opus-5-5
 
-Amazon has blocked Meta's Muse personal AI agent from shopping on amazon.com, after asking Meta privately to keep the agent off the store and being refused. Users who try anyway are told that access by an "unauthorized AI agent" violates Amazon's Conditions of Use. The Register tested it directly —
+Anthropic released Claude Opus 5.5 on 22 September (US time), the first model in a Claude 5.5 family, and Artificial Analysis has it at 58 on its Intelligence Index, first of 212 models in its class (the NOOPS model board shows the unrounded 57.6). Anthropic prices it at US$4 per million input token
 
-## 2. [Signal] Grok 4.7 re-clears GLM-5.3 by inches, and prices near the median
+## 2. [Signal] OpenAI adds GPT-6 Sol and Luna as cheaper members of the GPT-6 family
 
-- Published: Tue, 22 Sep 2026 04:05:09 GMT
-- Link: https://artificialanalysis.ai/models/grok-4-7
+- Published: Tue, 22 Sep 2026 20:10:09 GMT
+- Link: https://openai.com/index/introducing-gpt-6-sol-and-luna/
 
-SpaceXAI released Grok 4.7 on 21 September, calling it "our most capable model for coding and knowledge work" and pricing it at US$2 per million input tokens and US$6 per million output. Artificial Analysis places Grok 4.7 (xhigh) at 46 on its Intelligence Index, ranked 16th of 202 models, 75th on c
+OpenAI introduced GPT-6 Sol and GPT-6 Luna on 22 September, positioned as cost-efficient siblings to GPT-6 Astra. In the passage Mark shared from the announcement, OpenAI says the two models were trained with similar methods to Astra and bring "the advances behind Astra's state-of-the-art performanc
 
-## 3. [Signal] The case that MCP is a pre-watershed technology
+## 3. [Signal] Xiaomi's MiMo-V2.6-Pro takes the open-weights lead on the AA index at 46
 
-- Published: Tue, 22 Sep 2026 04:05:09 GMT
-- Link: https://maharship.com/blog/why-mcp-was-always-a-bad-idea/
+- Published: Tue, 22 Sep 2026 20:10:09 GMT
+- Link: https://mimo.xiaomi.com/mimo-v2-6
 
-Maharshi Patel's essay "Why MCP Was Always a Bad Idea", circulated by Mark Pesce on 21 September, argues that the Model Context Protocol solved a problem the models have since grown out of. His history: MCP was released by Anthropic in November 2024, when "the models of the time were still relativel
+Xiaomi's MiMo-V2.6-Pro debuted on 22 September as the top open-weights model on the Artificial Analysis Intelligence Index, scoring 46 and ranking first of 114 models in its class. Artificial Analysis lists it at roughly 1 trillion total parameters with 42 billion active, a 1 million token context w
 
-## 4. [Signal] AX treats the agent task as a first-class cluster workload
+## 4. [Signal] Ornn: open-weight demand is extending the A100's earning life
 
-- Published: Tue, 22 Sep 2026 04:05:09 GMT
-- Link: https://agentexecutor.io/
+- Published: Tue, 22 Sep 2026 20:10:09 GMT
+- Link: https://data.ornn.com/publications/the-economics-of-open-weight-inference
 
-A project called AX, at agentexecutor.io, shared by Mark Pesce on 21 September, proposes a declarative control plane for agent workloads: "AX sandboxes your task, wires up its workspace, fences its network, and helps you run billions of them per cluster." It exposes Kubernetes-style custom resources
+Ornn Data's paper "The Economics of Open-Weight Inference" (dated 7 September, shared by Mark this morning) argues against the assumption built into most GPU depreciation schedules: that each new Nvidia generation renders the last one obsolete. Across eleven open-weight and eight closed models on th
 
-## 5. [Signal] Z.ai open-sources its coding harness, alongside an already-open RL stack
+## 5. [Signal] Dettmers' dlab Open Source Week: frontier AI on the hardware you already own
 
-- Published: Tue, 22 Sep 2026 04:05:09 GMT
-- Link: https://github.com/zai-org/ZCode
+- Published: Tue, 22 Sep 2026 20:10:09 GMT
+- Link: https://timdettmers.com/2026/09/21/dlab-open-source-week/
 
-Z.ai has open-sourced ZCode, described in its own repository as "Z.ai's coding agent harness. Powerful, intelligent, extensible." The repository shows 5,500 stars and 1,600 forks. Mark Pesce flagged it on 21 September alongside DAPO from ByteDance and Tsinghua's SIA group, which releases "a fully op
+Tim Dettmers' lab (dlab) has begun an Open Source Week, and his accompanying essay makes a claim Mark summarised as "pretty much our thesis right there": the future of AI research does not belong to whoever has the most GPUs, and academia is about to have a renaissance because of its limited resourc
 
-## 6. [Signal] Po-Shen Loh's answer to the mathematicians, and OpenAI's advisory group
+## 6. [Signal] Jev's 'decision models' return probabilities, not text, and price only the input
 
-- Published: Tue, 22 Sep 2026 04:05:09 GMT
-- Link: https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/
+- Published: Tue, 22 Sep 2026 20:10:09 GMT
+- Link: https://simonwillison.net/2026/Sep/21/jev/
 
-Terence Tao published a guest post by Po-Shen Loh on 19 September titled "Why Do We Need Human Mathematicians Anymore?" Loh sets the scene: open letters to protect the mathematics research community have proliferated since OpenAI announced its solution to the Millennium Prize variant of Navier-Stoke
+Simon Willison's write-up of Jev, TypeSafe AI's first "System One" model (he prefers Maggie Appleton's term, "decision model"), explains what is new: it takes text in, but instead of text out it returns floating-point numbers for yes/no questions, choices among options and scores on a scale, each wi
 
-## 7. [Signal] AMD passes US$1 trillion on a five-day, 25% run
+## 7. [Signal] Alibaba unveils Zhenwu V900 chip and a 20 GW data-centre target for 2032
 
-- Published: Tue, 22 Sep 2026 04:05:09 GMT
-- Link: https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html
+- Published: Tue, 22 Sep 2026 20:10:09 GMT
+- Link: https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html
 
-AMD closed above a US$1 trillion market capitalisation for the first time on Monday, after shares rose 10% to an intraday record of $615.52. The stock has gained roughly 25% over a five-day winning streak and is up more than 180% for the year. The run reverses a post-earnings slump last month, when
+At its Apsara Conference in Hangzhou on 22 September, Alibaba introduced the Zhenwu V900, a next-generation AI chip it says delivers three times the performance of the Zhenwu M890 released in May, and set a target of more than 20 gigawatts of Alibaba Cloud data-centre capacity worldwide by 2032, CNB
 
-## 8. [Signal] No liability shield: Bessent and Trump draw the AI responsibility line
+## 8. [Signal] Dimon: hyperscaler AI spend could reach US$1 trillion next year
 
-- Published: Tue, 22 Sep 2026 04:05:09 GMT
-- Link: https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html
+- Published: Tue, 22 Sep 2026 20:10:09 GMT
+- Link: https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html
 
-Treasury Secretary Scott Bessent told CNBC's Squawk Box on Monday that AI developers "need to take responsibility for themselves" rather than expecting the federal government to provide a "liability shield". Asked whether he agreed with President Trump's opposition to a regulatory crackdown, he said
+JPMorgan Chase CEO Jamie Dimon told CNBC-TV18 at the bank's India Conference that spending across the hyperscaler ecosystem has more than doubled from about US$300 billion last year to around US$700 billion this year, and could reach US$1 trillion in 2027. "That's like 1% increase to GDP each year",
