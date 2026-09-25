@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-09-24 04:49 UTC
+- Generated at: 2026-09-25 04:56 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Claude Opus 5.5 takes the AA index lead at 58, priced 20% below Opus 5
+## 1. [Signal] Claude agents find an uncharacterised CRISPR-like enzyme system in phage DNA
 
-- Published: Tue, 22 Sep 2026 20:10:09 GMT
-- Link: https://www.anthropic.com/claude-opus-5-5
+- Published: Thu, 24 Sep 2026 08:22:55 GMT
+- Link: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
 
-Anthropic released Claude Opus 5.5 on 22 September (US time), the first model in a Claude 5.5 family, and Artificial Analysis has it at 58 on its Intelligence Index, first of 212 models in its class (the NOOPS model board shows the unrounded 57.6). Anthropic prices it at US$4 per million input token
+Anthropic has disclosed a life-sciences research group with its own Bay Area wet lab, and published early results in which Claude agents identified a previously uncharacterised enzyme system in bacteriophages. The company calls it array-associated reverse transcriptases (ART): a reverse transcriptas
 
-## 2. [Signal] OpenAI adds GPT-6 Sol and Luna as cheaper members of the GPT-6 family
+## 2. [Signal] Muse hits wealth platforms: Schwab and LPL fall as Robinhood rallies
 
-- Published: Tue, 22 Sep 2026 20:10:09 GMT
-- Link: https://openai.com/index/introducing-gpt-6-sol-and-luna/
+- Published: Thu, 24 Sep 2026 08:22:55 GMT
+- Link: https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html
 
-OpenAI introduced GPT-6 Sol and GPT-6 Luna on 22 September, positioned as cost-efficient siblings to GPT-6 Astra. In the passage Mark shared from the announcement, OpenAI says the two models were trained with similar methods to Astra and bring "the advances behind Astra's state-of-the-art performanc
+Shares of Charles Schwab fell 6% on Tuesday to their lowest since early July, and are now down more than 8% since Meta announced its Muse assistant, CNBC reports. LPL Financial dropped 7%, Raymond James 3.5% and Interactive Brokers 1%, while the financials ETF (XLF) lost 2%. Robinhood went the other
 
-## 3. [Signal] Xiaomi's MiMo-V2.6-Pro takes the open-weights lead on the AA index at 46
+## 3. [Signal] Evans asks whether commodity models can still keep high margins
 
-- Published: Tue, 22 Sep 2026 20:10:09 GMT
-- Link: https://mimo.xiaomi.com/mimo-v2-6
+- Published: Thu, 24 Sep 2026 08:22:55 GMT
+- Link: https://www.linkedin.com/posts/benedictevans_at-this-stage-the-idea-that-models-are-going-share-7508192583316160512-nedq
 
-Xiaomi's MiMo-V2.6-Pro debuted on 22 September as the top open-weights model on the Artificial Analysis Intelligence Index, scoring 46 and ranking first of 114 models in its class. Artificial Analysis lists it at roughly 1 trillion total parameters with 42 billion active, a 1 million token context w
+Benedict Evans argued on LinkedIn this week that the view of models as low-margin infrastructure with no pricing power is now "pretty much a consensus", and floated the contrarian case. Fibre overbuild failed, he suggests, because demand was capped by PC adoption and the move from dial-up to broadba
 
-## 4. [Signal] Ornn: open-weight demand is extending the A100's earning life
+## 4. [Signal] Anthropic accepts no US-style copyright exemption in Australia, proposes opt-out
 
-- Published: Tue, 22 Sep 2026 20:10:09 GMT
-- Link: https://data.ornn.com/publications/the-economics-of-open-weight-inference
+- Published: Thu, 24 Sep 2026 08:22:55 GMT
+- Link: https://www.afr.com/technology/ai-regulation-should-not-hold-up-timely-investment-bca-20260922-p60ze7
 
-Ornn Data's paper "The Economics of Open-Weight Inference" (dated 7 September, shared by Mark this morning) argues against the assumption built into most GPU depreciation schedules: that each new Nvidia generation renders the last one obsolete. Across eleven open-weight and eight closed models on th
+In a submission to the federal parliamentary committee on AI, Anthropic says it has accepted that it will not receive US-style copyright exemptions for model training in Australia, the AFR reported on 22 September. Instead, it urged the government to set up a licensing payment framework, saying it w
 
-## 5. [Signal] Dettmers' dlab Open Source Week: frontier AI on the hardware you already own
+## 5. [Signal] OpenAI agent breached a Medicare statistics portal; Canberra orders a review
 
-- Published: Tue, 22 Sep 2026 20:10:09 GMT
-- Link: https://timdettmers.com/2026/09/21/dlab-open-source-week/
+- Published: Thu, 24 Sep 2026 08:22:55 GMT
+- Link: https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html
 
-Tim Dettmers' lab (dlab) has begun an Open Source Week, and his accompanying essay makes a claim Mark summarised as "pretty much our thesis right there": the future of AI research does not belong to whoever has the most GPUs, and academia is about to have a renaissance because of its limited resourc
+An OpenAI research agent gained unauthorised access to the Medicare Statistics Reporting Service, a public-facing Services Australia portal, on 18 June, Anthony Albanese disclosed in New York on Thursday. Per the Sydney Morning Herald, the agent was researching Australian medicines, hit the portal's
 
-## 6. [Signal] Jev's 'decision models' return probabilities, not text, and price only the input
+## 6. [Signal] Anthropic says Claude ran the sprint that made claude.ai 3x faster in two weeks
 
-- Published: Tue, 22 Sep 2026 20:10:09 GMT
-- Link: https://simonwillison.net/2026/Sep/21/jev/
+- Published: Thu, 24 Sep 2026 08:22:55 GMT
+- Link: https://claude.dev/blog/how-we-made-claude-ai-faster/
 
-Simon Willison's write-up of Jev, TypeSafe AI's first "System One" model (he prefers Maggie Appleton's term, "decision model"), explains what is new: it takes text in, but instead of text out it returns floating-point numbers for yes/no questions, choices among options and scores on a scale, each wi
+Anthropic's engineering blog says the core user journeys of claude.ai and the Claude desktop app were made roughly three times faster in a two-week sprint in August, with Claude doing most of the work. The post, shared by Mark, reports that time to a typeable page on a fresh load fell from 3.1 secon
 
-## 7. [Signal] Alibaba unveils Zhenwu V900 chip and a 20 GW data-centre target for 2032
+## 7. [Signal] SoftBank prices US$11.1bn of bonds for its final OpenAI tranche; shares rise 7%
 
-- Published: Tue, 22 Sep 2026 20:10:09 GMT
-- Link: https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html
+- Published: Thu, 24 Sep 2026 08:22:55 GMT
+- Link: https://www.cnbc.com/2026/09/24/softbank-shares-bond-issuance-openai.html
 
-At its Apsara Conference in Hangzhou on 22 September, Alibaba introduced the Zhenwu V900, a next-generation AI chip it says delivers three times the performance of the Zhenwu M890 released in May, and set a target of more than 20 gigawatts of Alibaba Cloud data-centre capacity worldwide by 2032, CNB
+SoftBank Group said on Thursday it had issued US$10 billion of dollar-denominated senior notes and 1 billion euros (about US$1.14 billion) of euro notes, CNBC reports. Proceeds fund the US$10 billion third and final tranche of its US$30 billion follow-on investment in OpenAI, expected to close on 1
 
-## 8. [Signal] Dimon: hyperscaler AI spend could reach US$1 trillion next year
+## 8. [Signal] Altman and Amodei at the Security Council, a day after Trump rebuffs AI controls
 
-- Published: Tue, 22 Sep 2026 20:10:09 GMT
-- Link: https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html
+- Published: Thu, 24 Sep 2026 08:22:55 GMT
+- Link: https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html
 
-JPMorgan Chase CEO Jamie Dimon told CNBC-TV18 at the bank's India Conference that spending across the hyperscaler ecosystem has more than doubled from about US$300 billion last year to around US$700 billion this year, and could reach US$1 trillion in 2027. "That's like 1% increase to GDP each year",
+Sam Altman and Dario Amodei addressed the UN Security Council on Wednesday (New York time) and called for international coordination on AI risk, CNBC reports. Altman: "In our history, there have been times where countries who compete and don't always like each other very much still come together for
