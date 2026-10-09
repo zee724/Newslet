@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-10-08 06:02 UTC
+- Generated at: 2026-10-09 06:07 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] SpaceX in talks for a US$40bn debt deal to buy Nvidia GPUs, Apollo leading
+## 1. [Signal] OpenAI told investors of a ~US$50bn run-rate, not the US$68bn widely reported
 
-- Published: Wed, 07 Oct 2026 21:31:47 GMT
-- Link: https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html
+- Published: Thu, 08 Oct 2026 20:57:41 GMT
+- Link: https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html
 
-Apollo Capital Management and several banks are in talks with SpaceX to help finance a US$40 billion purchase of Nvidia GPUs, CNBC reported on 7 October, citing a person familiar with the discussions; the Financial Times reported the talks first. The deal would rely mainly on the investment-grade de
+OpenAI told investors it reached roughly US$50 billion in annualised revenue at the end of September, CNBC confirmed on Thursday after the Financial Times first reported the figure. That is about US$18 billion below the US$68 billion widely reported late last month; a person familiar with the matter
 
-## 2. [Signal] IMF's Georgieva: AI boom is inflationary and hyperscaler debt is a shock risk
+## 2. [Signal] New Constructs pegs Anthropic at US$150bn and urges investors to avoid the IPO
 
-- Published: Wed, 07 Oct 2026 21:31:47 GMT
-- Link: https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html
+- Published: Thu, 08 Oct 2026 20:57:41 GMT
+- Link: https://www.newconstructs.com/anthropic-is-the-most-ridiculous-ipo-of-2026/
 
-IMF Managing Director Kristalina Georgieva told an audience in Singapore on 7 October that AI is "rapidly becoming a key driver of countries' relative fortunes", but that the combination of AI investment, high energy costs and record public debt is weighing on growth she called "underwhelming". She
+Independent research firm New Constructs has told investors to avoid Anthropic's planned Nasdaq listing, calling it "the most ridiculous IPO of 2026" in a note published on Tuesday. Anthropic is reportedly seeking a valuation of about US$2 trillion; New Constructs values it at roughly US$150 billion
 
-## 3. [Signal] Finland orders Google to halt two data-centre sites a month after US$15bn pledge
+## 3. [Signal] Samsung's Q3 profit tops 107tn won; TSMC's September sales rise 54.6%
 
-- Published: Wed, 07 Oct 2026 21:31:47 GMT
-- Link: https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html
+- Published: Thu, 08 Oct 2026 20:57:41 GMT
+- Link: https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html
 
-Finland's Licensing and Supervision Agency (LVV) on Tuesday ordered Google's local subsidiary, Tuike Finland Oy, to suspend construction at planned data-centre sites in Muhos and Kajaani until environmental impact assessments are completed, CNBC reported on 7 October. The order covers tree clearing,
+Samsung Electronics estimated third-quarter operating profit of 107.4 trillion won (about US$80.2 billion), the first time the figure has passed 100 trillion won and 782% above a year earlier, on revenue of about 195 trillion won, up nearly 127%. Its shares still fell 0.7% on Thursday morning; eToro
 
-## 4. [Signal] FOI: Canberra sent Anthropic draft data-centre rules while negotiating its MOU
+## 4. [Signal] Broadcom and Oracle turn to private credit to fund AI chip purchases
 
-- Published: Wed, 07 Oct 2026 21:31:47 GMT
-- Link: https://www.smh.com.au/technology/sneak-peek-government-gave-ai-giant-early-look-at-data-centre-rules-20261007-p612xp.html
+- Published: Thu, 08 Oct 2026 20:57:41 GMT
+- Link: https://finance.yahoo.com/technology/ai/articles/broadcom-oracle-spacex-tap-private-233758270.html
 
-The federal government gave Anthropic a draft of its data centre expectations while negotiating a memorandum in which Anthropic agreed to follow them, according to freedom-of-information documents reported by the Sydney Morning Herald on 7 October. An Industry Department briefing dated 18 March, fiv
+Broadcom has been working to arrange more than US$50 billion in financing for the custom AI chip it is developing with OpenAI, according to The Wall Street Journal, as summarised by Stocktwits on Yahoo Finance. Apollo Global Management and Blackstone are among the lenders approached; the talks are e
 
-## 5. [Signal] Claude Haiku 5.5 cuts small-model prices ~75%; Sonnet 5.5 cache reads halved
+## 5. [Signal] Firmus IPO on life support as bankers cut the price from A$11 to about A$8
 
-- Published: Wed, 07 Oct 2026 21:31:47 GMT
-- Link: https://www.anthropic.com/claude-haiku-5-5
+- Published: Thu, 08 Oct 2026 20:57:41 GMT
+- Link: https://www.smh.com.au/business/companies/firmus-float-in-trouble-as-investors-don-t-buy-the-hype-20261008-p613sp.html
 
-Anthropic released Claude Haiku 5.5 on 7 October, saying it costs on average around 75% less to run than Haiku 4.5. List prices for prompts up to 100,000 tokens are US$0.10 per million input tokens and US$0.50 per million output, a 90% cut; longer prompts are priced 50% lower. Anthropic says about 9
+The planned ASX listing of Australian data-centre start-up Firmus Technologies was in doubt on Thursday after institutional investors baulked at the price, the Sydney Morning Herald reported. Bids had been due by 9am at A$11 a share, implying a market value of about A$43.7 billion; when demand fell
 
-## 6. [Signal] a16z: 4.5% of US consumers pay for AI; top 1% of payers drive 19.5% of spend
+## 6. [Signal] GlobalFoundries signs US$2bn deal to make TSMC CoWoS interposers in New York
 
-- Published: Wed, 07 Oct 2026 21:31:47 GMT
-- Link: https://a16z.com/100-gen-ai-apps-7/
+- Published: Thu, 08 Oct 2026 20:57:41 GMT
+- Link: https://www.theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061
 
-Andreessen Horowitz's seventh Top 100 Gen AI Consumer Apps report adds, for the first time, a ranking by observed US consumer card spending from YipitData. Its headline is that consumer AI is wide but shallow: nearly half of US consumers report using AI, 25% daily, but in August only 4.5% had an act
+GlobalFoundries announced a multi-year, US$2 billion partnership with TSMC on Thursday to produce silicon interposers for TSMC's chip-on-wafer-on-substrate (CoWoS) advanced packaging at its Malta, New York fab, The Register reports. Interposers sit beneath the compute and memory dies in accelerators
 
-## 7. [Signal] Surface Laptop Ultra: Microsoft bets on local inference with an Nvidia GPU
+## 7. [Signal] Micron moves HBM4E base die to a foundry; says custom Nvidia HBM lifts margin
 
-- Published: Wed, 07 Oct 2026 21:31:47 GMT
-- Link: https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html
+- Published: Thu, 08 Oct 2026 20:57:41 GMT
+- Link: https://www.thelec.net/news/articleView.html?idxno=14372
 
-Microsoft opened preorders on 7 October for the Surface Laptop Ultra, starting at US$2,599 and shipping 16 October. The machine uses Nvidia's Blackwell RTX Spark GPU, can be configured with up to 128GB of unified memory and, per Microsoft, delivers up to one petaflop of compute. The Register reports
+Micron will use a foundry-made base die for its HBM4E product family and for NVHBM, the custom high-bandwidth memory it is co-designing with Nvidia, president and chief technology and products officer Scott DeBoer said at the company's fiscal fourth-quarter earnings event on 30 September, as reporte
 
-## 8. [Signal] Paper: Lean check of OpenAI's Navier-Stokes proof doesn't match the prose
+## 8. [Signal] Manus raises over US$500m in its first round since Beijing blocked Meta's deal
 
-- Published: Wed, 07 Oct 2026 21:31:47 GMT
-- Link: https://arxiv.org/abs/2610.08144
+- Published: Thu, 08 Oct 2026 20:57:41 GMT
+- Link: https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html
 
-A preprint on arXiv, "Navier-Stokes lost in translation" by Alexander Bastounis, Fabian Circelli and Anders C. Hansen, argues that using AI to translate a natural-language proof into Lean and then mechanically checking it "may offer no confidence in the original NL argument". The authors' central re
+Butterfly Effect, parent of the AI-agent start-up Manus, said on Thursday it had raised more than US$500 million, its first round since Chinese regulators forced Meta to unwind its roughly US$2 billion acquisition. The round was led by Boyu Capital and IDG Capital, with existing shareholders Tencent
