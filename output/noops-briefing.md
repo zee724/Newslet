@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-10-11 05:45 UTC
+- Generated at: 2026-10-12 05:56 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] OpenAI told investors of a ~US$50bn run-rate, not the US$68bn widely reported
+## 1. [Signal] Epoch: 2027 AI chips could run hundreds of millions of agents
 
-- Published: Thu, 08 Oct 2026 20:57:41 GMT
-- Link: https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html
+- Published: Sun, 11 Oct 2026 21:04:36 GMT
+- Link: https://epoch.ai/publications/estimating-the-agent-population
 
-OpenAI told investors it reached roughly US$50 billion in annualised revenue at the end of September, CNBC confirmed on Thursday after the Financial Times first reported the figure. That is about US$18 billion below the US$68 billion widely reported late last month; a person familiar with the matter
+Epoch AI estimates that AI chips shipped through 2027 could run tens to hundreds of millions of concurrent frontier-model agents, and that this capacity would supply as many weekly working hours as roughly 140-720 million full-time employees, because an agent works all 168 hours a week against a hum
 
-## 2. [Signal] New Constructs pegs Anthropic at US$150bn and urges investors to avoid the IPO
+## 2. [Signal] Firmus pulls A$43.7bn float after investors ask to see the foundations
 
-- Published: Thu, 08 Oct 2026 20:57:41 GMT
-- Link: https://www.newconstructs.com/anthropic-is-the-most-ridiculous-ipo-of-2026/
+- Published: Sun, 11 Oct 2026 21:04:36 GMT
+- Link: https://www.smh.com.au/technology/two-tech-outsiders-tried-to-sell-a-44bn-tech-company-it-didn-t-work-20261009-p6145h.html
 
-Independent research firm New Constructs has told investors to avoid Anthropic's planned Nasdaq listing, calling it "the most ridiculous IPO of 2026" in a note published on Tuesday. Anthropic is reportedly seeking a valuation of about US$2 trillion; New Constructs values it at roughly US$150 billion
+Firmus withdrew its A$43.7 billion ASX float on Friday morning, after institutional investors declined to pay the price. The offer, which would have been the largest on the ASX since Telstra in 1997, sought roughly US$5 billion at a valuation of about US$30.6 billion, nearly triple its August level,
 
-## 3. [Signal] Samsung's Q3 profit tops 107tn won; TSMC's September sales rise 54.6%
+## 3. [Signal] Developer finds DeepSeek 4.1 Flash on a par with Opus at a fraction of the cost
 
-- Published: Thu, 08 Oct 2026 20:57:41 GMT
-- Link: https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html
+- Published: Sun, 11 Oct 2026 21:04:36 GMT
+- Link: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/
 
-Samsung Electronics estimated third-quarter operating profit of 107.4 trillion won (about US$80.2 billion), the first time the figure has passed 100 trillion won and 782% above a year earlier, on revenue of about 195 trillion won, up nearly 127%. Its shares still fell 0.7% on Thursday morning; eToro
+A widely shared post by a developer who has used DeepSeek 4.1 Flash heavily for about a month says that, mid-session, he cannot tell it from Opus unless he checks the model name. He runs all-day sessions for under US$1 on a US$10-a-month plan, and attributes much of this to a KV cache that DeepSeek
 
-## 4. [Signal] Broadcom and Oracle turn to private credit to fund AI chip purchases
+## 4. [Signal] PC shipments fall 20% as AI memory demand reprices the device market
 
-- Published: Thu, 08 Oct 2026 20:57:41 GMT
-- Link: https://finance.yahoo.com/technology/ai/articles/broadcom-oracle-spacex-tap-private-233758270.html
+- Published: Sun, 11 Oct 2026 21:04:36 GMT
+- Link: https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/
 
-Broadcom has been working to arrange more than US$50 billion in financing for the custom AI chip it is developing with OpenAI, according to The Wall Street Journal, as summarised by Stocktwits on Yahoo Finance. Apollo Global Management and Blackstone are among the lenders approached; the talks are e
+Global PC shipments fell 20.1 per cent year on year in the September quarter to 62.7 million units, according to IDC, the largest third-quarter decline it has recorded. Omdia put the fall at 21.2 per cent to 58.1 million. IDC says vendors and channels pulled forward purchases earlier in the year ahe
 
-## 5. [Signal] Firmus IPO on life support as bankers cut the price from A$11 to about A$8
+## 5. [Signal] Microsoft releases a small decision model aimed at routing and workflow control
 
-- Published: Thu, 08 Oct 2026 20:57:41 GMT
-- Link: https://www.smh.com.au/business/companies/firmus-float-in-trouble-as-investors-don-t-buy-the-hype-20261008-p613sp.html
+- Published: Sun, 11 Oct 2026 21:04:36 GMT
+- Link: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/
 
-The planned ASX listing of Australian data-centre start-up Firmus Technologies was in doubt on Thursday after institutional investors baulked at the price, the Sydney Morning Herald reported. Bids had been due by 9am at A$11 a share, implying a market value of about A$43.7 billion; when demand fell
+Microsoft has released Microsoft-Decision-1, a model for fast decision-scoring, available in Foundry and coming to OpenRouter. It is designed for routing, classification, prioritisation, verification and workflow control rather than open-ended generation. Microsoft reports the highest accuracy acros
 
-## 6. [Signal] GlobalFoundries signs US$2bn deal to make TSMC CoWoS interposers in New York
+## 6. [Signal] Google Cloud recasts Gemini as one enterprise agent routing across rivals
 
-- Published: Thu, 08 Oct 2026 20:57:41 GMT
-- Link: https://www.theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061
+- Published: Sun, 11 Oct 2026 21:04:36 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/10/08/there-can-be-only-one-google-cloud-casts-gemini-as-your-enterprise-ai-hero/5302086
 
-GlobalFoundries announced a multi-year, US$2 billion partnership with TSMC on Thursday to produce silicon interposers for TSMC's chip-on-wafer-on-substrate (CoWoS) advanced packaging at its Malta, New York fab, The Register reports. Interposers sit beneath the compute and memory dies in accelerators
+At its Gemini at Work event, Google Cloud CEO Thomas Kurian said "Today, Gemini became an agent": a single surface across Gmail, Drive, Docs, Sheets, Chat and Calendar that takes objectives, spawns job-specific sub-agents, and runs each task on the best-fit model, "orchestrating across our Gemini fa
 
-## 7. [Signal] Micron moves HBM4E base die to a foundry; says custom Nvidia HBM lifts margin
+## 7. [Signal] Deno team joins Cloudflare to take Durable Objects beyond Cloudflare's network
 
-- Published: Thu, 08 Oct 2026 20:57:41 GMT
-- Link: https://www.thelec.net/news/articleView.html?idxno=14372
+- Published: Sun, 11 Oct 2026 21:04:36 GMT
+- Link: https://blog.cloudflare.com/deno-joins-cloudflare/
 
-Micron will use a foundry-made base die for its HBM4E product family and for NVHBM, the custom high-bandwidth memory it is co-designing with Nvidia, president and chief technology and products officer Scott DeBoer said at the company's fiscal fourth-quarter earnings event on 30 September, as reporte
+Cloudflare announced that the Deno team is joining it, and that Deno's celld, an open-source Rust implementation of the distributed Durable Objects model released in August, will be merged with Cloudflare's open-source workerd runtime. The stated aim is to make it simple to self-host Workers and Dur
 
-## 8. [Signal] Manus raises over US$500m in its first round since Beijing blocked Meta's deal
+## 8. [Signal] Practitioner critique: coding agents, not models, are now the bottleneck
 
-- Published: Thu, 08 Oct 2026 20:57:41 GMT
-- Link: https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html
+- Published: Sun, 11 Oct 2026 21:04:36 GMT
+- Link: https://mtlynch.io/why-are-coding-agents-so-dumb/
 
-Butterfly Effect, parent of the AI-agent start-up Manus, said on Thursday it had raised more than US$500 million, its first round since Chinese regulators forced Meta to unwind its roughly US$2 billion acquisition. The round was led by Boyu Capital and IDG Capital, with existing shareholders Tencent
+In a long post that Mark described as making "excellent points", developer Michael Lynch argues that since early 2025 models have advanced while the agents that wrap them have stayed poor. His list is specific: agents split work into subtasks and then run embarrassingly parallel ones sequentially; t
