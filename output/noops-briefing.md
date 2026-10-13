@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-10-12 05:56 UTC
+- Generated at: 2026-10-13 06:46 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Epoch: 2027 AI chips could run hundreds of millions of agents
+## 1. [Signal] Meta's Muse Wonder scores 56 on AA's index and arrives behind a paywall
 
-- Published: Sun, 11 Oct 2026 21:04:36 GMT
-- Link: https://epoch.ai/publications/estimating-the-agent-population
+- Published: Mon, 12 Oct 2026 21:17:30 GMT
+- Link: https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html
 
-Epoch AI estimates that AI chips shipped through 2027 could run tens to hundreds of millions of concurrent frontier-model agents, and that this capacity would supply as many weekly working hours as roughly 140-720 million full-time employees, because an agent works all 168 hours a week against a hum
+Meta has released Muse Wonder and Muse Wonder Full, which its research blog calls its most capable models, built for "personal and professional agents" and trained at its gigawatt-scale Prometheus data centre. They do not come free. CNBC reports that Muse app users will need a US$20 or US$100 monthl
 
-## 2. [Signal] Firmus pulls A$43.7bn float after investors ask to see the foundations
+## 2. [Signal] Microsoft will run most AI inference on Maia, targeting multi-gigawatt scale
 
-- Published: Sun, 11 Oct 2026 21:04:36 GMT
-- Link: https://www.smh.com.au/technology/two-tech-outsiders-tried-to-sell-a-44bn-tech-company-it-didn-t-work-20261009-p6145h.html
+- Published: Mon, 12 Oct 2026 21:17:30 GMT
+- Link: https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html
 
-Firmus withdrew its A$43.7 billion ASX float on Friday morning, after institutional investors declined to pay the price. The offer, which would have been the largest on the ASX since Telstra in 1997, sought roughly US$5 billion at a valuation of about US$30.6 billion, nearly triple its August level,
+Microsoft says it will mainly rely on its own silicon to serve AI requests, starting with the third-generation Maia 300 accelerator unveiled on Monday, CNBC reports. Executive vice-president Scott Guthrie wrote that Microsoft is targeting multi-gigawatt deployments of the Maia family; production of
 
-## 3. [Signal] Developer finds DeepSeek 4.1 Flash on a par with Opus at a fraction of the cost
+## 3. [Signal] Broadcom's and Intel's CEOs say capital, not chips, may cap the AI build-out
 
-- Published: Sun, 11 Oct 2026 21:04:36 GMT
-- Link: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/
+- Published: Mon, 12 Oct 2026 21:17:30 GMT
+- Link: https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html
 
-A widely shared post by a developer who has used DeepSeek 4.1 Flash heavily for about a month says that, mid-session, he cannot tell it from Opus unless he checks the model name. He runs all-day sessions for under US$1 on a US$10-a-month plan, and attributes much of this to a KV cache that DeepSeek
+Broadcom chief executive Hock Tan told the DBS Asia Future Forward Conference in Singapore on Monday that capital "might be the biggest constraint", CNBC reports, ranking financing above shortages of semiconductors, memory or electricity as the obstacle to AI expansion. Intel's Lip-Bu Tan agreed: "I
 
-## 4. [Signal] PC shipments fall 20% as AI memory demand reprices the device market
+## 4. [Signal] Pew: 51% of US adults never use chatbots, and most don't plan to start
 
-- Published: Sun, 11 Oct 2026 21:04:36 GMT
-- Link: https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/
+- Published: Mon, 12 Oct 2026 21:17:30 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690
 
-Global PC shipments fell 20.1 per cent year on year in the September quarter to 62.7 million units, according to IDC, the largest third-quarter decline it has recorded. Omdia put the fall at 21.2 per cent to 58.1 million. IDC says vendors and channels pulled forward purchases earlier in the year ahe
+Pew Research Center finds that 51% of American adults never use AI chatbots, The Register reports, so users are now, narrowly, the minority. Non-use rises with age: roughly three-quarters of those aged 65 and over never use them, as do 58% of those aged 50 to 64, while 18-to-29-year-olds use them mo
 
-## 5. [Signal] Microsoft releases a small decision model aimed at routing and workflow control
+## 5. [Signal] Microsoft's Brad Smith: AI is less regulated than milk; wants victim liability
 
-- Published: Sun, 11 Oct 2026 21:04:36 GMT
-- Link: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/
+- Published: Mon, 12 Oct 2026 21:17:30 GMT
+- Link: https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules
 
-Microsoft has released Microsoft-Decision-1, a model for fast decision-scoring, available in Foundry and coming to OpenRouter. It is designed for routing, classification, prioritisation, verification and workflow control rather than open-ended generation. Microsoft reports the highest accuracy acros
+Microsoft president Brad Smith has told the BBC that artificial intelligence is less regulated than milk and washing machines, The Guardian reports. "Right now, your washing machine is subject to more safety rules than AI. Every carton of milk that you see in the grocery store is subject to safety r
 
-## 6. [Signal] Google Cloud recasts Gemini as one enterprise agent routing across rivals
+## 6. [Signal] REA and Doory: agent tooling moves from cloning apps to cloning features
 
-- Published: Sun, 11 Oct 2026 21:04:36 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/10/08/there-can-be-only-one-google-cloud-casts-gemini-as-your-enterprise-ai-hero/5302086
+- Published: Mon, 12 Oct 2026 21:17:30 GMT
+- Link: https://github.com/morluto/rea
 
-At its Gemini at Work event, Google Cloud CEO Thomas Kurian said "Today, Gemini became an agent": a single surface across Gmail, Drive, Docs, Sheets, Chat and Calendar that takes objectives, spawns job-specific sub-agents, and runs each task on the best-fit model, "orchestrating across our Gemini fa
+Two open-source projects shared on Monday show how far "rebuild it yourself" has moved down the stack. REA, published on GitHub by morluto, describes itself as "one MCP for reverse engineering across binaries, applications, and runtime behaviour". Its pitch: "See a feature in an app that you want in
 
-## 7. [Signal] Deno team joins Cloudflare to take Durable Objects beyond Cloudflare's network
+## 7. [Signal] Sakana's MASS: one model as worker, manager and judge improves itself
 
-- Published: Sun, 11 Oct 2026 21:04:36 GMT
-- Link: https://blog.cloudflare.com/deno-joins-cloudflare/
+- Published: Mon, 12 Oct 2026 21:17:30 GMT
+- Link: https://pub.sakana.ai/mass/
 
-Cloudflare announced that the Deno team is joining it, and that Deno's celld, an open-source Rust implementation of the distributed Durable Objects model released in August, will be merged with Cloudflare's open-source workerd runtime. The stated aim is to make it simple to self-host Workers and Dur
+Sakana AI has published Multi-Agent Self-Supervision (MASS), a method in which one language model plays all three roles in its own improvement loop: executor, workflow optimiser and evaluator. The optimiser searches for the best way to organise a team of agents on a task, using the same model's judg
 
-## 8. [Signal] Practitioner critique: coding agents, not models, are now the bottleneck
+## 8. [Signal] QGIS bans AI-assisted contributions, citing maintainer overload
 
-- Published: Sun, 11 Oct 2026 21:04:36 GMT
-- Link: https://mtlynch.io/why-are-coding-agents-so-dumb/
+- Published: Mon, 12 Oct 2026 21:17:30 GMT
+- Link: https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387
 
-In a long post that Mark described as making "excellent points", developer Michael Lynch argues that since early 2025 models have advanced while the agents that wrap them have stayed poor. His list is specific: agents split work into subtasks and then run embarrassingly parallel ones sequentially; t
+QGIS, the open-source geographic information system, is debating a proposal titled "No AI contributions permitted". The enhancement proposal, QEP428, opened by Nyall Dawson on GitHub, would formally change the project's AI policy to a strict "NOT ALLOWED". A supporting comment argues that "AI use fr
