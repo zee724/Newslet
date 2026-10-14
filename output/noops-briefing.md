@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-10-13 06:46 UTC
+- Generated at: 2026-10-14 04:52 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Meta's Muse Wonder scores 56 on AA's index and arrives behind a paywall
+## 1. [Signal] Memory stocks fall the day CXMT reports a denser DRAM; HBM lead intact
 
-- Published: Mon, 12 Oct 2026 21:17:30 GMT
-- Link: https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html
+- Published: Tue, 13 Oct 2026 20:42:05 GMT
+- Link: https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html
 
-Meta has released Muse Wonder and Muse Wonder Full, which its research blog calls its most capable models, built for "personal and professional agents" and trained at its gigawatt-scale Prometheus data centre. They do not come free. CNBC reports that Muse app users will need a US$20 or US$100 monthl
+Memory and chip-equipment shares fell hard in the 13 October session. CNBC reports that SK Hynix dropped more than 10% and Samsung Electronics 7.4% in Seoul, both to their lowest levels since August, while SoftBank Group sank 8.5% and Tokyo Electron 7.2% in Tokyo. In Europe ASML opened 3.3% lower an
 
-## 2. [Signal] Microsoft will run most AI inference on Maia, targeting multi-gigawatt scale
+## 2. [Signal] IMF names an AI share correction among three salient risks to stability
 
-- Published: Mon, 12 Oct 2026 21:17:30 GMT
-- Link: https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html
+- Published: Tue, 13 Oct 2026 20:42:05 GMT
+- Link: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks
 
-Microsoft says it will mainly rely on its own silicon to serve AI requests, starting with the third-generation Maia 300 accelerator unveiled on Monday, CNBC reports. Executive vice-president Scott Guthrie wrote that Microsoft is targeting multi-gigawatt deployments of the Maia family; production of
+The International Monetary Fund's twice-yearly Global Financial Stability Report, launched on 13 October, names an AI share-price correction as one of three "salient risks" to world financial stability, alongside rising government borrowing costs and the threat of a major cyber-attack, the Guardian
 
-## 3. [Signal] Broadcom's and Intel's CEOs say capital, not chips, may cap the AI build-out
+## 3. [Signal] Jefferies: half the US$2.3trn cloud backlog comes from OpenAI and Anthropic
 
-- Published: Mon, 12 Oct 2026 21:17:30 GMT
-- Link: https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html
+- Published: Tue, 13 Oct 2026 20:42:05 GMT
+- Link: https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774
 
-Broadcom chief executive Hock Tan told the DBS Asia Future Forward Conference in Singapore on Monday that capital "might be the biggest constraint", CNBC reports, ranking financing above shortages of semiconductors, memory or electricity as the obstacle to AI expansion. Intel's Lip-Bu Tan agreed: "I
+In a research note on Asian markets reported by The Register on 13 October, Jefferies estimates that about half of the roughly US$2.3trn contracted backlog at Microsoft, Alphabet, Amazon and Oracle is attributable to just two customers, OpenAI and Anthropic. The note argues that cheap Chinese, open-
 
-## 4. [Signal] Pew: 51% of US adults never use chatbots, and most don't plan to start
+## 4. [Signal] Anthropic to show investors Q3 numbers as AI lab revenue moves markets
 
-- Published: Mon, 12 Oct 2026 21:17:30 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690
+- Published: Tue, 13 Oct 2026 20:42:05 GMT
+- Link: https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html
 
-Pew Research Center finds that 51% of American adults never use AI chatbots, The Register reports, so users are now, narrowly, the minority. Non-use rises with age: roughly three-quarters of those aged 65 and over never use them, as do 58% of those aged 50 to 64, while 18-to-29-year-olds use them mo
+Anthropic plans to disclose its third-quarter financials for the first time at a meeting with potential institutional investors at its San Francisco headquarters on Wednesday (US time), CNBC reports, citing two people familiar with the matter; Bloomberg first reported the meeting and Anthropic decli
 
-## 5. [Signal] Microsoft's Brad Smith: AI is less regulated than milk; wants victim liability
+## 5. [Signal] JPMorgan bars outside AI agents from moving money in customer accounts
 
-- Published: Mon, 12 Oct 2026 21:17:30 GMT
-- Link: https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules
+- Published: Tue, 13 Oct 2026 20:42:05 GMT
+- Link: https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html
 
-Microsoft president Brad Smith has told the BBC that artificial intelligence is less regulated than milk and washing machines, The Guardian reports. "Right now, your washing machine is subject to more safety rules than AI. Every carton of milk that you see in the grocery store is subject to safety r
+JPMorgan Chase will not let outside AI agents access customer accounts and act on customers' behalf, CEO Jamie Dimon told analysts on the bank's third-quarter earnings call on 13 October. "We're not going to allow just any … outside agent to come in inside the company, because it's just too risky fo
 
-## 6. [Signal] REA and Doory: agent tooling moves from cloning apps to cloning features
+## 6. [Signal] Counterpoint: Q3 smartphone shipments fall 20% to a 14-year low on memory
 
-- Published: Mon, 12 Oct 2026 21:17:30 GMT
-- Link: https://github.com/morluto/rea
+- Published: Tue, 13 Oct 2026 20:42:05 GMT
+- Link: https://counterpointresearch.com/en/insights/global-smartphone-shipments-hit-a-new-low-with-20-percent-yoy-decline-lowest-in-14-years
 
-Two open-source projects shared on Monday show how far "rebuild it yourself" has moved down the stack. REA, published on GitHub by morluto, describes itself as "one MCP for reverse engineering across binaries, applications, and runtime behaviour". Its pitch: "See a feature in an app that you want in
+Global smartphone shipments fell 20% year on year in the third quarter of 2026, the lowest Q3 level since 2012, according to preliminary estimates published by Counterpoint Research on 12 October. Counterpoint attributes the decline to continued memory shortages that constrained supply for most manu
 
-## 7. [Signal] Sakana's MASS: one model as worker, manager and judge improves itself
+## 7. [Signal] Anthropic built its own source control after daily merges passed 30,000
 
-- Published: Mon, 12 Oct 2026 21:17:30 GMT
-- Link: https://pub.sakana.ai/mass/
+- Published: Tue, 13 Oct 2026 20:42:05 GMT
+- Link: https://www.anthropic.com/engineering/redesigning-source-control
 
-Sakana AI has published Multi-Agent Self-Supervision (MASS), a method in which one language model plays all three roles in its own improvement loop: executor, workflow optimiser and evaluator. The optimiser searches for the best way to organise a team of agents on a task, using the same model's judg
+Anthropic says agent-written code has made source control its biggest development bottleneck, and that it replaced git for its monorepo with an in-house system called Scion in five months. In an engineering post published on 13 October, the company says it averaged about 2,500 merged code changes a
 
-## 8. [Signal] QGIS bans AI-assisted contributions, citing maintainer overload
+## 8. [Signal] Anthropic says small models near IoT self-replication; critics flag caveats
 
-- Published: Mon, 12 Oct 2026 21:17:30 GMT
-- Link: https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387
+- Published: Tue, 13 Oct 2026 20:42:05 GMT
+- Link: https://www.anthropic.com/research/self-replicating-ai
 
-QGIS, the open-source geographic information system, is debating a proposal titled "No AI contributions permitted". The enhancement proposal, QEP428, opened by Nyall Dawson on GitHub, would formally change the project's AI policy to a strict "NOT ALLOWED". A supporting comment argues that "AI use fr
+Anthropic published research on 12 October arguing that small AI models may be "months away" from being able to self-replicate on cheap internet-of-things devices such as smart ovens and off-brand Android TV boxes. In its tests a 9B-parameter model got inference running on eight of nine hardware typ
