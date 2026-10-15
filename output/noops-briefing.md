@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-10-14 04:52 UTC
+- Generated at: 2026-10-15 04:37 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Memory stocks fall the day CXMT reports a denser DRAM; HBM lead intact
+## 1. [Signal] CoreWeave 2032 bonds yield 14.8%; its shares fall 16% in one session
 
-- Published: Tue, 13 Oct 2026 20:42:05 GMT
-- Link: https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html
+- Published: Wed, 14 Oct 2026 21:26:25 GMT
+- Link: https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html
 
-Memory and chip-equipment shares fell hard in the 13 October session. CNBC reports that SK Hynix dropped more than 10% and Samsung Electronics 7.4% in Seoul, both to their lowest levels since August, while SoftBank Group sank 8.5% and Tokyo Electron 7.2% in Tokyo. In Europe ASML opened 3.3% lower an
+CoreWeave's shares and bonds were both hit in the US session on Wednesday 14 October. CNBC reported the stock down 16%, with the yield to maturity on its 9.625% notes due 2032 at 14.8% and on its 9.75% notes due 2031 at about 14.9%. A second CNBC report, filed mid-session with the fall at 15%, count
 
-## 2. [Signal] IMF names an AI share correction among three salient risks to stability
+## 2. [Signal] FT: JPMorgan, Morgan Stanley, SMBC, MUFG weigh AI-loan risk transfers
 
-- Published: Tue, 13 Oct 2026 20:42:05 GMT
-- Link: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks
+- Published: Wed, 14 Oct 2026 21:26:25 GMT
+- Link: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/
 
-The International Monetary Fund's twice-yearly Global Financial Stability Report, launched on 13 October, names an AI share-price correction as one of three "salient risks" to world financial stability, alongside rising government borrowing costs and the threat of a major cyber-attack, the Guardian
+JPMorgan, Morgan Stanley, SMBC and MUFG have been exploring significant risk transfers on loans tied to the AI data-centre build-out, according to a Financial Times report summarised by Startup Fortune; we could not read the FT original. The structures let a bank keep a loan on its books while shift
 
-## 3. [Signal] Jefferies: half the US$2.3trn cloud backlog comes from OpenAI and Anthropic
+## 3. [Signal] Gartner: AI capex needs US$8.5trn of revenue to 2030; it sees US$3.6trn
 
-- Published: Tue, 13 Oct 2026 20:42:05 GMT
-- Link: https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774
+- Published: Wed, 14 Oct 2026 21:26:25 GMT
+- Link: https://www.theregister.com/on-prem/2026/10/14/the-ai-math-isnt-mathing-as-infrastructure-spending-forecast-to-outstrip-expected-revenue/5302856
 
-In a research note on Asian markets reported by The Register on 13 October, Jefferies estimates that about half of the roughly US$2.3trn contracted backlog at Microsoft, Alphabet, Amazon and Oracle is attributable to just two customers, OpenAI and Anthropic. The note argues that cheap Chinese, open-
+Gartner has added up planned AI data-centre investment and the revenue it expects AI to generate, and the numbers do not meet, The Register reports. According to Gartner senior director analyst Will Sommer, AI providers are expected to spend nearly US$1trn on AI infrastructure in 2026 and a further
 
-## 4. [Signal] Anthropic to show investors Q3 numbers as AI lab revenue moves markets
+## 4. [Signal] ASML: customers ask about 2029–30 orders; 2028 capacity may rise over 30%
 
-- Published: Tue, 13 Oct 2026 20:42:05 GMT
-- Link: https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html
+- Published: Wed, 14 Oct 2026 21:26:25 GMT
+- Link: https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html
 
-Anthropic plans to disclose its third-quarter financials for the first time at a meeting with potential institutional investors at its San Francisco headquarters on Wednesday (US time), CNBC reports, citing two people familiar with the matter; Bloomberg first reported the meeting and Anthropic decli
+ASML reported third-quarter net profit of €4.96bn against an LSEG consensus of €4.1bn, on net sales of €11.66bn, slightly below the €11.72bn expected, CNBC reports. More notable was chief executive Christophe Fouquet's statement that "some customers are expressing an interest in placing orders with
 
-## 5. [Signal] JPMorgan bars outside AI agents from moving money in customer accounts
+## 5. [Signal] Bank of America added 1,000 contractors to patch flaws exposed by Mythos
 
-- Published: Tue, 13 Oct 2026 20:42:05 GMT
-- Link: https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html
+- Published: Wed, 14 Oct 2026 21:26:25 GMT
+- Link: https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html
 
-JPMorgan Chase will not let outside AI agents access customer accounts and act on customers' behalf, CEO Jamie Dimon told analysts on the bank's third-quarter earnings call on 13 October. "We're not going to allow just any … outside agent to come in inside the company, because it's just too risky fo
+Bank of America brought in 1,000 outside contractors in the second quarter to help 3,000 internal staff patch proprietary and vendor software flaws exposed by advanced AI models including Anthropic's Mythos, chief executive Brian Moynihan told CNBC on Wednesday 14 October, after third-quarter result
 
-## 6. [Signal] Counterpoint: Q3 smartphone shipments fall 20% to a 14-year low on memory
+## 6. [Signal] Berkshire puts another US$330m into Bending Spoons, lifting its stake to 4%
 
-- Published: Tue, 13 Oct 2026 20:42:05 GMT
-- Link: https://counterpointresearch.com/en/insights/global-smartphone-shipments-hit-a-new-low-with-20-percent-yoy-decline-lowest-in-14-years
+- Published: Wed, 14 Oct 2026 21:26:25 GMT
+- Link: https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html
 
-Global smartphone shipments fell 20% year on year in the third quarter of 2026, the lowest Q3 level since 2012, according to preliminary estimates published by Counterpoint Research on 12 October. Counterpoint attributes the decline to continued memory shortages that constrained supply for most manu
+Berkshire Hathaway has made a fresh US$330m investment in Bending Spoons, the Italy-based serial acquirer of software businesses, according to a securities filing reported by CNBC. Under the deal Bending Spoons will issue 10 million ordinary shares to Berkshire at US$33 each, taking Berkshire's stak
 
-## 7. [Signal] Anthropic built its own source control after daily merges passed 30,000
+## 7. [Signal] China's September exports rise 36.3%; chip-board export value up 136%
 
-- Published: Tue, 13 Oct 2026 20:42:05 GMT
-- Link: https://www.anthropic.com/engineering/redesigning-source-control
+- Published: Wed, 14 Oct 2026 21:26:25 GMT
+- Link: https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html
 
-Anthropic says agent-written code has made source control its biggest development bottleneck, and that it replaced git for its monorepo with an in-house system called Scion in five months. In an engineering post published on 13 October, the company says it averaged about 2,500 merged code changes a
+China's exports grew 36.3% year on year in September, their fastest pace since February, and imports rose 31%, official data released on Wednesday showed; both beat a Reuters poll, which had expected 25.5% and 24.5%, CNBC reports. Exports to the US grew nearly 39.6%. The monthly trade surplus reache
 
-## 8. [Signal] Anthropic says small models near IoT self-replication; critics flag caveats
+## 8. [Signal] Anthropic asks the DC appeals court to rehear its Pentagon blacklist case
 
-- Published: Tue, 13 Oct 2026 20:42:05 GMT
-- Link: https://www.anthropic.com/research/self-replicating-ai
+- Published: Wed, 14 Oct 2026 21:26:25 GMT
+- Link: https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html
 
-Anthropic published research on 12 October arguing that small AI models may be "months away" from being able to self-replicate on cheap internet-of-things devices such as smart ovens and off-brand Android TV boxes. In its tests a 9B-parameter model got inference running on eight of nine hardware typ
+Anthropic has petitioned the federal appeals court in Washington, DC, to rehear its challenge to the Pentagon's designation of the company as a national-security supply-chain risk, CNBC reports. The Defense Department applied the label in March after negotiations over military use of Claude broke do
