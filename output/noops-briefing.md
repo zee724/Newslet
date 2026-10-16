@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-10-15 04:37 UTC
+- Generated at: 2026-10-16 04:30 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] CoreWeave 2032 bonds yield 14.8%; its shares fall 16% in one session
+## 1. [Signal] Anthropic's Q3 revenue reported at US$16.8bn, up 46%, with adjusted profit
 
-- Published: Wed, 14 Oct 2026 21:26:25 GMT
-- Link: https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html
+- Published: Thu, 15 Oct 2026 22:02:43 GMT
+- Link: https://au.finance.yahoo.com/news/anthropic-revenue-jumps-46-16-085753083.html
 
-CoreWeave's shares and bonds were both hit in the US session on Wednesday 14 October. CNBC reported the stock down 16%, with the yield to maturity on its 9.625% notes due 2032 at 14.8% and on its 9.75% notes due 2031 at about 14.9%. A second CNBC report, filed mid-session with the fall at 15%, count
+Anthropic generated US$16.8bn in revenue between July and September, up about 46% from US$11.5bn in the previous quarter, according to a Euronews report carried by Yahoo Finance that cites Bloomberg and people familiar with the matter. The figures were presented to investors at Anthropic's San Franc
 
-## 2. [Signal] FT: JPMorgan, Morgan Stanley, SMBC, MUFG weigh AI-loan risk transfers
+## 2. [Signal] CoreWeave's five-year CDS passes 1,000bp, the level S&P calls distress
 
-- Published: Wed, 14 Oct 2026 21:26:25 GMT
-- Link: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/
+- Published: Thu, 15 Oct 2026 22:02:43 GMT
+- Link: https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html
 
-JPMorgan, Morgan Stanley, SMBC and MUFG have been exploring significant risk transfers on loans tied to the AI data-centre build-out, according to a Financial Times report summarised by Startup Fortune; we could not read the FT original. The structures let a bank keep a loan on its books while shift
+Spreads on CoreWeave's five-year credit default swaps rose above 1,140 basis points at one point on Thursday 15 October and last stood at 1,088bp, CNBC reports, a 33% week-on-week jump and 177% higher than a year earlier. The yield to maturity on its 9.75% bond due 2031 reached 15.78%. Gavan Nolan o
 
-## 3. [Signal] Gartner: AI capex needs US$8.5trn of revenue to 2030; it sees US$3.6trn
+## 3. [Signal] CNBC: 20 largest AI and chip stocks shed over US$1trn so far this week
 
-- Published: Wed, 14 Oct 2026 21:26:25 GMT
-- Link: https://www.theregister.com/on-prem/2026/10/14/the-ai-math-isnt-mathing-as-infrastructure-spending-forecast-to-outstrip-expected-revenue/5302856
+- Published: Thu, 15 Oct 2026 22:02:43 GMT
+- Link: https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html
 
-Gartner has added up planned AI data-centre investment and the revenue it expects AI to generate, and the numbers do not meet, The Register reports. According to Gartner senior director analyst Will Sommer, AI providers are expected to spend nearly US$1trn on AI infrastructure in 2026 and a further
+Twenty of the most valuable global AI and semiconductor stocks have shed more than US$1trn in combined value so far this week, CNBC reported on Thursday 15 October. In Seoul, SK Hynix fell more than 10% and Samsung Electronics 8.73%; in Tokyo, Advantest dropped almost 14%, SoftBank Group 7.9% and To
 
-## 4. [Signal] ASML: customers ask about 2029–30 orders; 2028 capacity may rise over 30%
+## 4. [Signal] TSMC posts a sixth record quarter while customers fight for wafer capacity
 
-- Published: Wed, 14 Oct 2026 21:26:25 GMT
-- Link: https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html
+- Published: Thu, 15 Oct 2026 22:02:43 GMT
+- Link: https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html
 
-ASML reported third-quarter net profit of €4.96bn against an LSEG consensus of €4.1bn, on net sales of €11.66bn, slightly below the €11.72bn expected, CNBC reports. More notable was chief executive Christophe Fouquet's statement that "some customers are expressing an interest in placing orders with
+TSMC reported third-quarter net profit of NT$763.1bn on Thursday 15 October, up 68.7% year on year and a record for the sixth straight quarter, on revenue of NT$1.49trn (US$46.36bn), CNBC reports; both figures beat LSEG SmartEstimates. Operating margin was 58.7%, above the top of its guidance range,
 
-## 5. [Signal] Bank of America added 1,000 contractors to patch flaws exposed by Mythos
+## 5. [Signal] TSMC checks US data-centre power and build-outs before adding capacity
 
-- Published: Wed, 14 Oct 2026 21:26:25 GMT
-- Link: https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html
+- Published: Thu, 15 Oct 2026 22:02:43 GMT
+- Link: https://www.theregister.com/systems/2026/10/15/tsmc-sends-scouts-to-check-whether-americas-datacenters-can-deliver/5303260
 
-Bank of America brought in 1,000 outside contractors in the second quarter to help 3,000 internal staff patch proprietary and vendor software flaws exposed by advanced AI models including Anthropic's Mythos, chief executive Brian Moynihan told CNBC on Wednesday 14 October, after third-quarter result
+TSMC is sending staff to inspect US data-centre construction and power availability as it plans further chipmaking capacity, The Register reports from the company's third-quarter earnings call. Chairman and chief executive C.C. Wei said TSMC factors cloud providers' capex, data-centre build-out, fin
 
-## 6. [Signal] Berkshire puts another US$330m into Bending Spoons, lifting its stake to 4%
+## 6. [Signal] Apple closes above US$5trn; Joswiak says its AI targets 'everyday people'
 
-- Published: Wed, 14 Oct 2026 21:26:25 GMT
-- Link: https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html
+- Published: Thu, 15 Oct 2026 22:02:43 GMT
+- Link: https://www.macrumors.com/2026/10/14/apple-5-trillion-close/
 
-Berkshire Hathaway has made a fresh US$330m investment in Bending Spoons, the Italy-based serial acquirer of software businesses, according to a securities filing reported by CNBC. Under the deal Bending Spoons will issue 10 million ordinary shares to Berkshire at US$33 each, taking Berkshire's stak
+Apple closed above a US$5trn market capitalisation for the first time on Wednesday 14 October, at US$342.96 a share for a value of US$5.005trn, MacRumors reports, noting from The Wall Street Journal that it had crossed the mark intraday six times before. It is the second company to close there after
 
-## 7. [Signal] China's September exports rise 36.3%; chip-board export value up 136%
+## 7. [Signal] Meta releases Muse Spark Open weights: 816B parameters, runs on two Macs
 
-- Published: Wed, 14 Oct 2026 21:26:25 GMT
-- Link: https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html
+- Published: Thu, 15 Oct 2026 22:02:43 GMT
+- Link: https://research.meta.ai/blog/muse-spark-open
 
-China's exports grew 36.3% year on year in September, their fastest pace since February, and imports rose 31%, official data released on Wednesday showed; both beat a Reuters poll, which had expected 25.5% and 24.5%, CNBC reports. Exports to the US grew nearly 39.6%. The monthly trade surplus reache
+Meta released the weights of Muse Spark Open on Thursday 15 October, describing it as "the most capable US open-weight model to date". It is natively multimodal, with 816bn total and 42bn active parameters and a one-million-token context window, and is built for coding and agentic work. Meta says it
 
-## 8. [Signal] Anthropic asks the DC appeals court to rehear its Pentagon blacklist case
+## 8. [Signal] Microsoft AI finishes pre-training MAI-Base-2, a 2.8trn-parameter MoE
 
-- Published: Wed, 14 Oct 2026 21:26:25 GMT
-- Link: https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html
+- Published: Thu, 15 Oct 2026 22:02:43 GMT
+- Link: https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/
 
-Anthropic has petitioned the federal appeals court in Washington, DC, to rehear its challenge to the Pentagon's designation of the company as a national-security supply-chain risk, CNBC reports. The Defense Department applied the label in March after negotiations over military use of Claude broke do
+Microsoft AI says it has completed pre-training MAI-Base-2, a mixture-of-experts foundation model with 80bn active and 2.8trn total parameters, trained on 16,000 GB200 GPUs over 38 days in August and September 2026. The lab reports average model-FLOPs utilisation of 21% and goodput, the share of tim
