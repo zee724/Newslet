@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-10-18 04:31 UTC
+- Generated at: 2026-10-19 04:39 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Anthropic's Q3 revenue reported at US$16.8bn, up 46%, with adjusted profit
+## 1. [Signal] Volta's US$5bn Apollo-anchored data-centre loan prices at 11% or more
 
-- Published: Thu, 15 Oct 2026 22:02:43 GMT
-- Link: https://au.finance.yahoo.com/news/anthropic-revenue-jumps-46-16-085753083.html
+- Published: Sun, 18 Oct 2026 20:52:37 GMT
+- Link: https://www.semafor.com/article/10/13/2026/voltas-5-billion-debt-deal-is-a-pulse-check-on-the-ai-financing-boom
 
-Anthropic generated US$16.8bn in revenue between July and September, up about 46% from US$11.5bn in the previous quarter, according to a Euronews report carried by Yahoo Finance that cites Bloomberg and people familiar with the matter. The figures were presented to investors at Anthropic's San Franc
+Semafor reports that Volta, an AI infrastructure company founded only in February, is raising US$5bn for a Norwegian data centre through JPMorgan and Goldman Sachs at a rate of at least 11%, anchored by a US$1.5bn Apollo order. That is unusually high for a data-centre project. Some lenders told the
 
-## 2. [Signal] CoreWeave's five-year CDS passes 1,000bp, the level S&P calls distress
+## 2. [Signal] Huang says CoreWeave's cost of capital is falling; its shares fell 12%
 
-- Published: Thu, 15 Oct 2026 22:02:43 GMT
-- Link: https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html
+- Published: Sun, 18 Oct 2026 20:52:37 GMT
+- Link: https://finance.yahoo.com/markets/article/nvidia-ceo-jensen-huang-addresses-coreweave-stock-plunge-im-optimistic-161504419.html
 
-Spreads on CoreWeave's five-year credit default swaps rose above 1,140 basis points at one point on Thursday 15 October and last stood at 1,088bp, CNBC reports, a 33% week-on-week jump and 177% higher than a year earlier. The yield to maturity on its 9.75% bond due 2031 reached 15.78%. Gavan Nolan o
+Nvidia chief executive Jensen Huang told a Bloomberg event in Stockholm that "CoreWeave's strength is improving every day", that he is "optimistic" and that CoreWeave's "cost of capital is actually decreasing", after a roughly 15% fall in CoreWeave on Wednesday. Yahoo Finance reports the stock fell
 
-## 3. [Signal] CNBC: 20 largest AI and chip stocks shed over US$1trn so far this week
+## 3. [Signal] Brin: Google is 'on the RSI treadmill'; agents write most code
 
-- Published: Thu, 15 Oct 2026 22:02:43 GMT
-- Link: https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html
+- Published: Sun, 18 Oct 2026 20:52:37 GMT
+- Link: https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10
 
-Twenty of the most valuable global AI and semiconductor stocks have shed more than US$1trn in combined value so far this week, CNBC reported on Thursday 15 October. In Seoul, SK Hynix fell more than 10% and Samsung Electronics 8.73%; in Tokyo, Advantest dropped almost 14%, SoftBank Group 7.9% and To
+In a roundtable on Gemini 4's Argon model, Google cofounder Sergey Brin said AI development is accelerating internally and models are now helping build their successors, adding that Google is "starting to get onto that RSI treadmill" (recursive self-improvement) and pointing to the Flash releases be
 
-## 4. [Signal] TSMC posts a sixth record quarter while customers fight for wafer capacity
+## 4. [Signal] Agents reverse-engineer 1980s Macs and undocumented hardware in hours
 
-- Published: Thu, 15 Oct 2026 22:02:43 GMT
-- Link: https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html
+- Published: Sun, 18 Oct 2026 20:52:37 GMT
+- Link: https://roytinker.com/68k-ports/
 
-TSMC reported third-quarter net profit of NT$763.1bn on Thursday 15 October, up 68.7% year on year and a record for the sixth straight quarter, on revenue of NT$1.49trn (US$46.36bn), CNBC reports; both figures beat LSEG SmartEstimates. Operating margin was 58.7%, above the top of its guidance range,
+Two public projects Mark flagged show the same pattern. Roy Tinker used Claude Opus 5.5 to reverse-engineer eleven 68000-era Macintosh programs (including Microsoft's Flight Simulator 1.02 from 1986, Kid Pix, Lemmings and The Oregon Trail) back to approximately their original source and port them to
 
-## 5. [Signal] TSMC checks US data-centre power and build-outs before adding capacity
+## 5. [Signal] Where is the AI-built software? A 2x rise in modest hits, none at the top
 
-- Published: Thu, 15 Oct 2026 22:02:43 GMT
-- Link: https://www.theregister.com/systems/2026/10/15/tsmc-sends-scouts-to-check-whether-americas-datacenters-can-deliver/5303260
+- Published: Sun, 18 Oct 2026 20:52:37 GMT
+- Link: https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/
 
-TSMC is sending staff to inspect US data-centre construction and power availability as it plans further chipmaking capacity, The Register reports from the company's third-quarter earnings call. Chairman and chief executive C.C. Wei said TSMC factors cloud providers' capex, data-centre build-out, fin
+Sean Goedecke, who works at GitHub, tried to answer the recurring question of why agentic coding has not produced an explosion of new, great products. He compared about twenty marketplaces, plugin registries and modding platforms with public installation counts, covering 2022-24 against 2025-26 (bef
 
-## 6. [Signal] Apple closes above US$5trn; Joswiak says its AI targets 'everyday people'
+## 6. [Signal] Agents that fixate: 'context inertia' and the case for deterministic tools
 
-- Published: Thu, 15 Oct 2026 22:02:43 GMT
-- Link: https://www.macrumors.com/2026/10/14/apple-5-trillion-close/
+- Published: Sun, 18 Oct 2026 20:52:37 GMT
+- Link: https://www.dbreunig.com/2026/10/14/context-inertia.html
 
-Apple closed above a US$5trn market capitalisation for the first time on Wednesday 14 October, at US$342.96 a share for a value of US$5.005trn, MacRumors reports, noting from The Wall Street Journal that it had crossed the mark intraday six times before. It is the second company to close there after
+Drew Breunig has named a failure mode he calls Context Inertia: a model commits to a hypothesis or subtask and keeps pursuing it after the evidence says to change course. He points to three independent sources in about a week. Anthropic's Memento harness has each agent work to a fixed timeout (1.5 h
 
-## 7. [Signal] Meta releases Muse Spark Open weights: 816B parameters, runs on two Macs
+## 7. [Signal] Vatican AI adviser warns Australian copyright change risks 'new colonialism'
 
-- Published: Thu, 15 Oct 2026 22:02:43 GMT
-- Link: https://research.meta.ai/blog/muse-spark-open
+- Published: Sun, 18 Oct 2026 20:52:37 GMT
+- Link: https://www.abc.net.au/news/2026-10-14/pope-leo-xiv-ai-adviser-paolo-benanti-australia-copyright/107263800
 
-Meta released the weights of Muse Spark Open on Thursday 15 October, describing it as "the most capable US open-weight model to date". It is natively multimodal, with 816bn total and 42bn active parameters and a one-million-token context window, and is built for coding and agentic work. Meta says it
+ABC's 7.30 reports that Father Paolo Benanti, an AI adviser to Pope Leo XIV, warned that Australia would risk a "new form of colonialism" if it allowed AI companies to train on copyrighted work without permission and sent the profits offshore. He said Australian writing could become another resource
 
-## 8. [Signal] Microsoft AI finishes pre-training MAI-Base-2, a 2.8trn-parameter MoE
+## 8. [Signal] Goodfire argues neural networks are 'already clean'
 
-- Published: Thu, 15 Oct 2026 22:02:43 GMT
-- Link: https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/
+- Published: Sun, 18 Oct 2026 20:52:37 GMT
+- Link: https://already-clean.goodfire.com/
 
-Microsoft AI says it has completed pre-training MAI-Base-2, a mixture-of-experts foundation model with 80bn active and 2.8trn total parameters, trained on 16,000 GB200 GPUs over 38 days in August and September 2026. The lab reports average model-FLOPs utilisation of 21% and goodput, the share of tim
+Goodfire researcher Nick Cammarata has published a 65-minute essay, flagged as a working hypothesis, arguing that the canonical evidence for polysemanticity and superposition in early model organisms was misread. In his account, what looked like arbitrary packing of concepts into neurons was mostly
