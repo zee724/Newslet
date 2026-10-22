@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-10-21 04:44 UTC
+- Generated at: 2026-10-22 04:42 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] CNBC: Anthropic in talks with Nscale on a second ~US$45bn capacity lease
+## 1. [Signal] NextDC cuts FY27 revenue guidance to A$475–500m from A$615–640m
 
-- Published: Tue, 20 Oct 2026 21:07:55 GMT
-- Link: https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html
+- Published: Wed, 21 Oct 2026 20:49:17 GMT
+- Link: https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html
 
-Anthropic is in talks with UK neocloud Nscale over a second multibillion-dollar deal to lease computing capacity, CNBC reported on 20 October, citing a person familiar with the matter. The agreement would cover a second 460-megawatt data centre at the same West Virginia site as the companies' first
+NextDC has cut its fiscal 2027 revenue guidance to A$475–500 million, from A$615–640 million, and its underlying EBITDA forecast to A$245–265 million, from A$385–410 million, CNBC reports. The company attributes the downgrade to power supply delays at its M3 facility in Melbourne, where upgrades to
 
-## 2. [Signal] Korean cloud provider Elice falls 30% on debut; HSBC sees CoreWeave downside
+## 2. [Signal] NextDC pauses uncontracted projects; SMH tallies data-centre setbacks
 
-- Published: Tue, 20 Oct 2026 21:07:55 GMT
-- Link: https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html
+- Published: Wed, 21 Oct 2026 20:49:17 GMT
+- Link: https://www.smh.com.au/politics/federal/power-protests-light-fuse-on-2-billion-data-centre-implosion-as-nextdc-shares-plummet-20261021-p617dd.html
 
-Shares of South Korean cloud provider Elice Group fell 30% during their market debut, CNBC reported on 20 October, describing it as a company that has been compared to US neocloud CoreWeave. Citing Reuters, CNBC said the IPO raised just US$150m and that Elice's market capitalisation equates to rough
+NextDC will cut its planned construction spending for the coming financial year to A$4.5–5 billion, from up to A$5.75 billion, and has paused projects and land purchases not backed by customer contracts, The Sydney Morning Herald reports. Chief executive Craig Scroggie said that with revenue from th
 
-## 3. [Signal] DHS orders US federal civilian agencies to remove DeepSeek products
+## 3. [Signal] Musk says SpaceX and Tesla have formed committees to explore a merger
 
-- Published: Tue, 20 Oct 2026 21:07:55 GMT
-- Link: https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010
+- Published: Wed, 21 Oct 2026 20:49:17 GMT
+- Link: https://www.smh.com.au/business/companies/elon-musk-wants-to-merge-tesla-and-spacex-to-create-a-5-trillion-giant-20261021-p617c1.html
 
-The US Department of Homeland Security has ordered federal civilian agencies to exclude DeepSeek products from procurement and to remove "all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations" from their IT systems. The notice, s
+Elon Musk said SpaceX and Tesla have each formed special committees to explore a potential merger, according to a Bloomberg report by Richard Clough and Ed Ludlow carried by The Sydney Morning Herald. Musk, chief executive of both, said on SpaceX's earnings webcast that he sees merit in combining th
 
-## 4. [Signal] Amazon to fund a 960MW, 12-reactor X-energy plant at a former Indiana coal site
+## 4. [Signal] OpenAI extends ChatGPT Ads to 26 more countries, taking the total to 89
 
-- Published: Tue, 20 Oct 2026 21:07:55 GMT
-- Link: https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/
+- Published: Wed, 21 Oct 2026 20:49:17 GMT
+- Link: https://www.cnbc.com/2026/10/21/openai-chatgpt-ads-26-countries.html
 
-Amazon is funding development of a proposed 960-megawatt nuclear plant in Indiana and would be the first customer for its power, TechCrunch reported on 19 October, citing the companies' Monday announcement. The plant would comprise 12 X-energy Xe-100 small modular reactors on the site of a demolishe
+OpenAI is rolling out ChatGPT Ads to 26 additional countries, bringing the total to 89, CNBC reports. Free users and Go subscribers in markets including Argentina, Peru, Nigeria, South Africa and Ukraine will start to see ads, which OpenAI says are separate from ChatGPT's answers, do not influence t
 
-## 5. [Signal] Nvidia reportedly expects at least US$20bn of Vera CPU sales in its first year
+## 5. [Signal] Stork: Alibaba lifts DeepSeek V4 Flash output price to US$1.32 from US$0.40
 
-- Published: Tue, 20 Oct 2026 21:07:55 GMT
-- Link: https://hothardware.com/news/modal-claims-nvidia-vera-2x-throughput-vs-intel-amd
+- Published: Wed, 21 Oct 2026 20:49:17 GMT
+- Link: https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices
 
-Nvidia reportedly expects sales of its Vera CPU to reach at least US$20bn in the processor's first fiscal year, according to a HotHardware article citing Reuters. This signal relies on the article's text as pasted into the conversation: HotHardware returned an access error to our one fetch attempt,
+Stork, an AI newsletter that records first-party list prices daily in its own catalogue, reports that Alibaba raised its prices for DeepSeek V4 Flash 0731 overnight: input from US$0.20 to US$0.44 per million tokens, and output from US$0.40 to US$1.32, an increase of 230%. Stork says Mistral lifted i
 
-## 6. [Signal] Bob McGrew's Arda raises a US$160m Series A at a US$1.5bn valuation
+## 6. [Signal] Intel installs first major truss at Ohio fab now targeted for 2030–31
 
-- Published: Tue, 20 Oct 2026 21:07:55 GMT
-- Link: https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html
+- Published: Wed, 21 Oct 2026 20:49:17 GMT
+- Link: https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html
 
-Arda, the manufacturing-AI start-up built by former OpenAI research chief Bob McGrew, has raised US$230m at a US$1.5bn valuation, the company told CNBC in an interview published on 20 October. Altimeter Capital, Accel and Khosla Ventures led the round, with Altimeter's Apoorv Agrawal leading. McGrew
+Intel has installed the first major structural truss at its chip fabrication plant in New Albany, Ohio, CNBC reports, marking the start of the next phase of construction at a site running at least five years behind its original schedule. When Intel announced the fab in 2022 it expected to deliver ch
 
-## 7. [Signal] Nvidia names four German start-ups in its near-US$10bn European commitment
+## 7. [Signal] Meta: over 11% of Prometheus GPUs are failed or held in reserve as spares
 
-- Published: Tue, 20 Oct 2026 21:07:55 GMT
-- Link: https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html
+- Published: Wed, 21 Oct 2026 20:49:17 GMT
+- Link: https://www.theregister.com/systems/2026/10/20/tens-of-thousands-of-nvidia-gpus-sit-idle-in-metas-prometheus-supercluster-just-waiting-for-a-failure/5304269
 
-Nvidia named four German start-ups, Agile Robots, Avelios Medical, Mirelo and Reflex Aerospace, as investment targets at the Invest in Germany Summit in Berlin on Monday 19 October, CNBC reported, as part of a nearly US$10bn commitment to companies, universities and research institutions across Euro
+More than 11% of the GPUs in Meta's Prometheus supercluster in New Albany, Ohio, are either dead or sitting idle as hot spares waiting to replace failed units, The Register reports, drawing on a Meta engineering blog post. Prometheus currently runs on Nvidia GB200 and GB300 systems with 72 GPUs per
 
-## 8. [Signal] Preference Model: Terminal Bench 4 graders failed honest work on 41 of 65 tasks
+## 8. [Signal] Forrester: AI to be 20% of 2027 tech spend; most CIOs to miss ROI goals
 
-- Published: Tue, 20 Oct 2026 21:07:55 GMT
-- Link: https://preferencemodel.com/blog/terminal-bench-4-is-saturated/
+- Published: Wed, 21 Oct 2026 20:49:17 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/10/21/ai-will-eat-a-fifth-of-tech-budgets-in-2027-but-dont-expect-it-to-pay-for-itself/5304466
 
-Preference Model, which describes itself as a company focused on alignment and safety, published an audit on 19 October arguing that Terminal Bench 4 is "closer to solved than its leaderboard suggests". In 41 of the 65 tasks it reviewed, it says, models could do honest, correct work and still fail b
+AI will account for 20% of all business technology spending next year, Forrester predicts in its Technology & Security Predictions, while more than half of CIOs are likely to miss their AI-related return-on-investment targets, The Register reports. Forrester's State of AI Survey 2026 found that 45%
