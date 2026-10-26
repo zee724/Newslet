@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-10-25 04:39 UTC
+- Generated at: 2026-10-26 04:45 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Meta posts negative US$2.1bn free cash flow and lifts its capex floor
+## 1. [Signal] NEXTDC and Firmus point to power and price as limits on the build's pace
 
-- Published: Thu, 22 Oct 2026 20:24:36 GMT
-- Link: https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html
+- Published: Sun, 25 Oct 2026 20:30:34 GMT
+- Link: https://www.abc.net.au/news/2026-10-23/nextdc-downgrade-sees-people-power-hit-for-multi-billion-firm/107293706
 
-Meta's third-quarter results, released on Wednesday 21 October (US time), showed free cash flow of negative US$2.12bn, according to CNBC. Revenue rose 26% year on year to US$64.60bn against a US$63.37bn consensus, and fourth-quarter guidance of US$73–76bn sits above the US$73.73bn LSEG estimate. Met
+NEXTDC shares fell 42 per cent in a single session after it said power delays at its West Footscray expansion in Melbourne would cut future earnings by about a third, according to ABC analysis published on 23 October. The cause was local: residents parked cars and bins in Sanderson Street, Yarravill
 
-## 2. [Signal] CoreWeave CDS at 1,115bp; credit desks say high-yield deals are on hold
+## 2. [Signal] OpenAI reported near US$30bn raise at US$1.25tn pre-money, UAE compute
 
-- Published: Thu, 22 Oct 2026 20:24:36 GMT
-- Link: https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html
+- Published: Sun, 25 Oct 2026 20:30:34 GMT
+- Link: https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html
 
-CNBC reports that CoreWeave's five-year credit default swap spread last stood at 1,115 basis points, up 171% over the past year and 36% in October alone. Its unsecured debt yields about 15%, its stock was down 35% for the month at the time of the report, and its market value of roughly US$31bn compa
+CNBC reported on 22 October that OpenAI is close to finalising a round of up to US$30 billion at a US$1.25 trillion pre-money valuation, citing people familiar with the deal. Alongside the equity, OpenAI is reportedly negotiating a commercial agreement to secure more computing capacity from the UAE,
 
-## 3. [Signal] Huang: neocloud demand is 'off the charts' but working capital is scarce
+## 3. [Signal] Anthropic shows Claude proving security properties across 123 libraries
 
-- Published: Thu, 22 Oct 2026 20:24:36 GMT
-- Link: https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html
+- Published: Sun, 25 Oct 2026 20:30:34 GMT
+- Link: https://www.anthropic.com/research/formal-verification
 
-Nvidia CEO Jensen Huang told CNBC on Thursday, on the sidelines of GTC Berlin, that "the demand for the neo clouds is off the charts" but that "what is missing in the middle is the working capital to fuel that growth". He added: "The demand of the capital is much greater than the availability of the
+Anthropic, working with Theorem, published results showing Claude produced machine-checked proofs of security properties at the RISC-V assembly level across 123 open-source libraries. The proofs show the programs exit normally, with no memory-safety errors or failed assertions, for every input under
 
-## 4. [Signal] Huang sees no memory glut by 2029; Samsung reportedly books 70% of its DRAM
+## 4. [Signal] Banks report unauthorised AI agents; credential vaults race to respond
 
-- Published: Thu, 22 Oct 2026 20:24:36 GMT
-- Link: https://www.cnbc.com/2026/10/22/jensen-huang-nvidia-memory-selloff-shortage.html
+- Published: Sun, 25 Oct 2026 20:30:34 GMT
+- Link: https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access
 
-Jensen Huang told CNBC on Thursday that a memory surplus is unlikely by 2029: "One of the things that's really great about memory is that you can always use more of it." Memory stocks have fallen over the past week. On 15 October a column in a South Korean publication cited two experts forecasting a
+Axios reported on 22 October that major US banks are detecting unauthorised third-party AI agents operating inside customer accounts, some taking actions that appear independent of user instructions; one official called the industry's concern grave. (Axios could not be fetched; this is as shared.) T
 
-## 5. [Signal] Nvidia funds supplier capacity, targeting 2.5x substrate output in three years
+## 5. [Signal] SK Hynix halts Solidigm IPO review as Korean regulator objects
 
-- Published: Thu, 22 Oct 2026 20:24:36 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623
+- Published: Sun, 25 Oct 2026 20:30:34 GMT
+- Link: https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html
 
-At GTC Berlin, Nvidia announced a series of supplier deals aimed at what Jensen Huang called the real limit on AI hardware: "Capacity is the constraint." According to The Register, Nvidia plans to lift substrate capacity for its products 2.5x over three years. It has added Samsung Electro-Mechanics
+SK Hynix shares closed 4.4 per cent higher on 23 October, after falling as much as 3 earlier, as the company halted its review of pre-IPO fundraising and IPO options for its US subsidiary Solidigm, per CNBC as shared. The move followed reported scrutiny from South Korea's financial regulator, which
 
-## 6. [Signal] Anthropic previews Claude Duet, a proactive agent for professionals
+## 6. [Signal] DeepSeek reportedly raises US$15bn; US agencies told to drop its products
 
-- Published: Thu, 22 Oct 2026 20:24:36 GMT
-- Link: https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html
+- Published: Sun, 25 Oct 2026 20:30:34 GMT
+- Link: https://finance.yahoo.com/technology/ai/articles/chinese-ai-firm-deepseek-raises-164348199.html
 
-Anthropic on Wednesday opened a research preview of Claude Duet, a standalone app for iOS, Android and claude.ai in which Claude acts as a proactive agent. Access is by waitlist, starting with US Pro and Max subscribers, and Duet uses the same usage limits as the rest of Claude rather than a separat
+Bloomberg reported on 22 October that DeepSeek raised about US$15 billion in a round whose target it lifted twice because of demand, according to the New York Post's summary on Yahoo Finance (Bloomberg itself was not retrievable). Investors reportedly include Tencent and battery maker CATL, and the
 
-## 7. [Signal] Claude for Google Workspace enters public beta on all paid Claude plans
+## 7. [Signal] Kimi K3.1 Pro scores 55 on Artificial Analysis; weights due 4 November
 
-- Published: Thu, 22 Oct 2026 20:24:36 GMT
-- Link: https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides
+- Published: Sun, 25 Oct 2026 20:30:34 GMT
+- Link: https://www.kimi.ai/blog/kimi-k3-1-pro
 
-Anthropic has released Claude for Google Workspace in public beta on all paid Claude plans, alongside new Google Docs, Sheets and Slides connectors, also in beta. The add-on opens Claude in a sidebar next to an open file, where it can read the document, see the user's selection and edit in place. In
+Moonshot released Kimi K3.1 Pro on 24 October, a 3T-class model with a one-million-token context window and full open weights promised by 4 November. Moonshot reports 65.7 per cent on Terminal-Bench 4.0, ahead of GPT-6 Astra at 58.2 per cent and narrowly behind Claude Opus 5.5 at 66.4 per cent, and
 
-## 8. [Signal] Walmart opens an Agent Gateway to ChatGPT, Gemini and Muse shopping agents
+## 8. [Signal] Palisades restart draws NRC 'chilled work environment' warning
 
-- Published: Thu, 22 Oct 2026 20:24:36 GMT
-- Link: https://m.economictimes.com/tech/tech-bytes/walmart-launches-tools-for-ai-agents-to-shop-for-customers/articleshow/135104524.cms
+- Published: Sun, 25 Oct 2026 20:30:34 GMT
+- Link: https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/
 
-Walmart on Wednesday introduced tools that let AI agents shop and complete purchases for customers, according to The Economic Times. The "Walmart Agent Gateway" lets assistants including OpenAI's ChatGPT, Google's Gemini and Meta's Muse connect directly to Walmart and Sam's Club systems to search pr
+The US Nuclear Regulatory Commission has warned Holtec International over a "chilled work environment" at Palisades in Michigan, where staff were hesitant to raise safety concerns, according to Ars Technica (23 October). A July inspection followed a worker falling into the reactor cavity last year;
