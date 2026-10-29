@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-10-28 05:40 UTC
+- Generated at: 2026-10-29 05:46 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. Rao, Slok & ANT Magic Pudding
+## 1. [Signal] Gemini 4 Carbon tops Artificial Analysis at 59, goes first to cyber defenders
 
-- Published: Tue, 27 Oct 2026 21:57:12 GMT
-- Link: https://noops.au/posts/rao-slok-ant-magic-pudding
+- Published: Wed, 28 Oct 2026 21:28:03 GMT
+- Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
 
-Slok is a man sitting in a gold mine, complaining about the dirt
+Google has announced Gemini 4 Carbon, two weeks after Gemini 4 Argon, and says it ranks first on version 5.0 of the Artificial Analysis Intelligence Index at 59. That puts it narrowly ahead of Anthropic's Claude Opus 5.5 at 58 and OpenAI's GPT-6 Astra at 57. Google leads with cybersecurity: 88.2% on
 
-## 2. [Signal] Anthropic's compute per revenue dollar fell from US$2.50 to under 50¢
+## 2. [Signal] SK Hynix posts a record quarter, says DRAM and HBM are sold out through 2029
 
-- Published: Tue, 27 Oct 2026 21:10:34 GMT
-- Link: https://smh.com.au/business/markets/bold-but-sane-the-future-of-ai-is-riding-on-anthropic-s-float-20261027-p618tk.html
+- Published: Wed, 28 Oct 2026 21:28:03 GMT
+- Link: https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html
 
-Anthropic's S-1 shows the company spent a little more than US$2.50 on compute and infrastructure for each dollar of revenue in the first quarter of 2025, and less than 50 cents in the June quarter of 2026, according to the Sydney Morning Herald's reading of the filing. Compute and infrastructure spe
+SK Hynix reported third-quarter revenue of 104.62 trillion won (about US$78.9bn) and operating profit of 83.33 trillion won, both well above LSEG estimates. Revenue was up 328% and operating profit up 632% year on year, and sales passed 100 trillion won for the first time. The shares closed nearly 1
 
-## 3. [Signal] S-1 reaction: 900% net retention meets five customers at a quarter of revenue
+## 3. [Signal] Oracle forecasts US$225bn FY2030 revenue and caps new funding at US$20bn
 
-- Published: Tue, 27 Oct 2026 21:10:34 GMT
-- Link: https://cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html
+- Published: Wed, 28 Oct 2026 21:28:03 GMT
+- Link: https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html
 
-Investor reaction to Anthropic's prospectus has split along predictable lines, CNBC reports. Bulls point to 1,300% annual sales growth, 900% net revenue retention and an 85% implied gross margin. The filing counts more than 11,900 customers spending at least US$100,000 over the prior year, more than
+Oracle shares rose 11% after its investor day. The company forecast fiscal 2030 revenue of US$225bn, implying 35% average annual growth, and committed to limit additional funding across fiscal 2027 to 2030 to US$20bn, split equally between equity and debt. In an SEC filing, Oracle said vendor financ
 
-## 4. [Signal] Anthropic's risk factors name cheaper models and data-centre opposition
+## 4. [Signal] Anthropic's S-1 shows US$131.7bn in cash and short-term investments
 
-- Published: Tue, 27 Oct 2026 21:10:34 GMT
-- Link: https://cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html
+- Published: Wed, 28 Oct 2026 21:28:03 GMT
+- Link: https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html
 
-More than 90 pages of Anthropic's prospectus are risk factors, and CNBC's tour of them shows several that go beyond boilerplate. Alongside language on "catastrophic or existential risks to humanity", the filing warns that customers may decide lower-cost models are sufficient and that "incremental pe
+Anthropic's S-1 shows US$112.4bn in cash and cash equivalents and another US$19.3bn in short-term investments as of 30 June. CNBC and S&P Capital IQ data put that US$131.7bn ahead of every non-bank US company except Berkshire Hathaway and Alphabet. At the half-year, that was more than Amazon, Meta,
 
-## 5. [Signal] Nvidia and AMD take US$4bn of Meta's equity raise; Meta expands Vera Rubin
+## 5. [Signal] Anthropic's S-1 names cloud partners as rivals and agent liability as unsettled
 
-- Published: Tue, 27 Oct 2026 21:10:34 GMT
-- Link: https://cnbc.com/2026/10/27/nvidia-invest-meta.html
+- Published: Wed, 28 Oct 2026 21:28:03 GMT
+- Link: https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/
 
-Nvidia will invest US$3bn and AMD US$1bn in Meta's equity offering, CNBC reports. Meta said on Monday it would raise US$35bn through underwritten offerings and a further US$60bn through an at-the-market programme, and that Nvidia, AMD and Broadcom were interested in buying up to US$5bn of shares. An
+Ars Technica has gone through the 93-page, 70,000-word risk-factors section of Anthropic's S-1. Two items stand out beyond the existential and sentience caveats that drew the headlines. The first is structural: Amazon, Google and Microsoft are among Anthropic's largest cloud providers and also among
 
-## 6. [Signal] Oracle to host Google TPUs, OpenAI's Jalapeño chip and Cerebras on OCI
+## 6. [Signal] Anthropic gives US governments 40% off Claude across every product surface
 
-- Published: Tue, 27 Oct 2026 21:10:34 GMT
-- Link: https://cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html
+- Published: Wed, 28 Oct 2026 21:28:03 GMT
+- Link: https://www.anthropic.com/news/expanding-partnership-gsa
 
-Oracle announced at its AI World event that Oracle Cloud Infrastructure will offer Google's TPUs, OpenAI's Jalapeño chip and Cerebras hardware alongside Nvidia GPUs, CNBC reports. CNBC says it is the first time Google's custom chips will run on another hyperscaler's cloud. Oracle also expanded its O
+Anthropic has expanded its agreement with the US General Services Administration to give government buyers 40% off Claude Enterprise, Claude for Government and the Claude API. For the first time the discount covers every product surface: direct purchases now, and purchases through cloud providers in
 
-## 7. [Signal] Amazon memo calls token counts 'deeply flawed' measures of AI adoption
+## 7. [Signal] Reuters: China's STAR50 has fallen 40% in four months, erasing US$480bn
 
-- Published: Tue, 27 Oct 2026 21:10:34 GMT
-- Link: https://cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html
+- Published: Wed, 28 Oct 2026 21:28:03 GMT
+- Link: https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html
 
-Amazon has published an internal memo on AI use by software engineers that calls token usage, tool-adoption rates and counts of code changes or reviews "deeply flawed" ways to measure AI adoption, CNBC reports. The memo circulated internally in September and was posted on the company's website on Tu
+Reuters, via Yahoo Finance, reports that China's STAR50 index of AI and semiconductor leaders has fallen 40% in under four months, wiping out about US$480bn in market value. China's broader blue-chip index is down about 20% from its June high. By comparison the Nasdaq is about 6% below the record it
 
-## 8. [Signal] Amazon reportedly puts most Nova models on 'keep the lights on'
+## 8. [Signal] Delaware's plan for AI-run companies draws a House Oversight probe
 
-- Published: Tue, 27 Oct 2026 21:10:34 GMT
-- Link: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova
+- Published: Wed, 28 Oct 2026 21:28:03 GMT
+- Link: https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/
 
-Amazon is scaling back most of its Nova AI models and reorganising its AI development teams, Futurism reports, citing Bloomberg. According to that account, the text Nova models and the video and image models have been placed in "keep the lights on" mode — still supported, but with minimal resources
+Delaware is preparing a bill for a new corporate form, the Artificial Intelligence Company. The business and affairs of an AIC could be managed by an AI agent, and it could pursue any lawful purpose except banking. Its single human or corporate member would fund it and take the profits, but would no
