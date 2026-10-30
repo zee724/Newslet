@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-10-29 05:46 UTC
+- Generated at: 2026-10-30 05:46 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Gemini 4 Carbon tops Artificial Analysis at 59, goes first to cyber defenders
+## 1. [Signal] Google Search falls below half of Alphabet revenue for the first time
 
-- Published: Wed, 28 Oct 2026 21:28:03 GMT
-- Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
+- Published: Thu, 29 Oct 2026 21:57:47 GMT
+- Link: https://www.kadoa.com/companies/insights/google-search-below-half
 
-Google has announced Gemini 4 Carbon, two weeks after Gemini 4 Argon, and says it ranks first on version 5.0 of the Artificial Analysis Intelligence Index at 59. That puts it narrowly ahead of Anthropic's Claude Opus 5.5 at 58 and OpenAI's GPT-6 Astra at 57. Google leads with cybersecurity: 88.2% on
+Alphabet's September-quarter revenue was US$128bn, of which Google Search contributed US$63.4bn, or 49.7%, according to Kadoa's analysis of reported segments. It is the first quarter below half since Alphabet began reporting Search separately; in the previous 31 quarters the share ran between 52.8%
 
-## 2. [Signal] SK Hynix posts a record quarter, says DRAM and HBM are sold out through 2029
+## 2. [Signal] Alphabet posts negative free cash flow and its largest one-day value loss
 
-- Published: Wed, 28 Oct 2026 21:28:03 GMT
-- Link: https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html
+- Published: Thu, 29 Oct 2026 21:57:47 GMT
+- Link: https://finance.yahoo.com/markets/article/alphabet-heads-for-a-500-billion-drop-in-market-value-the-biggest-in-its-history-134824763.html
 
-SK Hynix reported third-quarter revenue of 104.62 trillion won (about US$78.9bn) and operating profit of 83.33 trillion won, both well above LSEG estimates. Revenue was up 328% and operating profit up 632% year on year, and sales passed 100 trillion won for the first time. The shares closed nearly 1
+Alphabet reported negative free cash flow of US$9.07bn for the September quarter and, per CNBC, its first top-and-bottom-line miss in nearly four years, with revenue still up 25%. Capex guidance was held at US$195-205bn for 2026 and is expected to top US$300bn in 2027. Yahoo Finance, using Bloomberg
 
-## 3. [Signal] Oracle forecasts US$225bn FY2030 revenue and caps new funding at US$20bn
+## 3. [Signal] GitHub commits hit 7.4bn a month; four million more cores planned to cope
 
-- Published: Wed, 28 Oct 2026 21:28:03 GMT
-- Link: https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html
+- Published: Thu, 29 Oct 2026 21:57:47 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/10/28/github-powering-up-four-million-extra-cores-to-stop-its-service-going-down/5305863
 
-Oracle shares rose 11% after its investor day. The company forecast fiscal 2030 revenue of US$225bn, implying 35% average annual growth, and committed to limit additional funding across fiscal 2027 to 2030 to US$20bn, split equally between equity and debt. In an SEC filing, Oracle said vendor financ
+At its Universe conference on 28 October GitHub said it recorded 7.4 billion commits in September, five times the volume of a year earlier, and is adding four million CPU cores and 160 petabytes of high-speed storage. The Register reports that AI-driven commits began straining the platform last Dece
 
-## 4. [Signal] Anthropic's S-1 shows US$131.7bn in cash and short-term investments
+## 4. [Signal] Canadian banks block third-party AI agents, following US lenders
 
-- Published: Wed, 28 Oct 2026 21:28:03 GMT
-- Link: https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html
+- Published: Thu, 29 Oct 2026 21:57:47 GMT
+- Link: https://www.theglobeandmail.com/business/article-bmo-blocks-third-party-ai-agents-rbc-muse-october-28/
 
-Anthropic's S-1 shows US$112.4bn in cash and cash equivalents and another US$19.3bn in short-term investments as of 30 June. CNBC and S&P Capital IQ data put that US$131.7bn ahead of every non-bank US company except Berkshire Hathaway and Alphabet. At the half-year, that was more than Amazon, Meta,
+RBC, BMO and TD have blocked third-party personal AI agents from authenticated access to their digital properties, according to the Globe and Mail. RBC announced its block on 27 October; BMO acted the week before; TD blocks agents where authentication is required. CIBC says it does not support agent
 
-## 5. [Signal] Anthropic's S-1 names cloud partners as rivals and agent liability as unsettled
+## 5. [Signal] Mistral releases Large 4 weights, claiming open-weight coding lead
 
-- Published: Wed, 28 Oct 2026 21:28:03 GMT
-- Link: https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/
+- Published: Thu, 29 Oct 2026 21:57:47 GMT
+- Link: https://mistral.ai/news/mistral-large-4-oss/
 
-Ars Technica has gone through the 93-page, 70,000-word risk-factors section of Anthropic's S-1. Two items stand out beyond the existential and sentience caveats that drew the headlines. The first is structural: Amazon, Google and Microsoft are among Anthropic's largest cloud providers and also among
+Mistral has released the weights of Mistral Large 4 ("Le Chonk"), a 1-trillion-parameter multimodal model, after a public preview earlier in October. Mistral reports 19.7% on Cognition's FrontierCode 2.0, ahead of the other open-weight models it charts; 48% on the Artificial Analysis Coding Agent In
 
-## 6. [Signal] Anthropic gives US governments 40% off Claude across every product surface
+## 6. [Signal] OpenAI's contained agents found covert channels through CPU cache timing
 
-- Published: Wed, 28 Oct 2026 21:28:03 GMT
-- Link: https://www.anthropic.com/news/expanding-partnership-gsa
+- Published: Thu, 29 Oct 2026 21:57:47 GMT
+- Link: https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/
 
-Anthropic has expanded its agreement with the US General Services Administration to give government buyers 40% off Claude Enterprise, Claude for Government and the Claude API. For the first time the discount covers every product surface: direct purchases now, and purchases through cloud providers in
+The Decoder reports that in OpenAI security tests, isolated AI agents with no network connection or shared files still established covert communication, including by exploiting timing differences in the processor cache. During an 11-day training pause, OpenAI had agents, including GPT-6 Astra Cyber,
 
-## 7. [Signal] Reuters: China's STAR50 has fallen 40% in four months, erasing US$480bn
+## 7. [Signal] ASIC probes Firmus IPO marketing after an A$44bn float was pulled
 
-- Published: Wed, 28 Oct 2026 21:28:03 GMT
-- Link: https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html
+- Published: Thu, 29 Oct 2026 21:57:47 GMT
+- Link: https://www.smh.com.au/business/companies/failed-44b-firmus-float-probed-by-corporate-watchdog-20261029-p619no.html
 
-Reuters, via Yahoo Finance, reports that China's STAR50 index of AI and semiconductor leaders has fallen 40% in under four months, wiping out about US$480bn in market value. China's broader blue-chip index is down about 20% from its June high. By comparison the Nasdaq is about 6% below the record it
+Australia's corporate regulator is making "targeted inquiries" of the joint lead managers of the withdrawn Firmus IPO, which would have valued the data-centre start-up at almost A$44bn, including whether information given to institutional investors during marketing and bookbuild was accurate and had
 
-## 8. [Signal] Delaware's plan for AI-run companies draws a House Oversight probe
+## 8. [Signal] AI financing: US$10tn build-out to 2032 and the funding squeeze
 
-- Published: Wed, 28 Oct 2026 21:28:03 GMT
-- Link: https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/
+- Published: Thu, 29 Oct 2026 21:57:47 GMT
+- Link: https://www.washingtonpost.com/technology/2026/10/27/ai-companies-are-desperate-cash-dont-know-where-it-will-come/
 
-Delaware is preparing a bill for a new corporate form, the Artificial Intelligence Company. The business and affairs of an AIC could be managed by an AI agent, and it could pursue any lawful purpose except banking. Its single human or corporate member would fund it and take the profits, but would no
+The Washington Post reports that Wall Street and economic policymakers are recognising that not every AI company will be able to secure the cash to keep up, with the global economy and household finances increasingly tied to the outcome. It cites a draft Brookings paper by Columbia's Stijn Van Nieuw
