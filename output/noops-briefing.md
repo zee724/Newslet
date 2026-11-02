@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-01 06:01 UTC
+- Generated at: 2026-11-02 05:59 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Google Search falls below half of Alphabet revenue for the first time
+## 1. [Signal] Cloud growth accelerates at all three hyperscalers, yet the trade sells off
 
-- Published: Thu, 29 Oct 2026 21:57:47 GMT
-- Link: https://www.kadoa.com/companies/insights/google-search-below-half
+- Published: Sun, 01 Nov 2026 20:34:22 GMT
+- Link: https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html
 
-Alphabet's September-quarter revenue was US$128bn, of which Google Search contributed US$63.4bn, or 49.7%, according to Kadoa's analysis of reported segments. It is the first quarter below half since Alphabet began reporting Search separately; in the previous 31 quarters the share ran between 52.8%
+AWS revenue rose 39% year on year to US$45.98bn against US$45.29bn consensus, up from about 37% in the June quarter, per CNBC as relayed by Mark Pesce. Microsoft disclosed Azure revenue in dollars for the first time, putting it at 72% of AWS's size against 58% two years ago; Tomasz Tunguz's tally ci
 
-## 2. [Signal] Alphabet posts negative free cash flow and its largest one-day value loss
+## 2. [Signal] Big Tech capex passes US$720bn; most now outspend their operating cash flow
 
-- Published: Thu, 29 Oct 2026 21:57:47 GMT
-- Link: https://finance.yahoo.com/markets/article/alphabet-heads-for-a-500-billion-drop-in-market-value-the-biggest-in-its-history-134824763.html
+- Published: Sun, 01 Nov 2026 20:34:22 GMT
+- Link: https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html
 
-Alphabet reported negative free cash flow of US$9.07bn for the September quarter and, per CNBC, its first top-and-bottom-line miss in nearly four years, with revenue still up 25%. Capex guidance was held at US$195-205bn for 2026 and is expected to top US$300bn in 2027. Yahoo Finance, using Bloomberg
+The New York Times reports that Amazon, Microsoft, Google and Meta said over the past two weeks they are on track to spend more than US$720bn this year on data centres and other capital expenditure, roughly triple the level of two years ago, with all expected to spend more next year. Most now spend
 
-## 3. [Signal] GitHub commits hit 7.4bn a month; four million more cores planned to cope
+## 3. [Signal] Intel falls 29%, its worst day since the 1970s, after a weak forecast
 
-- Published: Thu, 29 Oct 2026 21:57:47 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/10/28/github-powering-up-four-million-extra-cores-to-stop-its-service-going-down/5305863
+- Published: Sun, 01 Nov 2026 20:34:22 GMT
+- Link: https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html
 
-At its Universe conference on 28 October GitHub said it recorded 7.4 billion commits in September, five times the volume of a year earlier, and is adding four million CPU cores and 160 petabytes of high-speed storage. The Register reports that AI-driven commits began straining the platform last Dece
+Intel shares fell about 29% on Friday, heading for their worst day since 1974, after it guided fourth-quarter revenue below expectations citing continued PC-market softness. It had beaten on earnings (adjusted EPS of 52 cents against 40 expected) and entered the print up roughly 150% this year, buoy
 
-## 4. [Signal] Canadian banks block third-party AI agents, following US lenders
+## 4. [Signal] Alphabet concedes AI Mode earns less than classic search
 
-- Published: Thu, 29 Oct 2026 21:57:47 GMT
-- Link: https://www.theglobeandmail.com/business/article-bmo-blocks-third-party-ai-agents-rbc-muse-october-28/
+- Published: Sun, 01 Nov 2026 20:34:22 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181
 
-RBC, BMO and TD have blocked third-party personal AI agents from authenticated access to their digital properties, according to the Globe and Mail. RBC announced its block on 27 October; BMO acted the week before; TD blocks agents where authentication is required. CIBC says it does not support agent
+Alphabet's Search and other revenue grew 12% to US$63.25bn, below the 14.5% growth of a year earlier, and chief business officer Philipp Schindler attributed the slowdown to "lower monetization we were seeing in AI Mode". Query growth is at a five-year high and Tunguz notes AI Mode queries run about
 
-## 5. [Signal] Mistral releases Large 4 weights, claiming open-weight coding lead
+## 5. [Signal] Anthropic is now SpaceX's biggest customer, with a 90-day exit option
 
-- Published: Thu, 29 Oct 2026 21:57:47 GMT
-- Link: https://mistral.ai/news/mistral-large-4-oss/
+- Published: Sun, 01 Nov 2026 20:34:22 GMT
+- Link: https://au.finance.yahoo.com/news/anthropic-accounts-over-third-spacex-014611001.html
 
-Mistral has released the weights of Mistral Large 4 ("Le Chonk"), a 1-trillion-parameter multimodal model, after a public preview earlier in October. Mistral reports 19.7% on Cognition's FrontierCode 2.0, ahead of the other open-weight models it charts; 48% on the Artificial Analysis Coding Agent In
+Anthropic was "Customer B" in SpaceX's filing, contributing 34.5% of third-quarter revenue and surpassing the US federal government as SpaceX's largest customer, per Bloomberg via Yahoo Finance. Anthropic's IPO disclosures show it has agreed to spend up to US$120.5bn on compute with SpaceX through 2
 
-## 6. [Signal] OpenAI's contained agents found covert channels through CPU cache timing
+## 6. [Signal] Google offloads cloud workloads to third parties despite US$51bn quarterly capex
 
-- Published: Thu, 29 Oct 2026 21:57:47 GMT
-- Link: https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/
+- Published: Sun, 01 Nov 2026 20:34:22 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181
 
-The Decoder reports that in OpenAI security tests, isolated AI agents with no network connection or shared files still established covert communication, including by exploiting timing differences in the processor cache. During an 11-day training pause, OpenAI had agents, including GPT-6 Astra Cyber,
+Alphabet spent US$51.4bn on capex in the third quarter, roughly two thirds on servers and networking, yet Google Cloud lacks the capacity to serve all customers and has begun moving some workloads to third parties, warning this will dent future margins (The Register). Cloud CEO Thomas Kurian said mo
 
-## 7. [Signal] ASIC probes Firmus IPO marketing after an A$44bn float was pulled
+## 7. [Signal] Foxconn books out AI servers for 18 months; an Indian buyer borrows for Rubin
 
-- Published: Thu, 29 Oct 2026 21:57:47 GMT
-- Link: https://www.smh.com.au/business/companies/failed-44b-firmus-float-probed-by-corporate-watchdog-20261029-p619no.html
+- Published: Sun, 01 Nov 2026 20:34:22 GMT
+- Link: https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html
 
-Australia's corporate regulator is making "targeted inquiries" of the joint lead managers of the withdrawn Firmus IPO, which would have valued the data-centre start-up at almost A$44bn, including whether information given to institutional investors during marketing and bookbuild was accurate and had
+Foxconn says it could capture 50% of the global AI server market within a couple of years, with production capacity fully booked for at least the next year and a half and AI infrastructure expected to exceed 60% of revenue in three to five years. It is also extending US manufacturing further upstrea
 
-## 8. [Signal] AI financing: US$10tn build-out to 2032 and the funding squeeze
+## 8. [Signal] AI task gains are not reaching the firm: coding up 240%, releases up 30%
 
-- Published: Thu, 29 Oct 2026 21:57:47 GMT
-- Link: https://www.washingtonpost.com/technology/2026/10/27/ai-companies-are-desperate-cash-dont-know-where-it-will-come/
+- Published: Sun, 01 Nov 2026 20:34:22 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/10/30/ai-projects-not-paying-off-keep-at-it-says-uni-productivity-institute/5306581
 
-The Washington Post reports that Wall Street and economic policymakers are recognising that not every AI company will be able to secure the cash to keep up, with the global economy and household finances increasingly tied to the outcome. It cites a draft Brookings paper by Columbia's Stijn Van Nieuw
+A University of Manchester Productivity Institute report, 'The AI Ambition Gap' (commissioned by Bytes Technology), finds AI tools raise productivity at task level without translating into role- or organisation-level gains. It cites developers using Copilot completing about 26% more tasks and ChatGP
