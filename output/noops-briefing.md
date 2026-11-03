@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-02 05:59 UTC
+- Generated at: 2026-11-03 06:45 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Cloud growth accelerates at all three hyperscalers, yet the trade sells off
+## 1. [Signal] Anthropic's Q3: US$17bn revenue, slower growth, US$895bn of commitments
 
-- Published: Sun, 01 Nov 2026 20:34:22 GMT
-- Link: https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html
+- Published: Mon, 02 Nov 2026 19:18:21 GMT
+- Link: https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html
 
-AWS revenue rose 39% year on year to US$45.98bn against US$45.29bn consensus, up from about 37% in the June quarter, per CNBC as relayed by Mark Pesce. Microsoft disclosed Azure revenue in dollars for the first time, putting it at 72% of AWS's size against 58% two years ago; Tomasz Tunguz's tally ci
+Anthropic has filed an amended S-1 with the SEC that adds third-quarter figures to the first-half accounts in last week's prospectus, CNBC reports. Revenue for the nine months to 30 September was US$33.24bn, up roughly 1,200% on a year earlier, and about US$17bn of that came in the third quarter, up
 
-## 2. [Signal] Big Tech capex passes US$720bn; most now outspend their operating cash flow
+## 2. [Signal] Marvell bids US$115bn in stock for Lumentum to own the optical layer
 
-- Published: Sun, 01 Nov 2026 20:34:22 GMT
-- Link: https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html
+- Published: Mon, 02 Nov 2026 19:18:21 GMT
+- Link: https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html
 
-The New York Times reports that Amazon, Microsoft, Google and Meta said over the past two weeks they are on track to spend more than US$720bn this year on data centres and other capital expenditure, roughly triple the level of two years ago, with all expected to spend more next year. Most now spend
+Marvell Technology will acquire Lumentum in an all-stock deal that gives the optical components maker an implied enterprise value of US$115bn, CNBC reports. Lumentum holders will receive 4.5 Marvell shares for each share they own, and because the ratio is fixed with no cash, the final value depends
 
-## 3. [Signal] Intel falls 29%, its worst day since the 1970s, after a weak forecast
+## 3. [Signal] Oracle files its US$20bn raise as its CDS trade like high-yield credit
 
-- Published: Sun, 01 Nov 2026 20:34:22 GMT
-- Link: https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html
+- Published: Mon, 02 Nov 2026 19:18:21 GMT
+- Link: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html
 
-Intel shares fell about 29% on Friday, heading for their worst day since 1974, after it guided fourth-quarter revenue below expectations citing continued PC-market softness. It had beaten on earnings (adjusted EPS of 52 cents against 40 expected) and entered the print up roughly 150% this year, buoy
+Oracle has filed with the SEC to sell US$10bn of common stock and US$10bn of senior notes, CNBC reports. This is the raise it previewed at last week's investor day, where it forecast at least US$225bn of fiscal 2030 revenue and said this US$20bn would be its only additional capital-markets funding f
 
-## 4. [Signal] Alphabet concedes AI Mode earns less than classic search
+## 4. [Signal] Anthropic's internal Claude use, at list price, now exceeds its payroll
 
-- Published: Sun, 01 Nov 2026 20:34:22 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181
+- Published: Mon, 02 Nov 2026 19:18:21 GMT
+- Link: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11
 
-Alphabet's Search and other revenue grew 12% to US$63.25bn, below the 14.5% growth of a year earlier, and chief business officer Philipp Schindler attributed the slowdown to "lower monetization we were seeing in AI Mode". Query growth is at a five-year high and Tunguz notes AI Mode queries run about
+Anthropic's IPO filing shows that the value of Claude used inside the company, calculated at the prices it charges customers, exceeded its monthly employee compensation costs, excluding stock awards, from April, Business Insider reports. By September, internal usage had risen more than 250-fold sinc
 
-## 5. [Signal] Anthropic is now SpaceX's biggest customer, with a 90-day exit option
+## 5. [Signal] China's AI export draft reaches self-hosted weights and intra-group code
 
-- Published: Sun, 01 Nov 2026 20:34:22 GMT
-- Link: https://au.finance.yahoo.com/news/anthropic-accounts-over-third-spacex-014611001.html
+- Published: Mon, 02 Nov 2026 19:18:21 GMT
+- Link: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/
 
-Anthropic was "Customer B" in SpaceX's filing, contributing 34.5% of third-quarter revenue and surpassing the US federal government as SpaceX's largest customer, per Bloomberg via Yahoo Finance. Anthropic's IPO disclosures show it has agreed to spend up to US$120.5bn on compute with SpaceX through 2
+A Cloud Security Alliance research note sets out the detail of China's Announcement No. 48, issued on 16 October by the Ministry of Commerce (MOFCOM) and the Ministry of Science and Technology. It proposes adding 40 technologies to China's export catalogue, 23 of them in AI, with 14 prohibited and 2
 
-## 6. [Signal] Google offloads cloud workloads to third parties despite US$51bn quarterly capex
+## 6. [Signal] SemiAnalysis: the 2027 build is locked in; 2028 runs through state elections
 
-- Published: Sun, 01 Nov 2026 20:34:22 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181
+- Published: Mon, 02 Nov 2026 19:18:21 GMT
+- Link: https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan
 
-Alphabet spent US$51.4bn on capex in the third quarter, roughly two thirds on servers and networking, yet Google Cloud lacks the capacity to serve all customers and has begun moving some workloads to third parties, warning this will dent future margins (The Register). Cloud CEO Thomas Kurian said mo
+SemiAnalysis says roughly three-quarters of the 33.8 GW of US data-centre capacity due in 2027 across its top 20 states is already under construction, so this week's US elections cannot stop it. The contest is over 2028, when its model has 62.2 GW of US net additions, most of which has not started c
 
-## 7. [Signal] Foxconn books out AI servers for 18 months; an Indian buyer borrows for Rubin
+## 7. [Signal] South Korea's exports jump 93.7% in October as Seoul lifts its AI budget
 
-- Published: Sun, 01 Nov 2026 20:34:22 GMT
-- Link: https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html
+- Published: Mon, 02 Nov 2026 19:18:21 GMT
+- Link: https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html
 
-Foxconn says it could capture 50% of the global AI server market within a couple of years, with production capacity fully booked for at least the next year and a half and AI infrastructure expected to exceed 60% of revenue in three to five years. It is also extending US manufacturing further upstrea
+South Korea's exports rose 93.7% from a year earlier to a record US$115.3bn in October, according to Korea Customs Service data reported by CNBC, with semiconductors driving the growth. Shipments for the first ten months reached US$930bn, passing US$900bn for the first time, and October's trade surp
 
-## 8. [Signal] AI task gains are not reaching the firm: coding up 240%, releases up 30%
+## 8. [Signal] Altman's weekend: Samsung and SK for memory, Abu Dhabi for capital and use
 
-- Published: Sun, 01 Nov 2026 20:34:22 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/10/30/ai-projects-not-paying-off-keep-at-it-says-uni-productivity-institute/5306581
+- Published: Mon, 02 Nov 2026 19:18:21 GMT
+- Link: https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html
 
-A University of Manchester Productivity Institute report, 'The AI Ambition Gap' (commissioned by Bytes Technology), finds AI tools raise productivity at task level without translating into role- or organisation-level gains. It cites developers using Copilot completing about 26% more tasks and ChatGP
+Sam Altman made an unannounced visit to South Korea at the weekend, meeting about 50 Samsung executives from businesses spanning electronics, finance and biotechnology in Yongin, Samsung said, and reportedly lunching with SK Group chairman Chey Tae-won with SK Hynix and SK Telecom executives present
