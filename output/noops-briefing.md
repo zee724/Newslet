@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-03 06:45 UTC
+- Generated at: 2026-11-04 06:19 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Anthropic's Q3: US$17bn revenue, slower growth, US$895bn of commitments
+## 1. [Signal] MIT paper: frontier LLM reads and edits model weights without gradient descent
 
-- Published: Mon, 02 Nov 2026 19:18:21 GMT
-- Link: https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html
+- Published: Tue, 03 Nov 2026 23:11:51 GMT
+- Link: https://rikiyat.github.io/blog/weight-space-programming/
 
-Anthropic has filed an amended S-1 with the SEC that adds third-quarter figures to the first-half accounts in last week's prospectus, CNBC reports. Revenue for the nine months to 30 September was US$33.24bn, up roughly 1,200% on a year earlier, and about US$17bn of that came in the third quarter, up
+MIT CSAIL researchers (Rikiya Takehi, Jayden Teoh, Alex Zhang and Omar Khattab) published a blog post on 2 November reporting that a frontier model, GPT-6 Astra, can read and write neural network weights directly, without gradient descent or a training loop. Given the raw 17,253 weights of a small p
 
-## 2. [Signal] Marvell bids US$115bn in stock for Lumentum to own the optical layer
+## 2. [Signal] Honnibal: the Astra weights result is tool use, not weight-reading
 
-- Published: Mon, 02 Nov 2026 19:18:21 GMT
-- Link: https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html
+- Published: Tue, 03 Nov 2026 23:11:51 GMT
+- Link: https://honnibal.dev/blog/astra-read-write-misleading
 
-Marvell Technology will acquire Lumentum in an all-stock deal that gives the optical components maker an implied enterprise value of US$115bn, CNBC reports. Lumentum holders will receive 4.5 Marvell shares for each share they own, and because the ratio is fixed with no cash, the final value depends
+A day after MIT CSAIL's "Sparks of Weight-Space Programming" drew attention, Matthew Honnibal published a rebuttal. His central point is that the abstract's claim, that GPT-6 Astra works "just by looking at the raw weights", holds only for three experiments on networks of 17K to 172K weights, where
 
-## 3. [Signal] Oracle files its US$20bn raise as its CDS trade like high-yield credit
+## 3. [Signal] Blackstone's Gray: AI buildout needs more equity as debt concentrates
 
-- Published: Mon, 02 Nov 2026 19:18:21 GMT
-- Link: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html
+- Published: Tue, 03 Nov 2026 23:11:51 GMT
+- Link: https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html
 
-Oracle has filed with the SEC to sell US$10bn of common stock and US$10bn of senior notes, CNBC reports. This is the raise it previewed at last week's investor day, where it forecast at least US$225bn of fiscal 2030 revenue and said this US$20bn would be its only additional capital-markets funding f
+Blackstone President Jon Gray said AI infrastructure investment will require more equity financing, because debt investors face concentration risks, according to CNBC on 3 November. The CNBC page returned an access error on retrieval, so this signal rests on the headline and lead sentence as shared
 
-## 4. [Signal] Anthropic's internal Claude use, at list price, now exceeds its payroll
+## 4. [Signal] Meta seeks up to US$25bn in bonds days after S&P moved its outlook to negative
 
-- Published: Mon, 02 Nov 2026 19:18:21 GMT
-- Link: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11
+- Published: Tue, 03 Nov 2026 23:11:51 GMT
+- Link: https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html
 
-Anthropic's IPO filing shows that the value of Claude used inside the company, calculated at the prices it charges customers, exceeded its monthly employee compensation costs, excluding stock awards, from April, Business Insider reports. By September, internal usage had risen more than 250-fold sinc
+Meta sought to raise US$20bn to US$25bn in a bond sale on 3 November, CNBC reported, split roughly two-thirds in US dollars and one-third in euros according to people familiar with the matter, with final pricing due that afternoon. It follows a US$25bn bond sale in April and last week's plan to rais
 
-## 5. [Signal] China's AI export draft reaches self-hosted weights and intra-group code
+## 5. [Signal] Apple guides margin to 45–46% as Ternus calls memory pricing unprecedented
 
-- Published: Mon, 02 Nov 2026 19:18:21 GMT
-- Link: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/
+- Published: Tue, 03 Nov 2026 23:11:51 GMT
+- Link: https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html
 
-A Cloud Security Alliance research note sets out the detail of China's Announcement No. 48, issued on 16 October by the Ministry of Commerce (MOFCOM) and the Ministry of Science and Technology. It proposes adding 40 technologies to China's export catalogue, 23 of them in AI, with 14 prohibited and 2
+Apple reported better-than-expected September-quarter results on 2 November, John Ternus's first as CEO: revenue of US$114.5bn, up 12%, with iPhone up 17% to US$57.6bn, services up 10% to US$31.6bn and Mac up 24% to US$10.8bn, and more Macs sold in the fiscal year than ever before, according to The
 
-## 6. [Signal] SemiAnalysis: the 2027 build is locked in; 2028 runs through state elections
+## 6. [Signal] Team Group sees memory shortage at its worst to mid-2027; Windows OEM falls 22%
 
-- Published: Mon, 02 Nov 2026 19:18:21 GMT
-- Link: https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan
+- Published: Tue, 03 Nov 2026 23:11:51 GMT
+- Link: https://hothardware.com/news/apple-team-group-reveal-when-memory-crisis-hit-peak-pain
 
-SemiAnalysis says roughly three-quarters of the 33.8 GW of US data-centre capacity due in 2027 across its top 20 states is already under construction, so this week's US elections cannot stop it. The contest is over 2028, when its model has 62.2 GW of US net additions, most of which has not started c
+Team Group, the Taiwanese memory module maker, expects the memory shortage to be at its worst from the fourth quarter of 2026 through the end of the first half of 2027, HotHardware reported from its earnings call. Chief executive Chen Ching-wen said there is "no downward price trend whatsoever", tha
 
-## 7. [Signal] South Korea's exports jump 93.7% in October as Seoul lifts its AI budget
+## 7. [Signal] AMD beats as data centre nearly doubles; gaming revenue falls 40%
 
-- Published: Mon, 02 Nov 2026 19:18:21 GMT
-- Link: https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html
+- Published: Tue, 03 Nov 2026 23:11:51 GMT
+- Link: https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html
 
-South Korea's exports rose 93.7% from a year earlier to a record US$115.3bn in October, according to Korea Customs Service data reported by CNBC, with semiconductors driving the growth. Shipments for the first ten months reached US$930bn, passing US$900bn for the first time, and October's trade surp
+AMD reported third-quarter revenue of US$13.38bn on 3 November, up 45% from US$9.25bn a year earlier and above the US$13.09bn LSEG consensus, with adjusted earnings per share of US$2.09 against US$1.95 expected, CNBC reported. Data-centre revenue nearly doubled and now makes up 64% of the business,
 
-## 8. [Signal] Altman's weekend: Samsung and SK for memory, Abu Dhabi for capital and use
+## 8. [Signal] Revolut cuts AI coding inference costs about 90% by self-hosting GLM
 
-- Published: Mon, 02 Nov 2026 19:18:21 GMT
-- Link: https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html
+- Published: Tue, 03 Nov 2026 23:11:51 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345
 
-Sam Altman made an unannounced visit to South Korea at the weekend, meeting about 50 Samsung executives from businesses spanning electronics, finance and biotechnology in Yongin, Samsung said, and reportedly lunching with SK Group chairman Chey Tae-won with SK Hynix and SK Telecom executives present
+Revolut says it has cut its AI coding inference costs by roughly 90% in less than a year by making self-hosted open-weight models its default rather than commercial services such as Claude, The Register reported from a talk by David Abitbol, the British fintech's ops and infrastructure lead, at the
