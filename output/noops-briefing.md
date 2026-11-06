@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-05 06:43 UTC
+- Generated at: 2026-11-06 06:41 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Texas flips to a data-centre moratorium backer; AI buildout stocks split
+## 1. [Signal] NextDC jumps 51% as Goodman and Digital Realty buy in at A$9.50
 
-- Published: Wed, 04 Nov 2026 23:33:13 GMT
-- Link: https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html
+- Published: Fri, 06 Nov 2026 00:59:52 GMT
+- Link: https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html
 
-CNBC reports that AI data-centre stocks fell as US midterm results arrived, with the Texas governor's race the sharpest single worry. Democrat Gina Hinojosa, who campaigned for an immediate statewide moratorium on data centres, defeated incumbent Republican Greg Abbott. Wells Fargo puts Texas at 27%
+NextDC closed 50.84% higher on Thursday after Goodman Group and Digital Realty each moved to acquire a stake of up to 9.9% in the Australian data centre operator, according to CNBC. NextDC told the ASX that the two buyers ran an aftermarket bookbuild on Wednesday, seeking shares at A$9.50 apiece. Ne
 
-## 2. [Signal] Voters back data-centre limits in all but one of 41 local ballot measures
+## 2. [Signal] OpenAI pipeline finds 948 Linux privilege escalations for US$1.2m
 
-- Published: Wed, 04 Nov 2026 23:33:13 GMT
-- Link: https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html
+- Published: Fri, 06 Nov 2026 00:59:52 GMT
+- Link: https://openai.com/index/a-thousand-fewer-paths-to-root/
 
-Voters sided against data centres in every local ballot measure in the US midterms except one, CNBC reports, citing Ballotpedia and its own count. There were 41 measures across 10 states; the lone exception was Harwood, North Dakota, where voters rejected a charter amendment requiring extra review o
+OpenAI says it has built an autonomous vulnerability discovery, exploitation and patching pipeline, and that in one run with its cyber model it validated and generated patches for 948 local privilege escalation vulnerabilities in Linux, at an API cost of US$1.2 million. The figures reach us from the
 
-## 3. [Signal] Texas puts about 13GW at risk; Big Tech calls the vote anti-Trump, not anti-tech
+## 3. [Signal] YC's Garry Tan puts his agent token bill at US$100-200k a year
 
-- Published: Wed, 04 Nov 2026 23:33:13 GMT
-- Link: https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/
+- Published: Fri, 06 Nov 2026 00:59:52 GMT
+- Link: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/
 
-Ars Technica pulls together the first estimates of what the Texas result means for the pipeline. Bloomberg reports that about 13GW of data-centre capacity is now exposed after Gina Hinojosa won the governorship promising to delay projects until laws on water, electricity, air and property rights are
+Y Combinator chief executive Garry Tan told Walter Isaacson's The Builders podcast that he spends "about maybe $100[,000] to $200,000 a year on tokens", according to TechCrunch. Tan said he uses agents for work projects and coding, has shared a set of 23 Claude Code skills called gstack on GitHub, a
 
-## 4. [Signal] AMD guides Q4 above Intel's range; data centre to pass 80% of sales in 2027
+## 4. [Signal] Democratic midterm wins expose SpaceX and Tesla to scrutiny and Texas risk
 
-- Published: Wed, 04 Nov 2026 23:33:13 GMT
-- Link: https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections
+- Published: Fri, 06 Nov 2026 00:59:52 GMT
+- Link: https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress
 
-AMD's fourth-quarter guidance of about US$17bn, plus or minus 3%, sits above Intel's own US$15–16bn range, which would make AMD the larger seller of chips for the first time, Tom's Hardware reports. The Register frames it as AMD becoming the biggest vendor whose main product is x86 processors, notin
+NPR reports that Elon Musk gave more than US$445 million to Republican candidates and groups, per OpenSecrets, and that most of the candidates he backed lost on Tuesday; at least US$225 million went to Texas, including Ken Paxton's Senate bid and Greg Abbott's re-election. Democratic lawmakers say t
 
-## 5. [Signal] Moonshot releases Kimi K3.1 Pro weights: 2.8T parameters, 1M-token context
+## 5. [Signal] Samsung ex-engineer's CXMT sentence shows the memory talent war
 
-- Published: Wed, 04 Nov 2026 23:33:13 GMT
-- Link: https://huggingface.co/moonshotai/Kimi-K3.1-Pro
+- Published: Fri, 06 Nov 2026 00:59:52 GMT
+- Link: https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html
 
-Moonshot AI has published the weights of Kimi K3.1 Pro on Hugging Face, describing it as its most capable 3T-class model to date. It is a mixture-of-experts model with 2.8 trillion total parameters and 104bn active, 896 experts with 16 selected per token, a 1,048,576-token context window and native
+CNBC reports that a former Samsung Electronics employee who joined ChangXin Memory Technologies (CXMT) in 2016 was reportedly sentenced by the Seoul High Court on 22 October to five years in prison for leaking Samsung's technology, reduced on appeal from seven years in April. Counterpoint Research's
 
-## 6. [Signal] Apple cuts some engineers' daily AI budgets to US$200 from US$300
+## 6. [Signal] Chip index falls 12% as Wall Street has its worst post-midterm day since 1896
 
-- Published: Wed, 04 Nov 2026 23:33:13 GMT
-- Link: https://www.macrumors.com/2026/11/04/apple-reducing-employee-ai-spending/
+- Published: Fri, 06 Nov 2026 00:59:52 GMT
+- Link: https://finance.yahoo.com/markets/article/chip-stocks-get-slaughtered-as-wall-street-heads-for-its-worst-post-midterm-day-since-1896-163413900.html
 
-Apple is curtailing employee spending on AI to cut costs, MacRumors reports, summarising Bloomberg. In October it limited some engineers to US$200 a day of AI usage, down from US$300, and more cuts may follow, with some engineering allowances falling to US$100. Many groups outside engineering alread
+Wall Street's post-election rally lasted one session. On Thursday 5 November the Dow fell 3.4%, which Yahoo Finance says is its worst second session after a midterm election in data going back to 1896, while the Nasdaq Composite fell 5.5% and the S&P 500 4.4%, both their worst days since the April 2
 
-## 7. [Signal] Anthropic's FlashProve: zero-knowledge proof that a given model wrote a reply
+## 7. [Signal] After the sweep, Democrats call for a national data-centre moratorium
 
-- Published: Wed, 04 Nov 2026 23:33:13 GMT
-- Link: https://www.anthropic.com/research/provable-inference
+- Published: Fri, 06 Nov 2026 00:59:52 GMT
+- Link: https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html
 
-Anthropic researchers, with collaborators from EPFL, StarkWare, MIT and Succinct, have released FlashProve, an open-source prototype for "provable inference": a cryptographic proof, sent alongside a model's response, that the reply came from a specific committed set of weights, without revealing tho
+CNBC reports that senior Democrats began calling for limits on the AI build-out within a day of the midterm sweep. Senator Bernie Sanders, who caucuses with the Democrats, posted "National data center moratorium now". Representative Yassamin Ansari of Arizona wrote that pausing AI development should
 
-## 8. [Signal] Ricursive says open Ripple-65B cost US$32m all-in, a tenth of the prior leader
+## 8. [Signal] Investors question next year's US$1.2tn AI capex as capacity owners look safer
 
-- Published: Wed, 04 Nov 2026 23:33:13 GMT
-- Link: https://www.ricursive.com/ripple
+- Published: Fri, 06 Nov 2026 00:59:52 GMT
+- Link: https://www.cnbc.com/2026/11/05/cnbcs-experts-on-whether-the-ai-trade-is-ending-and-what-investors-should-do-next.html
 
-Ricursive Intelligence, a lab building AI for chip design, has released Ripple-65B Preview, an open-weight general-purpose variant of the proprietary model behind its design platform. It is a dense 65bn-parameter transformer pretrained from scratch on 12 trillion tokens, with up to 1M tokens of cont
+As the rout deepened on Thursday, CNBC canvassed investors on whether the AI trade is ending. Peter Boockvar of One Point BFG Wealth Partners said "investors are questioning that $1.2 trillion of capex that we forecast for next year", adding "maybe that's not going to happen", and suggested this cou
