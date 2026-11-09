@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-08 05:58 UTC
+- Generated at: 2026-11-09 06:24 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] NextDC jumps 51% as Goodman and Digital Realty buy in at A$9.50
+## 1. [Signal] VIX jumps 70% to 28 as analysts split on whether the AI sell-off is sentiment
 
-- Published: Fri, 06 Nov 2026 00:59:52 GMT
-- Link: https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html
+- Published: Mon, 09 Nov 2026 03:36:50 GMT
+- Link: https://www.abc.net.au/news/2026-11-06/wall-street-sees-tech-sell-off-as-investors-rethink-ai-trade/107354110
 
-NextDC closed 50.84% higher on Thursday after Goodman Group and Digital Realty each moved to acquire a stake of up to 9.9% in the Australian data centre operator, according to CNBC. NextDC told the ASX that the two buyers ran an aftermarket bookbuild on Wednesday, seeking shares at A$9.50 apiece. Ne
+ABC News reports that the Nasdaq fell 6.3 per cent, the S&P 500 4.3 per cent and the Dow 3.4 per cent in Thursday's US session, a day after a post-election rally. The VIX jumped about 70 per cent to 28; ABC notes that a reading above 30 indicates a very nervous market. Moomoo's Tapas Strickland said
 
-## 2. [Signal] OpenAI pipeline finds 948 Linux privilege escalations for US$1.2m
+## 2. [Signal] OpenAI pledges to pay full power costs and post assurances on new campuses
 
-- Published: Fri, 06 Nov 2026 00:59:52 GMT
-- Link: https://openai.com/index/a-thousand-fewer-paths-to-root/
+- Published: Mon, 09 Nov 2026 03:36:50 GMT
+- Link: https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/
 
-OpenAI says it has built an autonomous vulnerability discovery, exploitation and patching pipeline, and that in one run with its cyber model it validated and generated patches for 948 local privilege escalation vulnerabilities in Linux, at an API cost of US$1.2 million. The figures reach us from the
+OpenAI has published a blueprint on "responsible AI infrastructure" that pairs new commitments to the communities where it builds with policy proposals. Per the page's own summary, the proposals would ensure compute campus development "gives communities a meaningful voice, protects families from new
 
-## 3. [Signal] YC's Garry Tan puts his agent token bill at US$100-200k a year
+## 3. [Signal] Open-weight models win at only 3% of price points, down from 41% in June
 
-- Published: Fri, 06 Nov 2026 00:59:52 GMT
-- Link: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/
+- Published: Mon, 09 Nov 2026 03:36:50 GMT
+- Link: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/
 
-Y Combinator chief executive Garry Tan told Walter Isaacson's The Builders podcast that he spends "about maybe $100[,000] to $200,000 a year on tokens", according to TechCrunch. Tan said he uses agents for work projects and coding, has shared a set of 23 Claude Code skills called gstack on GitHub, a
+Village's LLM Atlas, which maps the strongest model at every price point, shows an open-weight model as the best buy at just 3 per cent of budgets, down from 41 per cent in June. Nearly all of the remainder sit at the cheap end, held by Google's Gemma 4 E4B and Xiaomi's MiMo-V2.6-Flash. In June, Dee
 
-## 4. [Signal] Democratic midterm wins expose SpaceX and Tesla to scrutiny and Texas risk
+## 4. [Signal] Inkling 2 Small scores 31 on Artificial Analysis; open weights still pending
 
-- Published: Fri, 06 Nov 2026 00:59:52 GMT
-- Link: https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress
+- Published: Mon, 09 Nov 2026 03:36:50 GMT
+- Link: https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it
 
-NPR reports that Elon Musk gave more than US$445 million to Republican candidates and groups, per OpenSecrets, and that most of the candidates he backed lost on Tuesday; at least US$225 million went to Texas, including Ken Paxton's Senate bid and Greg Abbott's re-election. Democratic lawmakers say t
+Thinking Machines has released Inkling 2 Small, a mixture-of-experts model with 594B total and 17B active parameters that accepts image input. Artificial Analysis scores it 31 on its Intelligence Index v5.0.1, up 18 points on Inkling Small, matching Google's Gemini 3.8 Flash (high) and ahead of Xiao
 
-## 5. [Signal] Samsung ex-engineer's CXMT sentence shows the memory talent war
+## 5. [Signal] LinkedIn counts 2m AI-created jobs while Australian software firms cut staff
 
-- Published: Fri, 06 Nov 2026 00:59:52 GMT
-- Link: https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html
+- Published: Mon, 09 Nov 2026 03:36:50 GMT
+- Link: https://news.linkedin.com/2026/linkedin-data-shows-where-opportunity-is-emerging-as-work-changes
 
-CNBC reports that a former Samsung Electronics employee who joined ChangXin Memory Technologies (CXMT) in 2016 was reportedly sentenced by the Seoul High Court on 22 October to five years in prison for leaking Samsung's technology, reduced on appeal from seven years in April. Counterpoint Research's
+LinkedIn's Pulse release estimates that AI has helped create roughly two million new jobs, and that AI Engineer ranked among the ten fastest-growing occupations from July to September across seven economies: Canada, Germany, India, France, Brazil, the UK and the US. Entry-level AI Engineer hiring gr
 
-## 6. [Signal] Chip index falls 12% as Wall Street has its worst post-midterm day since 1896
+## 6. [Signal] Tailscale: a billion new programmers will be stuck on 'localhost'
 
-- Published: Fri, 06 Nov 2026 00:59:52 GMT
-- Link: https://finance.yahoo.com/markets/article/chip-stocks-get-slaughtered-as-wall-street-heads-for-its-worst-post-midterm-day-since-1896-163413900.html
+- Published: Mon, 09 Nov 2026 03:36:50 GMT
+- Link: https://tailscale.com/blog/100x-more-programmers
 
-Wall Street's post-election rally lasted one session. On Thursday 5 November the Dow fell 3.4%, which Yahoo Finance says is its worst second session after a midterm election in data going back to 1896, while the Nasdaq Composite fell 5.5% and the S&P 500 4.4%, both their worst days since the April 2
+Tailscale's Avery Pennarun argues, in a post dated 5 November, that there will be about 100 times more programmers in the next few years, roughly a billion people, most of whom will not call themselves programmers and will never read the source. His evidence is a colleague from the CEO's office who
 
-## 7. [Signal] After the sweep, Democrats call for a national data-centre moratorium
+## 7. [Signal] Canada budgets C$52bn of new money to double its electricity grid by 2050
 
-- Published: Fri, 06 Nov 2026 00:59:52 GMT
-- Link: https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html
+- Published: Mon, 09 Nov 2026 03:36:50 GMT
+- Link: https://www.cbc.ca/news/politics/electricity-budget-new-money-9.7410949
 
-CNBC reports that senior Democrats began calling for limits on the AI build-out within a day of the midterm sweep. Senator Bernie Sanders, who caucuses with the Democrats, posted "National data center moratorium now". Representative Yassamin Ansari of Arizona wrote that pausing AI development should
+Canada's Budget 2026, delivered on Thursday by the Carney government, sets out more than C$50 billion of what Finance Minister François-Philippe Champagne called "bold and ambitious measures" to expand the electricity system, which CBC reports as C$52 billion of new commitments within C$115 billion
 
-## 8. [Signal] Investors question next year's US$1.2tn AI capex as capacity owners look safer
+## 8. [Signal] CoreWeave bond yield tops 16% as AI credit stress builds ahead of peak issuance
 
-- Published: Fri, 06 Nov 2026 00:59:52 GMT
-- Link: https://www.cnbc.com/2026/11/05/cnbcs-experts-on-whether-the-ai-trade-is-ending-and-what-investors-should-do-next.html
+- Published: Mon, 09 Nov 2026 03:36:50 GMT
+- Link: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html
 
-As the rout deepened on Thursday, CNBC canvassed investors on whether the AI trade is ending. Peter Boockvar of One Point BFG Wealth Partners said "investors are questioning that $1.2 trillion of capex that we forecast for next year", adding "maybe that's not going to happen", and suggested this cou
+CoreWeave's bond yield has climbed above 16%, and the cost of default protection has risen across AI-linked credits including Nvidia, Broadcom and Oracle, according to CNBC (the article returned a 403 to our fetch, so figures here are as shared in the excerpt). The same excerpt notes that this is no
