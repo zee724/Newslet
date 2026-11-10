@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-09 06:24 UTC
+- Generated at: 2026-11-10 07:15 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] VIX jumps 70% to 28 as analysts split on whether the AI sell-off is sentiment
+## 1. [Signal] Nvidia's board opens an independent probe of Huang as shares slide on Monday
 
-- Published: Mon, 09 Nov 2026 03:36:50 GMT
-- Link: https://www.abc.net.au/news/2026-11-06/wall-street-sees-tech-sell-off-as-investors-rethink-ai-trade/107354110
+- Published: Mon, 09 Nov 2026 21:36:41 GMT
+- Link: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors
 
-ABC News reports that the Nasdaq fell 6.3 per cent, the S&P 500 4.3 per cent and the Dow 3.4 per cent in Thursday's US session, a day after a post-election rally. The VIX jumped about 70 per cent to 28; ABC notes that a reading above 30 indicates a very nervous market. Moomoo's Tapas Strickland said
+Nvidia's board said on Sunday it is opening an independent investigation "in light of recent reporting" that founder and chief executive Jensen Huang has been the target of a foreign intelligence effort. A committee of independent directors, assisted by outside counsel, will run it. The board says i
 
-## 2. [Signal] OpenAI pledges to pay full power costs and post assurances on new campuses
+## 2. [Signal] Anthropic ships Fable 5.2 and Mythos 5.2, 20% cheaper, as its IPO nears
 
-- Published: Mon, 09 Nov 2026 03:36:50 GMT
-- Link: https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/
+- Published: Mon, 09 Nov 2026 21:36:41 GMT
+- Link: https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html
 
-OpenAI has published a blueprint on "responsible AI infrastructure" that pairs new commitments to the communities where it builds with policy proposals. Per the page's own summary, the proposals would ensure compute campus development "gives communities a meaningful voice, protects families from new
+Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on Monday, describing them as its most advanced models. According to CNBC, they generate outputs 30% faster than their predecessors and cost 20% less than the 5.1 generation, at US$8 per million input tokens and US$40 per million output token
 
-## 3. [Signal] Open-weight models win at only 3% of price points, down from 41% in June
+## 3. [Signal] CoreWeave reports this week after neoclouds halve in a month; CDS tops 1,240bp
 
-- Published: Mon, 09 Nov 2026 03:36:50 GMT
-- Link: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/
+- Published: Mon, 09 Nov 2026 21:36:41 GMT
+- Link: https://www.cnbc.com/2026/11/09/coreweave-debt-credit-risk-neoclouds.html
 
-Village's LLM Atlas, which maps the strongest model at every price point, shows an open-weight model as the best buy at just 3 per cent of budgets, down from 41 per cent in June. Nearly all of the remainder sit at the cheap end, held by Google's Gemma 4 E4B and Xiaomi's MiMo-V2.6-Flash. In June, Dee
+CoreWeave and Nebius have each lost about half their value in the past month and report this week, CoreWeave on Tuesday and Nebius on Thursday (US time), CNBC reports. The new number since our 6 November note on CoreWeave's 16% bond yield (https://noops.au/signal/09c1c598d7a547dbec633b778f332066) is
 
-## 4. [Signal] Inkling 2 Small scores 31 on Artificial Analysis; open weights still pending
+## 4. [Signal] Meta's Muse Ember matches Haiku 5.5 on AA's index at a third of the cost
 
-- Published: Mon, 09 Nov 2026 03:36:50 GMT
-- Link: https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it
+- Published: Mon, 09 Nov 2026 21:36:41 GMT
+- Link: https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index
 
-Thinking Machines has released Inkling 2 Small, a mixture-of-experts model with 594B total and 17B active parameters that accepts image input. Artificial Analysis scores it 31 on its Intelligence Index v5.0.1, up 18 points on Inkling Small, matching Google's Gemini 3.8 Flash (high) and ahead of Xiao
+Meta has released Muse Ember, its smallest and most efficient Muse model, aimed at the work agents repeat all day: tool calls, coding subtasks, routing, extraction and long-document parsing. It is priced on the Meta Model API at US$0.10 per million input tokens and US$0.50 per million output, with c
 
-## 5. [Signal] LinkedIn counts 2m AI-created jobs while Australian software firms cut staff
+## 5. [Signal] Hourly GPU rates climb as investors sell the planners, Eyzaguirre argues
 
-- Published: Mon, 09 Nov 2026 03:36:50 GMT
-- Link: https://news.linkedin.com/2026/linkedin-data-shows-where-opportunity-is-emerging-as-work-changes
+- Published: Mon, 09 Nov 2026 21:36:41 GMT
+- Link: https://blog.eyzaguirre.co/p/the-market-just-voted-against-central
 
-LinkedIn's Pulse release estimates that AI has helped create roughly two million new jobs, and that AI Engineer ranked among the ten fastest-growing occupations from July to September across seven economies: Canada, Germany, India, France, Brazil, the UK and the US. Entry-level AI Engineer hiring gr
+Alan Eyzaguirre argues that last week's sell-off split in two. The chip index had its worst day since March 2020 and roughly US$2.5tn of value disappeared before a partial rebound, he writes, yet the same week the hourly rate for an Nvidia B200 on Ornn's trade-based index settled about a fifth highe
 
-## 6. [Signal] Tailscale: a billion new programmers will be stuck on 'localhost'
+## 6. [Signal] RBA's Hunter: AI build may keep rates higher; data centres near 2% of GDP
 
-- Published: Mon, 09 Nov 2026 03:36:50 GMT
-- Link: https://tailscale.com/blog/100x-more-programmers
+- Published: Mon, 09 Nov 2026 21:36:41 GMT
+- Link: https://www.smh.com.au/politics/federal/the-reserve-bank-says-ai-could-supercharge-your-workplace-right-now-it-s-inflating-cost-of-living-20261109-p61cbt.html
 
-Tailscale's Avery Pennarun argues, in a post dated 5 November, that there will be about 100 times more programmers in the next few years, roughly a billion people, most of whom will not call themselves programmers and will never read the source. His evidence is a colleague from the CEO's office who
+Reserve Bank chief economist Sarah Hunter told the UBS Australasia conference in Sydney on Monday that the AI building boom could keep interest rates higher, the SMH reports. Data-centre investment in Australia is up tenfold over three years and is competing with the construction sector for trade wo
 
-## 7. [Signal] Canada budgets C$52bn of new money to double its electricity grid by 2050
+## 7. [Signal] Harvard-Penn study: data centres drove 4% of US residential rate rises
 
-- Published: Mon, 09 Nov 2026 03:36:50 GMT
-- Link: https://www.cbc.ca/news/politics/electricity-budget-new-money-9.7410949
+- Published: Mon, 09 Nov 2026 21:36:41 GMT
+- Link: https://www.yahoo.com/news/articles/americans-hate-data-centers-might-100000713.html
 
-Canada's Budget 2026, delivered on Thursday by the Carney government, sets out more than C$50 billion of what Finance Minister François-Philippe Champagne called "bold and ambitious measures" to expand the electricity system, which CBC reports as C$52 billion of new commitments within C$115 billion
+A new study by researchers at Harvard and the University of Pennsylvania finds data centres were responsible for just 4% of residential utility rate increases in the US over the past five years, according to a report carried on Yahoo News. The effect on industrial customers was larger, at 15% of the
 
-## 8. [Signal] CoreWeave bond yield tops 16% as AI credit stress builds ahead of peak issuance
+## 8. [Signal] A slower AI build could steady hyperscalers; Goldman says financing holds
 
-- Published: Mon, 09 Nov 2026 03:36:50 GMT
-- Link: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html
+- Published: Mon, 09 Nov 2026 21:36:41 GMT
+- Link: https://www.smh.com.au/business/markets/wall-street-s-4-7-trillion-meltdown-may-have-a-silver-lining-20261109-p61chg.html
 
-CoreWeave's bond yield has climbed above 16%, and the cost of default protection has risen across AI-linked credits including Nvidia, Broadcom and Oracle, according to CNBC (the article returned a 403 to our fetch, so figures here are as shared in the excerpt). The same excerpt notes that this is no
+The SMH's Stephen Bartholomeusz breaks down last Thursday's US$3.2tn fall on Wall Street. The market fell 4.3%, the Nasdaq 5.5% and the Philadelphia Semiconductor Index more than 11%, while the Magnificent Seven fell only 4.5%. Chipmakers, Tesla and SpaceX lost more than US$1tn between them, the thr
