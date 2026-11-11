@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-10 07:15 UTC
+- Generated at: 2026-11-11 06:16 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Nvidia's board opens an independent probe of Huang as shares slide on Monday
+## 1. [Signal] Anthropic sets its IPO range at US$70-78 a share for 825 million shares
 
-- Published: Mon, 09 Nov 2026 21:36:41 GMT
-- Link: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors
+- Published: Tue, 10 Nov 2026 21:38:56 GMT
+- Link: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
 
-Nvidia's board said on Sunday it is opening an independent investigation "in light of recent reporting" that founder and chief executive Jensen Huang has been the target of a foreign intelligence effort. A committee of independent directors, assisted by outside counsel, will run it. The board says i
+Anthropic's second amended S-1, dated 10 November, sets an estimated price range of US$70 to US$78 a share for 825 million Class A shares: 801,351,354 new shares from the company and 23,648,646 from selling stockholders, with an underwriters' option on a further 123,750,000. It will list on the Nasd
 
-## 2. [Signal] Anthropic ships Fable 5.2 and Mythos 5.2, 20% cheaper, as its IPO nears
+## 2. [Signal] Nvidia and Google each buy US$10bn of Anthropic stock alongside its IPO
 
-- Published: Mon, 09 Nov 2026 21:36:41 GMT
-- Link: https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html
+- Published: Tue, 10 Nov 2026 21:38:56 GMT
+- Link: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
 
-Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on Monday, describing them as its most advanced models. According to CNBC, they generate outputs 30% faster than their predecessors and cost 20% less than the 5.1 generation, at US$8 per million input tokens and US$40 per million output token
+Seven companies have agreed to buy US$26.0bn of Anthropic's non-voting Class N stock at the IPO price, in a private placement that closes immediately after the offering, according to the 10 November amended S-1. At the US$74 midpoint, Google would buy 135,135,135 shares for about US$10bn and Nvidia
 
-## 3. [Signal] CoreWeave reports this week after neoclouds halve in a month; CDS tops 1,240bp
+## 3. [Signal] Trump says FBI is looking into the Huang matter; Megaspeed probe went to DOJ
 
-- Published: Mon, 09 Nov 2026 21:36:41 GMT
-- Link: https://www.cnbc.com/2026/11/09/coreweave-debt-credit-risk-neoclouds.html
+- Published: Tue, 10 Nov 2026 21:38:56 GMT
+- Link: https://www.bbc.com/news/articles/cqg7x7dpvym8o
 
-CoreWeave and Nebius have each lost about half their value in the past month and report this week, CoreWeave on Tuesday and Nebius on Thursday (US time), CNBC reports. The new number since our 6 November note on CoreWeave's 16% bond yield (https://noops.au/signal/09c1c598d7a547dbec633b778f332066) is
+President Trump told reporters on Monday that "the FBI is looking into" the matter of Nvidia chief executive Jensen Huang's ties to a Megaspeed executive whom US intelligence reportedly identified as a Chinese asset, the BBC reports, without saying when any inquiry began; the FBI declined to comment
 
-## 4. [Signal] Meta's Muse Ember matches Haiku 5.5 on AA's index at a third of the cost
+## 4. [Signal] Nvidia's China exposure: 8% of sales officially, over 20% per a short seller
 
-- Published: Mon, 09 Nov 2026 21:36:41 GMT
-- Link: https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index
+- Published: Tue, 10 Nov 2026 21:38:56 GMT
+- Link: https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html
 
-Meta has released Muse Ember, its smallest and most efficient Muse model, aimed at the work agents repeat all day: tool calls, coding subtasks, routing, extraction and long-document parsing. It is priced on the Meta Model API at US$0.10 per million input tokens and US$0.50 per million output, with c
+CNBC has laid out what is at stake in Nvidia's China business as the Huang inquiries widen. China, including Hong Kong, was about 9% of Nvidia's revenue in the last fiscal year and 8% in the most recent quarter, against nearly a quarter before the 2022 export controls. Short seller Culper Research a
 
-## 5. [Signal] Hourly GPU rates climb as investors sell the planners, Eyzaguirre argues
+## 5. [Signal] Fable 5.2 tops AA's index at 65 but costs US$26.54 a task; Carbon goes GA
 
-- Published: Mon, 09 Nov 2026 21:36:41 GMT
-- Link: https://blog.eyzaguirre.co/p/the-market-just-voted-against-central
+- Published: Tue, 10 Nov 2026 21:38:56 GMT
+- Link: https://artificialanalysis.ai/models/claude-fable-5-2
 
-Alan Eyzaguirre argues that last week's sell-off split in two. The chip index had its worst day since March 2020 and roughly US$2.5tn of value disappeared before a partial rebound, he writes, yet the same week the hourly rate for an Nvidia B200 on Ornn's trade-based index settled about a fifth highe
+Artificial Analysis has Claude Fable 5.2 at 65 on its Intelligence Index v5 at maximum effort, the top score: five points ahead of Gemini 4 Carbon (high, 60), six ahead of Claude Opus 5.5 (59), eight ahead of GPT-6 Astra (57) and about 15 above Fable 5.1 (49). It leads five of the nine evaluations,
 
-## 6. [Signal] RBA's Hunter: AI build may keep rates higher; data centres near 2% of GDP
+## 6. [Signal] Anthropic says Fable 5.2 designed three working devices; PCB score 69% vs 25%
 
-- Published: Mon, 09 Nov 2026 21:36:41 GMT
-- Link: https://www.smh.com.au/politics/federal/the-reserve-bank-says-ai-could-supercharge-your-workplace-right-now-it-s-inflating-cost-of-living-20261109-p61cbt.html
+- Published: Tue, 10 Nov 2026 21:38:56 GMT
+- Link: https://www.anthropic.com/research/claude-electronics-design
 
-Reserve Bank chief economist Sarah Hunter told the UBS Australasia conference in Sydney on Monday that the AI building boom could keep interest rates higher, the SMH reports. Data-centre investment in Australia is up tenfold over three years and is competing with the construction sector for trade wo
+Anthropic says Claude Fable 5.2 designed three electronic devices from short prompts, a USB speakerphone, a voice-assistant hub and a handheld virtual pet, and that the prototypes built by Diode Computers worked without any fixes to their circuitry. Claude wrote the specifications, drew schematics,
 
-## 7. [Signal] Harvard-Penn study: data centres drove 4% of US residential rate rises
+## 7. [Signal] Anthropic lets Cisco and IBM build its gated Mythos model into security tools
 
-- Published: Mon, 09 Nov 2026 21:36:41 GMT
-- Link: https://www.yahoo.com/news/articles/americans-hate-data-centers-might-100000713.html
+- Published: Tue, 10 Nov 2026 21:38:56 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616
 
-A new study by researchers at Harvard and the University of Pennsylvania finds data centres were responsible for just 4% of residential utility rate increases in the US over the past five years, according to a report carried on Yahoo News. The effect on industrial customers was larger, at 15% of the
+Anthropic has started extending access to its bug-finding Mythos model through other vendors' products, The Register reports. Cisco announced at an event in Melbourne that the red-teaming tools in its AI Defense suite will be able to call Mythos to test customers' models, agents and applications, at
 
-## 8. [Signal] A slower AI build could steady hyperscalers; Goldman says financing holds
+## 8. [Signal] Google adds TPU 8tx and 8i Max, its third and fourth TPU systems this year
 
-- Published: Mon, 09 Nov 2026 21:36:41 GMT
-- Link: https://www.smh.com.au/business/markets/wall-street-s-4-7-trillion-meltdown-may-have-a-silver-lining-20261109-p61chg.html
+- Published: Tue, 10 Nov 2026 21:38:56 GMT
+- Link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/
 
-The SMH's Stephen Bartholomeusz breaks down last Thursday's US$3.2tn fall on Wall Street. The market fell 4.3%, the Nasdaq 5.5% and the Philadelphia Semiconductor Index more than 11%, while the Magnificent Seven fell only 4.5%. Chipmakers, Tesla and SpaceX lost more than US$1tn between them, the thr
+Google has added two systems to its eighth-generation TPU line, its first year with four. TPU 8tx, built on the same silicon as the 8t training chip and paired with fifth-generation AMD EPYC hosts, keeps data and model weights encrypted and isolated while in use, aimed at regulated enterprises and g
