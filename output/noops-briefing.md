@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-11 06:16 UTC
+- Generated at: 2026-11-12 07:07 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Anthropic sets its IPO range at US$70-78 a share for 825 million shares
+## 1. [Signal] CoreWeave revenue up 168%; no new parent-level debt to 2027 at current yields
 
-- Published: Tue, 10 Nov 2026 21:38:56 GMT
-- Link: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
+- Published: Wed, 11 Nov 2026 23:39:11 GMT
+- Link: https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html
 
-Anthropic's second amended S-1, dated 10 November, sets an estimated price range of US$70 to US$78 a share for 825 million Class A shares: 801,351,354 new shares from the company and 23,648,646 from selling stockholders, with an underwriters' option on a further 123,750,000. It will list on the Nasd
+CoreWeave reported third-quarter revenue of US$3.7bn, up 168% from about US$1.36bn a year earlier, and lifted its 2026 guidance to US$13bn-13.3bn of revenue and US$1.275bn-1.375bn of adjusted operating income, CNBC reports. The net loss widened to US$709m from US$110m, debt stood at almost US$47bn,
 
-## 2. [Signal] Nvidia and Google each buy US$10bn of Anthropic stock alongside its IPO
+## 2. [Signal] Senior Republican senator says Huang 'has got to go'; Nvidia closes up 2.9%
 
-- Published: Tue, 10 Nov 2026 21:38:56 GMT
-- Link: https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
+- Published: Wed, 11 Nov 2026 23:39:11 GMT
+- Link: https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html
 
-Seven companies have agreed to buy US$26.0bn of Anthropic's non-voting Class N stock at the IPO price, in a private placement that closes immediately after the offering, according to the 10 November amended S-1. At the US$74 midpoint, Google would buy 135,135,135 shares for about US$10bn and Nvidia
+Kevin Cramer, a senior Republican on the Senate Banking Committee, has called for Nvidia chief executive Jensen Huang to resign, telling Politico that "the potential for extortion is so tremendous that something as sensitive as Nvidia chips, I just think he's got to go", according to a Reuters repor
 
-## 3. [Signal] Trump says FBI is looking into the Huang matter; Megaspeed probe went to DOJ
+## 3. [Signal] TSMC board approves up to US$500m each for OpenAI and Anthropic shares
 
-- Published: Tue, 10 Nov 2026 21:38:56 GMT
-- Link: https://www.bbc.com/news/articles/cqg7x7dpvym8o
+- Published: Wed, 11 Nov 2026 23:39:11 GMT
+- Link: https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/
 
-President Trump told reporters on Monday that "the FBI is looking into" the matter of Nvidia chief executive Jensen Huang's ties to a Megaspeed executive whom US intelligence reportedly identified as a Chinese asset, the BBC reports, without saying when any inquiry began; the FBI declined to comment
+TSMC's board has approved investments of up to US$1bn in AI developers, allowing the foundry to buy up to US$500m of shares in each of OpenAI and Anthropic, MacRumors reports, citing the company's announcement. The board also authorised up to US$500m to establish a company that will invest in semico
 
-## 4. [Signal] Nvidia's China exposure: 8% of sales officially, over 20% per a short seller
+## 4. [Signal] Anthropic adds Sheets, Whiteboards and Data, edging into office software
 
-- Published: Tue, 10 Nov 2026 21:38:56 GMT
-- Link: https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html
+- Published: Wed, 11 Nov 2026 23:39:11 GMT
+- Link: https://claude.com/it/resources/articles/sheets-whiteboards-data
 
-CNBC has laid out what is at stake in Nvidia's China business as the Huang inquiries widen. China, including Hong Kong, was about 9% of Nvidia's revenue in the last fiscal year and 8% in the most recent quarter, against nearly a quarter before the 2022 export controls. Short seller Culper Research a
+Anthropic has launched Claude Whiteboards and Claude Sheets in beta and made Claude Dashboards generally available under the new name Claude Data, on all paid plans. Sheets generates spreadsheets with tabs, formulas, formatting and drop-downs from a prompt and edits cells directly; Anthropic says it
 
-## 5. [Signal] Fable 5.2 tops AA's index at 65 but costs US$26.54 a task; Carbon goes GA
+## 5. [Signal] Apple's Harbor app would turn clustered Macs into private inference servers
 
-- Published: Tue, 10 Nov 2026 21:38:56 GMT
-- Link: https://artificialanalysis.ai/models/claude-fable-5-2
+- Published: Wed, 11 Nov 2026 23:39:11 GMT
+- Link: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/
 
-Artificial Analysis has Claude Fable 5.2 at 65 on its Intelligence Index v5 at maximum effort, the top score: five points ahead of Gemini 4 Carbon (high, 60), six ahead of Claude Opus 5.5 (59), eight ahead of GPT-6 Astra (57) and about 15 above Fable 5.1 (49). It leads five of the nine evaluations,
+Apple is working on a Mac application called Harbor that "turns your Mac into a private AI inference server", according to material found by leaker Aaron Perris and reported by 9to5Mac. The description says Harbor runs open-weight models locally on Apple silicon so that "your data never leaves your
 
-## 6. [Signal] Anthropic says Fable 5.2 designed three working devices; PCB score 69% vs 25%
+## 6. [Signal] VulnCheck: 37,966 Glasswing findings, 217 marked fixed after seven months
 
-- Published: Tue, 10 Nov 2026 21:38:56 GMT
-- Link: https://www.anthropic.com/research/claude-electronics-design
+- Published: Wed, 11 Nov 2026 23:39:11 GMT
+- Link: https://www.vulncheck.com/blog/anthropic-glasswing-november-update
 
-Anthropic says Claude Fable 5.2 designed three electronic devices from short prompts, a USB speakerphone, a voice-assistant hub and a handheld virtual pet, and that the prototypes built by Diode Computers worked without any fixes to their circuitry. Claude wrote the specifications, drew schematics,
+Seven months into Anthropic's Project Glasswing, security firm VulnCheck counts 442 CVEs attributable to the programme, about 0.5% of the 93,450 published this year, of which two are known to have been exploited in the wild. Anthropic's own ledger, last updated on 2 November, lists 37,966 findings,
 
-## 7. [Signal] Anthropic lets Cisco and IBM build its gated Mythos model into security tools
+## 7. [Signal] US data centre power demand is growing ten times faster than grid capacity
 
-- Published: Tue, 10 Nov 2026 21:38:56 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616
+- Published: Wed, 11 Nov 2026 23:39:11 GMT
+- Link: https://www.theregister.com/systems/2026/11/11/us-bit-barn-boom-sees-energy-needs-grow-10x-as-fast-as-grid-capacity/5309191
 
-Anthropic has started extending access to its bug-finding Mythos model through other vendors' products, The Register reports. Cisco announced at an event in Melbourne that the red-teaming tools in its AI Defense suite will be able to call Mythos to test customers' models, agents and applications, at
+Power drawn by US data centres has risen 19% a year on average since 2000 while grid capacity has expanded by 2% a year, according to an analysis by insurance broker Howden of Energy Information Administration and S&P Global data, reported by The Register. Data centres accounted for about 5% of US g
 
-## 8. [Signal] Google adds TPU 8tx and 8i Max, its third and fourth TPU systems this year
+## 8. [Signal] AMD pitches half the DRAM for up to 99% of performance with Mext software
 
-- Published: Tue, 10 Nov 2026 21:38:56 GMT
-- Link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/
+- Published: Wed, 11 Nov 2026 23:39:11 GMT
+- Link: https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953
 
-Google has added two systems to its eighth-generation TPU line, its first year with four. TPU 8tx, built on the same silicon as the 8t training chip and paired with fifth-generation AMD EPYC hosts, keeps data and model weights encrypted and isolated while in use, aimed at regulated enterprises and g
+AMD is promoting software from Mext, which it acquired in June, that it says lets an Epyc server deliver up to 99% of its performance with half the DRAM, The Register reports. The system uses models running on CPU cores to predict which memory pages an application will need and moves cold pages to N
