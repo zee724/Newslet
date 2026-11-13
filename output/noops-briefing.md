@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-12 07:07 UTC
+- Generated at: 2026-11-13 06:42 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] CoreWeave revenue up 168%; no new parent-level debt to 2027 at current yields
+## 1. [Signal] Huang resigns as Nvidia CEO; CFO Kress is interim, Harvey Jones first chair
 
-- Published: Wed, 11 Nov 2026 23:39:11 GMT
-- Link: https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html
+- Published: Thu, 12 Nov 2026 21:20:20 GMT
+- Link: https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/
 
-CoreWeave reported third-quarter revenue of US$3.7bn, up 168% from about US$1.36bn a year earlier, and lifted its 2026 guidance to US$13bn-13.3bn of revenue and US$1.275bn-1.375bn of adjusted operating income, CNBC reports. The net loss widened to US$709m from US$110m, debt stood at almost US$47bn,
+Nvidia said on Thursday, US time, that Jensen Huang has resigned as president, chief executive and board member, ending more than 33 years at the company he co-founded in 1993. Chief financial officer Colette Kress, CFO since 2013, becomes interim chief executive while the board searches for a perma
 
-## 2. [Signal] Senior Republican senator says Huang 'has got to go'; Nvidia closes up 2.9%
+## 2. [Signal] Nvidia's AI financing web, put at US$400bn, faces new scrutiny after Huang exit
 
-- Published: Wed, 11 Nov 2026 23:39:11 GMT
-- Link: https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html
+- Published: Thu, 12 Nov 2026 21:20:20 GMT
+- Link: https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html
 
-Kevin Cramer, a senior Republican on the Senate Banking Committee, has called for Nvidia chief executive Jensen Huang to resign, telling Politico that "the potential for extortion is so tremendous that something as sensitive as Nvidia chips, I just think he's got to go", according to a Reuters repor
+CNBC has tallied the commitments that earned Nvidia the nickname "central bank of AI", and asked what happens to them without Jensen Huang. Nvidia disclosed in July that it has committed to buy up to US$36bn of cloud services from neoclouds. It has a US$105bn phased guarantee for the Ohio data centr
 
-## 3. [Signal] TSMC board approves up to US$500m each for OpenAI and Anthropic shares
+## 3. [Signal] Huang scandal revives China chip-curb bills in NDAA before Trump-Xi summit
 
-- Published: Wed, 11 Nov 2026 23:39:11 GMT
-- Link: https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/
+- Published: Thu, 12 Nov 2026 21:20:20 GMT
+- Link: https://www.cnbc.com/2026/11/12/nvidia-trump-jensen-chip-export-controls-china-xi-.html
 
-TSMC's board has approved investments of up to US$1bn in AI developers, allowing the foundry to buy up to US$500m of shares in each of OpenAI and Anthropic, MacRumors reports, citing the company's announcement. The board also authorised up to US$500m to establish a company that will invest in semico
+The Huang scandal has given China hawks in Congress a vehicle, CNBC reports. Lawmakers are pushing to fold three chip-control bills, the AI Overwatch Act, the Chip Security Act and the MATCH Act, into this year's National Defense Authorization Act. Those bills had stalled under pushback from industr
 
-## 4. [Signal] Anthropic adds Sheets, Whiteboards and Data, edging into office software
+## 4. [Signal] Singapore says US gave little help on Megaspeed probe; Supermicro denies sales
 
-- Published: Wed, 11 Nov 2026 23:39:11 GMT
-- Link: https://claude.com/it/resources/articles/sheets-whiteboards-data
+- Published: Thu, 12 Nov 2026 21:20:20 GMT
+- Link: https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html
 
-Anthropic has launched Claude Whiteboards and Claude Sheets in beta and made Claude Dashboards generally available under the new name Claude Data, on all paid plans. Sheets generates spreadsheets with tabs, formulas, formatting and drop-downs from a prompt and edits cells directly; Anthropic says it
+Singapore's government said on Thursday that the United States had given little help with its investigation into Alice Huang, who ran Megaspeed according to the New York Times, which reports the statement. Singapore held her passport from June 2025 to February over "potential false declarations" rel
 
-## 5. [Signal] Apple's Harbor app would turn clustered Macs into private inference servers
+## 5. [Signal] Nvidia hires search firm; Apple's Srouji reportedly in frame, Trump backs Cook
 
-- Published: Wed, 11 Nov 2026 23:39:11 GMT
-- Link: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/
+- Published: Thu, 12 Nov 2026 21:20:20 GMT
+- Link: https://www.macrumors.com/2026/11/12/johny-srouji-eyed-as-potential-nvidia-ceo/
 
-Apple is working on a Mac application called Harbor that "turns your Mac into a private AI inference server", according to material found by leaker Aaron Perris and reported by 9to5Mac. The description says Harbor runs open-weight models locally on Apple silicon so that "your data never leaves your
+Nvidia has hired an outside firm to find a replacement for Jensen Huang, Bloomberg reports, as summarised by MacRumors. Semafor reported on Wednesday that Apple's chief hardware officer Johny Srouji is among those under consideration, though it is unclear whether he has been approached or is interes
 
-## 6. [Signal] VulnCheck: 37,966 Glasswing findings, 217 marked fixed after seven months
+## 6. [Signal] Anthropic's IPO site shows US$17bn Q3 revenue; pricing expected 18 November
 
-- Published: Wed, 11 Nov 2026 23:39:11 GMT
-- Link: https://www.vulncheck.com/blog/anthropic-glasswing-november-update
+- Published: Thu, 12 Nov 2026 21:20:20 GMT
+- Link: https://ipo.anthropic.com/au/
 
-Seven months into Anthropic's Project Glasswing, security firm VulnCheck counts 442 CVEs attributable to the programme, about 0.5% of the 93,450 published this year, of which two are known to have been exploited in the wild. Anthropic's own ledger, last updated on 2 November, lists 37,966 findings,
+Anthropic's IPO site, which John and Mark both shared, sets out the offering timetable and a page of third-quarter figures. Revenue for Q3 2026 was US$17.0bn, more than 12 times a year earlier. Customers with at least US$100,000 of trailing revenue numbered more than 11,900 at 30 September, also up
 
-## 7. [Signal] US data centre power demand is growing ten times faster than grid capacity
+## 7. [Signal] Gemini 4 Hydrogen beats Argon on AA's index at US$1.50 per million input
 
-- Published: Wed, 11 Nov 2026 23:39:11 GMT
-- Link: https://www.theregister.com/systems/2026/11/11/us-bit-barn-boom-sees-energy-needs-grow-10x-as-fast-as-grid-capacity/5309191
+- Published: Thu, 12 Nov 2026 21:20:20 GMT
+- Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
 
-Power drawn by US data centres has risen 19% a year on average since 2000 while grid capacity has expanded by 2% a year, according to an analysis by insurance broker Howden of Energy Information Administration and S&P Global data, reported by The Register. Data centres accounted for about 5% of US g
+Google has released Gemini 4 Hydrogen, a faster sibling to its frontier Carbon and Argon models built for rapid execution, and put it into the Gemini app, Google Search, AI Studio, the Gemini API and Gemini for business. Google says Hydrogen scores 51 on the Artificial Analysis Intelligence Index at
 
-## 8. [Signal] AMD pitches half the DRAM for up to 99% of performance with Mext software
+## 8. [Signal] Nvidia's pending US$12.9bn Hugging Face deal loses its sponsor in Huang
 
-- Published: Wed, 11 Nov 2026 23:39:11 GMT
-- Link: https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953
+- Published: Thu, 12 Nov 2026 21:20:20 GMT
+- Link: https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/
 
-AMD is promoting software from Mext, which it acquired in June, that it says lets an Epyc server deliver up to 99% of its performance with half the DRAM, The Register reports. The system uses models running on CPU cores to predict which memory pages an application will need and moves cold pages to N
+Hugging Face chief executive Clément Delangue called Jensen Huang's departure "a really sad day", and wrote on X that "we'll keep fighting for open-source AI, harder than ever". TechCrunch reads the post as reassurance aimed at open-source developers. Nvidia announced in September that it would acqu
