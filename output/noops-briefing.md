@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-15 06:28 UTC
+- Generated at: 2026-11-16 06:26 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Huang resigns as Nvidia CEO; CFO Kress is interim, Harvey Jones first chair
+## 1. [Signal] SemiAnalysis: Nvidia was built around Huang, and its supply grip was personal
 
-- Published: Thu, 12 Nov 2026 21:20:20 GMT
-- Link: https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/
+- Published: Mon, 16 Nov 2026 00:13:50 GMT
+- Link: https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen
 
-Nvidia said on Thursday, US time, that Jensen Huang has resigned as president, chief executive and board member, ending more than 33 years at the company he co-founded in 1993. Chief financial officer Colette Kress, CFO since 2013, becomes interim chief executive while the board searches for a perma
+SemiAnalysis published a long assessment on 12 November of what Nvidia looks like without Jensen Huang. The firm describes a company of about 42,000 people with roughly 60 executives reporting to one person, no deep succession bench, and two internal technical candidates (Ian Buck, who created CUDA,
 
-## 2. [Signal] Nvidia's AI financing web, put at US$400bn, faces new scrutiny after Huang exit
+## 2. [Signal] Lutnick under pressure as Bessent says four agencies backed Megaspeed listing
 
-- Published: Thu, 12 Nov 2026 21:20:20 GMT
-- Link: https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html
+- Published: Mon, 16 Nov 2026 00:13:50 GMT
+- Link: https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html
 
-CNBC has tallied the commitments that earned Nvidia the nickname "central bank of AI", and asked what happens to them without Jensen Huang. Nvidia disclosed in July that it has committed to buy up to US$36bn of cloud services from neoclouds. It has a US$105bn phased guarantee for the Ohio data centr
+Reuters reported on 12 November that senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be pushed out, citing two people familiar with the matter; a White House official said the President "maintains complete confidence" in him. On Friday Treasury Secretary
 
-## 3. [Signal] Huang scandal revives China chip-curb bills in NDAA before Trump-Xi summit
+## 3. [Signal] Nvidia heads for sixth weekly fall, US$1.6tn gone, before Kress's first results
 
-- Published: Thu, 12 Nov 2026 21:20:20 GMT
-- Link: https://www.cnbc.com/2026/11/12/nvidia-trump-jensen-chip-export-controls-china-xi-.html
+- Published: Mon, 16 Nov 2026 00:13:50 GMT
+- Link: https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html
 
-The Huang scandal has given China hawks in Congress a vehicle, CNBC reports. Lawmakers are pushing to fold three chip-control bills, the AI Overwatch Act, the Chip Security Act and the MATCH Act, into this year's National Defense Authorization Act. Those bills had stalled under pushback from industr
+Nvidia shares were down 11% for the week at Thursday's close and heading for a sixth consecutive weekly decline, which CNBC says would be the longest losing run since 2012. The stock has lost 29% over that stretch, roughly US$1.6tn of market value, and has fallen below Apple. The slide began in earl
 
-## 4. [Signal] Singapore says US gave little help on Megaspeed probe; Supermicro denies sales
+## 4. [Signal] Goldman doubts Nvidia can keep striking multi-party AI deals at the same scale
 
-- Published: Thu, 12 Nov 2026 21:20:20 GMT
-- Link: https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html
+- Published: Mon, 16 Nov 2026 00:13:50 GMT
+- Link: https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html
 
-Singapore's government said on Thursday that the United States had given little help with its investigation into Alice Huang, who ran Megaspeed according to the New York Times, which reports the statement. Singapore held her passport from June 2025 to February over "potential false declarations" rel
+Goldman Sachs analyst James Schneider wrote on Thursday that while he expects Nvidia to honour its announced commitments, "it may be more difficult for the company to negotiate new multi-party investments among ecosystem partners at the same scale it has done up to this point". CNBC reports there ha
 
-## 5. [Signal] Nvidia hires search firm; Apple's Srouji reportedly in frame, Trump backs Cook
+## 5. [Signal] Chinese defence-linked university bought Nvidia H200s through a reseller
 
-- Published: Thu, 12 Nov 2026 21:20:20 GMT
-- Link: https://www.macrumors.com/2026/11/12/johny-srouji-eyed-as-potential-nvidia-ceo/
+- Published: Mon, 16 Nov 2026 00:13:50 GMT
+- Link: https://www.yahoo.com/news/world/articles/chinese-university-bought-advanced-nvidia-052401552.html
 
-Nvidia has hired an outside firm to find a replacement for Jensen Huang, Bloomberg reports, as summarised by MacRumors. Semafor reported on Wednesday that Apple's chief hardware officer Johny Srouji is among those under consideration, though it is unclear whether he has been approached or is interes
+AFP reports that Northwestern Polytechnical University in Xi'an, one of China's "Seven Sons of National Defence" universities, bought two Nvidia H200 chips from a reseller, Shaanxi Bosuan Network Technology, for 874,700 yuan (about US$131,200), according to a procurement notice dated 21 October. A s
 
-## 6. [Signal] Anthropic's IPO site shows US$17bn Q3 revenue; pricing expected 18 November
+## 6. [Signal] Cerebras signs Microsoft, guides above consensus; Cisco lifts AI goal to US$9bn
 
-- Published: Thu, 12 Nov 2026 21:20:20 GMT
-- Link: https://ipo.anthropic.com/au/
+- Published: Mon, 16 Nov 2026 00:13:50 GMT
+- Link: https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html
 
-Anthropic's IPO site, which John and Mark both shared, sets out the offering timetable and a page of third-quarter figures. Revenue for Q3 2026 was US$17.0bn, more than 12 times a year earlier. Customers with at least US$100,000 of trailing revenue numbered more than 11,900 at 30 September, also up
+Cerebras reported third-quarter core revenue of US$230.9m on Thursday, against the US$214.7m LSEG consensus, up 70% on a year earlier (growth was 103% in the second quarter). Adjusted earnings were 12 cents a share where analysts expected a 14-cent loss. It guided fourth-quarter revenue to US$310–33
 
-## 7. [Signal] Gemini 4 Hydrogen beats Argon on AA's index at US$1.50 per million input
+## 7. [Signal] Brave lets AI agents pay per search in stablecoin, with no account or API key
 
-- Published: Thu, 12 Nov 2026 21:20:20 GMT
-- Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
+- Published: Mon, 16 Nov 2026 00:13:50 GMT
+- Link: https://brave.com/blog/search-api-agentic-payments
 
-Google has released Gemini 4 Hydrogen, a faster sibling to its frontier Carbon and Argon models built for rapid execution, and put it into the Gemini app, Google Search, AI Studio, the Gemini API and Gemini for business. Google says Hydrogen scores 51 on the Artificial Analysis Intelligence Index at
+Brave has added support for the open x402 payment protocol to its Search API. An agent sends a request with no credentials, receives an HTTP 402 "Payment Required" response stating the price and payment details, signs a USDC payment on the Base blockchain for that amount, and retries with the paymen
 
-## 8. [Signal] Nvidia's pending US$12.9bn Hugging Face deal loses its sponsor in Huang
+## 8. [Signal] OpenAI launches ChatGPT Wallet with Amex, Mastercard, Visa for agent purchases
 
-- Published: Thu, 12 Nov 2026 21:20:20 GMT
-- Link: https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/
+- Published: Mon, 16 Nov 2026 00:13:50 GMT
+- Link: https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html
 
-Hugging Face chief executive Clément Delangue called Jensen Huang's departure "a really sad day", and wrote on X that "we'll keep fighting for open-source AI, harder than ever". TechCrunch reads the post as reassurance aimed at open-source developers. Nvidia announced in September that it would acqu
+OpenAI on Friday announced ChatGPT Wallet, which lets its "dots" agents make purchases for users. It was built with American Express, Mastercard and Visa. A user enters card details once, asks the agent to find something and approves each purchase with a security check. The agent never sees the card
