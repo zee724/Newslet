@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-16 06:26 UTC
+- Generated at: 2026-11-17 07:53 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] SemiAnalysis: Nvidia was built around Huang, and its supply grip was personal
+## 1. [Signal] Commerce closes Nvidia chip-leasing loophole; licences for five countries
 
-- Published: Mon, 16 Nov 2026 00:13:50 GMT
-- Link: https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen
+- Published: Mon, 16 Nov 2026 20:52:29 GMT
+- Link: https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html
 
-SemiAnalysis published a long assessment on 12 November of what Nvidia looks like without Jensen Huang. The firm describes a company of about 42,000 people with roughly 60 executives reporting to one person, no deep succession bench, and two internal technical candidates (Ian Buck, who created CUDA,
+The Commerce Department's Bureau of Industry and Security on Monday (US time) issued an interim final rule to close a loophole that has let Chinese companies lease advanced Nvidia computing power from data centres in third countries, CNBC reports. The rule says a licence will now be required to expo
 
-## 2. [Signal] Lutnick under pressure as Bessent says four agencies backed Megaspeed listing
+## 2. [Signal] Nvidia board isn't weighing Huang's return, source says; Trump is open to it
 
-- Published: Mon, 16 Nov 2026 00:13:50 GMT
-- Link: https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html
+- Published: Mon, 16 Nov 2026 20:52:29 GMT
+- Link: https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html
 
-Reuters reported on 12 November that senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be pushed out, citing two people familiar with the matter; a White House official said the President "maintains complete confidence" in him. On Friday Treasury Secretary
+A person familiar with the matter told CNBC on Monday that Nvidia's board is not considering bringing Jensen Huang back as chief executive and is not in discussions to do so; it is focused on its investigation, led by law firm Wachtell Lipton, into whether his conduct compromised national security o
 
-## 3. [Signal] Nvidia heads for sixth weekly fall, US$1.6tn gone, before Kress's first results
+## 3. [Signal] Altimeter aims to put US$5bn into Anthropic's IPO, five times its largest
 
-- Published: Mon, 16 Nov 2026 00:13:50 GMT
-- Link: https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html
+- Published: Mon, 16 Nov 2026 20:52:29 GMT
+- Link: https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html
 
-Nvidia shares were down 11% for the week at Thursday's close and heading for a sixth consecutive weekly decline, which CNBC says would be the longest losing run since 2012. The stock has lost 29% over that stretch, roughly US$1.6tn of market value, and has fallen below Apple. The slide began in earl
+Altimeter Capital is aiming to invest US$5bn in Anthropic's IPO, Brad Gerstner told CNBC's Halftime Report on Monday, five times the most he has ever put into an IPO. "I think this is a cornerstone compounder for a long time," he said. "It's where the trade is going." CNBC says Anthropic is expected
 
-## 4. [Signal] Goldman doubts Nvidia can keep striking multi-party AI deals at the same scale
+## 4. [Signal] Altimeter's Jamin Ball: Anthropic's US$81bn H1 loss is marks, not burn
 
-- Published: Mon, 16 Nov 2026 00:13:50 GMT
-- Link: https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html
+- Published: Mon, 16 Nov 2026 20:52:29 GMT
+- Link: https://cloudedjudgement.substack.com/p/clouded-judgement-103026-dispelling
 
-Goldman Sachs analyst James Schneider wrote on Thursday that while he expects Nvidia to honour its announced commitments, "it may be more difficult for the company to negotiate new multi-party investments among ecosystem partners at the same scale it has done up to this point". CNBC reports there ha
+Jamin Ball of Altimeter, who discloses that his firm is an Anthropic investor and that the views are his own, used his Clouded Judgement newsletter of 30 October to rebut what he called "blatant wrong takes" on Anthropic's S-1. John shared it alongside a Latent Space podcast in which Ball works thro
 
-## 5. [Signal] Chinese defence-linked university bought Nvidia H200s through a reseller
+## 5. [Signal] Qwen4-Max arrives at 2.4tn parameters as Mark expects an IPO-week model rush
 
-- Published: Mon, 16 Nov 2026 00:13:50 GMT
-- Link: https://www.yahoo.com/news/world/articles/chinese-university-bought-advanced-nvidia-052401552.html
+- Published: Mon, 16 Nov 2026 20:52:29 GMT
+- Link: https://qwen.ai/blog?id=qwen4-max
 
-AFP reports that Northwestern Polytechnical University in Xi'an, one of China's "Seven Sons of National Defence" universities, bought two Nvidia H200 chips from a reseller, Shaanxi Bosuan Network Technology, for 874,700 yuan (about US$131,200), according to a procurement notice dated 21 October. A s
+Alibaba's Qwen team has published Qwen4-Max, which it says is built on a new architecture for the Qwen4 series with 2.4 trillion backbone parameters, 71 billion activated per token and an additional 328 billion N-gram embedding parameters. According to the excerpt Mark shared, the architecture upgra
 
-## 6. [Signal] Cerebras signs Microsoft, guides above consensus; Cisco lifts AI goal to US$9bn
+## 6. [Signal] Wired and Steve Blank: Nvidia's rivals and its succession gap arrive together
 
-- Published: Mon, 16 Nov 2026 00:13:50 GMT
-- Link: https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html
+- Published: Mon, 16 Nov 2026 20:52:29 GMT
+- Link: https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/
 
-Cerebras reported third-quarter core revenue of US$230.9m on Thursday, against the US$214.7m LSEG consensus, up 70% on a year earlier (growth was 103% in the second quarter). Adjusted earnings were 12 cents a share where analysts expected a 14-cent loss. It guided fourth-quarter revenue to US$310–33
+Wired's Will Knight argues that Nvidia's competitive position was weakening before Jensen Huang's exit. Nvidia captures 80% of AI accelerator sales, according to Silicon Analysis, while AMD's share has risen from 2% in 2022 to between 7% and 10% in 2026, and Google, Amazon and Microsoft are all buil
 
-## 7. [Signal] Brave lets AI agents pay per search in stablecoin, with no account or API key
+## 7. [Signal] Mark rejects the SMH's 'Doctor Copper' diagnosis of the AI build
 
-- Published: Mon, 16 Nov 2026 00:13:50 GMT
-- Link: https://brave.com/blog/search-api-agentic-payments
+- Published: Mon, 16 Nov 2026 20:52:29 GMT
+- Link: https://www.smh.com.au/technology/the-cracks-are-widening-from-the-2-9-trillion-wall-street-wipeout-20261116-p61eel.html
 
-Brave has added support for the open x402 payment protocol to its Search API. An agent sends a request with no credentials, receives an HTTP 402 "Payment Required" response stating the price and payment details, signs a USDC payment on the Base blockchain for that amount, and retries with the paymen
+An SMH opinion column argues that copper is diagnosing trouble in the AI build. It says copper has slumped 7.3% since late October and is down more than 10% from its September record, and ties the falls to Nvidia: 2.84% on 28 October, the day of the first New York Times report linking Huang to Megas
 
-## 8. [Signal] OpenAI launches ChatGPT Wallet with Amex, Mastercard, Visa for agent purchases
+## 8. [Signal] Telus quits two Vancouver AI data centres after local opposition
 
-- Published: Mon, 16 Nov 2026 00:13:50 GMT
-- Link: https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html
+- Published: Mon, 16 Nov 2026 20:52:29 GMT
+- Link: https://www.theglobeandmail.com/business/technology/article-telus-pulls-out-of-two-planned-vancouver-ai-data-centres/
 
-OpenAI on Friday announced ChatGPT Wallet, which lets its "dots" agents make purchases for users. It was built with American Express, Mastercard and Visa. A user enters card details once, asks the agent to find something and approves each purchase with a security check. The agent never sees the card
+Telus is ending its participation in two planned AI data centres in Vancouver, The Globe and Mail reports. It had said in May that it would co-develop them with developer Westbank, equip them over time with some 63,000 Nvidia chips and draw up to 163 megawatts. One was a conversion of an office buil
