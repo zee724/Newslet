@@ -1,6 +1,6 @@
 # Exponential View Daily Briefing
 
-- Generated at: 2026-11-20 07:13 UTC
+- Generated at: 2026-11-21 07:04 UTC
 - Feed: https://www.exponentialview.co/feed
 - Items: 8
 
