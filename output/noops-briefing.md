@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-22 06:45 UTC
+- Generated at: 2026-11-23 07:35 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Anthropic closes its debut at US$97.17, up 17%, after opening near US$2tn
+## 1. [Signal] Intuit sells Mailchimp to Bending Spoons for US$3.68bn, under a third of cost
 
-- Published: Thu, 19 Nov 2026 22:07:48 GMT
-- Link: https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo
+- Published: Sun, 22 Nov 2026 21:18:26 GMT
+- Link: https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html
 
-Anthropic opened at US$111.50 a share in its Nasdaq debut on Thursday 19 November (US time), 34% above the US$83 IPO price, CNN and CNBC reported. On CNN's count of about 18.14bn fully diluted shares, that valued the company at roughly US$2tn at the open, against about US$1.5tn at the offer price. C
+Intuit has agreed to sell Mailchimp to Bending Spoons for US$3.68bn in cash and stock, CNBC reports, with the deal due to close in early 2027. Intuit paid US$12bn for the email-marketing business in 2021, so it is exiting at less than a third of cost. Mailchimp's revenue fell 1% to US$313m in the qu
 
-## 2. [Signal] Anthropic shut out half its institutional bidders; founders hold 61% of votes
+## 2. [Signal] House panel: Commerce approved 879,000 AI chips for China from 3.4m requested
 
-- Published: Thu, 19 Nov 2026 22:07:48 GMT
-- Link: https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html
+- Published: Sun, 22 Nov 2026 21:18:26 GMT
+- Link: https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html
 
-Anthropic gave priority to institutions it already knew from its private rounds, and roughly half the firms that placed orders received no stock, people familiar with the deal told CNBC. Retail came in at about 15% of the offering, below Anthropic's target of 20% but well above the usual 5% to 10%.
+The House Foreign Affairs Committee voted on Thursday to release export-licence documents showing that the Commerce Department's Bureau of Industry and Security approved the sale of more than 879,000 AI chips to Chinese companies, CNBC reports. Companies lodged requests covering 3.4m chips between D
 
-## 3. [Signal] Amodei says Anthropic's US$900bn compute bill, if anything, errs on the low side
+## 3. [Signal] Report: Nvidia's headhunters approach Arm's Haas; Buck, Su, Srouji also named
 
-- Published: Thu, 19 Nov 2026 22:07:48 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/11/19/anthropic-throws-open-doors-at-2t-valuation-as-shares-pop-34-in-initial-trading/5311143
+- Published: Sun, 22 Nov 2026 21:18:26 GMT
+- Link: https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas
 
-On listing day, Dario Amodei told CNBC's Andrew Ross Sorkin that Anthropic tries to "err on the low side" when it forecasts compute. The Register points out what that means for the roughly US$900bn of infrastructure and compute commitments in the company's filings, which it says could pass US$1tn be
+Heidrick & Struggles, the recruiting firm hired by Nvidia's board, has begun contacting candidates to succeed Jensen Huang and has approached Arm chief executive Rene Haas, the Guardian reports, citing Bloomberg. Haas, 64, spent seven years at Nvidia as general manager of its computing products befo
 
-## 4. [Signal] Gemini 4 Neon scores 61 on AA at US$3/US$15, but runs US$6.44 a task
+## 4. [Signal] Anthropic ends day one above Meta, then falls 8.5%; CBA holds a A$1.5bn stake
 
-- Published: Thu, 19 Nov 2026 22:07:48 GMT
-- Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+- Published: Sun, 22 Nov 2026 21:18:26 GMT
+- Link: https://www.abc.net.au/news/2026-11-20/anthropic-ipo-three-trillion/107407020
 
-Google has released Gemini 4 Neon at US$3 per million input tokens (US$0.15 cached, a 95% discount) and US$15 per million output tokens, with a 1m-token context window. The model is available through the Gemini API, AI Studio, Antigravity and the Gemini app for Pro and Ultra subscribers. Google says
+Anthropic finished its first session at US$97.17 with a fully diluted market capitalisation of US$1.75tn, CNBC reported, after more than 846m shares changed hands against 522m on SpaceX's first day. Mark's first reaction was the ranking: on his figures Meta is worth about US$1.55tn, so a company fou
 
-## 5. [Signal] Hunterbrook short report on AMD's China ties knocks the stock about 9%
+## 5. [Signal] Anthropic researcher: nearly all humans very likely to become unemployable
 
-- Published: Thu, 19 Nov 2026 22:07:48 GMT
-- Link: https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html
+- Published: Sun, 22 Nov 2026 21:18:26 GMT
+- Link: https://futurism.com/future-society/anthropic-safety-researcher-claude-ipo-fear
 
-AMD shares fell on Thursday 19 November (US time) after Hunterbrook Media published a report alleging the company "has its own China problem". Hunterbrook Media is the media arm of Hunterbrook Capital, which CNN notes is short the stock. The report alleges that after the US blacklisted the Chinese s
+Days before the listing, Anthropic safeguards researcher Tao Lin told the AI-safety non-profit Palisade Research that "pretty much all humans on Earth will become unemployable", Futurism reports. Lin put the chance of AI "taking over" at below 50%, and described the more predictable outcome as "ever
 
-## 6. [Signal] Intel signs its first outside 18A foundry customer after halving since September
+## 6. [Signal] Engineering index: Fable, Neon and Astra within 2 points; cost gap is 2.5x
 
-- Published: Thu, 19 Nov 2026 22:07:48 GMT
-- Link: https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html
+- Published: Sun, 22 Nov 2026 21:18:26 GMT
+- Link: https://git-aarvin.github.io/mei/
 
-Intel has signed its first outside customer for its 18A process, CEO Lip-Bu Tan said on Wednesday 18 November (US time) at the TomorrowX Summit in Austin, without naming the client. Intel's technology chief Pushkar Ranade later clarified on X that the customer has signed for 18A-P, the variant that
+A composite called the Models Engineering Index ranks language models on practical engineering work by combining results from 16 published coding benchmarks, adjusted for benchmark difficulty and missing results so that the average model scores 50. As read at the time of writing, Google's Gemini 4 N
 
-## 7. [Signal] Tencent says the US remote-GPU ban 'sets everyone back in China'
+## 7. [Signal] Lean community certifies a Claude-assisted proof of the Riemann Hypothesis
 
-- Published: Thu, 19 Nov 2026 22:07:48 GMT
-- Link: https://www.theregister.com/systems/2026/11/19/chinese-web-giant-tencent-says-new-us-gpu-ban-sets-everyone-back-in-china/5310927
+- Published: Sun, 22 Nov 2026 21:18:26 GMT
+- Link: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/
 
-Tencent president Martin Lau told analysts on the company's third-quarter call that the new US ban on Chinese companies accessing GPUs remotely will have an "unfortunate" impact, The Register reports. "It does set everyone back. It sets everyone back in China," he said. "Everyone is actually having
+Levent Alpöge, a number theorist at Anthropic, published a short note on 20 November saying he believes he has, "working with Claude", found a proof of the Riemann Hypothesis, and that the method extends to the Generalised Riemann Hypothesis. There is no paper in the usual sense: the proof exists as
 
-## 8. [Signal] TrendForce sees NAND prices falling in 2027 as Chinese clouds cut SSD orders
+## 8. [Signal] Thinking Machines' 26B looped model ties Qwen 27B at a sixth the cost per task
 
-- Published: Thu, 19 Nov 2026 22:07:48 GMT
-- Link: https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116
+- Published: Sun, 22 Nov 2026 21:18:26 GMT
+- Link: https://thinkingmachines.ai/news/inkling-2-mini/
 
-NAND flash prices could start falling next year as Chinese cloud operators cut enterprise SSD orders, The Register reports from new TrendForce research. TrendForce says Chinese cloud providers face GPU shortages, high inventories and fierce competition over AI token pricing, and have cut their 2027
+Thinking Machines released Inkling 2 Mini on 20 November: an Apache 2.0 open-weights mixture-of-experts model with 26.4bn total parameters and 3.4bn active, a one-million-token context window and a memory footprint of about 20GB, small enough for a laptop. Its distinguishing feature is architectural
