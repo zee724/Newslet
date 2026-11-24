@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-23 07:35 UTC
+- Generated at: 2026-11-24 09:52 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Intuit sells Mailchimp to Bending Spoons for US$3.68bn, under a third of cost
+## 1. [Signal] Etsy bans AI-written patterns as buyers say they can't spot AI goods
 
-- Published: Sun, 22 Nov 2026 21:18:26 GMT
-- Link: https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html
+- Published: Mon, 23 Nov 2026 23:03:46 GMT
+- Link: https://www.valueaddedresource.net/etsy-bans-ai-patterns/
 
-Intuit has agreed to sell Mailchimp to Bending Spoons for US$3.68bn in cash and stock, CNBC reports, with the deal due to close in early 2027. Intuit paid US$12bn for the email-marketing business in 2021, so it is exiting at less than a third of cost. Mailchimp's revenue fell 1% to US$313m in the qu
+Etsy has banned AI-generated functional instructions and tightened its listing-photo rules, with the reason stated plainly: the company says many active buyers report being unable to tell which items involve AI-generated content, and ranks that among the top three barriers to shopping more often. Th
 
-## 2. [Signal] House panel: Commerce approved 879,000 AI chips for China from 3.4m requested
+## 2. [Signal] Samsung Labs' LittleBit fits Llama 2 13B in 0.9GB at 0.1 bits a weight
 
-- Published: Sun, 22 Nov 2026 21:18:26 GMT
-- Link: https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html
+- Published: Mon, 23 Nov 2026 23:03:46 GMT
+- Link: https://arxiv.org/abs/2506.13771
 
-The House Foreign Affairs Committee voted on Thursday to release export-licence documents showing that the Commerce Department's Bureau of Industry and Security approved the sale of more than 879,000 AI chips to Chinese companies, CNBC reports. Companies lodged requests covering 3.4m chips between D
+LittleBit, a quantisation method from Banseok Lee, Dongkyu Kim, Youngcheon You and Youngmin Kim, compresses large language models to as little as 0.1 bits per weight, a memory reduction of about 31 times that squeezes Meta's Llama 2 13B into under 0.9GB. The paper is not new. It was first posted to
 
-## 3. [Signal] Report: Nvidia's headhunters approach Arm's Haas; Buck, Su, Srouji also named
+## 3. [Signal] CrowdStrike to buy Zscaler for US$43.9bn in stock; its shares fall 9%
 
-- Published: Sun, 22 Nov 2026 21:18:26 GMT
-- Link: https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas
+- Published: Mon, 23 Nov 2026 23:03:46 GMT
+- Link: https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html
 
-Heidrick & Struggles, the recruiting firm hired by Nvidia's board, has begun contacting candidates to succeed Jensen Huang and has approached Arm chief executive Rene Haas, the Guardian reports, citing Bloomberg. Haas, 64, spent seven years at Nvidia as general manager of its computing products befo
+CrowdStrike has agreed to buy Zscaler in an all-stock deal valued at US$43.9bn, CNBC reports. Zscaler holders will receive 1.135 CrowdStrike shares for each share, and the deal is expected to close in the second half of CrowdStrike's fiscal 2028. CrowdStrike's year ends in January, so that means bet
 
-## 4. [Signal] Anthropic ends day one above Meta, then falls 8.5%; CBA holds a A$1.5bn stake
+## 4. [Signal] Z.ai's GLM-5.4 is a looped transformer it says rivals 2-3tn parameter models
 
-- Published: Sun, 22 Nov 2026 21:18:26 GMT
-- Link: https://www.abc.net.au/news/2026-11-20/anthropic-ipo-three-trillion/107407020
+- Published: Mon, 23 Nov 2026 23:03:46 GMT
+- Link: https://z.ai/blog/glm-5.4
 
-Anthropic finished its first session at US$97.17 with a fully diluted market capitalisation of US$1.75tn, CNBC reported, after more than 846m shares changed hands against 522m on SpaceX's first day. Mark's first reaction was the ranking: on his figures Meta is worth about US$1.55tn, so a company fou
+Z.ai has released GLM-5.4, which it describes as its first flagship model built on a Loop Transformer architecture. According to the company's blog post, the model runs a shared block of layers several times, so it "can reason more deeply without adding parameters". Z.ai says this reaches "intellige
 
-## 5. [Signal] Anthropic researcher: nearly all humans very likely to become unemployable
+## 5. [Signal] Nvidia's board reinstates Huang as CEO, citing input from US officials
 
-- Published: Sun, 22 Nov 2026 21:18:26 GMT
-- Link: https://futurism.com/future-society/anthropic-safety-researcher-claude-ipo-fear
+- Published: Mon, 23 Nov 2026 23:03:46 GMT
+- Link: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director
 
-Days before the listing, Anthropic safeguards researcher Tao Lin told the AI-safety non-profit Palisade Research that "pretty much all humans on Earth will become unemployable", Futurism reports. Lin put the chance of AI "taking over" at below 50%, and described the more predictable outcome as "ever
+Nvidia's board voted unanimously on Monday, US time, to reinstate Jensen Huang as president, chief executive and a board director, effective immediately. The company's statement says the decision followed "a series of discussions and meetings" with Huang, after which the board was satisfied with his
 
-## 6. [Signal] Engineering index: Fable, Neon and Astra within 2 points; cost gap is 2.5x
+## 6. [Signal] Trump says he gave Nvidia's board 'assurance'; Congress asks what was said
 
-- Published: Sun, 22 Nov 2026 21:18:26 GMT
-- Link: https://git-aarvin.github.io/mei/
+- Published: Mon, 23 Nov 2026 23:03:46 GMT
+- Link: https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html
 
-A composite called the Models Engineering Index ranks language models on practical engineering work by combining results from 16 published coding benchmarks, adjusted for benchmark difficulty and missing results so that the average model scores 50. As read at the time of writing, Google's Gemini 4 N
+President Trump has confirmed that the "senior levels" of government in Nvidia's statement included him. In a phone interview with CNBC's Eamon Javers on Monday, he said he had spoken to the board "directly and indirectly", that it "did ask for assurance on the national security threat", and that "w
 
-## 7. [Signal] Lean community certifies a Claude-assisted proof of the Riemann Hypothesis
+## 7. [Signal] US says Megaspeed probe is ongoing as WSJ names an associate as a key figure
 
-- Published: Sun, 22 Nov 2026 21:18:26 GMT
-- Link: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/
+- Published: Mon, 23 Nov 2026 23:03:46 GMT
+- Link: https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html
 
-Levent Alpöge, a number theorist at Anthropic, published a short note on 20 November saying he believes he has, "working with Claude", found a proof of the Riemann Hypothesis, and that the method extends to the Generalised Riemann Hypothesis. There is no paper in the usual sense: the proof exists as
+The investigation behind Huang's resignation has not stopped with his return. Director of National Intelligence Jay Clayton told ABC on Sunday, the day before the reinstatement, that "there is an investigation ongoing" into Alice Huang and Megaspeed, the Singapore-based cloud company in which she wa
 
-## 8. [Signal] Thinking Machines' 26B looped model ties Qwen 27B at a sixth the cost per task
+## 8. [Signal] Nvidia jumps on Huang's return; Trump says the rout 'probably' played a part
 
-- Published: Sun, 22 Nov 2026 21:18:26 GMT
-- Link: https://thinkingmachines.ai/news/inkling-2-mini/
+- Published: Mon, 23 Nov 2026 23:03:46 GMT
+- Link: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
 
-Thinking Machines released Inkling 2 Mini on 20 November: an Apache 2.0 open-weights mixture-of-experts model with 26.4bn total parameters and 3.4bn active, a one-million-token context window and a memory footprint of about 20GB, small enough for a laptop. Its distinguishing feature is architectural
+Nvidia rose about 32% in Monday's session after Huang's reinstatement, and the broader market recovered with it. The S&P 500 gained about 5% and the Nasdaq about 7%, partly reversing the 20 November rout that had put the S&P 500 in correction (https://noops.au/signal/b344c8171df45336de44225c88cd5a6e
