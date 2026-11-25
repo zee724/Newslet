@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-24 09:52 UTC
+- Generated at: 2026-11-25 08:30 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Etsy bans AI-written patterns as buyers say they can't spot AI goods
+## 1. [Signal] Note calls Alpöge's Riemann proof scaffolding vacuous; formal checks still pass
 
-- Published: Mon, 23 Nov 2026 23:03:46 GMT
-- Link: https://www.valueaddedresource.net/etsy-bans-ai-patterns/
+- Published: Tue, 24 Nov 2026 21:20:58 GMT
+- Link: https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/
 
-Etsy has banned AI-generated functional instructions and tightened its listing-photo rules, with the reason stated plainly: the company says many active buyers report being unable to tell which items involve AI-generated content, and ranks that among the top three barriers to shopping more often. Th
+Two days after the Lean and Mathlib communities certified Levent Alpöge's Claude-assisted proof of the Riemann Hypothesis, a dissent has surfaced. A record on PhilPapers, the philosophy research index, titled "Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis", reached us via LinkedI
 
-## 2. [Signal] Samsung Labs' LittleBit fits Llama 2 13B in 0.9GB at 0.1 bits a weight
+## 2. [Signal] US adds Megaspeed and an Alibaba unit to its Entity List, presumption of denial
 
-- Published: Mon, 23 Nov 2026 23:03:46 GMT
-- Link: https://arxiv.org/abs/2506.13771
+- Published: Tue, 24 Nov 2026 21:20:58 GMT
+- Link: https://www.theregister.com/systems/2026/11/24/us-blacklists-megaspeed-hours-after-jensen-huang-returns-to-nvidia/5311901
 
-LittleBit, a quantisation method from Banseok Lee, Dongkyu Kim, Youngcheon You and Youngmin Kim, compresses large language models to as little as 0.1 bits per weight, a memory reduction of about 31 times that squeezes Meta's Llama 2 13B into under 0.9GB. The paper is not new. It was first posted to
+The US Commerce Department's Bureau of Industry and Security (BIS) has added Megaspeed, the Singapore company at the centre of the Nvidia export-control investigation, to its Entity List along with six affiliated businesses across Singapore, Malaysia and Thailand, The Register reports. The final rul
 
-## 3. [Signal] CrowdStrike to buy Zscaler for US$43.9bn in stock; its shares fall 9%
+## 3. [Signal] Amazon agrees to buy Decart's chip-optimisation stack for a reported US$7.5bn
 
-- Published: Mon, 23 Nov 2026 23:03:46 GMT
-- Link: https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html
+- Published: Tue, 24 Nov 2026 21:20:58 GMT
+- Link: https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754
 
-CrowdStrike has agreed to buy Zscaler in an all-stock deal valued at US$43.9bn, CNBC reports. Zscaler holders will receive 1.135 CrowdStrike shares for each share, and the deal is expected to close in the second half of CrowdStrike's fiscal 2028. CrowdStrike's year ends in January, so that means bet
+Amazon has agreed to buy the Decart Optimization Stack (DOS), proprietary software from Decart AI that sits between AI models and the chips they run on, and to bring Decart's three founders and engineering team into the company, The Register reports. Neither side disclosed a price, but Bloomberg, ci
 
-## 4. [Signal] Z.ai's GLM-5.4 is a looped transformer it says rivals 2-3tn parameter models
+## 4. [Signal] FT: a Silicon Valley 'war room' and Vance lobbied for Huang's reinstatement
 
-- Published: Mon, 23 Nov 2026 23:03:46 GMT
-- Link: https://z.ai/blog/glm-5.4
+- Published: Tue, 24 Nov 2026 21:20:58 GMT
+- Link: https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/
 
-Z.ai has released GLM-5.4, which it describes as its first flagship model built on a Loop Transformer architecture. According to the company's blog post, the model runs a shared block of layers several times, so it "can reason more deeply without adding parameters". Z.ai says this reaches "intellige
+Nvidia's reinstatement of Jensen Huang on Monday was the culmination of lobbying by a "war room" of his Silicon Valley allies who drew in President Trump and Vice-President JD Vance, according to a Financial Times report republished by Ars Technica and aggregated on Techmeme. Citing people familiar
 
-## 5. [Signal] Nvidia's board reinstates Huang as CEO, citing input from US officials
+## 5. [Signal] Republicans break with Trump over Huang as analysts flag Nvidia key-man risk
 
-- Published: Mon, 23 Nov 2026 23:03:46 GMT
-- Link: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director
+- Published: Tue, 24 Nov 2026 21:20:58 GMT
+- Link: https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html
 
-Nvidia's board voted unanimously on Monday, US time, to reinstate Jensen Huang as president, chief executive and a board director, effective immediately. The company's statement says the decision followed "a series of discussions and meetings" with Huang, after which the board was satisfied with his
+Huang's return has opened a second front on governance. Congressional Republicans on Monday harshly criticised Nvidia's decision to reinstate him and President Trump's personal intervention on his behalf, the New York Times reported, describing a swift and unusually vocal break with the president an
 
-## 6. [Signal] Trump says he gave Nvidia's board 'assurance'; Congress asks what was said
+## 6. [Signal] Analysis: cheaper tokens alone won't pay for the AI capex build
 
-- Published: Mon, 23 Nov 2026 23:03:46 GMT
-- Link: https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html
+- Published: Tue, 24 Nov 2026 21:20:58 GMT
+- Link: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/
 
-President Trump has confirmed that the "senior levels" of government in Nvidia's statement included him. In a phone interview with CNBC's Eamon Javers on Monday, he said he had spoken to the board "directly and indirectly", that it "did ask for assurance on the national security threat", and that "w
+Token volumes and token prices are moving at roughly the same speed, so cheaper inference on its own does not grow AI revenue, Philipp Dubach argues in a data-heavy follow-up to his March analysis. Google's first-party model APIs rose from 7 billion tokens a minute in Q3 2025 to nearly 32 billion in
 
-## 7. [Signal] US says Megaspeed probe is ongoing as WSJ names an associate as a key figure
+## 7. [Signal] Anthropic's Claude Ship lets agents review, fix and approve pull requests
 
-- Published: Mon, 23 Nov 2026 23:03:46 GMT
-- Link: https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html
+- Published: Tue, 24 Nov 2026 21:20:58 GMT
+- Link: https://claude.com/resources/articles/introducing-claude-ship
 
-The investigation behind Huang's resignation has not stopped with his return. Director of National Intelligence Jay Clayton told ABC on Sunday, the day before the reinstatement, that "there is an investigation ongoing" into Alice Huang and Megaspeed, the Singapore-based cloud company in which she wa
+Anthropic has launched Claude Ship in beta, a set of agents that takes a pull request through review, fixes and an approval decision under policies each team sets. It combines Code Review, already generally available, with two new beta agents. PR Steward responds to failing CI checks, merge conflict
 
-## 8. [Signal] Nvidia jumps on Huang's return; Trump says the rout 'probably' played a part
+## 8. [Signal] Block's Dessa: a full-duplex voice model trained on speech alone, on one rack
 
-- Published: Mon, 23 Nov 2026 23:03:46 GMT
-- Link: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
+- Published: Tue, 24 Nov 2026 21:20:58 GMT
+- Link: https://block.xyz/dessa
 
-Nvidia rose about 32% in Monday's session after Huang's reinstatement, and the broader market recovered with it. The S&P 500 gained about 5% and the Nasdaq about 7%, partly reversing the 20 November rout that had put the S&P 500 in correction (https://noops.au/signal/b344c8171df45336de44225c88cd5a6e
+Block's small AI research lab has released Dessa, which it describes as a true speech-to-speech model trained from scratch on human conversation only: no text and no pretrained models. It is full-duplex, listening and talking at the same time, and Block says it learned when to cut in and when to bac
