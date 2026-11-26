@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-25 08:30 UTC
+- Generated at: 2026-11-26 08:14 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Note calls Alpöge's Riemann proof scaffolding vacuous; formal checks still pass
+## 1. [Signal] Dell's AI server sales rise 291% to US$22bn; ISG now about 76% of revenue
 
-- Published: Tue, 24 Nov 2026 21:20:58 GMT
-- Link: https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/
+- Published: Wed, 25 Nov 2026 20:55:16 GMT
+- Link: https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html
 
-Two days after the Lean and Mathlib communities certified Levent Alpöge's Claude-assisted proof of the Riemann Hypothesis, a dissent has surfaced. A record on PhilPapers, the philosophy research index, titled "Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis", reached us via LinkedI
+Dell reported fiscal third-quarter results on Tuesday, US time, that beat consensus by a wide margin, according to CNBC: adjusted earnings of US$9.45 a share against US$6.59 expected, and revenue of US$54.94bn against US$49.32bn. The Infrastructure Solutions Group, which builds servers around Nvidia
 
-## 2. [Signal] US adds Megaspeed and an Alibaba unit to its Entity List, presumption of denial
+## 2. [Signal] Trump floats a Huang pardon and a US stake in Nvidia, echoing Intel's 2025 deal
 
-- Published: Tue, 24 Nov 2026 21:20:58 GMT
-- Link: https://www.theregister.com/systems/2026/11/24/us-blacklists-megaspeed-hours-after-jensen-huang-returns-to-nvidia/5311901
+- Published: Wed, 25 Nov 2026 20:55:16 GMT
+- Link: https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html
 
-The US Commerce Department's Bureau of Industry and Security (BIS) has added Megaspeed, the Singapore company at the centre of the Nvidia export-control investigation, to its Entity List along with six affiliated businesses across Singapore, Malaysia and Thailand, The Register reports. The final rul
+President Trump told the New York Post he would be willing to pardon Nvidia chief executive Jensen Huang "if needed" ahead of Huang's congressional appearances next week, CNBC reports: a closed-door interview with the House Foreign Affairs Committee on 1 December and a Senate Banking Committee heari
 
-## 3. [Signal] Amazon agrees to buy Decart's chip-optimisation stack for a reported US$7.5bn
+## 3. [Signal] Nvidia's US$1bn D&O cover is all Side A; Huang says no succession plan needed
 
-- Published: Tue, 24 Nov 2026 21:20:58 GMT
-- Link: https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754
+- Published: Wed, 25 Nov 2026 20:55:16 GMT
+- Link: https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html
 
-Amazon has agreed to buy the Decart Optimization Stack (DOS), proprietary software from Decart AI that sits between AI models and the chips they run on, and to bring Decart's three founders and engineering team into the company, The Register reports. Neither side disclosed a price, but Bloomberg, ci
+Nvidia built a directors-and-officers insurance tower of about US$1bn and allocated all of it to Side A, according to a risk adviser with direct knowledge of the coverage quoted by CNBC. Side A protects directors and officers personally when the company cannot indemnify them. Nvidia did not buy Side
 
-## 4. [Signal] FT: a Silicon Valley 'war room' and Vance lobbied for Huang's reinstatement
+## 4. [Signal] Nvidia GPU sellers seek new buyers after US curbs China's remote access
 
-- Published: Tue, 24 Nov 2026 21:20:58 GMT
-- Link: https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/
+- Published: Wed, 25 Nov 2026 20:55:16 GMT
+- Link: https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html
 
-Nvidia's reinstatement of Jensen Huang on Monday was the culmination of lobbying by a "war room" of his Silicon Valley allies who drew in President Trump and Vice-President JD Vance, according to a Financial Times report republished by Ars Technica and aggregated on Techmeme. Citing people familiar
+An unusually large volume of Nvidia GPUs has come onto the market since the Commerce Department's Bureau of Industry and Security announced a rule on 16 November restricting overseas data-centre arrangements that rent large amounts of advanced computing to China-linked customers, CNBC reports. The i
 
-## 5. [Signal] Republicans break with Trump over Huang as analysts flag Nvidia key-man risk
+## 5. [Signal] Kalshi odds of an OpenAI IPO by June 2027 fall to 28% as chip stocks slide
 
-- Published: Tue, 24 Nov 2026 21:20:58 GMT
-- Link: https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html
+- Published: Wed, 25 Nov 2026 20:55:16 GMT
+- Link: https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html
 
-Huang's return has opened a second front on governance. Congressional Republicans on Monday harshly criticised Nvidia's decision to reinstate him and President Trump's personal intervention on his behalf, the New York Times reported, describing a swift and unusually vocal break with the president an
+Traders on the prediction market Kalshi now give about a 28% chance that OpenAI officially announces an IPO by June 2027, down from above 50% earlier this month, CNBC reports; the odds of a listing by October 2027 are about even. Kalshi counts an S-1 declared effective, a priced offering or an assig
 
-## 6. [Signal] Analysis: cheaper tokens alone won't pay for the AI capex build
+## 6. [Signal] OpenAI claims proof that matrix multiplication's exponent is 9/4, not 2
 
-- Published: Tue, 24 Nov 2026 21:20:58 GMT
-- Link: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/
+- Published: Wed, 25 Nov 2026 20:55:16 GMT
+- Link: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf
 
-Token volumes and token prices are moving at roughly the same speed, so cheaper inference on its own does not grow AI revenue, Philipp Dubach argues in a data-heavy follow-up to his March analysis. Google's first-party model APIs rose from 7 billion tokens a minute in Q3 2025 to nearly 32 billion in
+OpenAI has posted a preprint, dated 24 November, claiming to prove that the exponent of square matrix multiplication is exactly 9/4 over every field. The matching upper bound was already established, by OpenAI over the complex numbers and by Amanov, van den Berg and Zuiddam over every field; the new
 
-## 7. [Signal] Anthropic's Claude Ship lets agents review, fix and approve pull requests
+## 7. [Signal] Axios: Anthropic and OpenAI staff doubt some internal models can be released
 
-- Published: Tue, 24 Nov 2026 21:20:58 GMT
-- Link: https://claude.com/resources/articles/introducing-claude-ship
+- Published: Wed, 25 Nov 2026 20:55:16 GMT
+- Link: https://www.axios.com/newsletters/axios-ai-plus-82a3e040-e76f-11f1-86b6-295005731213.html
 
-Anthropic has launched Claude Ship in beta, a set of agents that takes a pull request through review, fixes and an approval decision under policies each team sets. It combines Code Review, already generally available, with two new beta agents. PR Steward responds to failing CI checks, merge conflict
+Axios reports, citing more than two dozen sources familiar with internal debates, that Anthropic and OpenAI face an increasingly urgent problem: unreleased internal models have become powerful enough that many employees no longer believe they can be safely released. According to the newsletter excer
 
-## 8. [Signal] Block's Dessa: a full-duplex voice model trained on speech alone, on one rack
+## 8. [Signal] US data centres have announced 115GW of their own gas plants; 4.9GW runs today
 
-- Published: Tue, 24 Nov 2026 21:20:58 GMT
-- Link: https://block.xyz/dessa
+- Published: Wed, 25 Nov 2026 20:55:16 GMT
+- Link: https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/
 
-Block's small AI research lab has released Dessa, which it describes as a true speech-to-speech model trained from scratch on human conversation only: no text and no pretrained models. It is full-duplex, listening and talking at the same time, and Block says it learned when to cut in and when to bac
+Data-centre developers in the US had announced plans for more than 100 behind-the-meter gas power plants by October, with combined planned capacity above 115GW, more than double California's peak demand, according to Cleanview data cited by MIT Technology Review. Almost all were announced since the
