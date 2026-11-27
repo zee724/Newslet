@@ -1,61 +1,61 @@
 # NOOPS Daily Briefing
 
-- Generated at: 2026-11-26 08:14 UTC
+- Generated at: 2026-11-27 08:29 UTC
 - Feed: https://noops.au/rss
 - Items: 8
 
-## 1. [Signal] Dell's AI server sales rise 291% to US$22bn; ISG now about 76% of revenue
+## 1. [Signal] Deutsche Bank: chip exports overtook oil and gas in 2026, a 'chip dollar' era
 
-- Published: Wed, 25 Nov 2026 20:55:16 GMT
-- Link: https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html
+- Published: Thu, 26 Nov 2026 19:54:12 GMT
+- Link: https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html
 
-Dell reported fiscal third-quarter results on Tuesday, US time, that beat consensus by a wide margin, according to CNBC: adjusted earnings of US$9.45 a share against US$6.59 expected, and revenue of US$54.94bn against US$49.32bn. The Infrastructure Solutions Group, which builds servers around Nvidia
+Semiconductors have overtaken oil and gas in global export value for the first time, according to a Deutsche Bank analysis of International Trade Centre data reported by CNBC. On four-quarter rolling totals, chip exports reached about US$1.61tn in the January–March quarter of 2026 against US$1.53tn
 
-## 2. [Signal] Trump floats a Huang pardon and a US stake in Nvidia, echoing Intel's 2025 deal
+## 2. [Signal] S&P puts Nvidia's AA rating on watch as accounts of the DOJ review diverge
 
-- Published: Wed, 25 Nov 2026 20:55:16 GMT
-- Link: https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html
+- Published: Thu, 26 Nov 2026 19:54:12 GMT
+- Link: https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html
 
-President Trump told the New York Post he would be willing to pardon Nvidia chief executive Jensen Huang "if needed" ahead of Huang's congressional appearances next week, CNBC reports: a closed-door interview with the House Foreign Affairs Committee on 1 December and a Senate Banking Committee heari
+S&P Global Ratings placed Nvidia's AA rating on CreditWatch with negative implications in a note on Wednesday, saying it could cut the rating by one notch, to AA-, within 90 days if "deficiencies" in management and governance persist, CNBC reports. S&P said news about the chief executive and questio
 
-## 3. [Signal] Nvidia's US$1bn D&O cover is all Side A; Huang says no succession plan needed
+## 3. [Signal] Aaronson 'virtually certain' labs hold crypto bombshells; papers fall short
 
-- Published: Wed, 25 Nov 2026 20:55:16 GMT
-- Link: https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html
+- Published: Thu, 26 Nov 2026 19:54:12 GMT
+- Link: https://scottaaronson.blog/?p=10379
 
-Nvidia built a directors-and-officers insurance tower of about US$1bn and allocated all of it to Side A, according to a risk adviser with direct knowledge of the coverage quoted by CNBC. Side A protects directors and officers personally when the company cannot indemnify them. Nvidia did not buy Side
+Scott Aaronson wrote on 26 November that he is "virtually certain, from multiple reliable sources" that AI labs are "sitting on one or more bombshells" in algorithms, including results that would break currently deployed cryptosystems. He was careful to add that he is much less confident about their
 
-## 4. [Signal] Nvidia GPU sellers seek new buyers after US curbs China's remote access
+## 4. [Signal] Researchers use Claude to build new complexity separations on VP≠VNP
 
-- Published: Wed, 25 Nov 2026 20:55:16 GMT
-- Link: https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html
+- Published: Thu, 26 Nov 2026 19:54:12 GMT
+- Link: https://github.com/samueleverett01/bss-permanent-separations
 
-An unusually large volume of Nvidia GPUs has come onto the market since the Commerce Department's Bureau of Industry and Security announced a rule on 16 November restricting overseas data-centre arrangements that rent large amounts of advanced computing to China-linked customers, CNBC reports. The i
+Samuel Everett and Deven Mithal have posted a paper and Lean 4 formalisation proving a set of separations in the Blum–Shub–Smale model of computation over the real and complex numbers, including that NP over the reals is strictly contained in parallel polynomial time. The repository says the results
 
-## 5. [Signal] Kalshi odds of an OpenAI IPO by June 2027 fall to 28% as chip stocks slide
+## 5. [Signal] Nvidia's 45°C liquid inlet spec could make chillers optional in most climates
 
-- Published: Wed, 25 Nov 2026 20:55:16 GMT
-- Link: https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html
+- Published: Thu, 26 Nov 2026 19:54:12 GMT
+- Link: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831
 
-Traders on the prediction market Kalshi now give about a 28% chance that OpenAI officially announces an IPO by June 2027, down from above 50% earlier this month, CNBC reports; the odds of a listing by October 2027 are about even. Kalshi counts an S-1 declared effective, a priced offering or an assig
+A column in The Register from the SC26 supercomputing show argues that Nvidia's specification of a 45°C liquid inlet temperature for its parts, set earlier this year, removes the need for chillers in most new data centres. Most liquid-cooled systems have run at 30–35°C inlets because that is what ch
 
-## 6. [Signal] OpenAI claims proof that matrix multiplication's exponent is 9/4, not 2
+## 6. [Signal] Patrick McKenzie: multiagent coding is a shift as large as LLM coding itself
 
-- Published: Wed, 25 Nov 2026 20:55:16 GMT
-- Link: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf
+- Published: Thu, 26 Nov 2026 19:54:12 GMT
+- Link: https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/
 
-OpenAI has posted a preprint, dated 24 November, claiming to prove that the exponent of square matrix multiplication is exactly 9/4 over every field. The matching upper bound was already established, by OpenAI over the complex numbers and by Amanov, van den Berg and Zuiddam over every field; the new
+Patrick McKenzie, who writes Bits about Money and advises Stripe, argues in a long essay that multiagent coding "is as much of a paradigm shift as LLMs coding". His evidence is Grimm, an internal orchestrator at the hedge fund Situational Awareness, for which he consults; the fund holds a large, pub
 
-## 7. [Signal] Axios: Anthropic and OpenAI staff doubt some internal models can be released
+## 7. [Signal] DeepMind researchers model how agent coordination could reshape firms
 
-- Published: Wed, 25 Nov 2026 20:55:16 GMT
-- Link: https://www.axios.com/newsletters/axios-ai-plus-82a3e040-e76f-11f1-86b6-295005731213.html
+- Published: Thu, 26 Nov 2026 19:54:12 GMT
+- Link: https://substack.com/@aleximas/note/c-379587092
 
-Axios reports, citing more than two dozen sources familiar with internal debates, that Anthropic and OpenAI face an increasingly urgent problem: unreleased internal models have become powerful enough that many employees no longer believe they can be safely released. According to the newsletter excer
+Alex Imas, who joined Google DeepMind to build a research programme on the economics of AGI, has released "The Economics of Intelligence" with Andrew Koh and Shane Legg, the first of a planned series. The paper defines economic capability thresholds, including "minimal AGI", by how they transform th
 
-## 8. [Signal] US data centres have announced 115GW of their own gas plants; 4.9GW runs today
+## 8. [Signal] Federal EPA clears Anthropic-backed A$32bn Dalby data centre in two months
 
-- Published: Wed, 25 Nov 2026 20:55:16 GMT
-- Link: https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/
+- Published: Thu, 26 Nov 2026 19:54:12 GMT
+- Link: https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970
 
-Data-centre developers in the US had announced plans for more than 100 behind-the-meter gas power plants by October, with combined planned capacity above 115GW, more than double California's peak demand, according to Cleanview data cited by MIT Technology Review. Almost all were announced since the
+Australia's National Environmental Protection Agency has determined that the proposed Western Downs Digital Park near Dalby, Queensland, needs no further federal environmental assessment, finding it "unlikely to have a significant impact on matters of national environmental significance", the ABC re
